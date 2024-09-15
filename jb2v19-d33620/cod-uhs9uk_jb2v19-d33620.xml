@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="57-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d33620"><!-- l2d9q2 -->
+            <head xml:id="jb2v19-d33620-Hd1e101">Quaestio 2</head>
+            <head xml:id="jb2v19-d33620-Hd1e103" type="question-title">Utrum angeli superiores illuminent  inferiores et contra</head>
+            <p xml:id="jb2v19-d33620-d1e106">
+               <lb ed="#C" n="12"/>CIrca hanc distictionem quaeritur. 2. vtrum angeli
+      <lb ed="#C" n="13"/>superiores illuminent inferiores et contr. 
+      sup<lb ed="#C" n="14" break="no"/>ponatur hoc discrimins inter colloquium 
+      <lb ed="#C" n="15"/>et illuminationem. locutio est de notis 
+      <lb ed="#C" n="16"/>et ignotis. illuminatio est de ignotis. quare illi 
+      <lb ed="#C" n="17"/>duo termini se habent sicut superius et inferius: vel 
+      <lb ed="#C" n="18"/>sicut totum in modo et sua pars. sed de illo nolo 
+      per<lb ed="#C" n="19" break="no"/>cuntari.
+   </p>
+            <p xml:id="jb2v19-d33620-d1e126">
+      ¶ hoc praemisso respondetur conclusiue. 
+      Superio<lb ed="#C" n="20" break="no"/>res angeli inferiores illuminant. Probatur conclusio. 
+      <lb ed="#C" n="21"/>Teccliastica hierarchia est ad exemplum 
+      angelice<lb ed="#C" n="22" break="no"/>hierarchie prout possibile est. sed in eccliastica 
+      hie<lb ed="#C" n="23" break="no"/>rarchia superiores illuminat inferiores. vn apls 
+      <lb ed="#C" n="24"/>ad Ephe. 3. de seipso dicit. michi aut omnum sctorum 
+      <lb ed="#C" n="25"/>minimo data est gratia hec euagelizare in gentibus: 
+      <lb ed="#C" n="26"/>inuestigabiles diuitias gratiae christi: et illuminare 
+      <lb ed="#C" n="27"/>omnes quae sit dispensatio sacramenti absconditi a seculis 
+      <lb ed="#C" n="28"/>in deo. ergo siliter in agelica hierarchia superiores 
+      illu<lb ed="#C" n="29" break="no"/>minant inferiores. Item Dionysius in libro de 
+      ange<lb ed="#C" n="30" break="no"/>lica hierarchia capite quarto. dicit: quod diuinus 
+      ouir<lb ed="#C" n="31" break="no"/>do legaliter statuit per prina secunda in deum 
+      reduci<lb ed="#C" n="32" break="no"/>sed secundum ipsum hec reductio est per illuminationem ergo 
+      <lb ed="#C" n="33"/>angeli inferiores quos dionysius secundos vocat 
+      <lb ed="#C" n="34"/>illuminatur a prmis.
+   </p>
+            <p xml:id="jb2v19-d33620-d1e161">
+      ¶ Secunda conclusio Supiores 
+      <lb ed="#C" n="35"/>angeli non illuminantur ab inferioribus probat per 
+      dyo<lb ed="#C" n="36" break="no"/>nisium de agelica hierarchia captuso quitodecio 
+      di<lb ed="#C" n="37" break="no"/>centem: quod si superiores regerentur ab inferioribus esset 
+      <lb ed="#C" n="38"/>confusio. Et magister distinctione praesenti dicit: quod omnia 
+      <lb ed="#C" n="39"/>dona gratiarum superiores ordines sublimius et perfectius 
+      <lb ed="#C" n="40"/>perceperunt. ergo cum omnis noticia secretorum dei ad donum 
+      <lb ed="#C" n="41"/>gratie partinere videatur: nulla noticia secretorum dei 
+      <lb ed="#C" n="42"/>est in angelis inferioribus quae non sit in superioribus et sic 
+      <lb ed="#C" n="43"/>superiores ab inferioribus non illuminatur.
+   </p>
+            <p xml:id="jb2v19-d33620-d1e184">
+      ¶ 
+      Con<lb ed="#C" n="44" break="no"/>tra priorem conclusionem arguitur per gregorium 2. 
+      mo<lb ed="#C" n="45" break="no"/>ralum. parum post principium de agelis sanctis loquens / sic 
+      <lb ed="#C" n="46"/>ait: quid de his quae scienda sunt nesciunt: quae scientem omnia / 
+      <lb ed="#C" n="47"/>sciunt. sed qui omnia scit a nullo potest illuminari. quia qui 
+      illu<lb ed="#C" n="48" break="no"/>natur instruitur de aliquo quod nesciebat. ergo nullus 
+      <lb ed="#C" n="49"/>angelus potest ab alio illuminari.
+   </p>
+            <p xml:id="jb2v19-d33620-d1e200">
+      ¶ Preterea. 
+      Ma<lb ed="#C" n="50" break="no"/>thei. xxii. christs de electis homimbus loquens dicit: quod i 
+      <lb ed="#C" n="51"/>resurrectione neque nubent neque nubentur: sed erunt 
+      <lb ed="#C" n="52"/>sicut angeli dei in celo. sed tunc vnus homo alium non 
+      il<lb ed="#C" n="53" break="no"/>luminabit Iuxta illud hieremie. xxxi. non 
+      doci<lb ed="#C" n="54" break="no"/>bit vltra vir proximum suum. ergo videt quod nec modo vnus 
+      <lb ed="#C" n="55"/>angelus illuminabitur ab alio.
+   </p>
+            <p xml:id="jb2v19-d33620-d1e216">
+      ¶ Ad primum dicitur quod 
+      il<lb ed="#C" n="56" break="no"/>la auctoritas grego. intelligitur de his que scienda 
+      <lb ed="#C" n="57"/>sunt ab his ex debito: non quod sciant omnia scibilia sicut 
+      <lb ed="#C" n="58"/>immediate post subiungit quod eorum scientia 
+      compa<lb ed="#C" n="59" break="no"/>ratione nostre valde dilatata est. sed tamen compara 
+      <lb ed="#C" n="60"/>tione diune sciente angusta
+   </p>
+            <p xml:id="jb2v19-d33620-d1e229">
+      ¶ Ad aliud dicitur quod illa au¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>ctoritas hicremie intelligitur de cognitione diuine 
+      <lb ed="#C" n="62"/>essentie secundum se. quod patet ex verbis sequentibus non 
+      <lb ed="#C" n="63"/>docebit vir proximum suum: subiungitur: et vir frem suum 
+      <lb ed="#C" n="64"/>dicens: cognoscite dominum omnes eni cognoscent me a 
+      <lb ed="#C" n="65"/>minimo eorum vsque ad maximum dicit dominus. angelus 
+      <lb ed="#C" n="66"/>autem superior inferiorem non illuminat quantum ad 
+      di<lb ed="#C" n="67" break="no"/>uine essentie cognitionem. quia eam omnes immediate vi 
+      i<lb ed="#C" n="68" break="no"/>dent et clare: quamuis vnus alio clarius. Et si vltra 
+      <lb ed="#C" n="69"/>arguas quod vnus homo btus post iudicium nichil alii 
+      re<lb ed="#C" n="70" break="no"/>uelabit reuelatione quae illuminatio dici possit. I 
+      <lb ed="#C" n="71"/>etiam bene concedo quod nec et id vnus agelus alii 
+      po<lb ed="#C" n="72" break="no"/>iudicium.
+   </p>
+            <p xml:id="jb2v19-d33620-d1e260">
+      ¶ Contra secundam conclusionem arguitur sic: 
+      il<lb ed="#C" n="73" break="no"/>luminatio est veritatis manifestatio prius 
+      incogni<lb ed="#C" n="74" break="no"/>te. sed inferiores ageli locantur cum supioribus eis manife 
+      <lb ed="#C" n="75"/>stant veritatem de ali quibus occultis: vt puta de 
+      con<lb ed="#C" n="76" break="no"/>ceptibus et de aliis que in remotis partibus fiunt. 
+   </p>
+            <p xml:id="jb2v19-d33620-d1e271">
+               <lb ed="#C" n="77"/>¶ Insuper: ecclinastica hierarchia est ad 
+      exemplar<lb ed="#C" n="78" break="no"/>angelice. vnde bernardus. 3 de considera. non 
+      mul<lb ed="#C" n="79" break="no"/>tum ante finem loquens de ecclinastica 
+      hierarchia<lb ed="#C" n="80" break="no"/>dicit quod exemplar habet in celo. sed in ecclinastica hie 
+      <lb ed="#C" n="81"/>rarchia inferiores quandoque illuminant superiores: vt 
+      do<lb ed="#C" n="82" break="no"/>ctores episcopos. ergo a simili ita est in celesti hierar: 
+      <lb ed="#C" n="83"/>chia. Amplius super illud ad ephesios. 3. vt 
+      inno<lb ed="#C" n="84" break="no"/>tescat principibus et potestatibus: dicit glosa hiero 
+      <lb ed="#C" n="85"/>nimi. angelicas dignitates supra memoratum my 
+      <lb ed="#C" n="86"/>sterium si sanctus redemptions nostre ad purum non intellexisse 
+      do<lb ed="#C" n="87" break="no"/>nec completa est passio christi et apostolorum praedicatio 
+      <lb ed="#C" n="88"/>gentes dilatata. Si ergo homines qui sunt inferiores 
+      <lb ed="#C" n="89"/>angelis angelos illuminauerunt de mysterio nostre 
+      <lb ed="#C" n="90"/>redemptionis: videtur similiter quod angeli inferiores 
+      pos<lb ed="#C" n="91" break="no"/>sint illuminare superiores.
+   </p>
+            <p xml:id="jb2v19-d33620-d1e307">
+      ¶ Ad primum respondetur quod non 
+      <lb ed="#C" n="92"/>quelibet manifestatio veritatis incognite dicitur 
+      illu<lb ed="#C" n="93" break="no"/>minatio: sed illa quae a deo capitur vt aliis significe 
+      <lb ed="#C" n="94"/>tur.
+   </p>
+            <p xml:id="jb2v19-d33620-d1e316">
+      ¶ Ad aliud dicitur quod non est simile de ecclinastic 
+      <lb ed="#C" n="95"/>hierarchia et angelica. quia in ecclinastica aliquando sunt 
+      <lb ed="#C" n="96"/>aliqui in prtate superiores qui non sunt aliquibus suis 
+      infe<lb ed="#C" n="97" break="no"/>rioribus sanctiores: nec in scientia clariores / sed plerumc 
+      <lb ed="#C" n="98"/>econuerso est propterea illuminatur ab inferioribus 
+      <lb ed="#C" n="99"/>vel lumen ab eis accipere interdum recusant. In an 
+      <lb ed="#C" n="100"/>gelica hierarchia omnes illi qui sunt superiores sunt 
+      sa<lb ed="#C" n="101" break="no"/>pientiores et intellectu clariores quam inferiores: et lbet 
+      <lb ed="#C" n="102"/>ideo ab illis non illuminantur.
+   </p>
+            <p xml:id="jb2v19-d33620-d1e336">
+      ¶ Ad tertium est 
+      diffi<lb ed="#C" n="103" break="no"/>cultas. quia videtur quod aliqui angeli mysterium 
+      incarna<lb ed="#C" n="104" break="no"/>tionis ignorauerunt. vnde esaye. lxiii. quis est iste qui 
+      ve<lb ed="#C" n="105" break="no"/>nit de edon tinctis vestibus de bosram. dicit glosa quae 
+      <lb ed="#C" n="106"/>propheta loquitur in persona agelorum mysterium 
+      incar<lb ed="#C" n="107" break="no"/>nationis ignoratium. et ion quarentium. cui consonat illud 
+      <lb ed="#C" n="108"/>prime ad thimotheum. 3. magnum pietatis 
+      sacramen<lb ed="#C" n="109" break="no"/>tum quod manifestatum est in carne: institutum in 
+      spiritu<lb ed="#C" n="110" break="no"/>apparuit angelis: praedicatum est gentibus: creditum est 
+      <lb ed="#C" n="111"/>mundo: assumptum est in glina. glosa. Qui prius 
+      vi<lb ed="#C" n="112" break="no"/>sus humilis deuicta morte in maiestate apparuit: 
+      <lb ed="#C" n="113"/>vt agnoscentes angeli mysterium quod prius latuit 
+      decla<lb ed="#C" n="114" break="no"/>ratum in carne genu illi flectentes quasi deo gratias 
+      <lb ed="#C" n="115"/>agant: quia didicerunt veritatem.
+   </p>
+            <p xml:id="jb2v19-d33620-d1e367">
+      ¶ Respondetur nesciebant a 
+      <lb ed="#C" n="116"/>principio mysterium incarnationis in speciali: bene 
+      <lb ed="#C" n="117"/>autem in geneali. et sic intelligatur Augustinus 
+      quu<lb ed="#C" n="118" break="no"/>super Genesi ad litteram: dicens: quod angesi a principio 
+      <lb ed="#C" n="119"/>cognouerunt omnia mysteria grae fienda. nec istud 
+      ar<lb ed="#C" n="120" break="no"/>gumentum est directe ad propositum. quia de omnibus agelis
+      <pb ed="#V" n="57-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>veritatem habet vt dionysius dicit septiuno capitulo 
+      ce<lb ed="#C" n="2" break="no"/>lestis hierarchie. Congruum erat quod apostoli aliqua hauri 
+      <lb ed="#C" n="3"/>rent a christo tempore sue pegrinationis in terra 
+      <lb ed="#C" n="4"/>que patriarchas et angelos latebant.
+   </p>
+            <p xml:id="jb2v19-d33620-d1e393">
+      ¶ Sed 
+      con<lb ed="#C" n="5" break="no"/>tra. demones sciebant. ergo et angeli bti consequentia 
+      <lb ed="#C" n="6"/>est lucida. et assumptum Arguitur sic per illud marci. 1 
+      <lb ed="#C" n="7"/>Quid nobis et tibi iesu nazarene venisti ante 
+      tem<lb ed="#C" n="8" break="no"/>pus perdere nos. scio quod sis sanctus dei. et quinto eiusd 
+      <lb ed="#C" n="9"/>Quid michi et tibi iesu fili dei altissimi. Siliter 
+      ha<lb ed="#C" n="10" break="no"/>betur luce. 8
+   </p>
+            <p xml:id="jb2v19-d33620-d1e409">
+      ¶ Respondetur magnam perbabilitatem ad 
+      <lb ed="#C" n="11"/>hoc habebant: sed non certitudinem scictie habebat. 
+      <lb ed="#C" n="12"/>secundum illud prime corinthi 2 si enim cognouissent nunquam 
+      <lb ed="#C" n="13"/>dominum glie crucifixissent. Ubi glosa hoc de 
+      demo<lb ed="#C" n="14" break="no"/>nibus exponit: nunquam christum crucifixi 
+      suggessis<lb ed="#C" n="15" break="no"/>sent. Et istud probatur per temptamen quod diabolus 
+      chri<lb ed="#C" n="16" break="no"/>sto obtulit Mathei. 4. vbi ad vtramque partem 
+      argu<lb ed="#C" n="17" break="no"/>mentum habebat demon. ad partem negatiuam eum 
+      fie<lb ed="#C" n="18" break="no"/>ctebat humilitas christi. Pro parte affirmatiua 
+      ha<lb ed="#C" n="19" break="no"/>bebat scripturas et multa alia. et hoc tangitur in 
+      glo<lb ed="#C" n="20" break="no"/>sa marginali prime corinthi. 2 quae sic dicit quod non ideo 
+      <lb ed="#C" n="21"/>dicebat vt esse deum intelligeret. sed dubius erat et 
+      <lb ed="#C" n="22"/>taliter extorquaere veritatem vtrum vere esse deus 
+      vo<lb ed="#C" n="23" break="no"/>lebat vel hoc magis ex suspitione quam ex cognitio 
+      <lb ed="#C" n="24"/>ne dixisse credendi sunt. Non enim aliter scirent 
+      demo<lb ed="#C" n="25" break="no"/>nes quam scierunt principes. Scierunt enim ipsum esse qui 
+      <lb ed="#C" n="26"/>promissus erat in lege: non tamen mysterium eius quam 
+      fi<lb ed="#C" n="27" break="no"/>lius dei erat / et ab eterno. neque sciebat sacramen 
+      <lb ed="#C" n="28"/>tum incarnationis passionis et redemptionis. 
+   </p>
+            <p xml:id="jb2v19-d33620-d1e452">
+               <lb ed="#C" n="29"/>¶ Dubitatur qui sunt actus hierarchici. Respondetur secundum 
+      <lb ed="#C" n="30"/>beatu dionysium cap. 3. de celesti hierarchia: tres 
+      <lb ed="#C" n="31"/>sunt actus quos habet superiores angeli 
+      respectu<lb ed="#C" n="32" break="no"/>inferiorum: scilicet illuminare / purgare / et perficere / qui 
+      <lb ed="#C" n="33"/>dicuntu actus hierarchici. quia coueniunt superioribus hie 
+      <lb ed="#C" n="34"/>rarchiis respectu inferiorum. qui actus realiter / non 
+      <lb ed="#C" n="35"/>distinguuntur consistunt enim in inductione diuine 
+      scien<lb ed="#C" n="36" break="no"/>tie qua inferior caruit: in qua inductione quia 
+      remo<lb ed="#C" n="37" break="no"/>uetur ignorantia pure negationis dicitur purgatio: eadem 
+      <lb ed="#C" n="38"/>noticia respectu intellectus dicitur illuminatio 
+      acti<lb ed="#C" n="39" break="no"/>ua: quia manifestat prius ignotum. modo omne quod 
+      ma<lb ed="#C" n="40" break="no"/>nifestat / lumen dicitur: secundum apostolum ad ephesios 
+      quin<lb ed="#C" n="41" break="no"/>to. et quia notioia illa intellectus perficitur dicitur perfectio. 
+      <lb ed="#C" n="42"/>quo fit dicitur illuminatio in ordine ad formam: 
+      perfe<lb ed="#C" n="43" break="no"/>ctio in ordine ad subiectum: purgatio in ordine ad 
+      <lb ed="#C" n="44"/>oppositum. et hec de questione. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

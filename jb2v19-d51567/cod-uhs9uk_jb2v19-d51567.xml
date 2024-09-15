@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 14</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 14</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="86-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d51567"><!-- l2d14q14 -->
+            <head xml:id="jb2v19-d51567-Hd1e101">Quaestio 14</head>
+            <head xml:id="jb2v19-d51567-Hd1e103" type="question-title">Quid causae est ut mare fluat et refluat bis in die naturali vel prope diem naturalem</head>
+            <p xml:id="jb2v19-d51567-d1e106">
+               <lb ed="#C" n="120"/>¶ Questio. xiiii.
+      <pb ed="#V" n="87-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>QUartodecimo de mari 
+      loquen<lb ed="#C" n="2" break="no"/>do quaeritur: quid cause est vt mare 
+      <lb ed="#C" n="3"/>fluat et refluat bis in die 
+      na<lb ed="#C" n="4" break="no"/>turali vel prope diem 
+      natu<lb ed="#C" n="5" break="no"/>ralem. Dico prope vel fere. 
+      <lb ed="#C" n="6"/>quia cum luna circuit terram 
+      <lb ed="#C" n="7"/>Na vncto ouentis ad occiden. 
+      <lb ed="#C" n="8"/>tem quousque redeat: plus tem 
+      <lb ed="#C" n="9"/>pus quam dies naturalis consumitur. hoc tempus est 
+      <lb ed="#C" n="10"/>longius quam dies naturalis intantum quantum est ortus 
+      <lb ed="#C" n="11"/>arcus descripti per lunam contra primum 
+      mobi<lb ed="#C" n="12" break="no"/>le motu proprio. et hoc plusquam sol. Cuna ab ortur 
+      <lb ed="#C" n="13"/>eius vsque ad eius iteratum ortum consumit plus 
+      <lb ed="#C" n="14"/>temporis quam sit dies naturalis habens 
+      viginti<lb ed="#C" n="15" break="no"/>quattuor horas per spacium temporis in quo 
+      o<lb ed="#C" n="16" break="no"/>riuntur tredecim gradus equinoctiales. 
+      Eleua<lb ed="#C" n="17" break="no"/>tio. 15. graduum equinoctionalis facit vnam 
+      ho<lb ed="#C" n="18" break="no"/>ram. ideo referunt lunam circuitum facere in 25. 
+      <lb ed="#C" n="19"/>horis. demptis duobus gradibus. et tumor 
+      aque<lb ed="#C" n="20" break="no"/>in totidem horis circuit totum oceanum. 
+   </p>
+            <p xml:id="jb2v19-d51567-d1e158">
+               <lb ed="#C" n="21"/>¶ Respondetur ad questionem / primo ponendo 
+      <lb ed="#C" n="22"/>aliqua de mari. Secundo respondendo 
+      conclu<lb ed="#C" n="23" break="no"/>siue ad quesitum. Pro primi expeditione scito: 
+      <lb ed="#C" n="24"/>quelibet congregatio aquarum dicitur mare. 
+      pa<lb ed="#C" n="25" break="no"/>tet per scripturam / Genesis primo. Et vocauit 
+      <lb ed="#C" n="26"/>deus aridam terram congregationesque aquarum 
+      <lb ed="#C" n="27"/>appellauit maria. inc lacus in iudea vocantur 
+      <lb ed="#C" n="28"/>maria: vt mare Thiberiades. respectu quorum 
+      <lb ed="#C" n="29"/>scriptura sancta vocat mare Mediterraneum 
+      ma<lb ed="#C" n="30" break="no"/>re magnum. quia est iudee ad occidentem: et 
+      expe<lb ed="#C" n="31" break="no"/>dit in magnitudine omnes lacus et flumina que 
+      <lb ed="#C" n="32"/>habent hebrei. Mare oceanum est ab eis 
+      remo<lb ed="#C" n="33" break="no"/>tum. nec eis patuit excessus nauigio ad mare 
+      oce<lb ed="#C" n="34" break="no"/>anum nisi per mare mediterraneum. non sic 
+      ca<lb ed="#C" n="35" break="no"/>pimus in communi sermone mare. sermones se 
+      <lb ed="#C" n="36"/>cundum materiam subiectam sunt capiendi. 
+   </p>
+            <p xml:id="jb2v19-d51567-d1e195">
+               <lb ed="#C" n="37"/>¶ Triplex est mare. quoddam Hircanum siue 
+      <lb ed="#C" n="38"/>Caspium: a patriis vicinis denominatum in 
+      asta<lb ed="#C" n="39" break="no"/>ab oceano segregatum: productum est ab 
+      ocea<lb ed="#C" n="40" break="no"/>non scithico per meatus subterraneos: et cum 
+      flu<lb ed="#C" n="41" break="no"/>minibus in ipsum cadentibus: vel prout aliis 
+      au<lb ed="#C" n="42" break="no"/>gurari libet a solis fluminibus (esto quod sit magnum) 
+      <lb ed="#C" n="43"/>procreatur. tot flumina a monte illo Asiam ad 
+      <lb ed="#C" n="44"/>longum secante: qui in aliquibus locis caucasus 
+      <lb ed="#C" n="45"/>in aliis taurus: in pluribus imaus vocatur. 
+      ca<lb ed="#C" n="46" break="no"/>dunt a meridie: et a montibus yperboreis a 
+      se<lb ed="#C" n="47" break="no"/>ptemtrione in magnam et iman planiciem in confinio 
+      <lb ed="#C" n="48"/>hircanie et caspie vt magnum mare reddant. 
+      Se<lb ed="#C" n="49" break="no"/>cundum mare est oceanus: dictus / quia ocissime 
+      <lb ed="#C" n="50"/>terram aluit: aquarum mater: totam terram 
+      cir<lb ed="#C" n="51" break="no"/>cuit. non est mare iudicum ab oceano separatum 
+      <lb ed="#C" n="52"/>sicut Ptholomeo visum est. Plinius libro 
+      se<lb ed="#C" n="53" break="no"/>cundo variis experimentis oppositum docet. et 
+      <lb ed="#C" n="54"/>Uespusius Emericus et Lusitani a viginti 
+      an<lb ed="#C" n="55" break="no"/>nis hoc magna nauium classe didicerunt. istud 
+      <lb ed="#C" n="56"/>mare a terris quas alluit vrbibus et effectibus 
+      <lb ed="#C" n="57"/>in eo commissis denominationem capit. sicut 
+      ter<lb ed="#C" n="58" break="no"/>ra ipsa in variis eius portionibus a variis 
+      gen<lb ed="#C" n="59" break="no"/>tibus varias denominationes vsurpat vt scithi 
+      <lb ed="#C" n="60"/>cum / iudicum / germanicum / gallicum / brit anni
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>cum. Tertium est mare mediterraneum. non dictum 
+      conuer<lb ed="#C" n="62" break="no"/>tibiliter quod mediat inter terras. sic brachium maris 
+      sco<lb ed="#C" n="63" break="no"/>tiam in variis locis segregans demret dici mare 
+      medi<lb ed="#C" n="64" break="no"/>terraneum: contra modum loquendi cosmographorum. 
+      so<lb ed="#C" n="65" break="no"/>lum vnum mare vocatur meditarraneum: quod Euro 
+      <lb ed="#C" n="66"/>pam ab Affrica seiungat et in Meotide 
+      palude<lb ed="#C" n="67" break="no"/>terminatur. potest tamen dici quod es meditrraneum eo quod teram 
+      me<lb ed="#C" n="68" break="no"/>ditulio aluit. Affricam et europam partitur quae sunt due 
+      or<lb ed="#C" n="69" break="no"/>bis partes. pari fora asiam in parte circumlambit. tramen a 
+      prin<lb ed="#C" n="70" break="no"/>cipio rapit inter affricam et europam. et argumentum est. 
+      <lb ed="#C" n="71"/>apud miltos atiqus orbis biptitus est in Asia et 
+      europan<lb ed="#C" n="72" break="no"/>ita quod sicut Asia ad occidentem habet terminum tanaym 
+      flu<lb ed="#C" n="73" break="no"/>men maris meditrranei partem a septentrione ad meridiem 
+      <lb ed="#C" n="74"/>protensam. et nilum ad ostium canopi. in aliis partibus 
+      ocea<lb ed="#C" n="75" break="no"/>num habet pi nctus scithicum orientalem et iudicum. reliqui 
+      continen<lb ed="#C" n="76" break="no"/>tis pars est Europa. et tamen iam a multis annis 
+      <lb ed="#C" n="77"/>hec Europa in aqua est per ingressum maris in 
+      <lb ed="#C" n="78"/>binas partes diuisa: quarum illa que ad meridiem 
+      <lb ed="#C" n="79"/>tendit / Affrica / et alia ad septentrionem / Europa 
+      di<lb ed="#C" n="80" break="no"/>citur. / in principio ingressus inter abilam in affrica et 
+      <lb ed="#C" n="81"/>calpen in Europa montes binos qui apud aliquis 
+      <lb ed="#C" n="82"/>columne herculis denominantur. licet Hercules 
+      <lb ed="#C" n="83"/>posuit illic in littore maris columpnas ereas quaerum 
+      <lb ed="#C" n="84"/>vna in diebus commentatoris videbatur: vt patet in 
+      fi<lb ed="#C" n="85" break="no"/>ne secundi de celo / siue iste columpne eree siue montes 
+      <lb ed="#C" n="86"/>(cum sint propinque) dicantur columpne herculis: 
+      pa<lb ed="#C" n="87" break="no"/>rum refert. fretum herculeum non tenet vltra. 10. 
+      <lb ed="#C" n="88"/>mille passus. Postea descendendo secundum loca 
+      ma<lb ed="#C" n="89" break="no"/>ritima communiter capit nomen: vt yspanicum balea 
+      <lb ed="#C" n="90"/>ricum ab insulis balearibus. gallicum / ligusticum / 
+      sicu<lb ed="#C" n="91" break="no"/>lum adriaticum ab adria vrbe. et sinum adriaticum ad 
+      ve<lb ed="#C" n="92" break="no"/>netias protendit. Ionicum carpatum a carpato 
+      in<lb ed="#C" n="93" break="no"/>sula inter rodum Asie insulam et egiptum in 
+      se<lb ed="#C" n="94" break="no"/>prtentrionem se flectit. vbi mare egeum: in quo est 
+      <lb ed="#C" n="95"/>Thios insula vna cicladum. Ciclades sunt 
+      mul<lb ed="#C" n="96" break="no"/>te insule in egeo vel mircoo mari in circuitu 
+      deli<lb ed="#C" n="97" break="no"/>posite. vt andros / styros / tenos. etc. propontis et 
+      <lb ed="#C" n="98"/>pontus exinus. et interpretatur bonum hospicium / 
+      <lb ed="#C" n="99"/>contrarium: iuxta illud Quidii. quem tenet 
+      exi<lb ed="#C" n="100" break="no"/>ni mendax cognomine pontus. Alio nomine 
+      vo<lb ed="#C" n="101" break="no"/>catur pontus pars maris iuxta bizantium. et 
+      demun<lb ed="#C" n="102" break="no"/>meotis palus in qua fluit tanays et inequalis 
+      la<lb ed="#C" n="103" break="no"/>titudinis: est hoc mare. non solum in principio: sed 
+      <lb ed="#C" n="104"/>in fine vt patet in tribus magnis angustiis eius 
+      petem<lb ed="#C" n="105" break="no"/>do septentrionem. Primus locus angustus est helle 
+      <lb ed="#C" n="106"/>spontus: ab helle muliere quae in illam cecidit. 
+      Uo<lb ed="#C" n="107" break="no"/>catur a recentoribus nostris brachium sancti Georgii. 
+      <lb ed="#C" n="108"/>solum septem stadia tenet in latum vbi xerses 
+      po<lb ed="#C" n="109" break="no"/>te super naues facto totum exercitum de Asia in 
+      <lb ed="#C" n="110"/>Europam traiecit. illic est abidus in Asia cui 
+      se<lb ed="#C" n="111" break="no"/>scos vrbs in Europa respondet. Postea est 
+      os<lb ed="#C" n="112" break="no"/>phorus tratius tracie respondens: et vltima 
+      an<lb ed="#C" n="113" break="no"/>gustia bosphorus timeamus prope scithas. De 
+      quae<lb ed="#C" n="114" break="no"/>Lucanus ait sic. stat inhers scithicas asiringens 
+      <lb ed="#C" n="115"/>bosphorus vndas. quare in vno loco in 
+      angustiam<lb ed="#C" n="116" break="no"/>contrahitur: et in alio expanditur: est maior 
+      ter<lb ed="#C" n="117" break="no"/>re vel minor resistentia. Eodem modo idem mare potest 
+      <lb ed="#C" n="118"/>denomninari a locis maritimis affrice et asie ei finitis 
+      <lb ed="#C" n="119"/>ratione altius partis maris. vt mauritanicum tinganense mauri 
+      <lb ed="#C" n="120"/>tanicum cesariense: numidicum. dixi a terra siue sit
+      <pb ed="#V" n="87-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>in continenti siue insula: vt tiricum / sidonicum / 
+      <lb ed="#C" n="2"/>corinthicum. interdum denominatur a memoria 
+      <lb ed="#C" n="3"/>ducis / vt ionicum vel a casu accidente. et hoc est 
+      <lb ed="#C" n="4"/>etiam in memoriam vt diximus helespotum icareum 
+      <lb ed="#C" n="5"/>mirtoum istmos vel peiumfula inter duo freta 
+      contom<lb ed="#C" n="6" break="no"/>ta. quemadmodum est peloponessus siue morea 
+      inter<lb ed="#C" n="7" break="no"/>mare ionicum et egeum contenta.
+   </p>
+            <p xml:id="jb2v19-d51567-d1e402">
+      ¶ Ulterius 
+      consi<lb ed="#C" n="8" break="no"/>derabis: multiplex est maris motus: potissimum 
+      <lb ed="#C" n="9"/>triplex: scilicet venti agitatione. a septentrione ad 
+      me<lb ed="#C" n="10" break="no"/>ridiem dicunt tres motus fluxus et refluxus. 
+      circa<lb ed="#C" n="11" break="no"/>duos primos motus ponam conclusiones. Postea 
+      cir<lb ed="#C" n="12" break="no"/>ca tertium aliqua recitabo et dicam sicut sentio. 
+   </p>
+            <p xml:id="jb2v19-d51567-d1e415">
+               <lb ed="#C" n="13"/>¶ Sit omnium dicendorum hec prima conclusio. mare 
+      <lb ed="#C" n="14"/>L. sicut quelibet aqua mouetur ad quamcumque differentiam 
+      <lb ed="#C" n="15"/>positionis. patet. a quacumque differentia positionis potest 
+      <lb ed="#C" n="16"/>prouenire ventus aquam maris vel alia mouens. igitur 
+      <lb ed="#C" n="17"/>hinc multe maxime naues non inuenientes propici 
+      <lb ed="#C" n="18"/>um receptaculum in mari pereunt: et animalia mari vi 
+      <lb ed="#C" n="19"/>cina cum variis locis inopeienate per vehementes 
+      ven<lb ed="#C" n="20" break="no"/>tos mare leuantes. ita quod sit particulare diluuium. 
+      inter<lb ed="#C" n="21" break="no"/>dum venti scilicet oppositi: vt de borea et austro. et 
+      <lb ed="#C" n="22"/>tunc mare insanit. et naues pessum eunt et si 
+      nau<lb ed="#C" n="23" break="no"/>clerus non esset peritus: per nubium commotionem futurum 
+      ven<lb ed="#C" n="24" break="no"/>tum praeuidens et deponendo vela: creberrime 
+      suc<lb ed="#C" n="25" break="no"/>cumberent. et non mo tempore venti: sed diu post ventum: 
+      <lb ed="#C" n="26"/>mare hinc inde vento agitatum vento consumpto 
+      <lb ed="#C" n="27"/>concutitur et feruet vt docet experientia. et causa est 
+      pro<lb ed="#C" n="28" break="no"/>pter impetum in mari tantum. sicut sagitta mouetur 
+      <lb ed="#C" n="29"/>post discessum ab arcu: et grossus lapis a 
+      tormen<lb ed="#C" n="30" break="no"/>to eneo.
+   </p>
+            <p xml:id="jb2v19-d51567-d1e457">
+      ¶ Secunda conclusio. omni vento 
+      seclu<lb ed="#C" n="31" break="no"/>so mare mouetur a septentrione ad meridiem. hoc patet ex 
+      <lb ed="#C" n="32"/>perientia vt dicit Conterraneus: nauigando de 
+      sco<lb ed="#C" n="33" break="no"/>tia in northmandiam / et de hybernia in hyspaniam. 
+      <lb ed="#C" n="34"/>sed vt opinor mouetur etiam a meridie ad septentrio 
+      <lb ed="#C" n="35"/>nem. vt ratione audita: cum honc negaturum arbitror. sed vnum 
+      <lb ed="#C" n="36"/>experimur. Aliud ratione concludi potest. probatur hec 
+      con<lb ed="#C" n="37" break="no"/>clusio quo ad vtrumque motum. quod mare moueatur a 
+      se<lb ed="#C" n="38" break="no"/>prtentrione ad meridiem: ratio est: quia a loco eminentio 
+      <lb ed="#C" n="39"/>re ad locum decliuiorem mouetur. sub polo artico est 
+      <lb ed="#C" n="40"/>magnum frigus. multe aque dulces mare 
+      ingre<lb ed="#C" n="41" break="no"/>diuntur. et non consumuntur sub polo ab 
+      ardo<lb ed="#C" n="42" break="no"/>re solis. ergo illic multam aeris in aquam 
+      con<lb ed="#C" n="43" break="no"/>uertitur. et per consequens aqua sub polo est altior quam 
+      remo<lb ed="#C" n="44" break="no"/>te ab polo. ergo illa aqua ad meridiem fluit: sed 
+      <lb ed="#C" n="45"/>eadem est ratio quod a meridie ad septemtrionem 
+      <lb ed="#C" n="46"/>fluat. ergo etiam fluit ad septentrionem. et ita 
+      opi<lb ed="#C" n="47" break="no"/>nor: scllicet: quod mare septentrionale fluit 
+      equato<lb ed="#C" n="48" break="no"/>rem versus: et mare meridionale opposito modo 
+      <lb ed="#C" n="49"/>sol vbi maximum radium habet consumptiuum 
+      <lb ed="#C" n="50"/>aque siue sub equatore siue citra vel vltra: illic 
+      a<lb ed="#C" n="51" break="no"/>qua est maxime decliuis. ad locum illum ergo cur. 
+      <lb ed="#C" n="52"/>rit mare. nec inconuenit mare fluere ad 
+      differen<lb ed="#C" n="53" break="no"/>tias oppositas secundum varias partes. et licet sol potest 
+      <lb ed="#C" n="54"/>aquam rarefacere et facere eam ad locum 
+      remo<lb ed="#C" n="55" break="no"/>tum fluere: naturaliter tamen de fancto 
+      consumptio<lb ed="#C" n="56" break="no"/>aque prope viam solis et causa dicta in 
+      probatio<lb ed="#C" n="57" break="no"/>ne conclusionis plus facit ad leuationem aque quam 
+      <lb ed="#C" n="58"/>rarefactio: vt per experientiam patet non 
+      impe<lb ed="#C" n="59" break="no"/>ditur conclusio. et si per calefactionem rarefiat aqua 
+      <lb ed="#C" n="60"/>sic quod plus leuatur in vno loco sub equatorem quam sub¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>alio loco remotiori. ad locum decliuiorem ruit 
+      <lb ed="#C" n="62"/>aqua superior.
+   </p>
+            <p xml:id="jb2v19-d51567-d1e531">
+      ¶ Sed de fluxu et refluxu maris 
+      <lb ed="#C" n="63"/>oceani bis in die naturali est maior difficultas. 
+      <lb ed="#C" n="64"/>supponatur vnum quod solum mare oceanum sic fuit 
+      <lb ed="#C" n="65"/>parum vel nihil hoc motu mouetur 
+      mediterra<lb ed="#C" n="66" break="no"/>neum. quod potest esse propter fluxum et refluxum 
+      <lb ed="#C" n="67"/>oceani ingredientis ad strictum scylle ad aliqua 
+      <lb ed="#C" n="68"/>lem distantiam in mari mediterraneo. oportet 
+      dice<lb ed="#C" n="69" break="no"/>re in stricto scylle fluxus et refluxus est maior 
+      ra<lb ed="#C" n="70" break="no"/>tio. in principio illius angustie est limes oceani. 
+      <lb ed="#C" n="71"/>ergo illic est verus fluxus et refluxus. sed tandem 
+      <lb ed="#C" n="72"/>est status. dicunt aliqui quanto mare est 
+      oceano<lb ed="#C" n="73" break="no"/>propinquius tanto magis mouetur. patet 
+      na<lb ed="#C" n="74" break="no"/>uigando de scotia in normandiam. sed illud 
+      ma<lb ed="#C" n="75" break="no"/>re realiter est pars oceani. britannia realiter 
+      an<lb ed="#C" n="76" break="no"/>gliam et scotia continens est insula ab omni alia 
+      di<lb ed="#C" n="77" break="no"/>uisa existente in marioceano.
+   </p>
+            <p xml:id="jb2v19-d51567-d1e566">
+      ¶ Circa hoc aliquas 
+      <lb ed="#C" n="78"/>recitabo positiones: postea dicturus secundum 
+      vi<lb ed="#C" n="79" break="no"/>am quam reor apparentiorem. dicit vna via 
+      <lb ed="#C" n="80"/>in mari est gulphus in quem vndique fluit mare 
+      <lb ed="#C" n="81"/>qui cum plenus fuerit aquam repellit. et iterum 
+      <lb ed="#C" n="82"/>illa aqua in gulphos refluit. sicut est de Caribde 
+      <lb ed="#C" n="83"/>inter Calabriam et Triquetem. de qua Quidius. 
+      <lb ed="#C" n="84"/>hic vomit epotas dira Caribdis aquas. Aliud 
+      <lb ed="#C" n="85"/>est periculum ei vicinum secundum diuerbium commune. 
+      Inci<lb ed="#C" n="86" break="no"/>dit in scyllam cupiens vitare caribdim. Isti non 
+      pos<lb ed="#C" n="87" break="no"/>sunt dare rationem quare gulphi mouentur 
+      or<lb ed="#C" n="88" break="no"/>dinate secundum motum ipsius lune.
+   </p>
+            <p xml:id="jb2v19-d51567-d1e592">
+      ¶ Insuper. Multa 
+      <lb ed="#C" n="89"/>Maria sunt nauigabilia: in quibus nauigantes 
+      <lb ed="#C" n="90"/>non inueniunt gulphos. et tamen talia maria 
+      flu<lb ed="#C" n="91" break="no"/>unt et refluunt vt dicunt. Gulphus nichil 
+      aliu<lb ed="#C" n="92" break="no"/>est quam concursus duarum aquarum impetuose 
+      con<lb ed="#C" n="93" break="no"/>tra se motarum: vt in vasto gurgite fluminis 
+      cer<lb ed="#C" n="94" break="no"/>nere licet: vbi giratiue mouetur flumen. ita quod si 
+      <lb ed="#C" n="95"/>nauis gulphum ingrediatur egerrime egreditur 
+      <lb ed="#C" n="96"/>propter aquas oppositas circulariter motas. 
+   </p>
+            <p xml:id="jb2v19-d51567-d1e613">
+               <lb ed="#C" n="97"/>¶ Secunda via est Roberti Linconiensis in 
+      li<lb ed="#C" n="98" break="no"/>bro de radiorum refractione dicentis / quod bone fit 
+      per<lb ed="#C" n="99" break="no"/>radios lune oblique vel directe cadentes in 
+      ma<lb ed="#C" n="100" break="no"/>re. hoc Rogerius bachon / et quidam alii insequum 
+      <lb ed="#C" n="101"/>tur. sed ipsa non placet. cum non videtur quod radii 
+      <lb ed="#C" n="102"/>luminis ad hoc sufficiunt. Tum secundo: quando 
+      lu<lb ed="#C" n="103" break="no"/>na est ex altera parte hemisperii nostri: videmus 
+      <lb ed="#C" n="104"/>fluxum et refluxum. et tamen lumen lune non at 
+      <lb ed="#C" n="105"/>tingit mare per suos radios. nec placet quod dicunt 
+      <lb ed="#C" n="106"/>lumen lune attingit celos: et ab eis reflectitur ad 
+      <lb ed="#C" n="107"/>mare. terra est luna maior. ergo vmbra terre erit 
+      <lb ed="#C" n="108"/>piramis euersa: et sic nichil luminis caderet in 
+      <lb ed="#C" n="109"/>hanc partem maris. vel si aliquid luminis caderet 
+      lu<lb ed="#C" n="110" break="no"/>men illud esset valde remissum et parum mare 
+      con<lb ed="#C" n="111" break="no"/>moueret. et sic insenbilis esset fluxus in nostro 
+      he<lb ed="#C" n="112" break="no"/>misperio: luna existente in alio. non est verosimi 
+      <lb ed="#C" n="113"/>le quod aliqui dicunt quod luna sua influentia pre terra 
+      <lb ed="#C" n="114"/>moueat mare.
+   </p>
+            <p xml:id="jb2v19-d51567-d1e655">
+      ¶ Tertia via quam recitat 
+      Ioan<lb ed="#C" n="115" break="no"/>nes picus que est abelandi et saracenorum vt 
+      di<lb ed="#C" n="116" break="no"/>cit: quia partes maris distant. cupiunt vniri et 
+      con<lb ed="#C" n="117" break="no"/>iungi. et repercutiuntur a montibus et terra: 
+      pro<lb ed="#C" n="118" break="no"/>pterea fit fluxus et refluxus maris. cum ipse 
+      ne<lb ed="#C" n="119" break="no"/>get omnem influentiam aliam a motu et lumine 
+      <lb ed="#C" n="120"/>ad aliquem motum confugit. hec via mimme placet partes
+      <pb ed="#V" n="88-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>aque separate nunquam se continuarent nisi ab 
+      extrin<lb ed="#C" n="2" break="no"/>seco ascendendo. oportet ergo motorem extrinsecum 
+      <lb ed="#C" n="3"/>assignare. licet in. 15. capite contra astronomos de hoc 
+      flu<lb ed="#C" n="4" break="no"/>xu et refluxu disputet. citius fugisse ad lumen et suos 
+      <lb ed="#C" n="5"/>radios sicut linconiensis et bachon quam ad suum 
+      <lb ed="#C" n="6"/>modum.
+   </p>
+            <p xml:id="jb2v19-d51567-d1e688">
+      ¶ Quarta via differentie aquam moueri ad 
+      <lb ed="#C" n="7"/>motum primi mobilis sicut alia elementa 
+      superio<lb ed="#C" n="8" break="no"/>ra. et influentia per quam motu raptus primum 
+      mo<lb ed="#C" n="9" break="no"/>bile mouet spheras celestes inferiores et 
+      elemen<lb ed="#C" n="10" break="no"/>ta terminantur in oceano inclusiue quem circa 
+      terra<lb ed="#C" n="11" break="no"/>mouet.
+   </p>
+            <p xml:id="jb2v19-d51567-d1e701">
+      ¶ Contra hoc arguitur. ex hac positione sequitur 
+      <lb ed="#C" n="12"/>alia maria et flumina puta meditrraneum et caspium 
+      <lb ed="#C" n="13"/>debent fluere et refluere consequens est contra 
+      expe<lb ed="#C" n="14" break="no"/>rientiam. Respondetur negando sequelam. illud ita 
+      appa<lb ed="#C" n="15" break="no"/>renter contra motum sequentem (quem solum estimo 
+      <lb ed="#C" n="16"/>verum et rationabiliorem) / procederet.
+   </p>
+            <p xml:id="jb2v19-d51567-d1e714">
+      ¶ Pro quinta 
+      <lb ed="#C" n="17"/>via sequenti: videmus experimento luna magnum 
+      <lb ed="#C" n="18"/>dominium habere super corpora humida. ostrea et 
+      <lb ed="#C" n="19"/>cancri in coniunctione et oppositione sunt pleni. in 
+      <lb ed="#C" n="20"/>quadris non emuntur. similiter in vas plenum aqua 
+      <lb ed="#C" n="21"/>in quadris lune seruatum ad oppositionem: egreditur 
+      <lb ed="#C" n="22"/>aqua. sed illud non sufficit ad fiuxum et refluxum. et 
+      lu<lb ed="#C" n="23" break="no"/>natici aliqui fiunt in nouilunio et plenilunio et 
+      <lb ed="#C" n="24"/>non in quadris. Pari forma mare vniformiter in 
+      <lb ed="#C" n="25"/>suo motu insequitur lunam: sic quod tumor aque directe 
+      <lb ed="#C" n="26"/>centro lune respondet. ergo luna est causa motus 
+      <lb ed="#C" n="27"/>maris. non solum lumine: sed proprietate occulta. 
+      pro<lb ed="#C" n="28" break="no"/>bant aliqui hoc. in coniunctione plus habet 
+      luna<lb ed="#C" n="29" break="no"/>de lumine quam in oppositione. et tamen fluxus 
+      ma<lb ed="#C" n="30" break="no"/>ris est maior in oppositione quam in coniunctione. 
+      ratio<lb ed="#C" n="31" break="no"/>est nulla. licet luna plus luminis habeat in 
+      communiun<lb ed="#C" n="32" break="no"/>ctione quam in oppositione: lumen in illud mare non 
+      pro<lb ed="#C" n="33" break="no"/>tenditur: sed in partes superiores. et pars lune 
+      <lb ed="#C" n="34"/>inferior non illuminata actionem luminis in 
+      <lb ed="#C" n="35"/>mare impedit. experimur quando luna maximum 
+      <lb ed="#C" n="36"/>lumen habet comparatiue ad nos: tunc est 
+      ma<lb ed="#C" n="37" break="no"/>ximus fluxus maris. sed in quadris plus luminis 
+      <lb ed="#C" n="38"/>habet luna in ordine ad nos et agendo in mare 
+      <lb ed="#C" n="39"/>ergo lumen lune facit ad maris fluxum: vel saltem 
+      <lb ed="#C" n="40"/>erit dispositio prima ad actionem influentie 
+      occul<lb ed="#C" n="41" break="no"/>te. melius est ergo primum. dico ergo lumen est 
+      cas<lb ed="#C" n="42" break="no"/>lefactiuum et rarefactiuum. et per consequens mare leuat 
+      <lb ed="#C" n="43"/>extra suum alueum cum aqua occani est rarefacta. 
+      si<lb ed="#C" n="44" break="no"/>cut lac rarefactum in poto ascendit vt videmus. et 
+      <lb ed="#C" n="45"/>cum fortasse lu mina aliorum planetarum vel astrorum 
+      <lb ed="#C" n="46"/>sint eiusdem speciei specialissime cum luna idem 
+      face<lb ed="#C" n="47" break="no"/>rent suo lumine cum luna. si eque essent praesentes. 
+      <lb ed="#C" n="48"/>ponenda est etiam virtus occulta lune que est 
+      at<lb ed="#C" n="49" break="no"/>tractiua maris. tunc ergo quando luna ascendit orizon 
+      <lb ed="#C" n="50"/>tem mouendo ad meridiem: rare fit aqua maris 
+      <lb ed="#C" n="51"/>et extra suum alueum leuatur in altum: contrarie 
+      ne<lb ed="#C" n="52" break="no"/>cessario currit in aridam. et tunc inter meridiem et 
+      <lb ed="#C" n="53"/>occidentem fit maris refluxus. tamen refluxus est 
+      na<lb ed="#C" n="54" break="no"/>turaliter. tum propter quadratum aliarum motum. et 
+      <lb ed="#C" n="55"/>insequitur partem maris sub orizonte tanquam minus 
+      <lb ed="#C" n="56"/>decliuem naturaliter et cum luna a puncto 
+      meri<lb ed="#C" n="57" break="no"/>diei occidentem versus mouetur fit refluxus 
+      na<lb ed="#C" n="58" break="no"/>turaliter illius quarte que fluebat istis horis 
+      <lb ed="#C" n="59"/>quibus luna mouebatur ab orizonte ad 
+      pun<lb ed="#C" n="60" break="no"/>ctum meridiei. naturaliter a forma aque que a
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>loco altiori in decliuiorem mouetur cessante 
+      prohi<lb ed="#C" n="62" break="no"/>bente. sicut aqua calefactione rarefacta 
+      remota<lb ed="#C" n="63" break="no"/>ab igne: adducit se ad quantitatem antiqua. sic 
+      luna<lb ed="#C" n="64" break="no"/>facit quaedram oceani ebulire super quam mouetur a 
+      pun<lb ed="#C" n="65" break="no"/>cto meridiei ad occidentem: et sic quando luna est ex 
+      alte<lb ed="#C" n="66" break="no"/>ra parte terre idem facit: et fluxus in vno 
+      hemis<lb ed="#C" n="67" break="no"/>perio causat fluxum in alio. et sic de refluxo: per hoc 
+      <lb ed="#C" n="68"/>quod aqua sublimior in decliuiorem fluit. ergo 
+      quando<lb ed="#C" n="69" break="no"/>luna mouetur ab occidente ad angulum noctis: tunc 
+      <lb ed="#C" n="70"/>fit alius fluxus maris a meridie ad occidentem. 
+      <lb ed="#C" n="71"/>hoc est: in partem contrarie oppositam.
+   </p>
+            <p xml:id="jb2v19-d51567-d1e838">
+      ¶ Contra 
+      <lb ed="#C" n="72"/>hanc viam arguitur. eodem modo alia maria debent 
+      ha<lb ed="#C" n="73" break="no"/>bere fluxum et refluxum et aque alie. consequens est 
+      <lb ed="#C" n="74"/>contra experientiam. mare mortuum nunquam fluit. aliqua 
+      <lb ed="#C" n="75"/>maria solum semel in mense lunari.
+   </p>
+            <p xml:id="jb2v19-d51567-d1e850">
+      ¶ Secundo 
+      se<lb ed="#C" n="76" break="no"/>quitur: quod fluxus maris esset violentus: cum est a 
+      <lb ed="#C" n="77"/>luna. et per consequens non potest esse perpetuus 
+      na<lb ed="#C" n="78" break="no"/>turaliter: primo de celo. consequens negaret 
+      ari<lb ed="#C" n="79" break="no"/>stoteles. igitur.
+   </p>
+            <p xml:id="jb2v19-d51567-d1e861">
+      ¶ Tertio. vnus fluxus est maior alio 
+      <lb ed="#C" n="80"/>esto quod luna sit in oppositione. ergo danda est alia 
+      <lb ed="#C" n="81"/>causa fluxus et refluxus maris a luna.
+   </p>
+            <p xml:id="jb2v19-d51567-d1e868">
+      ¶ Ad primum 
+      <lb ed="#C" n="82"/>nego sequelam. aque dulces non sufficienter 
+      reci<lb ed="#C" n="83" break="no"/>piunt et tenent lumen et influentiam lune: vt cete 
+      <lb ed="#C" n="84"/>ra minora maria. et actus actiuorum sunt in 
+      patien<lb ed="#C" n="85" break="no"/>te et disposito 2. de anima. etiam super aliqua maria 
+      <lb ed="#C" n="86"/>luna plus diuersi habet quam in aliis sicut 
+      pertholo<lb ed="#C" n="87" break="no"/>meus in quadripertito / albumasar / et achabitius / 
+      <lb ed="#C" n="88"/>dicunt. mare mortuum est tante grossiciei quod luna non 
+      <lb ed="#C" n="89"/>potest mouere ipsum vnquam nullum viuum recipit 
+      ob<lb ed="#C" n="90" break="no"/>grossitiem. equus non submergitur in eo. aliqua maria 
+      <lb ed="#C" n="91"/>non ita bene suscipiunt vigorem lune sicut alia. et per 
+      <lb ed="#C" n="92"/>consequens non potest luna ita cito ea mouere 
+      si<lb ed="#C" n="93" break="no"/>cut oceanum. sed a coniunctione ad oppositionem in 
+      <lb ed="#C" n="94"/>clusiue facit fluxum. et postea ad coniunctionem vsque 
+      <lb ed="#C" n="95"/>exclusiue fit refluxus per motum naturalem maris 
+      <lb ed="#C" n="96"/>in suum stabulum sicut equi in niue ad praesepe.
+   </p>
+            <p xml:id="jb2v19-d51567-d1e903">
+      ¶ Ad 
+      <lb ed="#C" n="97"/>secundum concedo quod fluxus maris est violentus. sed 
+      <lb ed="#C" n="98"/>ille non est perpetuus. in eadem parte. licet perpetuus 
+      <lb ed="#C" n="99"/>sit maris fluxus. tamen mare quod sex horis fluit postea 
+      <lb ed="#C" n="100"/>totidem naturaliter mouetur per refluxum et in 
+      pun<lb ed="#C" n="101" break="no"/>cto refluctionis quiescit. 7. et. 8. Phisicorum. 
+      li<lb ed="#C" n="102" break="no"/>cet fluxus non sit violentus materie maris: hoc 
+      <lb ed="#C" n="103"/>non prohibet violationem. patet in calefactione aque. 
+      <lb ed="#C" n="104"/>licet hic potest dari aliquid discriminis: dicendo 
+      <lb ed="#C" n="105"/>quod aqua melius conseruatur inesse per motum quam si 
+      <lb ed="#C" n="106"/>quiesceret. secus est de calefactione respectu aque 
+   </p>
+            <p xml:id="jb2v19-d51567-d1e927">
+               <lb ed="#C" n="107"/>¶ Ad. 3 conceditur assumptum. hoc maris 
+      accole<lb ed="#C" n="108" break="no"/>experimento nouerunt. glegorni in oppositione et 
+      <lb ed="#C" n="109"/>magis in vna quam in alia nostri petunt mare ad 
+      quin<lb ed="#C" n="110" break="no"/>gentos passus distans: et magnam causacrorum copiam capiunt 
+      <lb ed="#C" n="111"/>post maris discessum: quam alio tempore habere 
+      ne<lb ed="#C" n="112" break="no"/>queunt. quanto fluxus est maior tanto plures cancri 
+      <lb ed="#C" n="113"/>et polipedes interdum euomuntur. et in pedibus 
+      ma<lb ed="#C" n="114" break="no"/>rinis latitant in refluxu sine artificio quilibet 
+      vn<lb ed="#C" n="115" break="no"/>cum in baculi extremitate imponit et extrahit 
+      <lb ed="#C" n="116"/>cancros pedales et sesquipedales: vt per tesias 
+      <lb ed="#C" n="117"/>pedum in templis pendentes in funibus campanarum 
+      <lb ed="#C" n="118"/>intueri potes. causa maioris fluxus potest esse 
+      <lb ed="#C" n="119"/>multiplex luna in opposito augis: vt in 
+      hyeme<lb ed="#C" n="120" break="no"/>tunc exprimere fluxum maiorem. possunt esse alie stelle
+      <pb ed="#V" n="88-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>vel planete lunam adiuuantes adiuncti. et tunc 
+      flu<lb ed="#C" n="2" break="no"/>xus erit maior.
+   </p>
+            <p xml:id="jb2v19-d51567-d1e969">
+      ¶ Ex his patet maris fluxus et 
+      <lb ed="#C" n="3"/>refluxus. qui in aliquo loco ad mille passus in 
+      ali<lb ed="#C" n="4" break="no"/>quibus ad minus extenditur secundum quod terra est 
+      alta<lb ed="#C" n="5" break="no"/>vel decliuis. interdum quando terra est decliuis ad 
+      <lb ed="#C" n="6"/>40. mille passus vagatur: vt in Orx fluuium. 
+      <lb ed="#C" n="7"/>hoc in forcha (quam mare scoticum dixere priores) 
+      <lb ed="#C" n="8"/>contemplari potes: ad pontem stirlingi motum cum 
+      <lb ed="#C" n="9"/>aqua salsa. simile est in sequana vltra 
+      rothoma<lb ed="#C" n="10" break="no"/>gum: et in thamisia maius vltra londoniarum 
+      <lb ed="#C" n="11"/>pontem: vbi maris fluxus nauim ab occeauo ad 
+      <lb ed="#C" n="12"/>londoniarum pontem deducit et refluxus sine vento 
+      <lb ed="#C" n="13"/>reducit: vt expertus sum nauigando ad grauisend 
+      <lb ed="#C" n="14"/>in nostra britannica lingua. amplius patet 
+      uta<lb ed="#C" n="15" break="no"/>re oceanum omni vento cessante a luna 
+      concu<lb ed="#C" n="16" break="no"/>titur tam a septentrione ad meridiem quam 
+      econuerso<lb ed="#C" n="17" break="no"/>mouendo quam in terram fluendo: ita quod vnde maris 
+      <lb ed="#C" n="18"/>in die tranquillo videbuntur ante te iudicio tuo 
+      im<lb ed="#C" n="19" break="no"/>manes boues saltantes: et naues euersure ita vt 
+      <lb ed="#C" n="20"/>vere dicere potes est. qui nauigat mare enarrant 
+      <lb ed="#C" n="21"/>pericula eius Ecclesiastici. 45. et Iob. 4I. 
+      ferue<lb ed="#C" n="22" break="no"/>scere faciet quasi ollam profundum maris. quid 
+      er<lb ed="#C" n="23" break="no"/>go in ventorum flatu erit. Qui non est deuotus in 
+      ma<lb ed="#C" n="24" break="no"/>ri nunquam deuotus erit. propterea multis cor 
+      lapi<lb ed="#C" n="25" break="no"/>deum habentibus prodesset mare visitare. non tamen 
+      <lb ed="#C" n="26"/>continuo in naui stando. naute sunt mali et non 
+      ti<lb ed="#C" n="27" break="no"/>ment post tot euasiones habitas. fluxus iste a deo 
+      <lb ed="#C" n="28"/>non est datus sine nostro magno commodo: vt 
+      ca<lb ed="#C" n="29" break="no"/>dauera / opes / pisces / et multa a mari eiiciant. et 
+      <lb ed="#C" n="30"/>vt naues magne et onuste tunc ad mare 
+      ascen<lb ed="#C" n="31" break="no"/>dant: que erant onustate in refluxu. terram 
+      impin<lb ed="#C" n="32" break="no"/>guat: et portus sic iuuat quod est eis necessarius. 
+      Ul<lb ed="#C" n="33" break="no"/>terius notum est mare esse profundius sub polis quam in 
+      <lb ed="#C" n="34"/>locis a polis remotis. et ad profunditatem aque: se 
+      <lb ed="#C" n="35"/>quitur maior piscium copia. quare si viam non 
+      ha<lb ed="#C" n="36" break="no"/>beant more aliorum: equiualens dedit deus: vt 
+      pisci<lb ed="#C" n="37" break="no"/>bus aliis prouideant: et recipiant viam. alter al 
+      <lb ed="#C" n="38"/>terius onera portate. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

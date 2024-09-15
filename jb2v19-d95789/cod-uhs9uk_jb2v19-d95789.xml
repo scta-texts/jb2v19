@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 5</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 5</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="160-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d95789"><!-- l2d42q5 -->
+            <head xml:id="jb2v19-d95789-Hd1e101">Quaestio 5</head>
+            <head xml:id="jb2v19-d95789-Hd1e103" type="question-title">An quaelibet pars peccati sit peccatum</head>
+            <p xml:id="jb2v19-d95789-d1e106">
+               <lb ed="#C" n="25"/>QUinto circa hanc distinctionem 
+      queri<lb ed="#C" n="26" break="no"/>tur. An quelibet pars peccati sit 
+      pec<lb ed="#C" n="27" break="no"/>catum. non capimus peccatum more 
+      Ari<lb ed="#C" n="28" break="no"/>stotelis secundo phisicorum dicentis. 
+      Mon<lb ed="#C" n="29" break="no"/>strum in natura esse peccatum: sed capimus peccatum 
+      <lb ed="#C" n="30"/>pro actu culpabili cui debetur pena. oc 
+      presup<lb ed="#C" n="31" break="no"/>posito: pono conclusiones questionis euacuatiuas 
+   </p>
+            <p xml:id="jb2v19-d95789-d1e124">
+               <lb ed="#C" n="32"/>¶ Quarum prima est. Quelibet pars peccati 
+      com<lb ed="#C" n="33" break="no"/>missionis mortalis est peccatum.
+   </p>
+            <p xml:id="jb2v19-d95789-d1e131">
+      ¶ Secunda 
+      conclusio<lb ed="#C" n="34" break="no"/>Quelibet pars peccati venialis est peccatum.
+   </p>
+            <p xml:id="jb2v19-d95789-d1e137">
+      ¶ 
+      Ter<lb ed="#C" n="35" break="no"/>tia conclusio. Sicut quelibet pars peccati 
+      morta<lb ed="#C" n="36" break="no"/>lis peccatiest mortale: ita quaelibet pars 
+      venia<lb ed="#C" n="37" break="no"/>lis efi peccatum veniale.
+   </p>
+            <p xml:id="jb2v19-d95789-d1e146">
+      ¶ Quarta conclusio. 
+      Non<lb ed="#C" n="38" break="no"/>quelibet pars peccati originalis est peccatum 
+      ori<lb ed="#C" n="39" break="no"/>ginale.
+   </p>
+            <p xml:id="jb2v19-d95789-d1e153">
+      ¶ Quinta conclusio. Non quelibet pars 
+      <lb ed="#C" n="40"/>peccati omissionis est omissio. In tribus primis 
+      con<lb ed="#C" n="41" break="no"/>clusionibus loquimur de peccato commissione: et 
+      actu<lb ed="#C" n="42" break="no"/>elicito voluntatis / qui solus proprie est peccatum 
+      com<lb ed="#C" n="43" break="no"/>missionis. Probatur / iam prima conclusio. da eius 
+      <lb ed="#C" n="44"/>contradictoriam. Non quelibet pars peccati est 
+      pec<lb ed="#C" n="45" break="no"/>catum: tunc aliqua pars peccati non est peccatum: et aliqua 
+      <lb ed="#C" n="46"/>pars est peccatum: vel nulla pars peccati est peccatum 
+      <lb ed="#C" n="47"/>Si dicis sicut dicit Rosetus. Nulla pars peccati 
+      <lb ed="#C" n="48"/>est peccatum: sicut nulla pars hominis est homo.
+   </p>
+            <p xml:id="jb2v19-d95789-d1e175">
+      ¶ 
+      Se<lb ed="#C" n="49" break="no"/>cundo dicis. Aliqua pars peccati est peccatum: et 
+      ali<lb ed="#C" n="50" break="no"/>qua pars peccati non est peccatum: datur aliqua pars 
+      <lb ed="#C" n="51"/>propter paruitatem que non est peccatum. et alia 
+      ma<lb ed="#C" n="52" break="no"/>ior est peccatum. Quod nentrum istorum valeat arguitur 
+      <lb ed="#C" n="53"/>sic: et gratia exempli capio actum homicidii 
+      inten<lb ed="#C" n="54" break="no"/>sum vt octo. et tuc sic: homicidium vt quattuor 
+      se<lb ed="#C" n="55" break="no"/>orsum esset peccatum: sed non minus desinet esse 
+      pec<lb ed="#C" n="56" break="no"/>catum in suo toto. patet per diffinitionem peccati 
+      quae<lb ed="#C" n="57" break="no"/>parti actus sicut toti actui conuenit: quia est actus 
+      <lb ed="#C" n="58"/>elicitus contra praeceptum dei.
+   </p>
+            <p xml:id="jb2v19-d95789-d1e199">
+      ¶ Secundo arguitur ad 
+      <lb ed="#C" n="59"/>idem. Ex hoc sequitur. Aliquis actus est nunc 
+      pec<lb ed="#C" n="60" break="no"/>catum qui per appositionem alterius actus illi desi¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>nit esse peccatum quod absonum est dicere. hec 
+      conse<lb ed="#C" n="62" break="no"/>quentia patet: si sortes habet homicidium intensum 
+      <lb ed="#C" n="63"/>vt quattuor in voluntate: iam ille actus est 
+      pecca<lb ed="#C" n="64" break="no"/>tum: intendendo actum desinet esse peccatum.
+   </p>
+            <p xml:id="jb2v19-d95789-d1e217">
+      ¶ 
+      Ulte<lb ed="#C" n="65" break="no"/>rius sequitur quod sortes infinita peccata perdit in hac 
+      <lb ed="#C" n="66"/>hora. hoc patet. supposito quod continuo actum 
+      pecca<lb ed="#C" n="67" break="no"/>ti intendat per vna horam. Iam in nullis duobus 
+      <lb ed="#C" n="68"/>instant. bus manebit actus peccatum / qui est 
+      pecca<lb ed="#C" n="69" break="no"/>tum in a. instanti propter gradum superadditum in b. in 
+      <lb ed="#C" n="70"/>stanti desinet esse peccatum. Et eodem modo actus 
+      <lb ed="#C" n="71"/>qui erit in b. instanti solum manebit peccatum in b. 
+      in<lb ed="#C" n="72" break="no"/>stanti et nunquam manebit peccatum post illud instans 
+      <lb ed="#C" n="73"/>et sic de infinitis instantibus argumentabor.
+   </p>
+            <p xml:id="jb2v19-d95789-d1e240">
+      ¶ 
+      Ul<lb ed="#C" n="74" break="no"/>terius ex isto sequitur: quod actus qui erat non 
+      pecca<lb ed="#C" n="75" break="no"/>tum per remotionem actus ab illo erit peccatum actus 
+      <lb ed="#C" n="76"/>vt tria: pars actus vt quattuor est non peccatum: 
+      tol<lb ed="#C" n="77" break="no"/>le vnum gradum: et non peccatum incipiet esse peccatum 
+      <lb ed="#C" n="78"/>Euadendo vel proteruiendo. potest homo hic 
+      dice<lb ed="#C" n="79" break="no"/>re. Iste conclusiones illate sunt concedende. et nege 
+      <lb ed="#C" n="80"/>tur quod ratio peccati actui partiali conuenit oportet 
+      di<lb ed="#C" n="81" break="no"/>cere totalis.
+   </p>
+            <p xml:id="jb2v19-d95789-d1e260">
+      ¶ Contra aliam partem ad quam magis 
+      <lb ed="#C" n="82"/>declinat / arguitur sic. Aliqua pars peccati est 
+      pec<lb ed="#C" n="83" break="no"/>catum: et aliqua pars peccatinon est peccatum proptet 
+      <lb ed="#C" n="84"/>paruitatem. ergo est dabilis maxima pars peccati 
+      <lb ed="#C" n="85"/>que non est peccatum: vel minima pars peccati que est 
+      <lb ed="#C" n="86"/>peccatum. consequentia ista liquet apud 
+      intelligen<lb ed="#C" n="87" break="no"/>tem materiam de maximo et minimo / maximo quod 
+      <lb ed="#C" n="88"/>non: et minimo quod sic. Falsitas consequentis pro 
+      vtra<lb ed="#C" n="89" break="no"/>uis parte sic detegitur. Si detur minima pars 
+      pec<lb ed="#C" n="90" break="no"/>cati que est peccatum. Tunc sic signetur actus ille: 
+      <lb ed="#C" n="91"/>et sint duo gradus: tunc vel quelibet pars illius 
+      <lb ed="#C" n="92"/>actus est actus indifferens: vel actus bonus vel 
+      pec<lb ed="#C" n="93" break="no"/>catum. Si primum: pro illis partibus nulla debetur 
+      <lb ed="#C" n="94"/>pena: immo ex vno membro debetur pro partibus 
+      pre<lb ed="#C" n="95" break="no"/>mium: ergo oportet dare tertium membrum. quod quaelibet 
+      <lb ed="#C" n="96"/>pars illius actus est peccatum quod erat probandum 
+      <lb ed="#C" n="97"/>Eodem modo argumentabor: si dederis maximam 
+      patr<lb ed="#C" n="98" break="no"/>tem que non est peccatum tunc illa non est peccatum: et 
+      quae<lb ed="#C" n="99" break="no"/>libet maior est peccatum. Et quero abs te. an illa 
+      <lb ed="#C" n="100"/>maxima pars est actus indifferens vel meritum cum 
+      <lb ed="#C" n="101"/>est actus humanus: neutrum dare potes. vt patet. 
+      <lb ed="#C" n="102"/>ex impugnatione membri precedentis.
+   </p>
+            <p xml:id="jb2v19-d95789-d1e308">
+      ¶ Forte 
+      di<lb ed="#C" n="103" break="no"/>cis datur remisissimus actus totalis qui potest 
+      vo<lb ed="#C" n="104" break="no"/>luntatem vitaliter immutare: et ille est minimum 
+      pec<lb ed="#C" n="105" break="no"/>catum circa talem materiam.
+   </p>
+            <p xml:id="jb2v19-d95789-d1e317">
+      ¶ Sed contra. Ex 
+      illo<lb ed="#C" n="106" break="no"/>probo quod contra teipsum acies oppositas moliris 
+      <lb ed="#C" n="107"/>nec euitas propositum.
+   </p>
+            <p xml:id="jb2v19-d95789-d1e324">
+      ¶ Primum sic probo: si detur 
+      <lb ed="#C" n="108"/>remisissimum quod anima vitaliter immutat: iam 
+      il<lb ed="#C" n="109" break="no"/>lud producetur in instanti cuius oppositum tu negas 
+      <lb ed="#C" n="110"/>asserens nullam creaturam aliquem effectum posse 
+      pro<lb ed="#C" n="111" break="no"/>ducere in instanti. Etiam dato quod ille actus 
+      produ<lb ed="#C" n="112" break="no"/>catur in instanti: non negas illum habere partes. 
+      <lb ed="#C" n="113"/>Et queram vt supra de illis partibus: an sint 
+      pecca<lb ed="#C" n="114" break="no"/>ta. Si des maximum actum qui non potest per se 
+      exi<lb ed="#C" n="115" break="no"/>stere illud sine discolia defendi non potest: vt contra 
+      <lb ed="#C" n="116"/>Gregorium in 17. distinc. primi probare nisi sumus. 
+      <lb ed="#C" n="117"/>Propterea dico quamlibet partem peccati esse 
+      pec<lb ed="#C" n="118" break="no"/>catum: et vtrumque membrum quod ipse concedit falsum. 
+      <lb ed="#C" n="119"/>Color est nullus de homine qui toti composito 
+      compe<lb ed="#C" n="120" break="no"/>tit: et non partibus. Tum primo. hoc est fali¬
+      <pb ed="#V" n="160-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>abfolute vtendo vocabulo Pars integralis hominis 
+      <lb ed="#C" n="2"/>est eiusdem speciei specialissime cum toto composito: 
+      <lb ed="#C" n="3"/>et conceptus hominis qui est species specialissima 
+      ta<lb ed="#C" n="4" break="no"/>lis res representat propter conuenientiam 
+      essen<lb ed="#C" n="5" break="no"/>tialem quam inter se habent.
+   </p>
+            <p xml:id="jb2v19-d95789-d1e370">
+      ¶ Secundo concesso antecente 
+      <lb ed="#C" n="6"/>non est color in consequentia: quia ratio peccati 
+      cuili<lb ed="#C" n="7" break="no"/>bet parti peccati de quo loquor competit sicut et 
+      to<lb ed="#C" n="8" break="no"/>ti. patet per diffinitiones quas superius recitaui 
+      <lb ed="#C" n="9"/>mus. Pari facilitate tibi inficiar quod pars 
+      albedi<lb ed="#C" n="10" break="no"/>nis sit albedo: vel quod pars substantie: vel 
+      acciden<lb ed="#C" n="11" break="no"/>tis sit substantia vel accidens. Et qualitercumque in 
+      <lb ed="#C" n="12"/>nomine diffugium quaeris inter dentes tuos semper proiiciam: 
+      <lb ed="#C" n="13"/>cuiuslibet partis peccati mortalis malicia in 
+      or<lb ed="#C" n="14" break="no"/>dine ad pecatum veniale quod te attonitum facit. 
+   </p>
+            <p xml:id="jb2v19-d95789-d1e393">
+               <lb ed="#C" n="15"/>¶ Secunda conclusio potest eisdem mediis 
+      proba<lb ed="#C" n="16" break="no"/>ri: vel quaelibet pars peccati venialis est peccatum: 
+      <lb ed="#C" n="17"/>vel aliqua est peccatum: et aliqua non est peccatum: vel nulla est 
+      <lb ed="#C" n="18"/>peccatum. et tunc deueniendum est ad partes quaerendo an sint 
+      ac<lb ed="#C" n="19" break="no"/>tus meritorii vel indifferentes: vt supra 
+      argumen<lb ed="#C" n="20" break="no"/>tati sumus.
+   </p>
+            <p xml:id="jb2v19-d95789-d1e409">
+      ¶ Tertia conclusio. habet duas partes 
+      <lb ed="#C" n="21"/>quarum prior est. Quelibet pars peccatiimoetalis 
+      <lb ed="#C" n="22"/>est peccatum mortale. quam partem sic probo. 
+      Queli<lb ed="#C" n="23" break="no"/>bet pars peccati mortalis est peccatum ex prima: et 
+      <lb ed="#C" n="24"/>non est originale peccatum: nec omissionis. nec venia 
+      <lb ed="#C" n="25"/>le: relinquitur ergo quod sit mortale peccatum a sufficiem 
+      <lb ed="#C" n="26"/>ti diuisione. Quod nulla pars peccati mortalis erit 
+      <lb ed="#C" n="27"/>peccatum veniale patet: quia tunc mortale componitur ex 
+      <lb ed="#C" n="28"/>venialibus quod est a veritate alienum: quia tunc 
+      mul<lb ed="#C" n="29" break="no"/>ta venialia mortale conflabunt: et sic peccata que 
+      <lb ed="#C" n="30"/>cum gratiainfusa stant eam e medio tollunt. 
+      Insu<lb ed="#C" n="31" break="no"/>per: nulla pars peccati venialis est peccatum 
+      mor<lb ed="#C" n="32" break="no"/>tale. ergo pari ratione nulla pars peccati mortalis 
+      <lb ed="#C" n="33"/>est peccatum veniale.
+   </p>
+            <p xml:id="jb2v19-d95789-d1e440">
+      ¶ Secunda pars patet cum quaelibet 
+      <lb ed="#C" n="34"/>pars peccati venialis est peccatum: et non mortale 
+      <lb ed="#C" n="35"/>originale / vel omissionis. relinquitur quod quaelibet pars 
+      <lb ed="#C" n="36"/>est peccatum veniale a positione generis: negando 
+      <lb ed="#C" n="37"/>omnes species dempta vna vltima ponere necesse 
+      <lb ed="#C" n="38"/>est.
+   </p>
+            <p xml:id="jb2v19-d95789-d1e453">
+      ¶ Quarta conclusio probatur. Originale 
+      pecca<lb ed="#C" n="39" break="no"/>tum non habet partem. ergo quaelibet pars eius non est 
+      <lb ed="#C" n="40"/>peccatum. ergo non quaelibet pars eius est peccatum 
+      origi<lb ed="#C" n="41" break="no"/>nale consequentia ista tenet a subalternate ad 
+      sub<lb ed="#C" n="42" break="no"/>alternatam ex parte subiecti: et a toto in modo ad 
+      <lb ed="#C" n="43"/>suam partem negatiue a parte praedicati
+   </p>
+            <p xml:id="jb2v19-d95789-d1e466">
+      ¶ Circa 
+      quin<lb ed="#C" n="44" break="no"/>tam conclusionem non seriose insistendum est: quia si 
+      po<lb ed="#C" n="45" break="no"/>natur sua opposita non multum refert: totus homo est 
+      <lb ed="#C" n="46"/>peccatum omissionis et si vna pars eius est peccatum quo 
+      <lb ed="#C" n="47"/>omissionis quaelibet pars eius erit peccatum omissionis: 
+      <lb ed="#C" n="48"/>et sic pes eius erit peccatum omissionis: et oculus eius 
+      <lb ed="#C" n="49"/>erit peccatum omissionis quod non est necesse dicere. 
+   </p>
+            <p xml:id="jb2v19-d95789-d1e482">
+               <lb ed="#C" n="50"/>¶ Contra tertiam conclusionem arguitur sic. Si quelibet 
+      <lb ed="#C" n="51"/>pars peccati mortalis est peccatum mortale: vt illa 
+      <lb ed="#C" n="52"/>conclusio asserit quodlibet mortale erit infinite 
+      gra<lb ed="#C" n="53" break="no"/>ue: et sic nullum mortale erit grauius alio: quod est 
+      er<lb ed="#C" n="54" break="no"/>ror Stoycorum. consequentia deduco capiendo a 
+      <lb ed="#C" n="55"/>mortale octo vel quattuor graduum in intentione / 
+      <lb ed="#C" n="56"/>et b. veniale: et mendacium iocosum: tunc sic. b / est 
+      <lb ed="#C" n="57"/>alicuius determinate malicie: et quelibet pars ip 
+      <lb ed="#C" n="58"/>sius a: mortalis est peior b / veniali cum quodlibet 
+      <lb ed="#C" n="59"/>mortale veniale quodlibet in malicia exuperat: sed 
+      <lb ed="#C" n="60"/>infinite sunt partes licet inequales in a mortali.
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>ergo a mortale est infinite graue. ista consequentia 
+      <lb ed="#C" n="62"/>videtur tenere vtrobique si b / est alicuius quantitatis 
+      <lb ed="#C" n="63"/>et quaelibet pars a: vel saltem infinite partes a. sic 
+      se<lb ed="#C" n="64" break="no"/>habent quod quaelibet earum est maior b / oportet quod a sit 
+      <lb ed="#C" n="65"/>infinitum. et ita in aliis formis de infinito inducere 
+      <lb ed="#C" n="66"/>potes.
+   </p>
+            <p xml:id="jb2v19-d95789-d1e525">
+      ¶ Confirmatur hec conclusio. quodlibet 
+      morta<lb ed="#C" n="67" break="no"/>le habet infinitas partes: et quaelibet est peccatum 
+      mor<lb ed="#C" n="68" break="no"/>tale: vt dicit conclusio. ergo quodlibet mortale erit in 
+      <lb ed="#C" n="69"/>finite graue quod est probandum: et sic argumentari 
+      peo<lb ed="#C" n="70" break="no"/>tero de infinita grauitate peccati venialis 
+      infin<lb ed="#C" n="71" break="no"/>tas partes eius capiendo.
+   </p>
+            <p xml:id="jb2v19-d95789-d1e538">
+      ¶ Ad primum istorum 
+      ne<lb ed="#C" n="72" break="no"/>go sequelam et sequens. Unomodo potest responderi 
+      <lb ed="#C" n="73"/>quod mortale: et veniale non comparantur in malicia: 
+      si<lb ed="#C" n="74" break="no"/>cut acetum et stillus in acutie: bene autem possunt 
+      con<lb ed="#C" n="75" break="no"/>parari in gradum: vel in perfectione entitatiua: et 
+      il<lb ed="#C" n="76" break="no"/>lud potest roborari ex Aristotele. 7. phisicorum. 
+      <lb ed="#C" n="77"/>Alio modo dicitur et magis ad rem concedendo quod 
+      <lb ed="#C" n="78"/>quelibet pars peccati mortalis est peior in 
+      mali<lb ed="#C" n="79" break="no"/>cia quam hoc veniale: quia cuilibet parti huius peccati 
+      <lb ed="#C" n="80"/>mortalis respondet infinita pena extensiue in inferno 
+      <lb ed="#C" n="81"/>licet finita in gradum veniali respondet pena finita 
+      so<lb ed="#C" n="82" break="no"/>lum in inferno vel in purgatorio: sed ex isto non est 
+      <lb ed="#C" n="83"/>consequens quod mortale sit infinite malicie: sicut in 
+      <lb ed="#C" n="84"/>simili non sequitur quelibet pars huius albedinis 
+      <lb ed="#C" n="85"/>hac nigredine totali est perfectior entitatiue: et 
+      in<lb ed="#C" n="86" break="no"/>finite sunt partes in hac albedine: ergo tota hec 
+      <lb ed="#C" n="87"/>albedo est infinite perfecta. et sic in multis aliis 
+      <lb ed="#C" n="88"/>formis arguendi. Scolas intelligentie dare est 
+      faci<lb ed="#C" n="89" break="no"/>le: sed hec forma arguendi est bona / a. habet 
+      infi<lb ed="#C" n="90" break="no"/>nitas partes equales non communicantes b. corpori: 
+      er<lb ed="#C" n="91" break="no"/>go a. est infinite magnitudinis.
+   </p>
+            <p xml:id="jb2v19-d95789-d1e584">
+      ¶ Confirmatio est 
+      <lb ed="#C" n="92"/>facilis concedendo quod quelibet pars peccati 
+      morta<lb ed="#C" n="93" break="no"/>lis est peccatum mortale: sed nullo pacto est 
+      conse<lb ed="#C" n="94" break="no"/>quens quod quodlibet peccatum mortale sit infinite 
+      gra<lb ed="#C" n="95" break="no"/>uitatis: quia ex infinitis partibus inequalibus 
+      infi<lb ed="#C" n="96" break="no"/>nitum minime conflabis. Maior est difformitas in 
+      <lb ed="#C" n="97"/>medietate actus quam in tertia eius: et grauius 
+      mor<lb ed="#C" n="98" break="no"/>tale est vna quinta pars actus quam vna sexta. immo 
+      <lb ed="#C" n="99"/>in infinitum paruum mortale est aliqua pars 
+      peccati<lb ed="#C" n="100" break="no"/>mortalis.
+   </p>
+            <p xml:id="jb2v19-d95789-d1e606">
+      ¶ Alia propositio. Non datur aliqua 
+      <lb ed="#C" n="101"/>pars peccati mortalis in infinitum parua. 
+      Proba<lb ed="#C" n="102" break="no"/>tur hec propositio: quacumque parte data illa est 
+      ali<lb ed="#C" n="103" break="no"/>cuius intensionis / et est maior sua secunda.
+   </p>
+            <p xml:id="jb2v19-d95789-d1e615">
+      ¶ Alia 
+      pro<lb ed="#C" n="104" break="no"/>positio. Non datur minimum peccatum mortale. 
+      pro<lb ed="#C" n="105" break="no"/>batio. quocumque tali ablato pars eius est ipso 
+      mi<lb ed="#C" n="106" break="no"/>nutior: et hoc est perspicuu videre in continuo. 
+      <lb ed="#C" n="107"/>Infinitas partes quodlibet continuum habet qua 
+      <lb ed="#C" n="108"/>re quelibet est determinate magnitudinis. quod 
+      <lb ed="#C" n="109"/>patet per ascensum: et tamen ex illo concludere 
+      <lb ed="#C" n="110"/>nequibis magnitudinem vllam quam habemus 
+      im<lb ed="#C" n="111" break="no"/>mense magnitudinis. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

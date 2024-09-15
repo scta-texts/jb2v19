@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 4</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 4</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="104-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d61750"><!-- l2d18q4 -->
+            <head xml:id="jb2v19-d61750-Hd1e101">Quaestio 4</head>
+            <head xml:id="jb2v19-d61750-Hd1e103" type="question-title">An anima Adae et Evae et breviter omnium simul creatae sunt</head>
+            <p xml:id="jb2v19-d61750-d1e106">
+               <lb ed="#C" n="61"/>¶ Questio quarta. 
+      <lb ed="#C" n="62"/>QUarto circa hanc 
+      distinctio<lb ed="#C" n="63" break="no"/>nem quo ad animam quaeritur: an anims 
+      <lb ed="#C" n="64"/>ade et eue et breuiter omnium 
+      si<lb ed="#C" n="65" break="no"/>mul create sunt.
+   </p>
+            <p xml:id="jb2v19-d61750-d1e119">
+      ¶ 
+      Responde<lb ed="#C" n="66" break="no"/>tur. non capio animam pro homine 
+      per<lb ed="#C" n="67" break="no"/>sinodochem: vt Gemn. 46 vt omnes 
+      <lb ed="#C" n="68"/>anime quae egresse sunt de femore 
+      ia<lb ed="#C" n="69" break="no"/>Icob absque vxoribus filiorum et in 
+      <lb ed="#C" n="70"/>gresse sunt cum iacob in egiptum fuerunt. 7.6. sed proprie 
+      <lb ed="#C" n="71"/>capio pro altera per te compositi. hoc supposito: respondeo 
+      <lb ed="#C" n="72"/>ad quaestionem negatiue. probatio si anime fuissent 
+      crea<lb ed="#C" n="73" break="no"/>te ante corpora et omnes simul: vel fuissent in via vel 
+      <lb ed="#C" n="74"/>in termino si 2 numquam corpora informassent ad merendum 
+      si<lb ed="#C" n="75" break="no"/>primum: tunc merita illa fuissent eis applicata: et earum 
+      <lb ed="#C" n="76"/>in corpore. consequens est contra apostolum ad romanos 
+      <lb ed="#C" n="77"/>nono de iacob et esau deicntem. cum nondum nati essent 
+      <lb ed="#C" n="78"/>aut aliquid egissent. etc. et licet dicere potes dato quod 
+      <lb ed="#C" n="79"/>eorum anime erant: Iacob et esau non erant. hoc non eui 
+      <lb ed="#C" n="80"/>tat argumentum de meritis quae debebant eis ap 
+      plica<lb ed="#C" n="81" break="no"/>ri ratione actuum anime prius commissorum. et psalmista 
+      <lb ed="#C" n="82"/>finxit sigillati corda eorum: hoc est animas. et de 
+      Eccle<lb ed="#C" n="83" break="no"/>siasticis dogmatibus. 12. scribitur. animas hominum non 
+      es<lb ed="#C" n="84" break="no"/>se ab initio simul creatas sicut origenes fingit: sed 
+      <lb ed="#C" n="85"/>formato iam corpore animam creari et infundi. hce tet 
+      philoso<lb ed="#C" n="86" break="no"/>phus auicenna. 6 naturalium libro. 3. c. 3 dicens 
+      ma<lb ed="#C" n="87" break="no"/>nifestum est animas incipere cum incipit. materia 
+      cor<lb ed="#C" n="88" break="no"/>poralis apta ad seruiendum eis: et corpus creatum est 
+      re<lb ed="#C" n="89" break="no"/>gimen eius et instrumentum.
+   </p>
+            <p xml:id="jb2v19-d61750-d1e174">
+      ¶ Contra hoc arguitur 
+      <lb ed="#C" n="90"/>ageli corporum celestium motores creati sunt ate 
+      or<lb ed="#C" n="91" break="no"/>bes quos mouent: saltem ante motum illorum. ergo omnes 
+      <lb ed="#C" n="92"/>motores / et non motores simul producti sunt. et p 
+      <lb ed="#C" n="93"/>consequens sic erat de animabus intellectiuis 
+      corpo<lb ed="#C" n="94" break="no"/>rum motiuis.
+   </p>
+            <p xml:id="jb2v19-d61750-d1e188">
+      ¶ Secundo arguitur per istud quod iob. 40. 
+      <lb ed="#C" n="95"/>scribere. dixit dominus ad Iob. Ecce vehemoth quem 
+      <lb ed="#C" n="96"/>feci tecum. sed Iob non fuit sanctus cum vehemoth quam 
+      <lb ed="#C" n="97"/>tum ad corpus. ergo quantum ad animam. et per consequens idem 
+      <lb ed="#C" n="98"/>erit de omnibus animabus intellectiuis.
+   </p>
+            <p xml:id="jb2v19-d61750-d1e199">
+      ¶ Ad primum 
+      <lb ed="#C" n="99"/>dicitur non esse simile. anime huane non modo mouent 
+      corpo<lb ed="#C" n="100" break="no"/>ra: sed ipsa informant vt nec ante corporis 
+      dispositi<lb ed="#C" n="101" break="no"/>onem quod informant producuntur.
+   </p>
+            <p xml:id="jb2v19-d61750-d1e208">
+      ¶ Ad secundum 
+      <lb ed="#C" n="102"/>dicitur quod vehemoth est elephas qui per diabolum 
+      intelli<lb ed="#C" n="103" break="no"/>gitur. et duobus modis exponi potest. vno modo sic: quem 
+      <lb ed="#C" n="104"/>feci tecum. i. sicut te maincheus et heretici illi non 
+      cre<lb ed="#C" n="105" break="no"/>dunt deum bonum creasse mala. aliomodo quem 
+      feci<lb ed="#C" n="106" break="no"/>tecum in natura intelligendi. non quod proprie 
+      intel<lb ed="#C" n="107" break="no"/>ligat: cum sit brutum. sed elephas bonum habet iudici 
+      <lb ed="#C" n="108"/>um: donesticatur. et docetur salutare regem et coram 
+      eo<lb ed="#C" n="109" break="no"/>flectere genua. propterea dicit aristoteles in de anima 
+      <lb ed="#C" n="110"/>libus: quod omium siluestrium maxime domestica 
+      <lb ed="#C" n="111"/>bilis est elephas. non est ergo sermo quod 
+      anima<lb ed="#C" n="112" break="no"/>Iob creabatur cum demone.
+   </p>
+            <p xml:id="jb2v19-d61750-d1e234">
+      ¶ Tertio 
+      argui<lb ed="#C" n="113" break="no"/>tur. si anima in nullo instanti producitur 
+      antequa<lb ed="#C" n="114" break="no"/>informet corpus: sequitur quod non creatur. 
+      con<lb ed="#C" n="115" break="no"/>sequens est contra glosam super illo psalmiste. qu 
+      <lb ed="#C" n="116"/>finxit sigillatim: que dicit anime fiunt ex 
+      nichilo<lb ed="#C" n="117" break="no"/>et in ecclesiasticis dogmatibus capitulo. 13 
+      di<lb ed="#C" n="118" break="no"/>citur: anime cum corporibus per coitum non 
+      seminan<lb ed="#C" n="119" break="no"/>tur sed creantur. et Eccle. vltimo reuertatur puluis 
+      <lb ed="#C" n="120"/>in terram vnde erat et spiritus redeat ad dominum
+      <pb ed="#V" n="104-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>qui dedit illum. et 16 de animalibus dicit philsods / 
+      intelle<lb ed="#C" n="2" break="no"/>ctus est ab extrinseco. consequentia probatur. quod producitur in 
+      cor<lb ed="#C" n="3" break="no"/>pus. non creatur. quia si sic. ignis creare potest: quod negaret 
+      <lb ed="#C" n="4"/>arist.
+   </p>
+            <p xml:id="jb2v19-d61750-d1e267">
+      ¶ Ad tertium nego sequelam. licet deus animam in 
+      pri<lb ed="#C" n="5" break="no"/>mo instantis in quo est vel in vltimo in quo non ( de 
+      <lb ed="#C" n="6"/>quibus nunc non curo) in corpore producat non 
+      <lb ed="#C" n="7"/>tamen presupponit corpus in sua a tione. cum cor pus 
+      <lb ed="#C" n="8"/>et animam et omnia producit sicut vult. quelibet res in 
+      <lb ed="#C" n="9"/>mundo respectu dei vocatur creatura proprie 
+      ca<lb ed="#C" n="10" break="no"/>piendo creaturam. et licet forma ignis sit ab 
+      igne<lb ed="#C" n="11" break="no"/>genita: tamen eadem est a deo creata. quia potest illam 
+      <lb ed="#C" n="12"/>formam producere sine materia. secus est de 
+      ali<lb ed="#C" n="13" break="no"/>is agentibus naturalibus quorum nullum 
+      crea<lb ed="#C" n="14" break="no"/>re potest. ex nichilo nihil fit vt dicunt omnes naturaliter 
+      lo<lb ed="#C" n="15" break="no"/>quentes primo phisicorum. concedo ergo quod anima 
+      <lb ed="#C" n="16"/>intellectiua creatur a deo qualitercunque vocabu 
+      <lb ed="#C" n="17"/>lum ceperis. hoc dico. potest quis in terminis stans 
+      <lb ed="#C" n="18"/>dicere ad hoc quod aliquid creetur oportet quod 
+      produ<lb ed="#C" n="19" break="no"/>catur ab omni agente suo quod in illa actione non 
+      <lb ed="#C" n="20"/>presupponit materiam.
+   </p>
+            <p xml:id="jb2v19-d61750-d1e304">
+      ¶ Quo fit. licet anime sint 
+      <lb ed="#C" n="21"/>perpetue aperte post: et angeli stelle materia 
+      prai<lb ed="#C" n="22" break="no"/>ma / omnes simul create sunt: non sequitur quod anime 
+      <lb ed="#C" n="23"/>omnes simul create sunt.
+   </p>
+            <p xml:id="jb2v19-d61750-d1e314">
+      ¶ Dubitatur an 
+      anima<lb ed="#C" n="24" break="no"/>corporis forma sit perpetua et immortalis.
+   </p>
+            <p xml:id="jb2v19-d61750-d1e319">
+      ¶ 
+      Res<lb ed="#C" n="25" break="no"/>pondetur intellectus est forma corporis humani 
+      <lb ed="#C" n="26"/>aristoteles dicit 2 de anima: anima est actus 
+      pri<lb ed="#C" n="27" break="no"/>mus corporis phisici organici in potentia vitam 
+      <lb ed="#C" n="28"/>habentis.
+   </p>
+            <p xml:id="jb2v19-d61750-d1e330">
+      ¶ Insuper. hoc intelligitur realiter. ergo 
+      ha<lb ed="#C" n="29" break="no"/>bet intellectum tanquam partem eius. modo intelligit per 
+      <lb ed="#C" n="30"/>materiam: nec per forma corporeitatis vel sensitiua 
+      <lb ed="#C" n="31"/>si ponatur: ergo intelligitur per animam intellectiuam
+   </p>
+            <p xml:id="jb2v19-d61750-d1e339">
+      ¶ 
+      Insu<lb ed="#C" n="32" break="no"/>per ponit btintudinem hominis in speculatione 
+      intelle<lb ed="#C" n="33" break="no"/>ctus consistere: decimo Ethicorum. illud non fieret 
+      <lb ed="#C" n="34"/>si anima non esset pars hominis. et nono Ethicorum 
+      <lb ed="#C" n="35"/>dicit: ad hominem pertinet corpus humanum et 
+      ani<lb ed="#C" n="36" break="no"/>ma intellectiua. perpetuitas anime est nota ex 
+      <lb ed="#C" n="37"/>verbis christi dicentis: nolite timere eos qui corpus 
+      <lb ed="#C" n="38"/>occidunt / animam autem non possunt occidere. et 
+      Ari<lb ed="#C" n="39" break="no"/>stoteles ex separatione anime a corpore quo ad 
+      <lb ed="#C" n="40"/>operationem: hoc est intellectionem vel 
+      volitio<lb ed="#C" n="41" break="no"/>nem: concludit quod anima potest separari a corpore. 
+      <lb ed="#C" n="42"/>Unde primo de anima dicit: si animae intellectiue est 
+      ali<lb ed="#C" n="43" break="no"/>qua propria passio in qua non communicat cum corpore: 
+      <lb ed="#C" n="44"/>ipsa est separabilis a corpore in separatione 
+      ani<lb ed="#C" n="45" break="no"/>me. Si intellexisset Aristoteles ex separatione 
+      <lb ed="#C" n="46"/>anime a corpore solum separationem quo ad 
+      opera<lb ed="#C" n="47" break="no"/>tionem: petiuisset principium proponendo idem per idem. 
+      <lb ed="#C" n="48"/>Uoluit ergo per separationem quo ad operationem 
+      <lb ed="#C" n="49"/>concludere quod anima potest separari a corpore 
+      sim<lb ed="#C" n="50" break="no"/>pliciter. et hoc est quod dicit secundo de anima / separa 
+      <lb ed="#C" n="51"/>tur intellectus ab aliis sicut perpetuum a corruptibir 
+      <lb ed="#C" n="52"/>li. licet 12. Metha. sub dubio reliquaerit an aliqua 
+      for<lb ed="#C" n="53" break="no"/>ma remaneat post corruptione compositi. in 
+      spe<lb ed="#C" n="54" break="no"/>ciali de anima loquens hoc exposuit: vt in. 45. 
+      di<lb ed="#C" n="55" break="no"/>stinctione quarti iam diximus.
+   </p>
+            <p xml:id="jb2v19-d61750-d1e394">
+      ¶ Contra hanc 
+      <lb ed="#C" n="56"/>dubitationem arguitur per illud quod scribitur. I ad 
+      <lb ed="#C" n="57"/>Thim. vlti de deo qui solus habet 
+      immortali<lb ed="#C" n="58" break="no"/>tatem. ergo anima non est immortalis.
+   </p>
+            <p xml:id="jb2v19-d61750-d1e403">
+      ¶ 
+      Responde<lb ed="#C" n="59" break="no"/>tur. anima potest corrumpi et destrui a deo. deus 
+      <lb ed="#C" n="60"/>autem nec potest corrumpi / nec a creatura / nec
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>a toto mundo. Secundo: anima est mutabilis et 
+      <lb ed="#C" n="62"/>angelus: non autem deus. de quo psalmista vere 
+      <lb ed="#C" n="63"/>ait. Tu autem idem es et anni tui non deficient. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="138-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d82624"><!-- l2d33q1 -->
+            <head xml:id="jb2v19-d82624-Hd1e101">Quaestio 1</head>
+            <head xml:id="jb2v19-d82624-Hd1e103" type="question-title">An decedentes cum originali solo puniantur poena sensus</head>
+            <p xml:id="jb2v19-d82624-d1e106">
+               <lb ed="#C" n="82"/>QUeritur circa hanc distinctionem 
+      <lb ed="#C" n="83"/>an decedentes cum 
+      origina<lb ed="#C" n="84" break="no"/>li solo puniantur pena sensus. 
+   </p>
+            <p xml:id="jb2v19-d82624-d1e115">
+               <lb ed="#C" n="85"/>¶ Scito hic esse viam ferme 
+      <lb ed="#C" n="86"/>omnium: quod paruuli solum pena 
+      <lb ed="#C" n="87"/>damni puniantur. <name xml:id="jb2v19-d82624-Nd1e123">Gregorius 
+      <lb ed="#C" n="88"/>ariminensis</name>. tamen hoc 
+      reuo<lb ed="#C" n="89" break="no"/>cat in dubium.
+   </p>
+            <p xml:id="jb2v19-d82624-d1e131">
+      ¶ Propterea 
+      <lb ed="#C" n="90"/>pono conclusiones: quarum prima est. Paruuli non 
+      pu<lb ed="#C" n="91" break="no"/>niuntur pena sensus. probatio. puniuntur perpetuo et 
+      <lb ed="#C" n="92"/>pena mitissima secundum Augusti. Enchiridion. l 
+      <lb ed="#C" n="93"/>dicentem: mitissima enim pena eorum erit qui 
+      pre<lb ed="#C" n="94" break="no"/>ter peccatum originale quod traxerunt nullum 
+      insuper<lb ed="#C" n="95" break="no"/>addiderunt. sed non esset mitissima si pena 
+      sensibi<lb ed="#C" n="96" break="no"/>li punirentur. quod probo. da quod puniant vno gradu 
+      <lb ed="#C" n="97"/>pena sensus. aliquis adultus punitur quattuor 
+      gradi<lb ed="#C" n="98" break="no"/>bus. alius duobus / qui in subduplo minus 
+      pecca<lb ed="#C" n="99" break="no"/>uit. et aliquis vno gradum. et per consequens pena 
+      par<lb ed="#C" n="100" break="no"/>uulorum non erit mitissima: cuius oppositum dicit 
+      Au<lb ed="#C" n="101" break="no"/>gusti.
+   </p>
+            <p xml:id="jb2v19-d82624-d1e161">
+      ¶ Ipsuper: puuli numquam habent actum malum in 
+      se<lb ed="#C" n="102" break="no"/>liberum nec commissiue nec omissiue. et deus punit quod 
+      <lb ed="#C" n="103"/>tra condignu. non est verosimile aliquo pacto quod de 
+      <lb ed="#C" n="104"/>puniret eos pena sensus.
+   </p>
+            <p xml:id="jb2v19-d82624-d1e170">
+      ¶ Preterea: hec est 
+      opi<lb ed="#C" n="105" break="no"/>nio magistri et ab omnibus scriptoribus in sententuis 
+      <lb ed="#C" n="106"/>tenta: Grego. dempto: qui hoc in dubium reuocat: et 
+      <lb ed="#C" n="107"/>male.
+   </p>
+            <p xml:id="jb2v19-d82624-d1e179">
+      ¶ Preterea: adhuc probatr conclusio auctoritate 
+      <lb ed="#C" n="108"/>romani pontificis in. c. maiores. de baptismo et eius 
+      <lb ed="#C" n="109"/>effectu. patet in. §. Set adhuc: vrsiculo: preterea. vbi 
+      <lb ed="#C" n="110"/>innocentius tertius dicit. praeterea / pena originalis 
+      pe<lb ed="#C" n="111" break="no"/>cati est carentia visionis dei: actualis vo pena peccat ae/ 
+      <lb ed="#C" n="112"/>est gehenne perpetuus cruciatus. sed hanc decretalem 
+      <lb ed="#C" n="113"/>Grego. paruertit. et qui stat in verbis Augusti. 
+      ponde<lb ed="#C" n="114" break="no"/>rando sensum quem verba prima fronte dant: non 
+      fa<lb ed="#C" n="115" break="no"/>cit hoc romani pontificis determinationi. 
+      manifa<lb ed="#C" n="116" break="no"/>stum est quod pontifex illic nihil aliud vult in loco ad 
+      <lb ed="#C" n="117"/>legato nisi quod originale in baptismo non separatur 
+      <lb ed="#C" n="118"/>a mortali. opposito dato / infert: aliquis punietur 
+      pe<lb ed="#C" n="119" break="no"/>na sensus et non pena dampni. pena pensus / ratione 
+      ac<lb ed="#C" n="120" break="no"/>tualis. et cum originale est ablatum: non punietur pena
+      <pb ed="#V" n="138-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>Idamni / sed fateor probatio illa p ontificis non 
+      conclu<lb ed="#C" n="2" break="no"/>dit. sufficit quod alie concludant. dato quod originale esset 
+      <lb ed="#C" n="3"/>ablatum: manente actuali mortali cui debetur pena 
+      <lb ed="#C" n="4"/>sensus: adhuc mortali etiam debetur pena dampni: 
+      <lb ed="#C" n="5"/>quod tangit glosa de probatione pontificis non concludente 
+      <lb ed="#C" n="6"/>dicens post obiectionem. vbi aliquid debetur ex pluribus 
+      <lb ed="#C" n="7"/>causis: vna remissa alia petitio restat. vnde qui 
+      re<lb ed="#C" n="8" break="no"/>pudiauit successionem per vnde liberi admittitur ad 
+      suc<lb ed="#C" n="9" break="no"/>cessionem per vnde cognati. ff. de suc. edi le. I06. sed et videm 
+      <lb ed="#C" n="10"/>do. concludendo dicit glosa: hec ratio superficia 
+      <lb ed="#C" n="11"/>lis est: ac si diceret: probatio est nulla: quod est verum. 
+      <lb ed="#C" n="12"/>alia probatio est bona quod deus hec peccata non 
+      diui<lb ed="#C" n="13" break="no"/>dit. nec mirabitur Grego. quando. b. Augusti. ponit 
+      con<lb ed="#C" n="14" break="no"/>clusiones catholicas. et probationes apponit. 
+      li<lb ed="#C" n="15" break="no"/>cet doctores videant conclusionem suam vera: 
+      frequen<lb ed="#C" n="16" break="no"/>ter dicunt: aliqua probationes vel aliqua / non concludit. 
+      il<lb ed="#C" n="17" break="no"/>lic tam textus rotundus quam glosa in verbis textus 
+      <lb ed="#C" n="18"/>stans / supponunt quod originali peccato solum pena dam 
+      <lb ed="#C" n="19"/>ni debetur. glosa ergo Gregorii. ad textum est glosa 
+      <lb ed="#C" n="20"/>aureliams.
+   </p>
+            <p xml:id="jb2v19-d82624-d1e257">
+      ¶ Amplius. vbi christus Matthei 25. 
+      <lb ed="#C" n="21"/>loquitur de agnis et hedis positis ad dexteram et 
+      si<lb ed="#C" n="22" break="no"/>nistram / et de igne perpetuo: prmittit peccata alia: vt patet 
+      <lb ed="#C" n="23"/>litteram intuenti. modo praecedentia et sequentia 
+      illumi<lb ed="#C" n="24" break="no"/>nant intellectum. ergo istud nullomodo est de paruulis 
+      tra<lb ed="#C" n="25" break="no"/>cendum.
+   </p>
+            <p xml:id="jb2v19-d82624-d1e270">
+      ¶ Finaliter sic argumentor nullomodo est 
+      di<lb ed="#C" n="26" break="no"/>tendum quod paruuli puniant pena sensus qui nihil 
+      vn<lb ed="#C" n="27" break="no"/>personaliter egerunt commissiue vel omissiue nisi ex 
+      scti<lb ed="#C" n="28" break="no"/>ptura sacta / deterinationibus conciliorum / vel auctoritate 
+      <lb ed="#C" n="29"/>autentica / probaretur. sed oppositum huius concsonis non 
+      <lb ed="#C" n="30"/>potest propari vlla auctoritateauctentica. quia si sic: 
+      <lb ed="#C" n="31"/>maxime esset aliquo sono verborum Augusti. sed 
+      <lb ed="#C" n="32"/>hoc non: quia repugnaret sibi si diceret oppositum 
+      vi<lb ed="#C" n="33" break="no"/>so quod in particulari de eis loquens dicit quod mitissima 
+      <lb ed="#C" n="34"/>pena puniuntur. ergo propositiones alie sonum in opprnteum 
+      ha<lb ed="#C" n="35" break="no"/>bentes sunt exponende: potissimum in parte rigida. sa 
+      <lb ed="#C" n="36"/>cra hystoria expositionem patitur. ergo vbi potest rationabi 
+      <lb ed="#C" n="37"/>liter exponi: non debet adduci in opinionem rigidam 
+      <lb ed="#C" n="38"/>contra sententias omnium et romani pontificis.
+   </p>
+            <p xml:id="jb2v19-d82624-d1e301">
+      ¶ Contra 
+      <lb ed="#C" n="39"/>hanc conclusionem arguitur auctoritate bti Augu. de fide ad 
+      <lb ed="#C" n="40"/>petrum. c. 27. dicentis. firmissime tene et nullatenus 
+      <lb ed="#C" n="41"/>dubita non solum homines iam ratione vtentes: verum etiam 
+      <lb ed="#C" n="42"/>paruulos: qui siue in vtero matrum incipiunt viuere 
+      <lb ed="#C" n="43"/>et ibi moriuntur: siue iam de mribus nati sunt sine 
+      <lb ed="#C" n="44"/>sacramento sacri baptismatis quod datur in nomine 
+      pa<lb ed="#C" n="45" break="no"/>tris et filii et spiritussancti de hoc seculo transer 
+      <lb ed="#C" n="46"/>ignis eterni supplicio puniendos: quia et si peccatu 
+      <lb ed="#C" n="47"/>proprie actionis nullum habuerunt originalis tamen peccati 
+      <lb ed="#C" n="48"/>danatione carnali conceptione traxert. constat autem quod 
+      <lb ed="#C" n="49"/>supplicium ignis eterni / pena illa est inferni quae dicitur 
+      <lb ed="#C" n="50"/>pena sensus.
+   </p>
+            <p xml:id="jb2v19-d82624-d1e331">
+      ¶ Ad hanc auctoritatem duplex 
+      so<lb ed="#C" n="51" break="no"/>let dari solutio: quarum altera est. Augustinus 
+      exces<lb ed="#C" n="52" break="no"/>siue locutus est vt se magis elogaret a sententia 
+      <lb ed="#C" n="53"/>hereticorum / in paruulis omnem culpam negantium est 
+      <lb ed="#C" n="54"/>per consequens omnem penam.
+   </p>
+            <p xml:id="jb2v19-d82624-d1e342">
+      ¶ Secunda 
+      solutio<lb ed="#C" n="55" break="no"/>est. Augustinus nomine ignis omnem pena significat. 
+      <lb ed="#C" n="56"/>vnede per ignis eterni supplicium eterna pena 
+      intel<lb ed="#C" n="57" break="no"/>ligit. penam autem / non sensus: sed dampni.
+   </p>
+            <p xml:id="jb2v19-d82624-d1e351">
+      ¶ Contra 
+      <lb ed="#C" n="58"/>priorem solutionem arguit Grego. dicens: hec 
+      respon<lb ed="#C" n="59" break="no"/>sio nullatenus potest stare. primo quida: cum 
+      fal<lb ed="#C" n="60" break="no"/>sitas falsitate excludi non debeat: nec vbi fides ve¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>ra defenditur sit dicendus error vel falsa sententia 
+      <lb ed="#C" n="62"/>asserenda. non est existimandum quod Augustinus 
+      exi<lb ed="#C" n="63" break="no"/>mius extirpator errorum / et veridicus fidei 
+      defen<lb ed="#C" n="64" break="no"/>sator / propter quemcuque excludendum errorem dixisset 
+      <lb ed="#C" n="65"/>firmiter esse credendum pueros ignis supplicio 
+      pu<lb ed="#C" n="66" break="no"/>niendos: si hoc falsum aut non recte fidei consonum 
+      <lb ed="#C" n="67"/>existimasset. secundo quia in illo libro Augusti 
+      contra<lb ed="#C" n="68" break="no"/>nullum specialem errorem loqutur: sed coniter fidei quoa 
+      <lb ed="#C" n="69"/>tholice canones tradit cuilibet permittens firmiter 
+      <lb ed="#C" n="70"/>tenendum: et de omnibus in vniuersali dicit. hc. 4. a. ad 
+      <lb ed="#C" n="71"/>regulam vere fidei firmissime peartinentia fidelite 
+      <lb ed="#C" n="72"/>certe fortiter tene: veraciter / patienterque 
+      defen<lb ed="#C" n="73" break="no"/>de. et si quem contraria his dogmatizare 
+      cognoue<lb ed="#C" n="74" break="no"/>ris tanquam pestem fuge et tanquam hereticum ab isce. ista 
+      <lb ed="#C" n="75"/>enim que posuimus fidei catholice congruit: vt si quis 
+      <lb ed="#C" n="76"/>non solum omnibus sed etiam singulis voluerit contra ire 
+      <lb ed="#C" n="77"/>in eo quod singulis horum contumaciter repugnat et 
+      <lb ed="#C" n="78"/>his contraria docere non dubitet hereticus et fidei 
+      <lb ed="#C" n="79"/>plane inimicus atque ex hoc omnibus catholicis 
+      ana<lb ed="#C" n="80" break="no"/>thematisandus appareat. hec Augusti. postea 
+      ad<lb ed="#C" n="81" break="no"/>dit Grego. colorem replice. non autem debet cadere 
+      <lb ed="#C" n="82"/>in mentem alicuius theologi quod inter tales regulas 
+      <lb ed="#C" n="83"/>fidei Augusti. potuisset aliquod falsum secundum signtionem 
+      <lb ed="#C" n="84"/>quam primo facit comnuniter apud omnes: sicut in 
+      proposi<lb ed="#C" n="85" break="no"/>to / si dicta responsio esset vera.
+   </p>
+            <p xml:id="jb2v19-d82624-d1e416">
+      ¶ Confirmatur hoc 
+      <lb ed="#C" n="86"/>quia cum huius regule oppositum nullibi inueniatur 
+      <lb ed="#C" n="87"/>ab ecclesia determinatum: nec in sacra scriptura 
+      pre<lb ed="#C" n="88" break="no"/>dicatum: quae ptante dicis eum hoc non fuisse proprie et 
+      ve<lb ed="#C" n="89" break="no"/>re: sed excessiue locutum. dicet alius similiter in aliis 
+      <lb ed="#C" n="90"/>regulis ibidem per eum praepositis fuisse locutum 
+      ex<lb ed="#C" n="91" break="no"/>cessiue: et non vt sonant illas tenendas esse.
+   </p>
+            <p xml:id="jb2v19-d82624-d1e432">
+      ¶ Ad 
+      re<lb ed="#C" n="92" break="no"/>plicas Grego. nego illud assumptum quod dicit / hec 
+      so<lb ed="#C" n="93" break="no"/>lutio nullatenus potest stare. poterat videre has 
+      au<lb ed="#C" n="94" break="no"/>ctoritates in gratiano recitatas et concordatas: de 
+      <lb ed="#C" n="95"/>consecra. distinctione 4. c. firmissime. c. 
+      regeneran<lb ed="#C" n="96" break="no"/>te. et sic nulla est ratio negationis: dato quod .b. 
+      Au<lb ed="#C" n="97" break="no"/>gustinus diceret oppositum et btus Grego. non 
+      crede<lb ed="#C" n="98" break="no"/>rem vtrique: vilo quod romanus potifex 
+      profundissimie<lb ed="#C" n="99" break="no"/>et exercitatissimi theologi ia a quadringentis ad 
+      <lb ed="#C" n="100"/>nis agminatim dicut oppositum. et dictum doctorm 
+      <lb ed="#C" n="101"/>est rationabile et humanum. patet ex probatione conclusionis. 
+      <lb ed="#C" n="102"/>istud patet ex dictis in secunda quione prologi quarti snnarum. 
+      <lb ed="#C" n="103"/>nullomodo fuisset creditum Augustino: quod 
+      perue<lb ed="#C" n="104" break="no"/>ri sunt in peccato originali nati: nisi quia ex 
+      <lb ed="#C" n="105"/>blia id deduci potest: et determinatum est in 
+      con<lb ed="#C" n="106" break="no"/>cilio milenitano: vt de consecratione di. 4. 
+      vide<lb ed="#C" n="107" break="no"/>re potes. cui concilio Augusti. et Anselmus romane 
+      <lb ed="#C" n="108"/>sedis legatus interfuerunt vt dicit apparatus. hic 
+      au<lb ed="#C" n="109" break="no"/>tem non adducit aliquod tale: nec adducere potest. 
+      Se<lb ed="#C" n="110" break="no"/>cundo dico Augusti. nullomodo est in oppm. non contradim 
+      <lb ed="#C" n="111"/>cit sibi. ex dictis in enchiridion sequitur oppositum: 
+      <lb ed="#C" n="112"/>set in de baptismo paruulorum. et recitat gratianus de 
+      <lb ed="#C" n="113"/>consecra. dist. 4. c. Nulla: vbi sic dicitur. nulla praeter 
+      ba<lb ed="#C" n="114" break="no"/>ptismum salus prmittitur infantibus. quia infantes si 
+      per<lb ed="#C" n="115" break="no"/>sacramentum quod ad hoc est diuinitus institutum in 
+      cre<lb ed="#C" n="116" break="no"/>dentium nuerum non traseunt: in tenebris manent. 
+      ecce<lb ed="#C" n="117" break="no"/>apte dicit puniuntur pena dampni: de alia pena 
+      si<lb ed="#C" n="118" break="no"/>lens. et quando solum essent auctoritates sue quae 
+      videnturop<lb ed="#C" n="119" break="no"/>posite: et nulle alie auctoritates vel aliorum rationes: 
+      <lb ed="#C" n="120"/>oportet capere partem habuaniorem / et aliam conformiter
+      <pb ed="#V" n="139-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>ad illam exponere sicut toto die facimus. dico 
+      er<lb ed="#C" n="2" break="no"/>go quod excessiue locutus est contra illos hereticos: 
+      <lb ed="#C" n="3"/>sicut concionator facit declamando. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

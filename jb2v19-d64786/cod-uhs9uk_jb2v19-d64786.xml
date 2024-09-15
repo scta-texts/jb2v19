@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="109-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d64786"><!-- l2d22q1 -->
+            <head xml:id="jb2v19-d64786-Hd1e101">Quaestio 1</head>
+            <head xml:id="jb2v19-d64786-Hd1e103" type="question-title">An peccatum Adae fuerit peccato Evae gravius</head>
+            <p xml:id="jb2v19-d64786-d1e106">
+               <lb ed="#C" n="70"/>IN hac distinctione 22 duo inquiram 
+      <lb ed="#C" n="71"/>primo de grauitate peccati ade an peccatum o 
+      <lb ed="#C" n="72"/>ade fuerit peccato eue grauius 2. 
+      magi<lb ed="#C" n="73" break="no"/>U U Uster loquitur de ignorantia. seo inquiram 
+      <lb ed="#C" n="74"/>an peccatum ade et cuiusset alterius excuset ignoram 
+      <lb ed="#C" n="75"/>tia.
+   </p>
+            <p xml:id="jb2v19-d64786-d1e122">
+      ¶ Quoad primum supponatur vna distinctio 
+      <lb ed="#C" n="76"/>quod vnum peccatum potest alio dici maius multis modis 
+      <lb ed="#C" n="77"/>Unomo quia maiori bono formaliter opponitur. et si 
+      <lb ed="#C" n="78"/>odium dei est pessimum inter peccata. quia dilectioni dei que 
+      <lb ed="#C" n="79"/>est actus optimus opponitur. modo meliori 
+      aciu<lb ed="#C" n="80" break="no"/>peior opponitur. vnum peccatu est etia alio maius . 
+      U<lb ed="#C" n="81" break="no"/>quia pluribus difformitatibus est inuolutum. et sic est 
+      <lb ed="#C" n="82"/>fratri minori maius peccatum frangere ieiunium: 
+      <lb ed="#C" n="83"/>in die veneris prime ebdomadem integre in 
+      ouan<lb ed="#C" n="84" break="no"/>dragesima quad sn alio die veneris. ratio. quia pluribus 
+      <lb ed="#C" n="85"/>preceptis contrait. ergo suus actus pluribus 
+      diffor<lb ed="#C" n="86" break="no"/>mitatibus est inuolutus. cum tribus perceptis contra 
+      <lb ed="#C" n="87"/>uenit: tres virtualiter difformitates inuoluit. hoc 
+      <lb ed="#C" n="88"/>modo cauncellarius et examinatores examinis 
+      san<lb ed="#C" n="89" break="no"/>cte genouefes plus peccant quam examinatores 
+      no<lb ed="#C" n="90" break="no"/>stre domine. ratio. cum hoc quod hi et illi iusticie 
+      distribu<lb ed="#C" n="91" break="no"/>tiue de honore impartiendo contraueniunt. superiores / 
+      <lb ed="#C" n="92"/>iurant: non autem inferiores. 3. ex interiori actu volun¬ quo 
+      <lb ed="#C" n="93"/>tatis vnus actus est alio peior. 4. ex maiore seque¬ . 
+      <lb ed="#C" n="94"/>la dampni vt de peccato ade contigit. quito ex minore 
+      <lb ed="#C" n="95"/>allectiuo ad peccandum. sexto ex circunstantia 
+      pro<lb ed="#C" n="96" break="no"/>ingratitudinis homo qui est magis dotatus 
+      naturali<lb ed="#C" n="97" break="no"/>bus vel gratustis a deo quod alter is plus peccat et 
+      <lb ed="#C" n="98"/>scpeccatum viri mulieris peccatum exuperat. plus prudet 
+      <lb ed="#C" n="99"/>et stabilitatis habet vir quod mulier. ex illo patet: vnum 
+      <lb ed="#C" n="100"/>peccatum potest aliud in vna circunstantia excedere 
+      <lb ed="#C" n="101"/>et excedi ab eodem in alia vel in pluribus. tunc 
+      respi<lb ed="#C" n="102" break="no"/>ciendum est ad illud quod absolute plus grauitatis 
+      <lb ed="#C" n="103"/>habet.
+   </p>
+            <p xml:id="jb2v19-d64786-d1e185">
+      ¶ his praemissis pono conclusiones questioni 
+      <lb ed="#C" n="104"/>responsiuas: quarum prima est. Peccatum eue fuit grauius 
+      <lb ed="#C" n="105"/>peccato ade. probatur hec conclusio. eua plus a deo 
+      <lb ed="#C" n="106"/>punita est quod adam: ergo peccatum eius fuit maius 
+      <lb ed="#C" n="107"/>peccato ade consequentia tenet de pena inflicta: peccato non 
+      <lb ed="#C" n="108"/>plus perturbante rempublicam quam aliud. rapma vel 
+      <lb ed="#C" n="109"/>furtum in mundo plus punitur in foro exteriori 
+      <lb ed="#C" n="110"/>quam adulterium: quia vnum est cum violentia: aliud sine 
+      vio<lb ed="#C" n="111" break="no"/>lentia et occltu putatum. antecedens patet: maior est pena a deo 
+      <lb ed="#C" n="112"/>mulieri inflicta quam viro. patet genesis. 3 mulieri 
+      da<lb ed="#C" n="113" break="no"/>tum est in dolore parere et in partu est magnus dolor vt scrip 
+      <lb ed="#C" n="114"/>tura dicit est dolor similis parturienti. viro solum datum 
+      <lb ed="#C" n="115"/>est in sudore vultus vesci suo pane.
+   </p>
+            <p xml:id="jb2v19-d64786-d1e215">
+      ¶ Item: mulier 
+      <lb ed="#C" n="116"/>postquam peccato aditum pdredit appetiit scire sicut deus et 
+      dia<lb ed="#C" n="117" break="no"/>bolo credidit
+   </p>
+            <p xml:id="jb2v19-d64786-d1e222">
+      ¶ Secundo mlier seipsam et virum in peccatum io 
+      <lb ed="#C" n="118"/>praecipitauit. vir autem non precipitauit mulierem in 
+      <lb ed="#C" n="119"/>peccatum. sed magnum allectiuum habuit a meliere ad 
+      pec<lb ed="#C" n="120" break="no"/>candum vltra instigationem diaboli vltra habuit pulcram
+      <pb ed="#V" n="109-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>mulierem et bene plasmatam / dotes nature habentem: quam 
+      <lb ed="#C" n="2"/>tristem vidit. quia prima fronte adam concedere noluit. nec 
+      <lb ed="#C" n="3"/>aliam humana societatem habuit. alliciebatur ergo 
+      pro<lb ed="#C" n="4" break="no"/>thoparens tristicie materiam a coniuge auferre. 
+      muli<lb ed="#C" n="5" break="no"/>er tamen immediate fuit temptata ab hoste: non Adam. 
+   </p>
+            <p xml:id="jb2v19-d64786-d1e246">
+               <lb ed="#C" n="6"/>¶ Tertio: cum maiori libidine et intensius peccauit 
+      <lb ed="#C" n="7"/>4  grc et  c. mulier quod vir: et in plura peccata descendit in illo 
+      pro<lb ed="#C" n="8" break="no"/>7. gressu quod vir. ergo pius intestue et extesiue in isso 
+      pro<lb ed="#C" n="9" break="no"/>gressu peccauit quod vir. peccatum mulieris ex maiori 
+      su<lb ed="#C" n="10" break="no"/>perbia processit quam peccatum viri. volebat assimilari 
+      <lb ed="#C" n="11"/>deo. credebat istud posse fieri peccato iam admisso. 
+      pri<lb ed="#C" n="12" break="no"/>me a Thi. 2. Uir non est seductus sed mulier. vir 
+      ser<lb ed="#C" n="13" break="no"/>penti non credidit: mulier autem aures accommodauit. 
+      <lb ed="#C" n="14"/>nec excusando se ad deum dixit mulier decepit 
+      me<lb ed="#C" n="15" break="no"/>sed mulier quam dedisti mihi sociam dedit mihi et 
+      co<lb ed="#C" n="16" break="no"/>medi. in vtroque fuit inobedientia et gula.
+   </p>
+            <p xml:id="jb2v19-d64786-d1e272">
+      ¶ Secunda 
+      <lb ed="#C" n="17"/>conclusio. licet peccatum ade non erat maximum / fuit tamen multum 
+      <lb ed="#C" n="18"/>graue. hec conclusio habe duas partes: quarum prior est. non 
+      <lb ed="#C" n="19"/>erat maximu. patet. non erat grauius nature vel 
+      imme<lb ed="#C" n="20" break="no"/>diate contra deum: sed solum contra ius positiuum diuinum de non 
+      <lb ed="#C" n="21"/>comedendo illo fructu.
+   </p>
+            <p xml:id="jb2v19-d64786-d1e285">
+      ¶ Insuper. adam consecutus eut 
+      sui<lb ed="#C" n="22" break="no"/>peccati remissionem: paritr et eua: non autem demo. 
+      Secun<lb ed="#C" n="23" break="no"/>da pars patet ex distictione. 7. Prior pars patet. Sapientie 
+      <lb ed="#C" n="24"/>t0. qui prius formatus est a deo pater orbis terrarum cum 
+      <lb ed="#C" n="25"/>solus esset creatus custodiuit et eduxit illum a 
+      deli<lb ed="#C" n="26" break="no"/>cto suo. hoc dicit Aug. in eplia ad Enodium: et 
+      Ansel<lb ed="#C" n="27" break="no"/>mus secundo libro cur deus homo. modo peccatum irremissibile. 
+      <lb ed="#C" n="28"/>le est remissibili maius.
+   </p>
+            <p xml:id="jb2v19-d64786-d1e303">
+      ¶ Secunda pars concionis 
+      <lb ed="#C" n="29"/>patet. Ex pccato ade secuta sunt multa mala tam pene 
+      <lb ed="#C" n="30"/>quod culpe in mundo. ergo sequitur quod ade peccatum erat 
+      <lb ed="#C" n="31"/>grande: et a fortiori eue ex conclusione precedenti 
+   </p>
+            <p xml:id="jb2v19-d64786-d1e313">
+               <lb ed="#C" n="32"/>¶ Contra conclusionem priorem arguitur. adam erat multo 
+      <lb ed="#C" n="33"/>oculatior muliere: et meliora consecutus est naturalia 
+      <lb ed="#C" n="34"/>quam mulier. ergo grauius transgrediendo peccauit. tet 
+      <lb ed="#C" n="35"/>consequentia per dictum gregorii: homelia super illud mat 
+      <lb ed="#C" n="36"/>thei. 25. ho quidam peregre proficiscens: et recitamus 
+      <lb ed="#C" n="37"/>in communi confessorum: considerare admonemur ne nos qui 
+      <lb ed="#C" n="38"/>plus ceteris in hoc mundo aliquid accepisse cernimur 
+      <lb ed="#C" n="39"/>ab actore mundi guius inde iudicemur
+   </p>
+            <p xml:id="jb2v19-d64786-d1e333">
+      ¶ Secundo 
+      <lb ed="#C" n="40"/>non erat praeceptum datum melieri ne comederet: sed 
+      soli<lb ed="#C" n="41" break="no"/>ade ante mulierem plasmatam.
+   </p>
+            <p xml:id="jb2v19-d64786-d1e340">
+      ¶ Sed hinc dices (et 
+      <lb ed="#C" n="42"/>recte) vir mulieri signfuit / secundum illud apotoli de muliere 
+      <lb ed="#C" n="43"/>loquentis. Si quid dicere voluerint bomi viros suos 
+      <lb ed="#C" n="44"/>interrogent. quod conuincitur ex responsione mulieris ad 
+      <lb ed="#C" n="45"/>diabolum. dixit: praecepit nobis deus. etc. et ante mulie 
+      <lb ed="#C" n="46"/>rem conditam ade dixit deus pluraliter: de ligno scientie 
+      <lb ed="#C" n="47"/>boni et mali ne comedatis
+   </p>
+            <p xml:id="jb2v19-d64786-d1e356">
+      ¶ Contra. eua non 
+      pote<lb ed="#C" n="48" break="no"/>rat ita cito intelligere adam licet poterant imponere idio 
+      <lb ed="#C" n="49"/>ma successu temporis et intelligere seminuicem: tamen in tam 
+      <lb ed="#C" n="50"/>breui tempore non videtur quo mulier virum intellige 
+      <lb ed="#C" n="51"/>ret
+   </p>
+            <p xml:id="jb2v19-d64786-d1e367">
+      ¶ Respondetur. primum argumentum bene probat quo ad 
+      <lb ed="#C" n="52"/>aliqua circunstatiam peccatum ade habuit augmentum 
+      super<lb ed="#C" n="53" break="no"/>peccatum mulieris: tamen illa circunstantia non tantum facit ad 
+      <lb ed="#C" n="54"/>magnitudinem peccati sicut alia quae in muliere concurrunt. 
+   </p>
+            <p xml:id="jb2v19-d64786-d1e376">
+               <lb ed="#C" n="55"/>¶ Ad secundum responsum est interarguendum similiter 
+      sufficien<lb ed="#C" n="56" break="no"/>ter ad finem vsque exclusiue. eua satis bene adam 
+      intelle<lb ed="#C" n="57" break="no"/>xit. licet quo ad bruta et multa alia / adam rebus nomina 
+      impo<lb ed="#C" n="58" break="no"/>suit / vt sacra genesis canit hystoria.
+   </p>
+            <p xml:id="jb2v19-d64786-d1e388">
+      ¶ Contra 
+      prio<lb ed="#C" n="59" break="no"/>rem partem secunde conclusionis cum sua probatione arguitur 
+      <lb ed="#C" n="60"/>sic. adam habuit iusticiam orignalem: et erat creatus in 
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>gratia vt vosimilius est. Demon non habuit iusticiam 
+      ori<lb ed="#C" n="62" break="no"/>ginalem: nec tantum auxilii ad resistendum. ergo adam plus 
+      pec<lb ed="#C" n="63" break="no"/>cauit quam demon. tet consequentia secundum Aug. 14 de ciuitate dei. 
+      <lb ed="#C" n="64"/>c. 12. dicentem quod praeceptum quod violauit adam tanto 
+      maio<lb ed="#C" n="65" break="no"/>re iniusticia violatum est quanto faciliori possit 
+      obfuan<lb ed="#C" n="66" break="no"/>tia custodiri.
+   </p>
+            <p xml:id="jb2v19-d64786-d1e410">
+      ¶ Secundo arguitur. adam non peccauit ex 
+      infi<lb ed="#C" n="67" break="no"/>mitate vel ex ignorantia. ergo peccauit ex electione. et 
+      <lb ed="#C" n="68"/>per consequens peccatum suum fuit maximum.
+   </p>
+            <p xml:id="jb2v19-d64786-d1e417">
+      ¶ Tertio 
+      argui<lb ed="#C" n="69" break="no"/>tur. per illud glo. quae non rapui tunc exoluebam. Adam et 
+      <lb ed="#C" n="70"/>eua rapere voluerunt diuinitatem et perdiderunt 
+      felio<lb ed="#C" n="71" break="no"/>tatem. mo rapare diuinitatem es maximum peccatum: vt 
+      pa<lb ed="#C" n="72" break="no"/>tuit dist. 6. huius / de primo angelo: et diuinitas est 
+      mi<lb ed="#C" n="73" break="no"/>nus homin proportionata. ergo multo magis 
+      pecca<lb ed="#C" n="74" break="no"/>uit adam quam demon.
+   </p>
+            <p xml:id="jb2v19-d64786-d1e433">
+      ¶ Quarto arguitur ad idem. quae to peccatum 
+      <lb ed="#C" n="75"/>est magis nociuum tanto est grauius. sic est de pccato 
+      ade<lb ed="#C" n="76" break="no"/>quia per illud tota natura huana ab eo descendens est 
+      <lb ed="#C" n="77"/>infecta.
+   </p>
+            <p xml:id="jb2v19-d64786-d1e442">
+      ¶ Quinto: maiori pena punitum est peccatum 
+      ade<lb ed="#C" n="78" break="no"/>quam peccatum alicuius. ergo est maius. antecedens patet. non solum in 
+      adam<lb ed="#C" n="79" break="no"/>sed in tota posteritate.
+   </p>
+            <p xml:id="jb2v19-d64786-d1e449">
+      ¶ Ad primum concedo quod 
+      habu<lb ed="#C" n="80" break="no"/>it iusticia: sed demon plus habuit: praeclarissima natura 
+      <lb ed="#C" n="81"/>lia et nullam rebellionem intrisecam. multograuius 
+      pecca<lb ed="#C" n="82" break="no"/>uit fuit lucifer aliis demonibus causa ruine: et cum proc 
+      pri<lb ed="#C" n="83" break="no"/>mis parentibus.
+   </p>
+            <p xml:id="jb2v19-d64786-d1e461">
+      ¶ Ad secundum concedo quod 
+      pec<lb ed="#C" n="84" break="no"/>cauit adam ex electione. sed non sequitur quod est maximum 
+      <lb ed="#C" n="85"/>et patet de illo qui ex electione dicit verbum iocosum vel 
+      ve<lb ed="#C" n="86" break="no"/>nialiter peccat. concedo tamen quod peccatum ex electione 
+      cir<lb ed="#C" n="87" break="no"/>ca idem obsiectum et ceteris paribus hoc dempto quod ipsum est ex 
+      <lb ed="#C" n="88"/>electione et alia duo peccata sunt ex ignorantia vel 
+      infir<lb ed="#C" n="89" break="no"/>mitate: est maius altero duorum. Ratio. quodibet alio 
+      <lb ed="#C" n="90"/>rum duorum habet causam ipsum alleuiantem.
+   </p>
+            <p xml:id="jb2v19-d64786-d1e479">
+      ¶ Ad tertium dico 
+      <lb ed="#C" n="91"/>quod adam non appetiit equelitatem dei directe et 
+      formali<lb ed="#C" n="92" break="no"/>ter: sed solum interpretatiue: ad hunc sensum quod suam 
+      vo<lb ed="#C" n="93" break="no"/>luntatem voluntati dei praeponebat: more anselmi 
+      lo<lb ed="#C" n="94" break="no"/>quendo de casu diaboli quod omnis peccans vult rapere 
+      <lb ed="#C" n="95"/>equalitatem dei.
+   </p>
+            <p xml:id="jb2v19-d64786-d1e492">
+      ¶ Ad quartum ditur ferme similiter sic ad 
+      <lb ed="#C" n="96"/>primum. peccatum angeli fuit magis nociuum peccato 
+      adde<lb ed="#C" n="97" break="no"/>Prinmo fuit magis nociuum angelo quam peccatum ade fuit 
+      <lb ed="#C" n="98"/>nociuum ade. Etiam peccatum ageli fuit ca peccati tam agelis 
+      <lb ed="#C" n="99"/>quam homimbus.
+   </p>
+            <p xml:id="jb2v19-d64786-d1e503">
+      ¶ Ad quintum nego quod peccatum ade fuit 
+      ma<lb ed="#C" n="100" break="no"/>gis punitum in adam quam in demone. chris in resurrectione 
+      eri<lb ed="#C" n="101" break="no"/>puit adam a limbo patrum. demon continuo punitur in orco. 
+      <lb ed="#C" n="102"/>Alii ab adam descendentes pro propriis suis peccatis 
+      pu<lb ed="#C" n="103" break="no"/>niuntur: et non pro peccato ade. Fateor tamen propter mala quae 
+      se<lb ed="#C" n="104" break="no"/>quenda erant vosimiliter ipsi ade: aggrauabatur 
+      mali<lb ed="#C" n="105" break="no"/>cia sui peccati. sed ipse non sciebat tot mala euenire ad 
+      <lb ed="#C" n="106"/>trangressionem suam / nec scire tenebatur. si adam debuit 
+      <lb ed="#C" n="107"/>dampnari pro illo peccato: et caym pro abelis occisione 
+      so<lb ed="#C" n="108" break="no"/>lum: multo maior pena inflicta fuisset ipsi caym qua 
+      <lb ed="#C" n="109"/>ade. sortem in exilium mitti cum tota posteritate non est 
+      ta<lb ed="#C" n="110" break="no"/>ta pena sicut platonem dira morte trucidari.
+   </p>
+            <p xml:id="jb2v19-d64786-d1e529">
+      ¶ Sed 
+      <lb ed="#C" n="111"/>dicis. adam debuit euam castigare vt a peccato cessaret 
+      <lb ed="#C" n="112"/>nec demoni crederet. sciebat oppositum verum quod p 
+      <lb ed="#C" n="113"/>esum pomi non fierent sicut deus scientes. hoc debuit 
+      mi<lb ed="#C" n="114" break="no"/>lieri ostendere. et quia non fecit: guitur peccauit.
+   </p>
+            <p xml:id="jb2v19-d64786-d1e540">
+      ¶ 
+      Respon<lb ed="#C" n="115" break="no"/>deo / for te hoc fecit. sed crebro mulieres passionate 
+      <lb ed="#C" n="116"/>plus credunt diabolo quam prudenti viro. et cum ipsa peccatum 
+      <lb ed="#C" n="117"/>et deceptionem iam admisit: inoportune erga virum 
+      insi<lb ed="#C" n="118" break="no"/>stebat quatenus commederet. et hoc a viro prima 
+      <lb ed="#C" n="119"/>fronte impetrare nequiens tristabatur: cuius 
+      tri<lb ed="#C" n="120" break="no"/>sticiam abolere voluit Adam per pomi vetiti¬
+      <pb ed="#V" n="110-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>comestionem.
+   </p>
+            <p xml:id="jb2v19-d64786-d1e563">
+      ¶ Dubitatur. sieua peccasset et non 
+      <lb ed="#C" n="2"/>adam posteritas in peccato originali fuisset concepta 
+      <lb ed="#C" n="3"/>magister sententiarum opinatur quod non. et idem tenet 
+      <lb ed="#C" n="4"/>anselmus libro de conceptu virginali. istud est 
+      rationa<lb ed="#C" n="5" break="no"/>bile. quia precipua cura posteritatis ade et non 
+      mu<lb ed="#C" n="6" break="no"/>lieri comnnicata est: vel deus illo supposito ade creasset 
+      <lb ed="#C" n="7"/>aliam mulierem. vel si secum mansisset eua: et proles 
+      <lb ed="#C" n="8"/>genita fuisset in iusticia originali concepta: iusticia 
+      <lb ed="#C" n="9"/>originalis est dei donum ex carne non dependens 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

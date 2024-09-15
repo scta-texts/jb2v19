@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 11</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 11</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="83-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d49518"><!-- l2d14q11 -->
+            <head xml:id="jb2v19-d49518-Hd1e101">Quaestio 11</head>
+            <head xml:id="jb2v19-d49518-Hd1e103" type="question-title">An cometa significet mortes regum</head>
+            <p xml:id="jb2v19-d49518-d1e106">
+               <lb ed="#C" n="10"/>VNdecimo de commeta et eius 
+      <lb ed="#C" n="11"/>significatione loquendum erit. 
+      <lb ed="#C" n="12"/>quia philosophi et 
+      astrono<lb ed="#C" n="13" break="no"/>mi dant aliquam causalitatem 
+      <lb ed="#C" n="14"/>comete in his inferioribus: que 
+      <lb ed="#C" n="15"/>fortasse commete non conuenit 
+      <lb ed="#C" n="16"/>propterea quero hunc 
+      que<lb ed="#C" n="17" break="no"/>stionis titulum. an commeta si 
+      <lb ed="#C" n="18"/>gnificet mortes regum.
+   </p>
+            <p xml:id="jb2v19-d49518-d1e128">
+      ¶ Pro questionis 
+      solutio<lb ed="#C" n="19" break="no"/>ne notandum venit quod cometa nichil aliud est quam ex 
+      <lb ed="#C" n="20"/>halatio viscosa ignita eleuata a terra ad 
+      supre<lb ed="#C" n="21" break="no"/>mam regionem aeris cum qua circulariter mouetur 
+      <lb ed="#C" n="22"/>Isto notato: ponam conclusiones circa essentia 
+      co<lb ed="#C" n="23" break="no"/>mete: postea circa eius significationem: quia illud 
+      <lb ed="#C" n="24"/>principaliter inquirimus.
+   </p>
+            <p xml:id="jb2v19-d49518-d1e144">
+      ¶ Prima conclusio: 
+      comme<lb ed="#C" n="25" break="no"/>ta non es soniphasis: hoc est cogregatio stellarum 
+      er<lb ed="#C" n="26" break="no"/>rantium simul que lumen suum ad se mutuo 
+      diffun<lb ed="#C" n="27" break="no"/>dunt sicut dixerunt anaxagoras et democritus: 
+      <lb ed="#C" n="28"/>licet illam appollinus insecutus est: vt dicit 
+      se<lb ed="#C" n="29" break="no"/>neca in libro de naturalibus quonibus.
+   </p>
+            <p xml:id="jb2v19-d49518-d1e158">
+      ¶ Secunda 
+      conclu<lb ed="#C" n="30" break="no"/>sio: commeta non est vna de stellis erratibus sicut 
+      <lb ed="#C" n="31"/>dixerunt ithali pithagorici: qui non sine colore 
+      <lb ed="#C" n="32"/>dixerunt. stella erratica interdum soli comiungitur. et tunc 
+      <lb ed="#C" n="33"/>non videtur. sicut raro Mercurius propter solis 
+      vicinita<lb ed="#C" n="34" break="no"/>tem videtur. interdum a sole distat: et tunc videtur. 
+   </p>
+            <p xml:id="jb2v19-d49518-d1e171">
+               <lb ed="#C" n="35"/>¶ Tertia conclusio. Comenta non est stella erratica sict 
+      <lb ed="#C" n="36"/>dicit Ipocras thins. sed vltra pithagoricos 
+      di<lb ed="#C" n="37" break="no"/>xit sol eleuat vaporem sub tali planeta: tunc 
+      lumen<lb ed="#C" n="38" break="no"/>planete refrangitur in hamoni vapore: et apparet 
+      coma<lb ed="#C" n="39" break="no"/>quae tamen pars comete non est: nec est ei contigua. sed quod 
+      <lb ed="#C" n="40"/>sic apparet prouenit propter distantiam nimiam. he tres 
+      <lb ed="#C" n="41"/>conclusiones patent per reprobationes Aristot. I. 
+      Me<lb ed="#C" n="42" break="no"/>theororum.
+   </p>
+            <p xml:id="jb2v19-d49518-d1e191">
+      ¶ Quarta conclusio. Cometa realiter est 
+      ex<lb ed="#C" n="43" break="no"/>halatio calida viscosa et ignita continno mota 
+      cir<lb ed="#C" n="44" break="no"/>culariter in aere ad motum aeris vel influentie 
+      ce<lb ed="#C" n="45" break="no"/>lestis. materia non tota simel incenditur: sed successiue. et 
+      <lb ed="#C" n="46"/>alia exhalatio interdum eleuatur a terra: et propter 
+      <lb ed="#C" n="47"/>ea commeta diu interdum durat: sicut lumen in lampade 
+      <lb ed="#C" n="48"/>per appositionem noui olei. dura re dicitur ad octuagita 
+      <lb ed="#C" n="49"/>dies. Seneca dicit ad medium annum. sed ab 
+      anti<lb ed="#C" n="50" break="no"/>quis experimentatoribus hoc non legimus: quibus 
+      me<lb ed="#C" n="51" break="no"/>rito in hac parte perstanda est fides. ad minus per 77. 
+      <lb ed="#C" n="52"/>dies durat. quod aliter et aliter coloretur: vel in 
+      ma<lb ed="#C" n="53" break="no"/>gnitudine et paruitate differat: prouenit a mate 
+      <lb ed="#C" n="54"/>ria viscosa ex qua generatur: quae interdum est maior: 
+      in<lb ed="#C" n="55" break="no"/>terdum vero minor de signitione Commete possumus 
+      <lb ed="#C" n="56"/>phisice loqui vel astronomice sicut mat 
+      hemati<lb ed="#C" n="57" break="no"/>ci loquuntur. et (vt puto) etiam theologice et secundum 
+      ve<lb ed="#C" n="58" break="no"/>ritatem aliter ab his.
+   </p>
+            <p xml:id="jb2v19-d49518-d1e228">
+      ¶ De his ponitur. 3 conclusio¬. 
+      <lb ed="#C" n="59"/>Cometa significat ventositatem et siccitatem in his 
+      infe<lb ed="#C" n="60" break="no"/>rioribus probatur conclusio. tempore quie gnatur cometa
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>est intensa caliditas. ita quod aliqua partes similis 
+      ma<lb ed="#C" n="62" break="no"/>terie manent in aere ex quibus generantur venti. 
+   </p>
+            <p xml:id="jb2v19-d49518-d1e241">
+               <lb ed="#C" n="63"/>¶ Sexta conclusio commeta significat terre motum et 
+      <lb ed="#C" n="64"/>mars inundatione. per exhalationem in visceribus 
+      <lb ed="#C" n="65"/>terre inclusam fit terremotus. et per ventum 
+      commo<lb ed="#C" n="66" break="no"/>uetur mare. et a locis subterraneis erumpit aliqua 
+      <lb ed="#C" n="67"/>per exhalationes.
+   </p>
+            <p xml:id="jb2v19-d49518-d1e254">
+      ¶ Septima conclusio. Cometa 
+      <lb ed="#C" n="68"/>significat mortem regum et policiarum mutationes: H anc 
+      con<lb ed="#C" n="69" break="no"/>clusionem ponit Aristoteles qui phisice regularit 
+      <lb ed="#C" n="70"/>in talibus procedere solet. eandem conclusionem ponunt 
+      <lb ed="#C" n="71"/>astronomi vt videm potes in secunda parte quaedripartiti 
+      ptho<lb ed="#C" n="72" break="no"/>lomei in variis capitibus: et in hali haberodan 
+      com<lb ed="#C" n="73" break="no"/>mentatorem eius. Aristoteles per historias 
+      conclusio<lb ed="#C" n="74" break="no"/>nem probat. Et aliqui nituntur hoc aliter colorare 
+      <lb ed="#C" n="75"/>sic in lumine naturali. propter exhalationes 
+      cali<lb ed="#C" n="76" break="no"/>das et siccas homines fiunt colerici. et furiosi et 
+      mo<lb ed="#C" n="77" break="no"/>uentur ad bella: et reges viuunt crapulose et 
+      de<lb ed="#C" n="78" break="no"/>licate: et habent corpora delicatiora. et per consequens 
+      mo<lb ed="#C" n="79" break="no"/>hiliora. modo secundum Aristotelem in libro 
+      phisono<lb ed="#C" n="80" break="no"/>mie: anima corporis complexionem insequitur. ergo fiunt 
+      <lb ed="#C" n="81"/>magis colerici / ergo citius moriuntur. Secundo 
+      <lb ed="#C" n="82"/>arguitur ad idem. fiunt tuc coniter bella. et reges 
+      <lb ed="#C" n="83"/>intersunt et occidutur. ergo commeta est signum 
+      mor<lb ed="#C" n="84" break="no"/>tis regum. Astronomi dicut cometas esse de 
+      natu<lb ed="#C" n="85" break="no"/>ra astrorum: et nouem commetarum maneries 
+      enume<lb ed="#C" n="86" break="no"/>rant: quorum nomina sequuntur / veru / tenaculum / perti 
+      <lb ed="#C" n="87"/>ca / miles / dominus ascone / aurora / argentum / rosa¬ / 
+      <lb ed="#C" n="88"/>et nigra. Uerum est horribilis aspectu: et vadit 
+      <lb ed="#C" n="89"/>prope solem et significat mutationem fructus et 
+      <lb ed="#C" n="90"/>regum mortalitatem et diuitum. Miles est ex 
+      complexione<lb ed="#C" n="91" break="no"/>votris: et est magnus ad modum lune: et habet 
+      co<lb ed="#C" n="92" break="no"/>mas. et radios fundit post se. tunc surgent homines 
+      <lb ed="#C" n="93"/>qui volunt mutare legem. dominus ascone est ex 
+      comple<lb ed="#C" n="94" break="no"/>xione mercurii ceruleus et paruus et cauda eius 
+      <lb ed="#C" n="95"/>longa. et in parte in qua apparuerit cauda bellum 
+      <lb ed="#C" n="96"/>significat et regum mortem. archidiuinator 
+      albuna<lb ed="#C" n="97" break="no"/>sar secundum signa 3odiaci iudicat: et aliqua sua 
+      <lb ed="#C" n="98"/>dicta ponam. dicit: si apparuerit aliqua stella 
+      co<lb ed="#C" n="99" break="no"/>mata in equidistantia signi arietis: significat 
+      mul<lb ed="#C" n="100" break="no"/>ta bella in regionibus diuersis / destructionem 
+      <lb ed="#C" n="101"/>magnatum et infimorum eleuationem. et si 
+      ap<lb ed="#C" n="102" break="no"/>paruerit in parte orientis et sol eque distet 
+      signo<lb ed="#C" n="103" break="no"/>arietis: significat illud odium cadere inter ciues 
+      <lb ed="#C" n="104"/>perse: et plures regiones obedire regi babilonis 
+      <lb ed="#C" n="105"/>Et si apparuerit aliqua stellarum comas 
+      haben<lb ed="#C" n="106" break="no"/>tium in directo libre: significat mortem quorundam 
+      <lb ed="#C" n="107"/>regum in parte occidentis. Et si apparuerit in directo 
+      <lb ed="#C" n="108"/>piscium. signa erunt et prodigia. et religiosi inter 
+      <lb ed="#C" n="109"/>ficient se adinuicem. Quod commete iste habeant 
+      <lb ed="#C" n="110"/>banc naturalem signitionem respectu mortis regum / et 
+      <lb ed="#C" n="111"/>principium: non opinor. rationes phisice quod 
+      come<lb ed="#C" n="112" break="no"/>ta significet mortem principium nichil valent. et 
+      ra<lb ed="#C" n="113" break="no"/>tio est. reges vt viuunt intemperantius quam mille 
+      <lb ed="#C" n="114"/>alii in regno: nec sunt magis colerici: nec suni 
+      <lb ed="#C" n="115"/>melius complexionati. frequenter aliqui eorum sunt 
+      <lb ed="#C" n="116"/>rudes et ebetes. nec sunt delicatius aliti. multi 
+      <lb ed="#C" n="117"/>sunt et consules et beneficiati viri in gallia ita 
+      be<lb ed="#C" n="118" break="no"/>ne pasti sicut rex. et delicate ali nichil facit. 
+      an<lb ed="#C" n="119" break="no"/>pro magna calefactione aeris regens et homines 
+      <lb ed="#C" n="120"/>insanient: et an non possunt componere imnors nec
+      <pb ed="#V" n="84-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>communiter eunt reges in propriis personis ad 
+      <lb ed="#C" n="2"/>bellum. et si eant: sunt magno milite et forti 
+      stipa<lb ed="#C" n="3" break="no"/>ti. ergo si mors super reges cadat tempore comete 
+      <lb ed="#C" n="4"/>oportet aliam dare causam de stulto illo 
+      archidi<lb ed="#C" n="5" break="no"/>uinatore albumasare et astrologis iudiciariis 
+      lo<lb ed="#C" n="6" break="no"/>qui non oportet. sectas / fidem / et omnia in 
+      astra<lb ed="#C" n="7" break="no"/>couertunt. et signanter iste maleficus potius quam 
+      phi<lb ed="#C" n="8" break="no"/>losophus album asar: vt videre est in libro de 
+      ma<lb ed="#C" n="9" break="no"/>gnis coniunctionibus. Conformiter ad hoc 
+      loqui<lb ed="#C" n="10" break="no"/>tur damascenus libro secundo capitulo. 7. inquiens 
+      <lb ed="#C" n="11"/>gentiles autem aiunt per astrorum horum et solis et 
+      lu<lb ed="#C" n="12" break="no"/>ne ortum occasum et commixtiones omnia dispensari 
+      <lb ed="#C" n="13"/>que apud nos fiunt: circa hec enim astrologia 
+      ver<lb ed="#C" n="14" break="no"/>satur.
+   </p>
+            <p xml:id="jb2v19-d49518-d1e407">
+      ¶ De cometis dicam paucis quid sentiam 
+      impri<lb ed="#C" n="15" break="no"/>mis aliqui comete non sunt cause istorum effectuum. 
+      <lb ed="#C" n="16"/>sed aliquorum effectuum sunt signa. et hoc duplicite 
+      <lb ed="#C" n="17"/>vnomodo respectu aliquorum effectuum sunt 
+      signi<lb ed="#C" n="18" break="no"/>naturaliter representantia: vt pote respectu 
+      effe<lb ed="#C" n="19" break="no"/>ctuum in sex primis conclusionibus enumeratorum 
+      <lb ed="#C" n="20"/>sicut fumus naturaliter representat ignem. aliqui 
+      <lb ed="#C" n="21"/>sunt comete ad placitum significantes qui vulgari 
+      <lb ed="#C" n="22"/>ter loquendo stelle vocantur. sicut in saluatoris 
+      or<lb ed="#C" n="23" break="no"/>tu apparuit stella: hoc est cometa: qui tres magos 
+      <lb ed="#C" n="24"/>ad hierosolima. duxit deide meridiem versus ad 
+      <lb ed="#C" n="25"/>bethlese iude. sic est de mille commetis ab orbe 
+      co<lb ed="#C" n="26" break="no"/>dito a deo productis regum mortes nutu diuino 
+      re<lb ed="#C" n="27" break="no"/>presentantes: vt per mille historias vbivis 
+      gen<lb ed="#C" n="28" break="no"/>tium legimus. raro famati principes potissimum 
+      <lb ed="#C" n="29"/>ferro cadunt. non antea commeta visa super regio 
+      <lb ed="#C" n="30"/>nem principis apud nostrates: tempore iacobi 
+      ter<lb ed="#C" n="31" break="no"/>tii dum erat commotio intet principes et regem 
+      sup<lb ed="#C" n="32" break="no"/>zenitharcis in qua residebat rex inopinate orie 
+      <lb ed="#C" n="33"/>batur cometa ad aliquit noctes continuata 
+      quous<lb ed="#C" n="34" break="no"/>que a proceribus occubuit. non solum ego sed tota 
+      pa<lb ed="#C" n="35" break="no"/>tria hoc contemplabatur. de aliis nostris regibus 
+      <lb ed="#C" n="36"/>possum et historias et viuentes recitare quibus 
+      me<lb ed="#C" n="37" break="no"/>rito esset adhibenda fides antequam romani regnum 
+      me<lb ed="#C" n="38" break="no"/>ridionale britanie ceperunt apparuit commeta 
+      super<lb ed="#C" n="39" break="no"/>regionem. sic tempore quo cesars in erat senatu confossus. 
+      <lb ed="#C" n="40"/>tempore neronis. et ita in mille aliis. est deus qui 
+      co<lb ed="#C" n="41" break="no"/>metas iudices primittit ad insinuandos 
+      interi<lb ed="#C" n="42" break="no"/>principium et regnorum mutationes quatenus homines 
+      <lb ed="#C" n="43"/>ad penitentia redeant. et interdum propter 
+      incredu<lb ed="#C" n="44" break="no"/>los in deo non sperantes preponit hoc iudicatiuum. 
+      <lb ed="#C" n="45"/>et hoc voluit damascenus libro secundo. cap. 7. 
+      <lb ed="#C" n="46"/>inquiens aggignuntur autem et frequenter commete et si 
+      <lb ed="#C" n="47"/>gna quedam interituum regum: quicquid non sunt ex 
+      <lb ed="#C" n="48"/>his astris que ab rerum initio facta sunt: sed 
+      diui<lb ed="#C" n="49" break="no"/>na iussione oportuno tempore constituuntur atque rur. 
+      <lb ed="#C" n="50"/>sus dissoluuntur. et quia comete isti nunc sub vno signo 
+      <lb ed="#C" n="51"/>nunc sub alio apparuerunt: et talia contigerunt 
+      <lb ed="#C" n="52"/>nutum diuino primo vt homines se ad penitentiam 
+      con<lb ed="#C" n="53" break="no"/>uertant: somniantes astrologi gentiles vel in 
+      pel<lb ed="#C" n="54" break="no"/>le solum fideles omnia in astra retorserunt. ex 
+      con<lb ed="#C" n="55" break="no"/>tingentibus et perraris effectibus nisi sint regulans 
+      <lb ed="#C" n="56"/>tradere naturales. peccata populi sunt causa 
+      bel<lb ed="#C" n="57" break="no"/>lorum et regnorum mutationis si non penitentiam in 
+      <lb ed="#C" n="58"/>tempore statuto agant. sicut in genesi legimus 
+      ter<lb ed="#C" n="59" break="no"/>ram chanaam abrahe et semini eius deus 
+      promi<lb ed="#C" n="60" break="no"/>sit ad quadringentos annos futuros. quia adhuc
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>peccata populi non demeruerunt ablationem regni. 
+      <lb ed="#C" n="62"/>simile habemus in libris regum de ablatione 
+      regno<lb ed="#C" n="63" break="no"/>rum israelis et iude. primo israelis: quia erant 
+      pe<lb ed="#C" n="64" break="no"/>iores. et postea iude: quia erant aliqui boni reges 
+      <lb ed="#C" n="65"/>sub quibus populus sancte regebatur. quia ad motum 
+      <lb ed="#C" n="66"/>primi mobilis mouentur sphere inferiores. esaye. 24. 
+      <lb ed="#C" n="67"/>sic fuus sic dominus eius. et simile legimus apod 
+      Danie<lb ed="#C" n="68" break="no"/>lem: nec machabeos deseruit quousque noti satis 
+      <lb ed="#C" n="69"/>in deo confidebat: sed in ierunt fedus cum gentilibus 
+      <lb ed="#C" n="70"/>romanis: plus confidentes in homimbus quam in domino 
+      ex<lb ed="#C" n="71" break="no"/>ercituum nisi cusi odierit dominus ciuitatem frustra 
+      vigi<lb ed="#C" n="72" break="no"/>lat qui custodit eam. Exodi. 15. legimus dominusquesi 
+      vir<lb ed="#C" n="73" break="no"/>pugnator omnimpotens nomen eius. et psaltes regius rex 
+      <lb ed="#C" n="74"/>omnis terre deus. dat regna ad nutum tam fidelibus 
+      <lb ed="#C" n="75"/>quam infidelibus omnia sua sunt. reges omnes terreni 
+      pul<lb ed="#C" n="76" break="no"/>uis et caduca caro.
+   </p>
+            <p xml:id="jb2v19-d49518-d1e546">
+      ¶ Recolligendo dico. duplices 
+      <lb ed="#C" n="77"/>sunt comete. quidam naturaliter geniti a causis 
+      natu<lb ed="#C" n="78" break="no"/>ralibus qui significant aliqua naturaliter: et si sequa 
+      <lb ed="#C" n="79"/>tur interea alicuius regis vel potentis mors otno 
+      <lb ed="#C" n="80"/>est a casu et fortuna. Alius est commeta a deo 
+      mira<lb ed="#C" n="81" break="no"/>culose productus prope locum interitus pricipis 
+      fama<lb ed="#C" n="82" break="no"/>ti vel regis: qui cognoscitur a posteriorem libere a deo 
+      <lb ed="#C" n="83"/>productus per mortem principris. in aliquibus 
+      sapien<lb ed="#C" n="84" break="no"/>tes vtcumque iudicare possunt. interdu erit dubium 
+      <lb ed="#C" n="85"/>nobis an commeta sit naturaliter vel libere a deo 
+      <lb ed="#C" n="86"/>intensus. non voco libere in proposito quia a deo 
+      <lb ed="#C" n="87"/>libere productus. deus nichil ad extra producit nisi 
+      <lb ed="#C" n="88"/>libere et contingenter. sed capio libere vt vides 
+      pro<lb ed="#C" n="89" break="no"/>illo quod miraculose producitur. quando vidit albu 
+      <lb ed="#C" n="90"/>masar religiosos se occidere / vel si aliquos vidit 
+      <lb ed="#C" n="91"/>certa casu et fortuna erat. quid cometa significat 
+      <lb ed="#C" n="92"/>plus in religio sos quam non religiosos. improbabiliter 
+      <lb ed="#C" n="93"/>creberrime loquitur. hali recte de eo dicit / erat 
+      <lb ed="#C" n="94"/>vnus eorum qui historias sequebantur. dicebat 
+      mul<lb ed="#C" n="95" break="no"/>ta ad libitum sine sale vllo. adde cum hoc: scripta 
+      <lb ed="#C" n="96"/>eius sunt pestifera: nedum fideli: sed gentili 
+      philo<lb ed="#C" n="97" break="no"/>sopho execranda de aristotele primo metheoro 
+      <lb ed="#C" n="98"/>rum de signo quod eomete attribuit: non est 
+      cu<lb ed="#C" n="99" break="no"/>randum. tum primo. opinione mea nec ipse nec 
+      pro<lb ed="#C" n="100" break="no"/>eo aliquis potest dare causas naturales de tot 
+      co<lb ed="#C" n="101" break="no"/>metis qui apparuerunt in regum internetiis. tum. 2 
+      <lb ed="#C" n="102"/>non tantum tribuebat nec tribuere tenebatur omni 
+      <lb ed="#C" n="103"/>potentie dei sicut fideles quibus deus fidem 
+      autem<lb ed="#C" n="104" break="no"/>tice promulgauit. ei autem solum legem nane tribuit. Si 
+      <lb ed="#C" n="105"/>damascenus voluit tenere omnes commetas 
+      mi<lb ed="#C" n="106" break="no"/>raculose productos: non secum opinor. si aliquos 
+      na<lb ed="#C" n="107" break="no"/>turaliter produci et alios libere: secum opinor. nec 
+      <lb ed="#C" n="108"/>te moueat quod difficile est nobis iudicare quando 
+      <lb ed="#C" n="109"/>cometa naturaliter producitur. quando vero libere 
+      <lb ed="#C" n="110"/>crebro est prodifficile ponere descrimen inter 
+      mi<lb ed="#C" n="111" break="no"/>raculum et non miraculum. interdum vero non diffi 
+      i<lb ed="#C" n="112" break="no"/>le. omnia ista possunt vallari per varia que legimus 
+      <lb ed="#C" n="113"/>Legimus de sancto ambrosio dum in cuna 
+      lace<lb ed="#C" n="114" break="no"/>ret infantulus examen apum os eius ingredieba 
+      <lb ed="#C" n="115"/>tur et egrediebatur. et de diuo Bernardo in vte: 
+      <lb ed="#C" n="116"/>ro materno mater somniabat quod invtero gestabat 
+      <lb ed="#C" n="117"/>canem candidum latrantem: sic de dominico moyse: et 
+      io<lb ed="#C" n="118" break="no"/>seph somnio. et ita communiter de futuris mirandis 
+      le<lb ed="#C" n="119" break="no"/>gimus. deus signum praenosticum rei future praiemisit. et sic 
+      <lb ed="#C" n="120"/>dicere consentancum est de ciro maiore / de romulo / et
+      <pb ed="#V" n="84-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>remo semiramide / et mille similibus.
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

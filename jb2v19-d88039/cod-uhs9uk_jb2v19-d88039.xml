@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="147-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d88039"><!-- l2d38q1 -->
+            <head xml:id="jb2v19-d88039-Hd1e101">Quaestio 1</head>
+            <head xml:id="jb2v19-d88039-Hd1e103" type="question-title">Utrum voluntas potest contravenire iudicio rationis</head>
+            <p xml:id="jb2v19-d88039-d1e106">
+               <lb ed="#C" n="51"/>N ista. xxxviii. distinctione 
+      ma<lb ed="#C" n="52" break="no"/>gister loquitur de voluntate 
+      <lb ed="#C" n="53"/>et eius fine. circa illam queritur. 
+      <lb ed="#C" n="54"/>Utrum voluntas potest contrauent 
+      <lb ed="#C" n="55"/>re iudicio rationis. Responde 
+      <lb ed="#C" n="56"/>tur affirmatiue: probatur 
+      res<lb ed="#C" n="57" break="no"/>ponsio affirmatiua quia da 
+      op<lb ed="#C" n="58" break="no"/>positum quom quis non potest 
+      con<lb ed="#C" n="59" break="no"/>trauenire iudicio rationis in vniuersali et in 
+      par<lb ed="#C" n="60" break="no"/>ticulari: sequeretur hec conclusio quod incassum ho¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>mo moueret hominem desistere a iudicato quod 
+      <lb ed="#C" n="62"/>videtur inconueniens.
+   </p>
+            <p xml:id="jb2v19-d88039-d1e137">
+      ¶ Secundo arguitur ad 
+      <lb ed="#C" n="63"/>idem. quia tunc plus conduceret ad virtutem scire 
+      <lb ed="#C" n="64"/>quam velle: contra Aristotelem secundo Ethicorum 
+      <lb ed="#C" n="65"/>quia causa primaria plus influit in effectum quam causa 
+      se<lb ed="#C" n="66" break="no"/>cunda: sed hec ratio non est magni ponderis. 
+   </p>
+            <p xml:id="jb2v19-d88039-d1e148">
+               <lb ed="#C" n="67"/>¶ Tertio arguitur: quia tunc voluntas esset 
+      ne<lb ed="#C" n="68" break="no"/>cessitata ad faciendum secundum illud iudicium 
+      stan<lb ed="#C" n="69" break="no"/>te illo iudicio in intellectu: et sic non meretur 
+      confor<lb ed="#C" n="70" break="no"/>mando se illi iudicio: neque demeretur.
+   </p>
+            <p xml:id="jb2v19-d88039-d1e160">
+      ¶ Quarto. 
+      <lb ed="#C" n="71"/>xii. de ciuitate dei. ca. 6. dicit Aug. duo equaliter 
+      <lb ed="#C" n="72"/>affecti anima et corpore simile iudicium habentes 
+      pos<lb ed="#C" n="73" break="no"/>sunt sic se habere circa vnum obiectum quod vnus 
+      inor<lb ed="#C" n="74" break="no"/>dinate concupiscat ipsum: alius autem non. Et Bernat 
+      <lb ed="#C" n="75"/>dus de libero arbitrio statim post principium 
+      di<lb ed="#C" n="76" break="no"/>cit quod voluntas non semper ratione: sed 
+      nonnun<lb ed="#C" n="77" break="no"/>quod absque ratione mouetur: ita vt multa faciat per 
+      <lb ed="#C" n="78"/>ipam contra ipsam. Et istud potest confirmari de 
+      <lb ed="#C" n="79"/>simplici apprehensione alicuius rei que suffieit ad 
+      <lb ed="#C" n="80"/>hoc quod voluntas obiectum velit. Item est 
+      articu<lb ed="#C" n="81" break="no"/>lus parrhisiensis dicere quod stante iudicio in 
+      intelle<lb ed="#C" n="82" break="no"/>ctu in vniuersali et in particulari quod voluntas non 
+      <lb ed="#C" n="83"/>potest contraire: est error.
+   </p>
+            <p xml:id="jb2v19-d88039-d1e191">
+      ¶ Sed contra hanc 
+      con<lb ed="#C" n="84" break="no"/>clusionem argultur sic. Intellectus dissentire non 
+      <lb ed="#C" n="85"/>potest a conclusione. que euidenter sequitur ad 
+      ali<lb ed="#C" n="86" break="no"/>quas premissas. cognitis maiore minore simul 
+      tem<lb ed="#C" n="87" break="no"/>pore cognoscitur conclusio: primo posteriorum. ergo 
+      <lb ed="#C" n="88"/>voluntas non potest contrauenire iudicio rationis 
+      <lb ed="#C" n="89"/>Et confirmatur hec ratio per Anselmum libro 
+      de<lb ed="#C" n="90" break="no"/>veritate. ca. xii. quod omnis voluntas habet quid et 
+      <lb ed="#C" n="91"/>cur: sed siper intellectum praesentarentur aliqua duo 
+      <lb ed="#C" n="92"/>ipsi voluntati que essent equalia: non esset causa 
+      <lb ed="#C" n="93"/>quare voluntas eligeret vnum illorum / altero 
+      reli<lb ed="#C" n="94" break="no"/>cto facilius potest se determinare ad illud quod 
+      <lb ed="#C" n="95"/>iudicat eque eligibile alteri quam ad illud quod 
+      iudi<lb ed="#C" n="96" break="no"/>cat minus eligibile. ergo nunquam potest voluntas 
+      <lb ed="#C" n="97"/>velle illud cuius contrarium intellectus dicat magis 
+      <lb ed="#C" n="98"/>eligendum.
+   </p>
+            <p xml:id="jb2v19-d88039-d1e226">
+      ¶ Ad primum conceditur quod intellectus 
+      dis<lb ed="#C" n="99" break="no"/>sentire non potest assentiendo premissis cum 
+      bonita<lb ed="#C" n="100" break="no"/>te consequentiae: immo assentire coarctatur: secus de ipsa 
+      volun<lb ed="#C" n="101" break="no"/>tate quae est agens liberum.
+   </p>
+            <p xml:id="jb2v19-d88039-d1e235">
+      ¶ Ad aliud dicitur 
+      con<lb ed="#C" n="102" break="no"/>cedendo quod voluntas habet quid vult et cur vult. hoc 
+      <lb ed="#C" n="103"/>est. habet motiuum quaere ita facit. Interdum iudici 
+      <lb ed="#C" n="104"/>um potest experiri libertatem sua dicendo quod facit ho 
+      <lb ed="#C" n="105"/>quia ei placet. Intellectus est solum sicut lucerna 
+      an<lb ed="#C" n="106" break="no"/>te voluntatem praebens ei lumen spirituale et voluntatem 
+      <lb ed="#C" n="107"/>illuminans: quia voluntas non fertur in incognitum: sed 
+      <lb ed="#C" n="108"/>voluntas ex sua libertate potest abiicere lucernam 
+      <lb ed="#C" n="109"/>et incedere in tenebris.
+   </p>
+            <p xml:id="jb2v19-d88039-d1e255">
+      ¶ Secundo principaliter 
+      <lb ed="#C" n="110"/>arguitur: demonstratis minori bono et maiori 
+      bo<lb ed="#C" n="111" break="no"/>non incompossibilibus sic iudicatis in vniuersali et in 
+      <lb ed="#C" n="112"/>particulari: voluntas non potest acceptare 
+      mi<lb ed="#C" n="113" break="no"/>nus bonum relicto magis bono: quia. 5. Ethicorum 
+      <lb ed="#C" n="114"/>Minus bonum in ordine ad maius bonum habet 
+      ro<lb ed="#C" n="115" break="no"/>nem mali: sed voluntas non potest velle malum: primo 
+      <lb ed="#C" n="116"/>Ethico. Omnia bonum appetunt. ergo voluntas non 
+      <lb ed="#C" n="117"/>potest velle minus bonum stante illo casu. Preterea 
+      <lb ed="#C" n="118"/>Arist. vii. Ethico. dicit. Si quis habuerit maiorem 
+      <lb ed="#C" n="119"/>in prima figura et minorem ad operandum: de necessitate 
+      op<lb ed="#C" n="120" break="no"/>atur. hc e si habet iudicium in vniuersali et in particulari quod
+      <pb ed="#V" n="147-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>omne dulce est gustandum: lac est dulce: ergo lac est 
+      <lb ed="#C" n="2"/>gustandum: de necessitate operatur dulce gustando 
+   </p>
+            <p xml:id="jb2v19-d88039-d1e290">
+               <lb ed="#C" n="3"/>¶ Ad primum istorum negatur assumptum. non 
+      <lb ed="#C" n="4"/>obstante tali iudicio: voluntas ex sua libertate 
+      po<lb ed="#C" n="5" break="no"/>test velle minus et iudicatum minus. Si 
+      iudica<lb ed="#C" n="6" break="no"/>ret minus bonum fortune esse maius bonum 
+      hone<lb ed="#C" n="7" break="no"/>stum / non est dubium: quia tunc capiet maius 
+      bo<lb ed="#C" n="8" break="no"/>num minore relicto. Et ad illud quinti Ethi. Minus 
+      <lb ed="#C" n="9"/>bonum in ordine ad maius. et c. suscipit 
+      quodammo<lb ed="#C" n="10" break="no"/>do rationem mali: licet non sit malum. Insuper: non constat 
+      <lb ed="#C" n="11"/>quin voluntas potest velle malum et sub ratione malicie vt 
+      <lb ed="#C" n="12"/>illic est de virtute sermonis. quod realiter malum (quod 
+      <lb ed="#C" n="13"/>est bonum apparens) non est dubium. Et ad Aristote. 
+      <lb ed="#C" n="14"/>diceretur. Omnia bonum appetunt. bonum conuertitur cum 
+      en<lb ed="#C" n="15" break="no"/>te et est transcendens. Ad aliud dicitur: est sermo quando 
+      <lb ed="#C" n="16"/>voluntas est conformis intellectui. Ceterum arguitur 
+      <lb ed="#C" n="17"/>ex isto sequitur quod habitus prudentie in intellectu 
+      ge<lb ed="#C" n="18" break="no"/>nerari potest absque bono habitu in voluntate sed hoc 
+      <lb ed="#C" n="19"/>est inconueniens. igitur. consequentia liquaere 
+      vide<lb ed="#C" n="20" break="no"/>tur ex dictis. Respondetur concedendo illatum nec 
+      <lb ed="#C" n="21"/>ipsum est vllum inconueniens.
+   </p>
+            <p xml:id="jb2v19-d88039-d1e335">
+      ¶ Dubitatur vtrum 
+      inten<lb ed="#C" n="22" break="no"/>tio sit actus voluntatis. Respondetur quod sic: patet per 
+      glo<lb ed="#C" n="23" break="no"/>sam quam magister recitat in littera super illud 
+      Psal<lb ed="#C" n="24" break="no"/>mi. In laqueo isto quem absconderunt. et c. dicit quod pes 
+      <lb ed="#C" n="25"/>animi amor est: et eo mouetur anima quaesi ad locum quo 
+      tem<lb ed="#C" n="26" break="no"/>dit. id est: ad delectationem bonam vel malam quo se 
+      per<lb ed="#C" n="27" break="no"/>uenisse per moram limitatur: sed amor est actus 
+      volun<lb ed="#C" n="28" break="no"/>tatis. ergo intentio est actus voluntatis. Item meritum 
+      ma<lb ed="#C" n="29" break="no"/>xime iudicatur penes intentionem. sed mereri est actus 
+      <lb ed="#C" n="30"/>voluntatis.
+   </p>
+            <p xml:id="jb2v19-d88039-d1e357">
+      ¶ Sed contra istud arguitur per glosam. Matthei. 
+      <lb ed="#C" n="31"/>6. Si oculus tuus fuerit simplex: dicit quod intentio est 
+      ocu<lb ed="#C" n="32" break="no"/>lus animae sed mens est oculus antmae. xv. de trinitate. cap. 7. 
+      <lb ed="#C" n="33"/>Item. 2. physico. hirundo facit nidum propter aliquem 
+      <lb ed="#C" n="34"/>finem: et aranea telam: ergo aliqua carentia voluntate 
+      <lb ed="#C" n="35"/>intendunt.
+   </p>
+            <p xml:id="jb2v19-d88039-d1e370">
+      ¶ Ad primum respondetur / quod intentio 
+      di<lb ed="#C" n="36" break="no"/>citur oculus anime: non quod sit actus cognitionis: sed 
+      <lb ed="#C" n="37"/>quia actum cognitionis presupponit. Intendere nihil 
+      <lb ed="#C" n="38"/>aliud est quam proponere et velle.
+   </p>
+            <p xml:id="jb2v19-d88039-d1e379">
+      ¶ Ad aliud dicitur quod 
+      <lb ed="#C" n="39"/>aliqua res tendit in finem quem sibi non praestituit nec 
+      co<lb ed="#C" n="40" break="no"/>gnoscit: vt graue ad centrum: quaedam res tendit ad finem 
+      <lb ed="#C" n="41"/>quem cognoscit: sed non praestituit vt bruta quae non intendunt 
+      <lb ed="#C" n="42"/>finem sub ratione finis / quaedam res finem cognoscit et illum 
+      <lb ed="#C" n="43"/>prestituit: et de ista intentione loquimur. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

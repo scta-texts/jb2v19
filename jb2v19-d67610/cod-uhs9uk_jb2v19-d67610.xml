@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="113-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d67610"><!-- l2d24q1 -->
+            <head xml:id="jb2v19-d67610-Hd1e101">Quaestio 1</head>
+            <head xml:id="jb2v19-d67610-Hd1e103" type="question-title">An portio superior et inferior sint duae potentiae distinctae</head>
+            <p xml:id="jb2v19-d67610-d1e106">
+               <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>Irca hanc distinctionem. xxiiii. 
+      queri<lb ed="#C" n="62" break="no"/>tur. an portio superior et inferior sint 
+      <lb ed="#C" n="63"/>due potentie distincte. primo 
+      declaran<lb ed="#C" n="64" break="no"/>bunt termini: postea conclusiue 
+      respo<lb ed="#C" n="65" break="no"/>debimus ad quonem
+   </p>
+            <p xml:id="jb2v19-d67610-d1e122">
+      ¶ Portio superior 
+      si<lb ed="#C" n="66" break="no"/>ratio superior: vt modo Aug. 12. de trinitate. e 
+      <lb ed="#C" n="67"/>magistri in littera vtar: idem est: et accipiuntur a 
+      lo<lb ed="#C" n="68" break="no"/>quentibus pro eodem. sic de ratione inferiori et 
+      por<lb ed="#C" n="69" break="no"/>tione inferiori. ratio dicit potentiam discursiuam 
+      <lb ed="#C" n="70"/>a principiis ad conclusiones. et quia aliqua prino 
+      <lb ed="#C" n="71"/>pia habentur per reuelationem: aliqua in lumine 
+      na<lb ed="#C" n="72" break="no"/>turali habentur: et quia altiora et digniora sunt 
+      prin<lb ed="#C" n="73" break="no"/>cipia que per reuelationem habentur quam principia quae 
+      <lb ed="#C" n="74"/>naturaliter cognoscuntur: ideo ratio deducens 
+      ali<lb ed="#C" n="75" break="no"/>quid ex principiis per reuelationem habitis dicitu 
+      <lb ed="#C" n="76"/>ratio superior: siue practice siue speculatiue vel 
+      <lb ed="#C" n="77"/>mixtim / non refert. sed communius vtimur in practi 
+      <lb ed="#C" n="78"/>cis pro virtutibus et viciis effugandis. in illa 
+      ma<lb ed="#C" n="79" break="no"/>teria laboramus. Ratio deducens aliquid ex 
+      princi<lb ed="#C" n="80" break="no"/>piis naturaliter notis: vocatur ratio inferior. 
+      di<lb ed="#C" n="81" break="no"/>cit magister in littera: quicquid ergo in anima nosti 
+      <lb ed="#C" n="82"/>nobis considerantibus occurrit quod non sit 
+      com<lb ed="#C" n="83" break="no"/>ne cum bestiis: ad rationem pertinet. quod autem in 
+      <lb ed="#C" n="84"/>ea reperis comune cum beluis: ad sensualitatem 
+      <lb ed="#C" n="85"/>pertinet. portio superior interdum stricte capitur 
+      <lb ed="#C" n="86"/>pro actu solum in deum lato siue sit intellectus siue 
+      <lb ed="#C" n="87"/>voluntatis: interdum latius pro actu in creaturam 
+      la<lb ed="#C" n="88" break="no"/>to in ordine ad eterna. sic portio superior vel 
+      ra<lb ed="#C" n="89" break="no"/>tio superior conuertit se ad rationem inferiorem eam 
+      <lb ed="#C" n="90"/>dirigendo: vt Augusti. in 12. de ciuitate dei dicit. 
+      <lb ed="#C" n="91"/>Portio vero inferior est circa creaturam: et potest 
+      <lb ed="#C" n="92"/>dupliciter accipi sicuti portio superior. quo fit vsus 
+      <lb ed="#C" n="93"/>simplex ordinatus est actus portionis inferioris 
+      <lb ed="#C" n="94"/>et fruitio est actus vtriusque portionis.
+   </p>
+            <p xml:id="jb2v19-d67610-d1e187">
+      ¶ hoc 
+      pre<lb ed="#C" n="95" break="no"/>misso: ponuntur conclusiones: quarum Prima est. 
+      por<lb ed="#C" n="96" break="no"/>tio inferior realiter est portio superior. patet. 
+      po<lb ed="#C" n="97" break="no"/>tentie anime intellectiue idemptificant cum ea ex 
+      di<lb ed="#C" n="98" break="no"/>stinctione 16. huius. ergo a fortiore portio superior et 
+      <lb ed="#C" n="99"/>portio inferior vel ratio superior et ratio inferio: 
+   </p>
+            <p xml:id="jb2v19-d67610-d1e201">
+               <lb ed="#C" n="100"/>¶ Secunda conclusio. licet teneatur discrimen reale 
+      <lb ed="#C" n="101"/>inter intellectum et voluntatem more aliquorum: ad 
+      <lb ed="#C" n="102"/>huc superior portio intellectus est inferior 
+      por<lb ed="#C" n="103" break="no"/>tio intellectus: et inferior portio voluntatis est 
+      su<lb ed="#C" n="104" break="no"/>perior portio voluntatis: patet hec conclusio 
+      per<lb ed="#C" n="105" break="no"/>beatum Augusti. 12. de trinitate. c. 14. dicentem. cum 
+      <lb ed="#C" n="106"/>de natura mentis humane disserimus / de vna 
+      qua<lb ed="#C" n="107" break="no"/>dam re disserimus: nec eam in hec duo que 
+      comme<lb ed="#C" n="108" break="no"/>moraui (hoc est in superiorem portionem et inferiorem) 
+      <lb ed="#C" n="109"/>nisi per officia geminamus.
+   </p>
+            <p xml:id="jb2v19-d67610-d1e225">
+      ¶ Secundo. nisi 
+      con<lb ed="#C" n="110" break="no"/>clusio esset vera nulla portio possit cognoscere 
+      con<lb ed="#C" n="111" break="no"/>clusionem scientifice cuius principium esset superna 
+      <lb ed="#C" n="112"/>turale et conclusio naturalis.
+   </p>
+            <p xml:id="jb2v19-d67610-d1e234">
+      ¶ Tertio. charitas 
+      <lb ed="#C" n="113"/>est habitus existens tam in superiori portione 
+      vo<lb ed="#C" n="114" break="no"/>luntatis quam inferiori. patet. inclinat in dilectionem 
+      <lb ed="#C" n="115"/>dei propter seipsum: et in dilectionem sortis non 
+      re<lb ed="#C" n="116" break="no"/>ferendo actualiter. ergo inferior portio voluntatis 
+      co<lb ed="#C" n="117" break="no"/>incidit realiter cum superiore portione 
+      volunta<lb ed="#C" n="118" break="no"/>tis. licet multi habitus sint in eadem potentia 
+      nun<lb ed="#C" n="119" break="no"/>quam idem habitus est in potentiis realiter distinctis 
+   </p>
+            <p xml:id="jb2v19-d67610-d1e252">
+               <lb ed="#C" n="120"/>¶ Contra istas conclusiones arguitur sic. ex eis se¬
+      <pb ed="#V" n="114-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>quitur quod beatitudo in ellectus est actus 
+      portio<lb ed="#C" n="2" break="no"/>nis inferioris. consequens est contra modum 
+      loquen<lb ed="#C" n="3" break="no"/>di. qui ita loqueretur / iudicaretur insipienter loqui. et 
+      <lb ed="#C" n="4"/>diceretur: saltem mente ab auditorio: iste contionator 
+      <lb ed="#C" n="5"/>in cathedra vel lector abutitur. sequela tamen patet / 
+      <lb ed="#C" n="6"/>sic arguendo. huius portionis superioris dilectio 
+      <lb ed="#C" n="7"/>dei est actus: hec portio superior est portio 
+      infe<lb ed="#C" n="8" break="no"/>rior. ergo huius portionis inferioris dilectio dei 
+      <lb ed="#C" n="9"/>est actus: que hanc infert / dilectio dei est actus 
+      por<lb ed="#C" n="10" break="no"/>tionis inferioris. propositio assumpta potest 
+      pro<lb ed="#C" n="11" break="no"/>bari vera per regulas communes quibus alie 
+      pro<lb ed="#C" n="12" break="no"/>positiones affirmatiue probantur vere: vel secundum 
+      <lb ed="#C" n="13"/>regulam facillimam ferme laicis cognitam: dilectio 
+      <lb ed="#C" n="14"/>dei est actus illius rei que realiter est portio 
+      infe<lb ed="#C" n="15" break="no"/>rior.
+   </p>
+            <p xml:id="jb2v19-d67610-d1e294">
+      ¶ Respondetur concedendo conclusionem illius 
+      <lb ed="#C" n="16"/>sillogismi expositorii. eodemmodo concedo 
+      portio<lb ed="#C" n="17" break="no"/>nis inferioris intellectus / noticia dei est actus. patet. 
+      <lb ed="#C" n="18"/>huius portionis superioris intellectus / dilectio 
+      <lb ed="#C" n="19"/>dei est actus. hec portio superior intellectus est 
+      por<lb ed="#C" n="20" break="no"/>tio inferior intellectus. ergo huius portionis in 
+      <lb ed="#C" n="21"/>ferioris intellectus / noticia dei est actus. et loquor 
+      <lb ed="#C" n="22"/>de noticia precise representante deum. si deum et 
+      crea<lb ed="#C" n="23" break="no"/>turam representaret: nulli esset dubium. sed quod 
+      proposi<lb ed="#C" n="24" break="no"/>tiones iste concedantur / hoc prouenit primo a 
+      por<lb ed="#C" n="25" break="no"/>tione superiore et idemptitate eius cum inferiore 
+      <lb ed="#C" n="26"/>portione. sed concedo quod verbi diuini declamator 
+      <lb ed="#C" n="27"/>in cathedra sic loquens reputaretur abuti 
+      vocabu<lb ed="#C" n="28" break="no"/>lis. non loquitur sicut sapientes loquuntur. idem est de 
+      <lb ed="#C" n="29"/>lectore in theologia extra hanc materiam. quia tunc 
+      <lb ed="#C" n="30"/>decet eum tantum vel magis vti modo loquendi 
+      sa<lb ed="#C" n="31" break="no"/>pientum et exercitatorum virorum. sed cum loquitur in 
+      ma<lb ed="#C" n="32" break="no"/>teria ipsa sicut nos nunc facimus: opus est 
+      osten<lb ed="#C" n="33" break="no"/>dere quid de virtute sermonis concedi potest: et quid 
+      <lb ed="#C" n="34"/>in communi vsu est concedendum quia loquendum est vt 
+      <lb ed="#C" n="35"/>plures: secundo de celo et mundo. alias non intelligitur 
+      lo<lb ed="#C" n="36" break="no"/>quens: vel male.
+   </p>
+            <p xml:id="jb2v19-d67610-d1e342">
+      ¶ Secundo arguitur. Augu. in. 12. 
+      <lb ed="#C" n="37"/>de trinitate. c. 3. portionem superioremi/ viro comparat: 
+      <lb ed="#C" n="38"/>et inferiorem mulieri. et dicit esse coniugium inter 
+      il<lb ed="#C" n="39" break="no"/>las. ergo realiter distinguuntur.
+   </p>
+            <p xml:id="jb2v19-d67610-d1e352">
+      ¶ Tertio: homo 
+      <lb ed="#C" n="40"/>exterior et interior distinguuntur. similiter homo vetus 
+      <lb ed="#C" n="41"/>et homo nouus. ergo portio inferior et superior. 
+   </p>
+            <p xml:id="jb2v19-d67610-d1e359">
+               <lb ed="#C" n="42"/>¶ Quarto: inter portiones anime superiores 
+      se<lb ed="#C" n="43" break="no"/>cundum Augu. 12 de trinitate. c. 4. est ymago 
+      tri<lb ed="#C" n="44" break="no"/>nitatis. sed in trinitate est distinctio realis inter 
+      <lb ed="#C" n="45"/>personas diuinas. ergo est distinctio realis inter 
+      <lb ed="#C" n="46"/>portiones has.
+   </p>
+            <p xml:id="jb2v19-d67610-d1e372">
+      ¶ Quinto arguitur. portio 
+      supe<lb ed="#C" n="47" break="no"/>rior inferiorem regulat. sed inter regulas et regula 
+      <lb ed="#C" n="48"/>tum debet esse distinctio.
+   </p>
+            <p xml:id="jb2v19-d67610-d1e379">
+      ¶ Sed dicis. regulat 
+      <lb ed="#C" n="49"/>portionem inferiorem ad hunc sensum quod actus 
+      supe<lb ed="#C" n="50" break="no"/>rioris potentie dei legem aspiciens inferiorem 
+      regu<lb ed="#C" n="51" break="no"/>lat.
+   </p>
+            <p xml:id="jb2v19-d67610-d1e388">
+      ¶ Contra: ergo oculus corporalis 
+      inferio<lb ed="#C" n="52" break="no"/>ra et superiora respiciens / debet dici superior et 
+      in<lb ed="#C" n="53" break="no"/>ferior.
+   </p>
+            <p xml:id="jb2v19-d67610-d1e395">
+      ¶ Ad secundum dicitur. est aliqualis solum 
+      simi<lb ed="#C" n="54" break="no"/>litudo. Augu. dicit: est spirituale coniugium.
+   </p>
+            <p xml:id="jb2v19-d67610-d1e401">
+      ¶ Ad 
+      <lb ed="#C" n="55"/>tertium concedo antecedens et nego consequentiam. an 
+      <lb ed="#C" n="56"/>tecedens / quia homo exterior est sensualitas. 
+      di<lb ed="#C" n="57" break="no"/>cit glosa secunde Corinthiorum. 4. quicquid est in nobis 
+      <lb ed="#C" n="58"/>commune cum pecore exterior homo est. is qui in 
+      <lb ed="#C" n="59"/>tus est ymago dei. et Augusti. 12 de trinitate. c. 1 
+      <lb ed="#C" n="60"/>et 14. de trinitate. c. 16. quicquid habemus in anima
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>commune cum pecore / dicitur ad exteriorem hominem 
+      <lb ed="#C" n="62"/>pertinere. vbi incipit nobis aliquid occurrere quod 
+      <lb ed="#C" n="63"/>non est nobis commune cum bestiis. ibi incipit 
+      ra<lb ed="#C" n="64" break="no"/>tio: vbi homo interior iam possit agnosci. 
+      inter<lb ed="#C" n="65" break="no"/>dum ex vsu loquendi communi. per hominem exterio 
+      <lb ed="#C" n="66"/>rem intelligimus illud quod ad extra patet. 
+      dici<lb ed="#C" n="67" break="no"/>mus enim: non satis est bene viuere in interiore 
+      <lb ed="#C" n="68"/>homine: sed cum hoc requiritur in exteriore 
+      homi<lb ed="#C" n="69" break="no"/>ne: hoc est: cum honestate mundana quadam saltem 
+      <lb ed="#C" n="70"/>rotunda. vetus homo est homo peccator. et nouus 
+      <lb ed="#C" n="71"/>homo est homo in gratia de quo apostolus 
+      loqui<lb ed="#C" n="72" break="no"/>tur ad ephesios: deponite veterem hominem: et hoc 
+      <lb ed="#C" n="73"/>propter adam et christum. adam est vetus homo. 
+      lo<lb ed="#C" n="74" break="no"/>quor ac si esset. et christus est nouus homo. licet 
+      chri<lb ed="#C" n="75" break="no"/>stus homo praecessit adam: non precessit adam in 
+      hu<lb ed="#C" n="76" break="no"/>manitate. modo adam peccauit: christus vero nun 
+      <lb ed="#C" n="77"/>quam. ex his patet quod consequentia est nulla.
+   </p>
+            <p xml:id="jb2v19-d67610-d1e456">
+      ¶ Ad 
+      quar<lb ed="#C" n="78" break="no"/>tum dicitur quod ymago trinitatis est in anima et suis 
+      <lb ed="#C" n="79"/>actibus: non curado de his potentiis. sicut est vna 
+      <lb ed="#C" n="80"/>essentia diuina cum qualibet trium personarum 
+      idem<lb ed="#C" n="81" break="no"/>ptica: et vna persona non est alia sed filius est a 
+      pa<lb ed="#C" n="82" break="no"/>tre: et spiritus sanctus ab vtroque: sic anima est sue potentie 
+      rea<lb ed="#C" n="83" break="no"/>liter: intellectus et voluntas. intellectio non est 
+      vo<lb ed="#C" n="84" break="no"/>litio. actus voluntatis est tam ab intellectus 
+      actu<lb ed="#C" n="85" break="no"/>quam a voluntate vt distinctione sequenti dicemus. 
+      ac<lb ed="#C" n="86" break="no"/>tus intellectus a solo intellectu tanquam a principio 
+      <lb ed="#C" n="87"/>vitali. multis modis ratio ymaginis increate 
+      po<lb ed="#C" n="88" break="no"/>test in nobis saluari: nec illic facienda est magna 
+      <lb ed="#C" n="89"/>vis cum maiore similitudine. tamen potest dari ymago 
+      trinita<lb ed="#C" n="90" break="no"/>tis in anima nostra cum deum contemplatur / propter 
+      per<lb ed="#C" n="91" break="no"/>fectionem ipsius actus obiectum increatum habentis 
+      <lb ed="#C" n="92"/>qui est in superiore portione.
+   </p>
+            <p xml:id="jb2v19-d67610-d1e491">
+      ¶ Ad quintum 
+      suffi<lb ed="#C" n="93" break="no"/>cienter ad finem argumenti: est responsum. ad quod dico. 
+      <lb ed="#C" n="94"/>oculus corporeus non habet actum per quem 
+      mode<lb ed="#C" n="95" break="no"/>ratur actum oculi inferiora videntis. secundo sufficit vsus 
+      <lb ed="#C" n="96"/>distinguendi vnius et non alterius. Augusti. hac 
+      <lb ed="#C" n="97"/>distinctione vtitur: et non a multis annis 
+      theolo<lb ed="#C" n="98" break="no"/>gi in variis materiis. tertio dico. idem regulat 
+      se<lb ed="#C" n="99" break="no"/>ipsum. et per consequens non semper debet esse 
+      <lb ed="#C" n="100"/>discrimen reale inter regulas et regulatum. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

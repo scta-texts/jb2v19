@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="139-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d83034"><!-- l2d34q1 -->
+            <head xml:id="jb2v19-d83034-Hd1e101">Quaestio 1</head>
+            <head xml:id="jb2v19-d83034-Hd1e103" type="question-title">Utrum sit aliquod summum malum nihil boni habens nec bono inhaerens</head>
+            <p xml:id="jb2v19-d83034-d1e106">
+               <lb ed="#C" n="4"/>CIrca hanc distinctionem 34. in qua 
+      magi<lb ed="#C" n="5" break="no"/>ster potissimum loquitur de subiecto peccati 
+      <lb ed="#C" n="6"/>in qua re sit malum: an in bono vel in 
+      ma<lb ed="#C" n="7" break="no"/>lo: quaero talem quaestionem an sit aliquod 
+      sun<lb ed="#C" n="8" break="no"/>mum malum nihil boni habens nec bono 
+      <lb ed="#C" n="9"/>inherens Circa hoc scito fuit heresis. manichei 
+      <lb ed="#C" n="10"/>(sicut recitat augustinus in libro de heresibus) 
+      ponen<lb ed="#C" n="11" break="no"/>tis duo principia diuersa inter se diuersa et aduersa 
+      <lb ed="#C" n="12"/>eterna et comneterna. et sic posuit vnum summum malum 
+      si<lb ed="#C" n="13" break="no"/>cut summum bonum. et quia ho potest bene agere et 
+      male<lb ed="#C" n="14" break="no"/>agere posuit duas animas in homine: quarum vna est bona 
+      <lb ed="#C" n="15"/>et a deo bono qui semper cupit bona. alia est a deo 
+      ma<lb ed="#C" n="16" break="no"/>lo quia semper cupit mala. et omni a mala oriuntur in 
+      no<lb ed="#C" n="17" break="no"/>bis a malo principio sicut bona a bono principio. et 
+      <lb ed="#C" n="18"/>sic in nobis es quotidiana pugna. principium bonum nihil 
+      <lb ed="#C" n="19"/>mali habent. principium vero malum nihil boni habet. 
+      il<lb ed="#C" n="20" break="no"/>la heresi recitata: pono conclusiones.
+   </p>
+            <p xml:id="jb2v19-d83034-d1e145">
+      ¶ Quarum prima 
+      <lb ed="#C" n="21"/>est. quicquid est in mundo est bonum
+   </p>
+            <p xml:id="jb2v19-d83034-d1e150">
+      ¶ Secunda 
+      conclusio<lb ed="#C" n="22" break="no"/>implicat contradictionem euidentur dare vnum 
+      prin<lb ed="#C" n="23" break="no"/>cipium malum nihil boni hens.
+   </p>
+            <p xml:id="jb2v19-d83034-d1e158">
+      ¶ Tertia 
+      conclusio<lb ed="#C" n="24" break="no"/>malum culpe potissimum commissionis est in bono puta 
+      <lb ed="#C" n="25"/>in voluntate boa inhesiue.
+   </p>
+            <p xml:id="jb2v19-d83034-d1e165">
+      ¶ Prima conclusio probat omne quod 
+      <lb ed="#C" n="26"/>est in mundo est creator vel creatura: capiendo creatu 
+      <lb ed="#C" n="27"/>ra pro effectu. sed deus est bonus et quaelibet creatura est 
+      bona<lb ed="#C" n="28" break="no"/>probatio Genesis primo: vidit deus cuncta quae fecerat 
+      <lb ed="#C" n="29"/>et erant valde bona.
+   </p>
+            <p xml:id="jb2v19-d83034-d1e176">
+      ¶ Secunda conclusio probatur exsummo qua 
+      <lb ed="#C" n="30"/>malo dando sequitur euidentur quod illud sumum malum sit 
+      <lb ed="#C" n="31"/>et non sit potest aliquid facere et nihil potest: quod sit malum 
+      <lb ed="#C" n="32"/>et non es malu intell igit et non intelligit quod sit malum 
+      <lb ed="#C" n="33"/>et non malum: qud euidenter implicat. ergo talis 
+      imaginatio<lb ed="#C" n="34" break="no"/>non mo est heretici viri: sed viri rudis et stolidi. quod 
+      <lb ed="#C" n="35"/>ista illata sequant / patet sic. si ponatur summum malum nihil ab 
+      <lb ed="#C" n="36"/>boni habens ipsum non het ese: quia ess es aliquod bonum 
+      <lb ed="#C" n="37"/>ergo habet esse. et vltra / nihil boni habet. ergo nullum 
+      <lb ed="#C" n="38"/>habe esse ens et bonu conuertuntur. quod esse sit bonu patet. 
+      <lb ed="#C" n="39"/>appetitus naturalis est ad bonu modo omnia appetut 
+      <lb ed="#C" n="40"/>ese: primo phisicorum: et bonum omnia appetut: prio 
+      ethi<lb ed="#C" n="41" break="no"/>corum. secundum probatur omnis potest enttia est de genere 
+      bo<lb ed="#C" n="42" break="no"/>norum in lumine naturali. et quod pluria potest e optimum. 
+      <lb ed="#C" n="43"/>hoc modo prima causa apud philosophos est ens 
+      opti<lb ed="#C" n="44" break="no"/>mum. ergo si aliquod ens sit summe malum nihil 
+      bo<lb ed="#C" n="45" break="no"/>ni habens: nullam habet potentiam. et sic nihil fa cere potest. 
+      <lb ed="#C" n="46"/>et cum est sumum malum: plus potest quam quodcumque malum 
+      <lb ed="#C" n="47"/>citra summum. semper tamen mala faciet secundum eos: 
+      <lb ed="#C" n="48"/>et sic potest aliquid facere. tertium patet. secundum eos est 
+      sum<lb ed="#C" n="49" break="no"/>mum malum ergo est malum. quod non est malum patet 
+      <lb ed="#C" n="50"/>est malum per essentiam ergo est naturale ei facere 
+      ma<lb ed="#C" n="51" break="no"/>lum. et vnumquodque dum facit illud quod est ei 
+      natu<lb ed="#C" n="52" break="no"/>rale bene facit et bonum facit et quod bonum facit est 
+      bo<lb ed="#C" n="53" break="no"/>num et non malum ergo est malum et non est malum. Quartum 
+      <lb ed="#C" n="54"/>est / intelligit et non intelligit omnis scientia est de 
+      gene<lb ed="#C" n="55" break="no"/>re bonorum primo de anima: non solum scientia boni: sed scie 
+      <lb ed="#C" n="56"/>tia mali. scire malum non es malum: alias esset malum 
+      in<lb ed="#C" n="57" break="no"/>telligere casus vsuret symonie et contra hmoni 
+      praedi<lb ed="#C" n="58" break="no"/>catur: quod non est dicendum scire ergo malum est bonum 
+      <lb ed="#C" n="59"/>ergo summum malum caret noticia. ergo nihil 
+      intel<lb ed="#C" n="60" break="no"/>ligit. sed ex altera parte vult malum. ergo intelligit ma¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>lum ergo intelligit. sed hic quis diceret. appetitus 
+      na<lb ed="#C" n="62" break="no"/>turalis vel velle naturale nullam noticiam 
+      praesuppo<lb ed="#C" n="63" break="no"/>nit: nec est euidens quod nihil est volitum nisi cognitum 
+      <lb ed="#C" n="64"/>loco illius illati / potest inferri euidens contradictio 
+      quae<lb ed="#C" n="65" break="no"/>sequitur ad duo summa: et potissimum si alterum sit summe 
+      <lb ed="#C" n="66"/>malum. quia sic erit de necessitate: et a nello: nec 
+      depen<lb ed="#C" n="67" break="no"/>dens. et tantum perfectionis habebit sicut summum bonum 
+   </p>
+            <p xml:id="jb2v19-d83034-d1e263">
+               <lb ed="#C" n="68"/>¶ Preterea arguitur. vel summum malum est infiniti vi 
+      <lb ed="#C" n="69"/>goris vel finiti. si secundum: non est vnum summum ex secunda 
+      <lb ed="#C" n="70"/>distinctione primi si infiniti: de necessitate facit 
+      <lb ed="#C" n="71"/>omnia mala. si dicas summum bonum est tante resistentie. si 
+      <lb ed="#C" n="72"/>cut summum malum: et de necessitate agit bona 
+      per<lb ed="#C" n="73" break="no"/>te: et resistit malo. ergo nullum erit malum in mundo 
+   </p>
+            <p xml:id="jb2v19-d83034-d1e279">
+               <lb ed="#C" n="74"/>¶ Insuper: si anima mala in nobis non potest non 
+      pec<lb ed="#C" n="75" break="no"/>care et anima bona non potest male agere: quilibet (etiam 
+      ce<lb ed="#C" n="76" break="no"/>cutiens) videt quod tollitur meritum et demeritum 
+      <lb ed="#C" n="77"/>bonum et malum de rerum natura: contra omnem 
+      <lb ed="#C" n="78"/>philosophiam et omnium sectas: dempta hac delira 
+      <lb ed="#C" n="79"/>vanitate.
+   </p>
+            <p xml:id="jb2v19-d83034-d1e295">
+      ¶ Tertia conclusio patet omne peccatum 
+      actu<lb ed="#C" n="80" break="no"/>ale est commissionis vel omissionis commissionis 
+      in<lb ed="#C" n="81" break="no"/>hesiue est in voluntate. omissionis est circa idem 
+      <lb ed="#C" n="82"/>et sic de originali ex distinctione. xxx. huius. sed 
+      <lb ed="#C" n="83"/>voluntas est bona ex prima conclusione igitur. 
+   </p>
+            <p xml:id="jb2v19-d83034-d1e307">
+               <lb ed="#C" n="84"/>¶ Secundo arguitur ad idem auctoritate 
+      augu<lb ed="#C" n="85" break="no"/>stini. 14 de ciuitate dei. c. xi. dicentis: mala nisi 
+      <lb ed="#C" n="86"/>in bonis esse non possunt: quia nature in quibus 
+      <lb ed="#C" n="87"/>sunt inquantuum nature sunt vtique bone sunt. et 
+      ma<lb ed="#C" n="88" break="no"/>gister in littera. recte acutemque sapit non nisi in 
+      bo<lb ed="#C" n="89" break="no"/>non malum esse intelligit i. in natura bona. 
+   </p>
+            <p xml:id="jb2v19-d83034-d1e323">
+               <lb ed="#C" n="90"/>¶ Contra primam conclusionem arguitur. 
+      demon<lb ed="#C" n="91" break="no"/>est malus: et dicimus neronem iudam et 
+      maho<lb ed="#C" n="92" break="no"/>metem fuisse malos. ergo non quicquid est in mundo est bonum 
+   </p>
+            <p xml:id="jb2v19-d83034-d1e332">
+               <lb ed="#C" n="93"/>¶ Respondetur. multipliciter capitur terminus 
+      <lb ed="#C" n="94"/>bonum. vnomodo bonitate entis: de qua 
+      accep<lb ed="#C" n="95" break="no"/>tione potissimum locuti sumus. et sic / quontum 
+      ha<lb ed="#C" n="96" break="no"/>bet aliquid de entitate tantum habet de 
+      bonita<lb ed="#C" n="97" break="no"/>te. vnde augus libro. 28 q. q. 2 que sunt inquantum sunt 
+      <lb ed="#C" n="98"/>intantum bona sunt. quod tum ergo res habet de 
+      en<lb ed="#C" n="99" break="no"/>titate tantum habet de bonitate. et auicenna quar. 
+      <lb ed="#C" n="100"/>to methaphisice. c. 4. impossibile est quod sit aliqua 
+      <lb ed="#C" n="101"/>res per seipsam mala et omni modo. si vnum 
+      hab<lb ed="#C" n="102" break="no"/>bet esse: profecto inquantum est mala / non est. et 
+      au<lb ed="#C" n="103" break="no"/>gus. 12. de ciuitate dei. c. tertio. Sola bona 
+      alicu<lb ed="#C" n="104" break="no"/>bi esse possunt: sola mala nusquam. aliquid est 
+      bonu<lb ed="#C" n="105" break="no"/>moraliter: et hoc biphariam. vnomodo intrinsem 
+      <lb ed="#C" n="106"/>ce: quando est sua bonitas vt deus. aliomodo ratione 
+      <lb ed="#C" n="107"/>boni habiti: siue infusi siue acquisiti. hoc modo 
+      <lb ed="#C" n="108"/>dicimus omnes in patria bonos. ille est melior 
+      <lb ed="#C" n="109"/>in quo dei gratia est maior. modo stat vnum 
+      paruu<lb ed="#C" n="110" break="no"/>lum baptisatum et confirmatum habere plus 
+      gra<lb ed="#C" n="111" break="no"/>tie quam alium. ergo vterque est bonus de 
+      bonoac<lb ed="#C" n="112" break="no"/>quisito. communius tamen loquimur. dicimus 
+      sor<lb ed="#C" n="113" break="no"/>tem bonum ab actu vel habitu. et in abfoluto 
+      <lb ed="#C" n="114"/>modo loquendi (bonum sine addito) pro 
+      bo<lb ed="#C" n="115" break="no"/>non moraliter capimus. interdum bonum applica 
+      <lb ed="#C" n="116"/>tur aliis rebus quando habent omnia requisita ad hoc quod 
+      <lb ed="#C" n="117"/>bene fiant. hoc modo dicimns aureum nummum 
+      <lb ed="#C" n="118"/>bonum quando est de debita mensura / debito 
+      <lb ed="#C" n="119"/>pondere / et debita figura principis. dicimus 
+      ve<lb ed="#C" n="120" break="no"/>stem bonam et equum bonum quando facit omnia que
+      <pb ed="#V" n="139-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>bonum equum decent. tot modis capitur malum: per 
+      re<lb ed="#C" n="2" break="no"/>gulam topicam quot modis capitur vnum oppositorum 
+      <lb ed="#C" n="3"/>tot modis capitur reliquum: quand in omni acceptione 
+      <lb ed="#C" n="4"/>aduersantur. et cum nihil sit malum malicia entis: non 
+      <lb ed="#C" n="5"/>impugnatur conclusio.
+   </p>
+            <p xml:id="jb2v19-d83034-d1e410">
+      ¶ Contra secundam conclusionem 
+      <lb ed="#C" n="6"/>arguitur. aliquid est malum: dicatur a. vel nihil est 
+      pe<lb ed="#C" n="7" break="no"/>ius a. et tunica. est malum summum: saltem negatiue. si 
+      ali<lb ed="#C" n="8" break="no"/>quid sit peius a. dicatur. b. et quaeritur de. b. an sit 
+      <lb ed="#C" n="9"/>sumum malum vel ne. si primum: habeno propositum. si secundum 
+      <lb ed="#C" n="10"/>ascendatur ad. c. et sic sine statu ergo est aliquod summum 
+      <lb ed="#C" n="11"/>malum.
+   </p>
+            <p xml:id="jb2v19-d83034-d1e426">
+      ¶ Respondetur: hoc argumentum non est ad 
+      intelle<lb ed="#C" n="12" break="no"/>ctum conclusionis. nihil est malum malicia entis vel 
+      <lb ed="#C" n="13"/>quod naturaliter tendit semper male agere. nec 
+      sequi<lb ed="#C" n="14" break="no"/>tur hic denarius est malus denarius: ergo est malum 
+      <lb ed="#C" n="15"/>ens. hoc modo capiendo non est inferioritas praedicati ad 
+      <lb ed="#C" n="16"/>praedicatum totale. per antecedens denotatur quod hic denarius 
+      <lb ed="#C" n="17"/>non habet omnia requisita ad verum esse denarii. et per consequens 
+      <lb ed="#C" n="18"/>denotatur quod non habeat omnia requisita ad verum 
+      <lb ed="#C" n="19"/>esse entis. modo nosti hanc consequentiam non valere: cum al ia 
+      <lb ed="#C" n="20"/>est appellatio in antecedente quam in consequente. sed bene 
+      se<lb ed="#C" n="21" break="no"/>quitur sortes est verus homo ergo sortes est verum ens 
+      <lb ed="#C" n="22"/>vel a. est verus denarius ergo a. est verum ens.
+   </p>
+            <p xml:id="jb2v19-d83034-d1e452">
+      ¶ 
+      Ter<lb ed="#C" n="23" break="no"/>tio arguitur mathei. 7. non potest arbor bona 
+      fru<lb ed="#C" n="24" break="no"/>ctus malos facere: vbi glosa nihil dubium quin causa 
+      <lb ed="#C" n="25"/>boni sit bona et mali mala.
+   </p>
+            <p xml:id="jb2v19-d83034-d1e462">
+      ¶ Respondetur. christs / 
+      <lb ed="#C" n="26"/>illic loquitur contra hypocritas qui simulabant 
+      <lb ed="#C" n="27"/>exterius bona opa: interius erat mali. per arborem 
+      <lb ed="#C" n="28"/>actus interior et per fructum actus exterior intelligitur 
+      <lb ed="#C" n="29"/>interior arbor bona. i. bonus actus elicitus 
+      voluta<lb ed="#C" n="30" break="no"/>tis non facit operationem malam exterius.
+   </p>
+            <p xml:id="jb2v19-d83034-d1e475">
+      ¶ Secundo 
+      <lb ed="#C" n="31"/>arguitur: albedo denominat suum subiectum in quo est 
+      con<lb ed="#C" n="32" break="no"/>cretiue. ergo malicia in actu elicito malo denomi 
+      <lb ed="#C" n="33"/>nat suum subiectum: scilicet voluntatem malam
+   </p>
+            <p xml:id="jb2v19-d83034-d1e484">
+      ¶ Tertio 
+      ar<lb ed="#C" n="34" break="no"/>guitur. ex conclusione sequitur quod termini contrarii verificam 
+      <lb ed="#C" n="35"/>tur de pronomine demostrante idem copulatiue 
+      median<lb ed="#C" n="36" break="no"/>te copula de praesenti deducta ampliatione hoc est 
+      in<lb ed="#C" n="37" break="no"/>conueniens: vt patet ex praedicamentis. igitur consequentia tamen patet. 
+      <lb ed="#C" n="38"/>voluntas est boa per conclusionem: et in ipsa est malicia. ergo 
+      <lb ed="#C" n="39"/>ipsa est mala. ergo est bona et mala
+   </p>
+            <p xml:id="jb2v19-d83034-d1e500">
+      ¶ Forte dicis 
+      <lb ed="#C" n="40"/>bonum entitatiue et malum moraliter non contrariantur. 
+   </p>
+            <p xml:id="jb2v19-d83034-d1e505">
+               <lb ed="#C" n="41"/>¶ Contra hoc arguitur auctoritate augustini quam 
+      <lb ed="#C" n="42"/>magister in littera allegat. hic fallit regula dialeti 
+      <lb ed="#C" n="43"/>corum in contrariis: quia bonum et malum vificantur de eo 
+      <lb ed="#C" n="44"/>dem. et patet enchiridio. c. sexto. ergo vult augustinus / 
+      <lb ed="#C" n="45"/>dicere / realiter contrariantur: sed regula illa locata hic 
+      <lb ed="#C" n="46"/>patitur instantiam. dicere quoad in his non teneat: non est habenre 
+      <lb ed="#C" n="47"/>exceptionem. si quis diceret quod manus excipitur ab 
+      <lb ed="#C" n="48"/>hac regula / dant hic in us fcta tibi declinate 
+      se<lb ed="#C" n="49" break="no"/>cunda: non bene loqueretur grammatice. ergo sic 
+      in<lb ed="#C" n="50" break="no"/>proposito.
+   </p>
+            <p xml:id="jb2v19-d83034-d1e529">
+      ¶ Ad secundum concedo antecedens si sit arguus 
+      suffici<lb ed="#C" n="51" break="no"/>ens. et concedo consequens quod voluntatem malicia denominat 
+      <lb ed="#C" n="52"/>concretione malam moraliter.
+   </p>
+            <p xml:id="jb2v19-d83034-d1e537">
+      ¶ Ad tertium dicitur malum 
+      ma<lb ed="#C" n="53" break="no"/>licia moris et bonum entitatiue non contrariantur. 
+      augu<lb ed="#C" n="54" break="no"/>stinus nihil aliud vult dicere nisi quod regula dialecti 
+      <lb ed="#C" n="55"/>corum hic fallit: idem est non tenet. quia non sunt 
+      <lb ed="#C" n="56"/>contraria. bonum aliquomodo sumptum suum 
+      spe<lb ed="#C" n="57" break="no"/>ciale habet contrarium. bonum habet malum 
+      contra<lb ed="#C" n="58" break="no"/>rium secundum augustinum Enchiridio sexto. 
+      <lb ed="#C" n="59"/>capitulo.
+   </p>
+            <p xml:id="jb2v19-d83034-d1e555">
+      ¶ Quarto arguitur secundum dionysium 
+      <lb ed="#C" n="60"/>de diuinis nomibus. c. quarto: malum non erit in bo¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>no: quia neque in igne frigus est.
+   </p>
+            <p xml:id="jb2v19-d83034-d1e564">
+      ¶ Respondetur. 
+      volun<lb ed="#C" n="62" break="no"/>tas non denomninatur bona moraliter quando in ipsa est 
+      ac<lb ed="#C" n="63" break="no"/>tualis malicia: potissimum moralis: siue actualiter 
+      <lb ed="#C" n="64"/>siue secundum reatum. veniale gratiam compatitur quae 
+      diui<lb ed="#C" n="65" break="no"/>dit inter filios regni et perditionis secundum 
+      augu<lb ed="#C" n="66" break="no"/>stinum 15 de trinitate.
+   </p>
+            <p xml:id="jb2v19-d83034-d1e577">
+      ¶ Quinto arguitur. si vnum 
+      <lb ed="#C" n="67"/>contrariorum est in rerum natura: aliud est vel esse 
+      po<lb ed="#C" n="68" break="no"/>test in rerum natura: primo celi. sed summum bonum est in 
+      re<lb ed="#C" n="69" break="no"/>rum natura vt deus. ergo summum malum est vel esse 
+      po<lb ed="#C" n="70" break="no"/>test. et si potest esse: est iam actu. in necessariis non differt 
+      <lb ed="#C" n="71"/>posse esse et esse. 3. phisicorum
+   </p>
+            <p xml:id="jb2v19-d83034-d1e590">
+      ¶ Sexto arguitur 
+      so<lb ed="#C" n="72" break="no"/>augustinum 10. de ciuitate dei. c. primo fines sunt 
+      sun<lb ed="#C" n="73" break="no"/>mum bonum et sumum malum sed non est malum summum vbi est 
+      <lb ed="#C" n="74"/>aliquid de bono.
+   </p>
+            <p xml:id="jb2v19-d83034-d1e599">
+      ¶ Ad quintum respondetur: malum summum 
+      <lb ed="#C" n="75"/>non est contrarium summo bono. ipsum non est possibile. 
+   </p>
+            <p xml:id="jb2v19-d83034-d1e605">
+               <lb ed="#C" n="76"/>¶ Ad sextum dicitur: augus non vocat malum aliquod 
+      <lb ed="#C" n="77"/>omnis boni immune: sed illud quod est omnibus aliis perus est
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

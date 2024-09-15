@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2024-09-15">September 15, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-09-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="4-r"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jb2v19-d02004"><!-- l2d1q3 -->
+        <head xml:id="jb2v19-d02004-Hd1e101">Quaestio 3</head>
+        <head xml:id="jb2v19-d02004-Hd1e103" type="question-title">An Deus mundum sive mundialem machinam creaverit intelligendo et volendo tantum</head>
+        <p xml:id="jb2v19-d02004-d1e106">
+          <lb ed="#C" n="87"/>TErtio circa hanc 
+          di<lb ed="#C" n="88" break="no"/>stinctionem primam queritur. An 
+          <lb ed="#C" n="89"/>deus mundum siue mundialem 
+          <lb ed="#C" n="90"/>machinam creauerit 
+          intelligen<lb ed="#C" n="91" break="no"/>do et volendo tantum. hoc est vtrum 
+          <lb ed="#C" n="92"/>produxerit mundum 
+          intellectio<lb ed="#C" n="93" break="no"/>ne et volitione tantum: vel requiratur aliqua alia 
+          <lb ed="#C" n="94"/>potentia mundi productiua: Mundus interdum 
+          <lb ed="#C" n="95"/>includit omnia collectiue: scilicet deum / intelligentias / 
+          <lb ed="#C" n="96"/>elementa / et mixta. Interdum distinguitur a deo et 
+          in<lb ed="#C" n="97" break="no"/>telligentiis: et sic actor de sphera capit mundum 
+          <lb ed="#C" n="98"/>quando ipsum diuidit in mundum superiorem et 
+          in<lb ed="#C" n="99" break="no"/>feriorem. Nonnumquam capitur pro aggregato incluso 
+          <lb ed="#C" n="100"/>infra concauum orbis lune sicut Aristoteles capit. i. 
+          <lb ed="#C" n="101"/>metheororum inquiens: necesse est hunc mundum 
+          infe<lb ed="#C" n="102" break="no"/>riorem lationibus superioribus esse continuum vt 
+          <lb ed="#C" n="103"/>tota virtus eius inde gubernetur. in proposito capio 
+          <lb ed="#C" n="104"/>pro omnibus aliis a deo.
+        </p>
+        <p xml:id="jb2v19-d02004-d1e148">
+          ¶ Pro solutione 
+          questio<lb ed="#C" n="105" break="no"/>nis ponitur conclusio affirmatiua: intelligendo de 
+          vo<lb ed="#C" n="106" break="no"/>litione efficaci. probatur conclusio. deus pater 
+          in<lb ed="#C" n="107" break="no"/>tellectione et amore producit filium et spiritum 
+          san<lb ed="#C" n="108" break="no"/>ctum: licet partialiter filius concurrat ad productionem 
+          <lb ed="#C" n="109"/>spiritus sancti. ergo cum eodem principio potest producere 
+          mun<lb ed="#C" n="110" break="no"/>dum. tenet consequentia. Si personas in diuinis illis 
+          <lb ed="#C" n="111"/>principiis producat: a fortiori mundum eisdem 
+          pro<lb ed="#C" n="112" break="no"/>ducere potest.
+        </p>
+        <p xml:id="jb2v19-d02004-d1e168">
+          ¶ Secundo arguitur ad idem: 
+          volun<lb ed="#C" n="113" break="no"/>tas non indiget alia potentia exequente suum 
+          in<lb ed="#C" n="114" break="no"/>perium nisi respectu rei quam per seipsam non 
+          attin<lb ed="#C" n="115" break="no"/>git: sed diuina voluntas omnipotens omnis 
+          attin<lb ed="#C" n="116" break="no"/>git. ergo suum imperium exequitur: non 
+          median<lb ed="#C" n="117" break="no"/>te actione alterius potentie. Maior patet. quia non 
+          <lb ed="#C" n="118"/>alias voluntas per seipsam transmutat sensualitatem 
+          <lb ed="#C" n="119"/>volendo: non mediante actione alterius potentie.
+          <pb ed="#V" n="4-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#C" n="1"/>Unde Auicenna nono methaph. cap. ii. dicit 
+          <lb ed="#C" n="2"/>Cum virtus desiderativa fuerit vt desiderat aliquid 
+          <lb ed="#C" n="3"/>proueniet ex ea impressio: propter quam 
+          impres<lb ed="#C" n="4" break="no"/>sionem mouemus membra.
+        </p>
+        <p xml:id="jb2v19-d02004-d1e200">
+          ¶ Tertio. voluntas 
+          <lb ed="#C" n="5"/>dei efficax respectu a. ponit. a. inesse nihil vult nisi 
+          <lb ed="#C" n="6"/>cognitum ergo mediante notitia volitione 
+          po<lb ed="#C" n="7" break="no"/>nit rem inesse. Si requiratur aliquid aliud: voluntas 
+          <lb ed="#C" n="8"/>dei efficax esset impedibilis. et ic voluntati eius 
+          ali<lb ed="#C" n="9" break="no"/>quis resistere potest: quod liquet esse falsum.
+        </p>
+        <p xml:id="jb2v19-d02004-d1e213">
+          ¶ 
+          Pre<lb ed="#C" n="10" break="no"/>terea: voluntas nostra per suum velle est causa alicuius 
+          ef<lb ed="#C" n="11" break="no"/>fectus: puta habitus: et mouet alias potentias 
+          per<lb ed="#C" n="12" break="no"/>suum imperium. ergo voluntas dei omnipotens 
+          po<lb ed="#C" n="13" break="no"/>test omnem effectum sola voluntate: hoc est 
+          voli<lb ed="#C" n="14" break="no"/>tione: producere. Insuper Augustinus. libro. lxxxiii. 
+          <lb ed="#C" n="15"/>q. q. iii. hoc est aliquid fieri deo agente quod deo 
+          vo<lb ed="#C" n="16" break="no"/>lente. Et idem super illud psalm. cxliiii. Iustius dominus in 
+          <lb ed="#C" n="17"/>omnibus viis suis apud deum: hoc est velle quod 
+          face<lb ed="#C" n="18" break="no"/>re: quia ex eius voluntate res habent esse. Et tertio de tri. 
+          <lb ed="#C" n="19"/>ca iiii. dicit augustinus. voluntas dei est prima et 
+          sum<lb ed="#C" n="20" break="no"/>ma causa omnium corporalium specierum atque 
+          motio<lb ed="#C" n="21" break="no"/>num.
+        </p>
+        <p xml:id="jb2v19-d02004-d1e242">
+          ¶ Contra hanc conclusionem arguitur. Angelus 
+          <lb ed="#C" n="22"/>non mouet celum mediante noticia et volitione: sed 
+          <lb ed="#C" n="23"/>vltra influentiam dei generalem requiritur potentia 
+          <lb ed="#C" n="24"/>executiua: vt dicit articulus Parisiemsis. inquiens: quod 
+          <lb ed="#C" n="25"/>intelligentia sola voluntate moueat celum. Error. 
+          <lb ed="#C" n="26"/>ergo deus non producit rem ad extra sola voluntate 
+          <lb ed="#C" n="27"/>et intelligentia.
+        </p>
+        <p xml:id="jb2v19-d02004-d1e258">
+          ¶ Respondetur: consequentia est 
+          nul<lb ed="#C" n="28" break="no"/>la. pro cuius solutione notato. intellectus realiter est 
+          vo<lb ed="#C" n="29" break="no"/>luntas vt post hac distinctione. xvi. notius euadet 
+          <lb ed="#C" n="30"/>Et potentia executiua non differt realiter ab istis. 
+          <lb ed="#C" n="31"/>Nam hec tria identificantur cum substantia spitritus: 
+          <lb ed="#C" n="32"/>et per consequens identificantur inter se. Si angelus 
+          in<lb ed="#C" n="33" break="no"/>telligat celum moueri: et id velit: requiritur cum hoc quod 
+          <lb ed="#C" n="34"/>suam vim localiter motiuam applicet celo ad hoc 
+          <lb ed="#C" n="35"/>quod moueatur. quemadmodum ad hoc quod ego 
+          moue<lb ed="#C" n="36" break="no"/>am hunc grossum lapidem requiritur quod vires 
+          me<lb ed="#C" n="37" break="no"/>as illi motui applicem. Et anima mea ad hoc 
+          <lb ed="#C" n="38"/>quod corpus quod informat moueat requiritur quod suam 
+          <lb ed="#C" n="39"/>vim corpori applicet. alias nichil fiet a creatura. 
+          <lb ed="#C" n="40"/>Potentia executiua pro creatura supponit: pro 
+          ange<lb ed="#C" n="41" break="no"/>lo: pro anima / vel simili: connotando quod suam vim 
+          <lb ed="#C" n="42"/>actiuam applicet ad agendum secundum imperium 
+          <lb ed="#C" n="43"/>voluntatis. Non est sic de deo. si per impossibile 
+          de<lb ed="#C" n="44" break="no"/>us non esset in omni loco: sed solum in centro terre 
+          <lb ed="#C" n="45"/>vel in quacunque distantia a celo: per suum velle efficax 
+          <lb ed="#C" n="46"/>potest mouere celum. nec requiritur alia applicatio 
+          <lb ed="#C" n="47"/>nisi id velle. ergo in deo non est ponenda potentia 
+          <lb ed="#C" n="48"/>executiua ad intentionem articuli ponentis 
+          po<lb ed="#C" n="49" break="no"/>tentiam exceutiuam in creatura.
+        </p>
+        <p xml:id="jb2v19-d02004-d1e308">
+          ¶ Contra illud 
+          <lb ed="#C" n="50"/>arguitur: deus intelligit omnes res possibiles: et 
+          <lb ed="#C" n="51"/>vult eas. et tamen non propterea sunt. ergo requiritur 
+          <lb ed="#C" n="52"/>potentia executiua in deo vltra intellectum et 
+          vel<lb ed="#C" n="53" break="no"/>le ad ponendam rem in esse.
+        </p>
+        <p xml:id="jb2v19-d02004-d1e319">
+          ¶ Respondetur: deus 
+          <lb ed="#C" n="54"/>non vult omnen rem possibilem efficaciter: sed 
+          vo<lb ed="#C" n="55" break="no"/>luntate complacentie quod sit possibilis.
+        </p>
+        <p xml:id="jb2v19-d02004-d1e327">
+          ¶ 
+          Secun<lb ed="#C" n="56" break="no"/>do arguitur. deus non fecit hunc mundum. ergo 
+          <lb ed="#C" n="57"/>non fecit ipsum mediante sola noticia et voluntate. 
+          <lb ed="#C" n="58"/>antecedens patet: dyabolus fecit hunc mundum: patet 
+          <lb ed="#C" n="59"/>Ioannis. xiiii. Uenit princeps huius mundi: et 
+          apo<lb ed="#C" n="60" break="no"/>stolus. secunde Cor. iiii. vocat dyabolum deum huius
+          <cb ed="#P" n="b"/>
+          <lb ed="#C" n="61"/>seculi.
+        </p>
+        <p xml:id="jb2v19-d02004-d1e345">
+          ¶ Tertio arguitur: per illud quod scribitur 
+          Io<lb ed="#C" n="62" break="no"/>annis. xviii de responsione saluatoris ad pylatum 
+          <lb ed="#C" n="63"/>regnum meum non est de hoc mundo.
+        </p>
+        <p xml:id="jb2v19-d02004-d1e352">
+          ¶ Quarto 
+          ar<lb ed="#C" n="64" break="no"/>guitur. Omne factum a deo est diligendum. Mundus 
+          <lb ed="#C" n="65"/>non est diligendus. ergo mundus non est factus a deo. 
+          <lb ed="#C" n="66"/>consequentia tenet in iiii. modo secunde figure. Minor 
+          <lb ed="#C" n="67"/>patet: per illud quod scribitur prime Ioannis secundo 
+          <lb ed="#C" n="68"/>Nolite diligere mundum neque ea que in mundo sunt. 
+        </p>
+        <p xml:id="jb2v19-d02004-d1e365">
+          <lb ed="#C" n="69"/>¶ Respondetur: mundus nonnumquam accipitur pro 
+          homin<lb ed="#C" n="70" break="no"/>nibus reprobis et male viuentibus: vt Iohannis 
+          <lb ed="#C" n="71"/>xviii. dicit saluator / ego pro eis rogo non pro 
+          mun<lb ed="#C" n="72" break="no"/>do. et Ioannis. v. Mundus totus in maligno 
+          posi<lb ed="#C" n="73" break="no"/>tus est. Sic capiendo mundum pro malis et 
+          repro<lb ed="#C" n="74" break="no"/>bis: istorum caput est dyabolus: quia pessimus et ad 
+          cul<lb ed="#C" n="75" break="no"/>pam instigans: licet neminem necessitare potest. 
+          <lb ed="#C" n="76"/>et sic similitudinaris et transumptiue apostolus 
+          vo<lb ed="#C" n="77" break="no"/>cauit dyabolum deum huius seculi: sicut moyses 
+          <lb ed="#C" n="78"/>constitutus est deus pharaonis.
+        </p>
+        <p xml:id="jb2v19-d02004-d1e389">
+          ¶ Ad tertium dicitur 
+          <lb ed="#C" n="79"/>cristus intellexit quod non habuit regnum in hoc mundo sicut 
+          <lb ed="#C" n="80"/>pylatus putauit: vt pote non habuit fastum regium 
+          <lb ed="#C" n="81"/>nec venit in mundum humanos capere honores 
+          <lb ed="#C" n="82"/>secundum quod in hymno dicitur. Non eripit 
+          morta<lb ed="#C" n="83" break="no"/>lia qui regna dat celestia. Nec erat clientum 
+          mul<lb ed="#C" n="84" break="no"/>titudine stipatus: ceterorum regum more: vt se 
+          prote<lb ed="#C" n="85" break="no"/>geret a iudeis.
+        </p>
+        <p xml:id="jb2v19-d02004-d1e407">
+          ¶ Ad quartum: concedo quod 
+          substan<lb ed="#C" n="86" break="no"/>tia mundi est diligenda: sed capiendo mundum 
+          si<lb ed="#C" n="87" break="no"/>cut in solutione ad secundum iam diximus: est a nobis 
+          po<lb ed="#C" n="88" break="no"/>tissimum cauendus. Mundani honores et vani 
+          <lb ed="#C" n="89"/>hominum appetitus circa hos cecos honores 
+          ma<lb ed="#C" n="90" break="no"/>gnam hominum partem in peccatis prosternunt. Non alias 
+          <lb ed="#C" n="91"/>aliqui litteratorum casti ad excessiuam 
+          beneficio<lb ed="#C" n="92" break="no"/>rum ingluuiem se inuoluunt stimulati ab amicis 
+          <lb ed="#C" n="93"/>et huius mundi caducis honoribus: et sic 
+          excecan<lb ed="#C" n="94" break="no"/>tur: et illiterati et nati ceci terram continuo rodunt 
+          <lb ed="#C" n="95"/>vt in honoribus eleuentur. Ob hoc mercatores / 
+          <lb ed="#C" n="96"/>mulieres / vestes / et opes excessiuas appetunt. 
+          <lb ed="#C" n="97"/>Maior pars hominum ad hec caduca transitoria 
+          ocu<lb ed="#C" n="98" break="no"/>lum flectit. nimirum ergo quod sacra eloquia dicant 
+          <lb ed="#C" n="99"/>mundum in maligno positum esse: hoc est in malo 
+          <lb ed="#C" n="100"/>igne et ardenti. et eum fugiendum: et virum talibus 
+          <lb ed="#C" n="101"/>deditum dicimus esse mundanum: quod in malam 
+          <lb ed="#C" n="102"/>paratem accipitur: et quando dicimus eum totaliter 
+          <lb ed="#C" n="103"/>esse mundanum: in pessimam potestaom capitur. Ex his 
+          <lb ed="#C" n="104"/>patet inter philosophos et sacras litteras / mundus 
+          <lb ed="#C" n="105"/>quinque vel sex modis accipitur. Primo pro toto 
+          vni<lb ed="#C" n="106" break="no"/>uerso deum includendo: pro reliqua parte a deo: 
+          <lb ed="#C" n="107"/>pro omnibus a deo et intelligentiis: pro omnibus infra concauum 
+          <lb ed="#C" n="108"/>lune contentis: pro reprobis et malis: pro caducis 
+          ho<lb ed="#C" n="109" break="no"/>noribus et inutilibus quos prosequentes mundanos dicimus / 
+          <lb ed="#C" n="110"/>homo qui per methaphoram est minor mundus est pars 
+          maio<lb ed="#C" n="111" break="no"/>ris mundi: sicut est de parua asia et parua affrica 
+          respe<lb ed="#C" n="112" break="no"/>ctu maioris apud cosmographos. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="154-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d92274"><!-- l2d42q1 -->
+            <head xml:id="jb2v19-d92274-Hd1e101">Quaestio 1</head>
+            <head xml:id="jb2v19-d92274-Hd1e103" type="question-title">An actus interior et exterior sunt unum et idem peccatum</head>
+            <p xml:id="jb2v19-d92274-d1e106">
+               <lb ed="#C" n="53"/>CIrca quadragesimam secundam 
+      <lb ed="#C" n="54"/>distinctionem primo quaeritur: an 
+      <lb ed="#C" n="55"/>actus interior et exterior sunt 
+      <lb ed="#C" n="56"/>vnum et idem peccatum.
+   </p>
+            <p xml:id="jb2v19-d92274-d1e117">
+      ¶ Pro 
+      so<lb ed="#C" n="57" break="no"/>lutione questionis pono 
+      con<lb ed="#C" n="58" break="no"/>clusiones.
+   </p>
+            <p xml:id="jb2v19-d92274-d1e124">
+      ¶ Prima: actus 
+      ex<lb ed="#C" n="59" break="no"/>terior malus: ab interiori 
+      ma<lb ed="#C" n="60" break="no"/>oveus Sd v iu
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>distinctum ab interiori actu. Probatur hec 
+      conclusio<lb ed="#C" n="62" break="no"/>actus exterior est peccatum. et actus interior est 
+      pec<lb ed="#C" n="63" break="no"/>catum. et actus interior non est exterior. ergo peccatum quo 
+      <lb ed="#C" n="64"/>quod est actus interior distinguitur ab actu exteriori 
+      <lb ed="#C" n="65"/>qui realiter est peccatum. quod actus exterior non sit inte 
+      <lb ed="#C" n="66"/>rior patet. interior imperat / et actus exterior est imperatus. ista 
+      <lb ed="#C" n="67"/>ter inest voluntati: non autem actus exterior. DSiony 
+      <lb ed="#C" n="68"/>non possunt competere idem actui. Actus inierior 
+      reali<lb ed="#C" n="69" break="no"/>sius cisterciems. tenet quod actus exterior nullo 
+      mo<lb ed="#C" n="70" break="no"/>do est peccatum. ideo quod naturaliter causatur ab 
+      actu<lb ed="#C" n="71" break="no"/>efficace interiori. Sed probatio viri nulla est. non 
+      <lb ed="#C" n="72"/>est inconueniens quod actus mere naturaliter 
+      causa<lb ed="#C" n="73" break="no"/>tus: sit peccatum / eo quod imperatur ab actu libero 
+      eo<lb ed="#C" n="74" break="no"/>modo quo peccatum actui exterior conuenit 
+      de<lb ed="#C" n="75" break="no"/>nominatione extrinseca ab actu interiori. Actus 
+      ex<lb ed="#C" n="76" break="no"/>terior imperatus a solo actu interiore malo non est 
+      <lb ed="#C" n="77"/>bonus nec indifferens et est humanus: ergo est 
+      ma<lb ed="#C" n="78" break="no"/>lus. Et peccatum nec actus exterior et interior sunt 
+      <lb ed="#C" n="79"/>vnum peccatum. quia vel esset hoc vnum peccatum 
+      demonstran<lb ed="#C" n="80" break="no"/>do actum interiorem. Et tunc actus exterior esset 
+      in<lb ed="#C" n="81" break="no"/>terior / vel hoc vnum peccatum: demonstrando actum 
+      ex<lb ed="#C" n="82" break="no"/>teriorem et tunc actus interior esset exterior. nec sunt 
+      <lb ed="#C" n="83"/>aliquod distinctum ab his. nec opus est dicere 
+      lo<lb ed="#C" n="84" break="no"/>gice loquendo vnum peccatum stat confuse tantum ratione 
+      co<lb ed="#C" n="85" break="no"/>pulati de hac confusione Dyonisius est innocens 
+      <lb ed="#C" n="86"/>et dato illo logicali dicto. illa cathegorica 
+      equi<lb ed="#C" n="87" break="no"/>ualet in consequendo vni copulatiue. vt patet in 
+      il<lb ed="#C" n="88" break="no"/>lo sophismate: parhisius et rome venditur piper. 
+      <lb ed="#C" n="89"/>sortes et brunellus sunt animal. ergo et c. hoc stat 
+      <lb ed="#C" n="90"/>istos duos actus realiter esse duo peccata: licet sit 
+      ea<lb ed="#C" n="91" break="no"/>dem imputabilitas: nec valet dicere signo 
+      vocabu<lb ed="#C" n="92" break="no"/>li / vnum vel duo / cadit super formale termin peccatum. in 
+      <lb ed="#C" n="93"/>terminis numeralibus hoc non est verum. si eadem anima 
+      <lb ed="#C" n="94"/>numero duas materias informaret. Diceremus / 
+      <lb ed="#C" n="95"/>duo animata et non vnum animatum. non adducam hic vel 
+      infe<lb ed="#C" n="96" break="no"/>rius argumenta Dionysii contra hanc conclusionem 
+      <lb ed="#C" n="97"/>quia non sunt ponderanda.
+   </p>
+            <p xml:id="jb2v19-d92274-d1e214">
+      ¶ Secunda conclusio: malicia 
+      <lb ed="#C" n="98"/>actus interioris est realiter distincta a 
+      malici<lb ed="#C" n="99" break="no"/>actus exterioris. hec conclusio patet: malicia actus 
+      <lb ed="#C" n="100"/>interioris est actus interior: sicut malicia actus 
+      <lb ed="#C" n="101"/>exterioris est realiter actus exterior. sicut 
+      boni<lb ed="#C" n="102" break="no"/>tas actus bonus est actus qui est bonus sed 
+      per<lb ed="#C" n="103" break="no"/>precedentem actus interior est peccatum et 
+      exte<lb ed="#C" n="104" break="no"/>rior aliud ab interiore distinctum.
+   </p>
+            <p xml:id="jb2v19-d92274-d1e232">
+      ¶ Tertia 
+      conclu<lb ed="#C" n="105" break="no"/>sio: faciens actum exteriorem cum interiori plura 
+      pec<lb ed="#C" n="106" break="no"/>cata facit quaod faciens solum interiorem. et per consequens 
+      <lb ed="#C" n="107"/>est maior peccator extensiue. hec conclusio sequitur ex 
+      <lb ed="#C" n="108"/>premissis.
+   </p>
+            <p xml:id="jb2v19-d92274-d1e243">
+      ¶ Quarta conclusio: peccans actu inter 
+      <lb ed="#C" n="109"/>roris et exteriori non punitur maiori pena 
+      infli<lb ed="#C" n="110" break="no"/>cta quod solo interiori illius exterioris imperatiuo. 
+      <lb ed="#C" n="111"/>loquor de pena inflicta. quod licet peccatum est pena 
+      <lb ed="#C" n="112"/>idemptice: vt ex superioribus notum euasit. sub 
+      ali<lb ed="#C" n="113" break="no"/>is dicitur peccans peccato interiori et exteriori 
+      <lb ed="#C" n="114"/>non est maior peccator intensiue. 
+   </p>
+            <p xml:id="jb2v19-d92274-d1e259">
+               <lb ed="#C" n="115"/>¶ Probatur conclusio. proisciant sortes et plato 
+      <lb ed="#C" n="116"/>ex coequali negligentia duos lapides per 
+      fenestran<lb ed="#C" n="117" break="no"/>in vicum publicum: in quo multi solent incedere 
+      <lb ed="#C" n="118"/>lapis sortis occidat hominem: et non lapis 
+      pla<lb ed="#C" n="119" break="no"/>tonis. pono omni a paria. hoc dempto quod in 
+      vno<lb ed="#C" n="120" break="no"/>occiditur homo: et non in alio. tunc plato tantum
+      <pb ed="#V" n="154-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>peccat sicut sortes. et tantum punitur a deo sicut 
+      <lb ed="#C" n="2"/>sortes si ambo discedant in istis peccatis. cum 
+      <lb ed="#C" n="3"/>tam sortes quam plato fecerunt equaliter quod in eis est 
+      <lb ed="#C" n="4"/>nec per platonem stetit quin hominem 
+      occide<lb ed="#C" n="5" break="no"/>rit ergo equaliter peccauerunt. Ad sensum conclusiois 
+   </p>
+            <p xml:id="jb2v19-d92274-d1e290">
+               <lb ed="#C" n="6"/>¶ Confifatur hec ro. dirigant sortes et plato duas 
+      sa<lb ed="#C" n="7" break="no"/>gittas contra robertum et petrum. occidat sortes robertum 
+      <lb ed="#C" n="8"/>et non plato petrum propterea solum quia petrus armatus 
+      e<lb ed="#C" n="9" break="no"/>rat latenter sub ve e: vel paulus imposuit 
+      vm<lb ed="#C" n="10" break="no"/>bonem resistiuum actus ipsius platonis. 
+      pone<lb ed="#C" n="11" break="no"/>semper omnia paria que argumenti robur 
+      pre<lb ed="#C" n="12" break="no"/>mouent. ita quod nulla sit disparitas nisi in hoc quod 
+      <lb ed="#C" n="13"/>vnus occidat et non alter. tunc sic. sortes et 
+      pla<lb ed="#C" n="14" break="no"/>to equaliter peccant. quod probo tempore quo 
+      sa<lb ed="#C" n="15" break="no"/>gitte fuerunt volantes in aere: equaliter 
+      pecca<lb ed="#C" n="16" break="no"/>uerunt nec plus peccat sortes tempore quo 
+      sa<lb ed="#C" n="17" break="no"/>gitta tangit robertum. quia posito quod sortes sit 
+      <lb ed="#C" n="18"/>mortuus antequam eius sagitta tangat robertum. 
+      di<lb ed="#C" n="19" break="no"/>ces hic illa dependet ab vna de futuro an 
+      equali<lb ed="#C" n="20" break="no"/>ter peccent. sicut in simili in distinctione 
+      quadra<lb ed="#C" n="21" break="no"/>gesima nona quarti diximus de martyrio. . 
+      li<lb ed="#C" n="22" break="no"/>cet vnus vocetur martyr illi de quibus est quaestio in 
+      <lb ed="#C" n="23"/>quarto equaliter merentur: ergo isti equaliter de 
+      <lb ed="#C" n="24"/>merentur. Dices: hic ponitur in vtroque actus exterior 
+      <lb ed="#C" n="25"/>scilicet sagittatio sagitte. licet in vno non sequitur 
+      euen<lb ed="#C" n="26" break="no"/>tus scilicet mors. modo euentus sequens non 
+      au<lb ed="#C" n="27" break="no"/>get peccatum precedens contra. ergo si vnus 
+      fregis<lb ed="#C" n="28" break="no"/>set cordam vel archum sortis tempore quo caput 
+      sa<lb ed="#C" n="29" break="no"/>gitte super partem archus rarefactam sorte volente 
+      <lb ed="#C" n="30"/>efficaciter occidere: quantum erat ex parte eius 
+      mi<lb ed="#C" n="31" break="no"/>nus sortes peccabit: quod non videtur dicendum. 
+   </p>
+            <p xml:id="jb2v19-d92274-d1e349">
+               <lb ed="#C" n="32"/>¶ Tertio arguitur. actus exterior naturaliter 
+      <lb ed="#C" n="33"/>imperatur ab actu interiori efficaci. vt patet 
+      no<lb ed="#C" n="34" break="no"/>non Methaphisice. ergo non facit hominem magis 
+      <lb ed="#C" n="35"/>peccatorem quam si non poueretur. tenet consequentia 
+      <lb ed="#C" n="36"/>non alias habitus non imputat ad culpam qui natu 
+      <lb ed="#C" n="37"/>rali sequela sequitur actum nec continuatio actus 
+      ma<lb ed="#C" n="38" break="no"/>li elicit i in instati non imputatur tempore 
+      natura<lb ed="#C" n="39" break="no"/>lis continuationis. quaando voluntas facit quod in se est 
+      <lb ed="#C" n="40"/>ad remittendum vel reseruandum actum illum.
+   </p>
+            <p xml:id="jb2v19-d92274-d1e372">
+      ¶ At 
+      <lb ed="#C" n="41"/>dicis licet naturaliter imperetur actus exterior 
+      <lb ed="#C" n="42"/>ab interiori: quia homo est in culpa et libere illius 
+      <lb ed="#C" n="43"/>sequele: ei imputabitur: sicut stans in ebrietate ex 
+      <lb ed="#C" n="44"/>culpa previa que non sunt in per. testate viri. 
+   </p>
+            <p xml:id="jb2v19-d92274-d1e383">
+               <lb ed="#C" n="45"/>¶ Contra hoc arguitur: tunc eliciens malum actum 
+      <lb ed="#C" n="46"/>in instanti peccabit infinite. patet in quolibet 
+      in<lb ed="#C" n="47" break="no"/>stanti naturalis continuationis peccabit. et licet 
+      <lb ed="#C" n="48"/>non tantum sicut in primo instanti libere elicionis: 
+      <lb ed="#C" n="49"/>tamen in quolibet instanti continuationis non libe 
+      <lb ed="#C" n="50"/>re equaliter peccat cum alio quocumque instanti. et 
+      <lb ed="#C" n="51"/>te oportet dare malitiam vt duo vel vnum vel dimidium 
+      <lb ed="#C" n="52"/>in vno instanti et in quolibet tempore sunt 
+      infinita<lb ed="#C" n="53" break="no"/>instantia: ergo infinite peccat. Insuper quod de ebrie 
+      <lb ed="#C" n="54"/>tate dicis in distinctione decima septima 
+      quar<lb ed="#C" n="55" break="no"/>ti improbatur.
+   </p>
+            <p xml:id="jb2v19-d92274-d1e409">
+      ¶ Quarto arguitur: percutiens 
+      sta<lb ed="#C" n="56" break="no"/>tuam in tenebris quam credit esse robertum tantum 
+      <lb ed="#C" n="57"/>peccat: sicut hominem similiter percutiens et 
+      occi<lb ed="#C" n="58" break="no"/>dens. igitur.
+   </p>
+            <p xml:id="jb2v19-d92274-d1e418">
+      ¶ Quinto arguitur. si grauins 
+      pec<lb ed="#C" n="59" break="no"/>cet habens interiorem actum exteriori iunctum 
+      sequi<lb ed="#C" n="60" break="no"/>tur quod dari posset actus exterioris malitia respo¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>dens actui exteriori: et sic dabitur vnus cum 
+      ac<lb ed="#C" n="62" break="no"/>tu interiori vt quattuor iuncto exteriori qui 
+      equa<lb ed="#C" n="63" break="no"/>liter peccabit cum interiori vt quinque: quod non vi 
+      <lb ed="#C" n="64"/>detur concedendum
+   </p>
+            <p xml:id="jb2v19-d92274-d1e436">
+      ¶ Sexto arguitur auctoritate 
+      <lb ed="#C" n="65"/>August. primo libro de libero arbitrio: capite. 3. 
+      <lb ed="#C" n="66"/>dicentis: si cui non contingat facultas concum 
+      <lb ed="#C" n="67"/>di cum coniuge aliena. planum tamen aliquomo 
+      <lb ed="#C" n="68"/>fit cupere. et si potestas detur eeffe facturum. non 
+      <lb ed="#C" n="69"/>minus reus est: quod si in spso facto deprehenderetur: 
+      <lb ed="#C" n="70"/>glo. apparati de penitentia distinctione prima. c. si cui 
+      <lb ed="#C" n="71"/>dicit non minus reus est re vera magis reus est si 
+      <lb ed="#C" n="72"/>opus adhibeatur. exponitur non minus reus est. 
+      n<lb ed="#C" n="73" break="no"/>chilominus reus est. hec glosa est Aurelianensis 
+      <lb ed="#C" n="74"/>et textum euertit. qui in ratione fundatur.
+   </p>
+            <p xml:id="jb2v19-d92274-d1e460">
+      ¶ Contra 
+      <lb ed="#C" n="75"/>tres primas conclusiones arguitur. nihil est actus e: 
+      <lb ed="#C" n="76"/>terior. ergo conclusiones falsum presuponunt. 
+      ante<lb ed="#C" n="77" break="no"/>cedens patet de homicidio exteriori: mendacio / et 
+      <lb ed="#C" n="78"/>similibus. querendo quae res sunt.
+   </p>
+            <p xml:id="jb2v19-d92274-d1e472">
+      ¶ Respondetur 
+      ne<lb ed="#C" n="79" break="no"/>gando antecedens. aliquis actus exterior est hab 
+      <lb ed="#C" n="80"/>membrum taliter se habens vel ipse homo alio 
+      <lb ed="#C" n="81"/>actus exterior est in intellectu vel in sensu vocamus 
+      <lb ed="#C" n="82"/>quemlibet actum non elicitum a voluntate actum exterio 
+      <lb ed="#C" n="83"/>rem in proposito. Et licet in voluntate sit intellectio 
+      <lb ed="#C" n="84"/>vt patet ex dictis distinctione 16. huius cape 
+      men<lb ed="#C" n="85" break="no"/>tem loquentis semper intelligendo communem 
+      loqu<lb ed="#C" n="86" break="no"/>lam cum ratione et alibi.
+   </p>
+            <p xml:id="jb2v19-d92274-d1e492">
+      ¶ Contra quartam 
+      conclu<lb ed="#C" n="87" break="no"/>sionem arguitur. actus exterior est peccatum realiter 
+      <lb ed="#C" n="88"/>distinctum ab interiori: ergo respondet pena 
+      reali<lb ed="#C" n="89" break="no"/>ter distincta a pena actus interioris / alioquin 
+      se<lb ed="#C" n="90" break="no"/>quitur hec disiunctiua nulla pena punientur vel 
+      <lb ed="#C" n="91"/>eadem pena cum pena actus interioris punientur. 
+      prior<lb ed="#C" n="92" break="no"/>pars huius disiunctiue est rationi dissona. si 
+      secundan<lb ed="#C" n="93" break="no"/>capias vlterius infero quod duo erunt vel tria 
+      pec<lb ed="#C" n="94" break="no"/>cata realiter distincta eadem pena punita.
+   </p>
+            <p xml:id="jb2v19-d92274-d1e512">
+      ¶ 
+      Se<lb ed="#C" n="95" break="no"/>cundo arguitur. si ergo sit vna cum precedentibus 
+      <lb ed="#C" n="96"/>sequitur hec conclusio quod vtrumque actum faciens puta 
+      in<lb ed="#C" n="97" break="no"/>teriorem cum exteriore tenetur plura peccata 
+      confi<lb ed="#C" n="98" break="no"/>teri quam solum actum habens interiorem. et si sic homo non 
+      <lb ed="#C" n="99"/>solum tenetur confiteri percussionem qua percussit aliquem in 
+      <lb ed="#C" n="100"/>iuste sed ett vltionem percutiendi et ita in similibus quod 
+      tamen<lb ed="#C" n="101" break="no"/>homines facere non solent.
+   </p>
+            <p xml:id="jb2v19-d92274-d1e530">
+      ¶ Ad primum nego conse 
+      <lb ed="#C" n="102"/>quentiam eadem pena numero punitur actus exterior 
+      <lb ed="#C" n="103"/>et interior a quo imperatur nec inconuenit 
+      plu<lb ed="#C" n="104" break="no"/>ra peccata realiter distincta puniri eadem pena 
+      dum<lb ed="#C" n="105" break="no"/>vna culpa ab alia imperatur. secus est de 
+      pecca<lb ed="#C" n="106" break="no"/>tis impertinetibus.
+   </p>
+            <p xml:id="jb2v19-d92274-d1e543">
+      ¶ Ad secundum: effectualiter 
+      ho<lb ed="#C" n="107" break="no"/>confitetur vtrumque homo confitetur actum exteriorem 
+      <lb ed="#C" n="108"/>qui non est malus nisi pro quanto ab actu malo 
+      im<lb ed="#C" n="109" break="no"/>peratur: sed solum fecit actum interiorem ipsum etiam 
+      con<lb ed="#C" n="110" break="no"/>fitetur.
+   </p>
+            <p xml:id="jb2v19-d92274-d1e554">
+      ¶ Tertio arguitur: aliquis actus ab alio 
+      impe<lb ed="#C" n="111" break="no"/>ratus malitiam distinctam habens ab actu imperante qrgod 
+      <lb ed="#C" n="112"/>quarta conclusio cum sua probatione est falsa. 
+      antece<lb ed="#C" n="113" break="no"/>dens patet de odio dei vel proximi im parato ab actu malo 
+      <lb ed="#C" n="114"/>imperante efficaci. forte dicis: licet vnus actus ab 
+      <lb ed="#C" n="115"/>alio efficaciter imperetur ab alio est meritorius 
+      <lb ed="#C" n="116"/>noui praemii distincti ab actu imperante. secus est de 
+      actu<lb ed="#C" n="117" break="no"/>exteriori puta de actu alterius potentie a voluntate 
+      <lb ed="#C" n="118"/>vel de actu pure imperato et non elicito et id 
+      ra<lb ed="#C" n="119" break="no"/>tionis est vnus actus voluntatis puta b. ab a. est 
+      <lb ed="#C" n="120"/>actus voluntatis et secluso a. actu imperante b. actus
+      <pb ed="#V" n="155-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>potest stare in voluntate et actus erat malus sua 
+      <lb ed="#C" n="2"/>propria malicia contra b. actus Contra b. actus 
+      me<lb ed="#C" n="3" break="no"/>re naturaliter sequitur ad a. ergo nullomodo est 
+      li<lb ed="#C" n="4" break="no"/>ber in se si libertas in sua causa ad meritum sufficiat actus 
+      <lb ed="#C" n="5"/>exterior dicetur meritorius b. esse inhesine non 
+      <lb ed="#C" n="6"/>sufficit ad meritum: quia sicut habitus et passiones 
+      <lb ed="#C" n="7"/>essent meritorii. sed dicis b. est a voluntate 
+      imme<lb ed="#C" n="8" break="no"/>diate non autem passio vel habitus sed ab actu tamquam 
+      <lb ed="#C" n="9"/>a sua causa: quod patet si voluntas immediate 
+      concur<lb ed="#C" n="10" break="no"/>rat ad actum imperatum cum voluntas deliberat 
+      <lb ed="#C" n="11"/>iam est libera poterit non ponere b. actum. esto quod a 
+      <lb ed="#C" n="12"/>sit in voluntate a. inquam etiam naturaliter causans 
+      pa<lb ed="#C" n="13" break="no"/>tet superius ex distinctione. 15. licet actus 
+      volun<lb ed="#C" n="14" break="no"/>tatis causetur a noticia et voluntate et vna 
+      cau<lb ed="#C" n="15" break="no"/>sa naturaliter causet adhuc actus est liber 
+      pro<lb ed="#C" n="16" break="no"/>pter liberam causalitatem voluntatis. forte dicis b. 
+      ac<lb ed="#C" n="17" break="no"/>tus voluntatis imperatus ab actu libero bono est 
+      bo<lb ed="#C" n="18" break="no"/>nus tanquam actus imperatus non tamen est merito 
+      <lb ed="#C" n="19"/>rius alterius praiemii ab actu. a. a quo elicitur eoud modo de ab 
+      <lb ed="#C" n="20"/>actu elicito et imperante malo respectu b. actus 
+      <lb ed="#C" n="21"/>mali imperati.
+   </p>
+            <p xml:id="jb2v19-d92274-d1e629">
+      ¶ Contra hoc arguitur. sequitur quod si 
+      <lb ed="#C" n="22"/>quis velit efficaciter vnum finem puta sanitatem 
+      pro<lb ed="#C" n="23" break="no"/>pter deum et iudicet in intellectu solum hoc medium 
+      <lb ed="#C" n="24"/>scilicet potionem hanc amaram esse ad consecutionem 
+      <lb ed="#C" n="25"/>talis finis necessarium ille non merebitur per actum 
+      <lb ed="#C" n="26"/>voluntatis latum in medium cum actus voluntatis 
+      me<lb ed="#C" n="27" break="no"/>dii non est liber. si quis autem efficaciter vult sanitatem 
+      <lb ed="#C" n="28"/>tollere vult tollere omne impedimentum sue 
+      pote<lb ed="#C" n="29" break="no"/>stati subiectum et ponere omnem illud quod iudicat ad 
+      <lb ed="#C" n="30"/>hoc necessarium si illud in sua facultate situm fuerit 
+      <lb ed="#C" n="31"/>et sicut actus latus in medium et finem simul qui est vsus 
+      <lb ed="#C" n="32"/>et fruitio non addit nouum praiemium distinctu a 
+      praimio<lb ed="#C" n="33" break="no"/>duobus simplicibus actibus a quibus dependet et a 
+      <lb ed="#C" n="34"/>quibus naturaliter causatur Respondetur necesse est elige 
+      <lb ed="#C" n="35"/>gere aliud impugnatum in arguendo quod cum 
+      apparen<lb ed="#C" n="36" break="no"/>tia facere potes vel concedere illata. et pro nunc 
+      conce<lb ed="#C" n="37" break="no"/>do quando a. actus liber in se imperat b. actum qui 
+      <lb ed="#C" n="38"/>in se naturaliter causatur licet sit inhesine in 
+      volun<lb ed="#C" n="39" break="no"/>tate: talis non plus meretur quo ad praiemium essentiale 
+      <lb ed="#C" n="40"/>quia si solum a. actus liber esset vt si deus concurrat cum 
+      <lb ed="#C" n="41"/>voluntate creata ad volendum b. et deus non concurrat 
+      <lb ed="#C" n="42"/>ad b. tunc b. non cepit sed non plus merebitur vel 
+      de<lb ed="#C" n="43" break="no"/>merebitur voluntas cum solo a. quia si b. poneretur et 
+      <lb ed="#C" n="44"/>ita vtrobique quando est naturalis productio: et 
+      conce<lb ed="#C" n="45" break="no"/>do consequenter quod volitio medii mere naturaliter 
+      <lb ed="#C" n="46"/>causatur a volitione efficaci finis. et iudico quod hoc 
+      <lb ed="#C" n="47"/>solum medium est possibile et secundum intentionem 
+      effi<lb ed="#C" n="48" break="no"/>cacem finis et iudicii ponetur intentio actus volendi 
+      me<lb ed="#C" n="49" break="no"/>dii si passum fuerit dispositum ad susceptionem actus 
+      me<lb ed="#C" n="50" break="no"/>dii qui est fruitio et vsus non causatur sufficienter 
+      na<lb ed="#C" n="51" break="no"/>turaliter a volitione medii et a volitione finis: 
+      <lb ed="#C" n="52"/>quod patet quia tunc semper quando haberentur due dilectio 
+      <lb ed="#C" n="53"/>nes vna lata in creaturam solum et alia in deum solum 
+      <lb ed="#C" n="54"/>poneretur actus mixtus qui est vsus et fruitio. 
+      oppo<lb ed="#C" n="55" break="no"/>sito dato dicendum esset consequenter sicut in aliis. 
+   </p>
+            <p xml:id="jb2v19-d92274-d1e705">
+               <lb ed="#C" n="56"/>¶ Contra ista que dicit volitio finis: diximus. 
+      In<lb ed="#C" n="57" break="no"/>surgis ponendo quod sortes non teneatur pronunc 
+      subue<lb ed="#C" n="58" break="no"/>nire platoni: quia non est in extrema necessitate 
+      <lb ed="#C" n="59"/>nec in ragna de qua distinctione. 15. quarti 
+      locu<lb ed="#C" n="60" break="no"/>ti sumus: nihilominus tamen vult efficaciter subueni
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>re platoni querit mediu ad subuenlendum platoni 
+      <lb ed="#C" n="62"/>medio requisito non inuenit aliud nisi hoc quod non potest 
+      <lb ed="#C" n="63"/>subuenire platoni nisi tollendo alienum. ponatur ita 
+      <lb ed="#C" n="64"/>esse tunc sic. volitio finis est bona iudicium 
+      intelle<lb ed="#C" n="65" break="no"/>ctus est verum nec imperatur ab actu voluntatis malo 
+      <lb ed="#C" n="66"/>ergo nihil mali est in iudicio. et tamen volitio qua 
+      <lb ed="#C" n="67"/>volo capere a proximo alienum vt platoni subueniam 
+      <lb ed="#C" n="68"/>est mala. patet: est furtum vt ex dictis. 15. distinctio 
+      <lb ed="#C" n="69"/>nis quarti: patet. ergo volitio medii naturaliter 
+      <lb ed="#C" n="70"/>imperata. non sequitur denominationem 
+      volitio<lb ed="#C" n="71" break="no"/>nis efficacis inesse bonitati vel maliciei. Respondetur: 
+      su<lb ed="#C" n="72" break="no"/>oueniendo iudicio certo medii de modo 
+      succurren<lb ed="#C" n="73" break="no"/>di plationi volitio efficax finis est mala ipss est libera 
+      <lb ed="#C" n="74"/>Et tota malicia in ea inuenienda est omnis finis 
+      na<lb ed="#C" n="75" break="no"/>turaliter procuratiuus medii illicite est malus sic 
+      <lb ed="#C" n="76"/>est in proposito. Licet finis de se sit bonus et 
+      iudi<lb ed="#C" n="77" break="no"/>cium verum: quia finis ille impellit ad medium malum 
+      <lb ed="#C" n="78"/>finis est malum et sua volitio efficax est mala. 
+      exemplun<lb ed="#C" n="79" break="no"/>mili volo efficaciter habere hoc beneficium quo sum 
+      <lb ed="#C" n="80"/>dignus. Iudico quod non consequar ipsum nisi dando 
+      <lb ed="#C" n="81"/>pecuniam collatori. tunc naturaliter producitur 
+      voli<lb ed="#C" n="82" break="no"/>tio dando pecuniam stante iudicio et volitione 
+      effi<lb ed="#C" n="83" break="no"/>caci in fine tota libertas est in volitione 
+      efficaci<lb ed="#C" n="84" break="no"/>quam libere continuo. teneor ergo illam reserare 
+      eoden<lb ed="#C" n="85" break="no"/>procepto: quo teneor committere symoniam. et si 
+      con<lb ed="#C" n="86" break="no"/>tinue erit mala quia ad malam continuationem istius 
+      <lb ed="#C" n="87"/>volitionis efficacis cum iudicio stante de necessita 
+      <lb ed="#C" n="88"/>te sequitur aliud contra preceptum legis 
+      obligato<lb ed="#C" n="89" break="no"/>rie.
+   </p>
+            <p xml:id="jb2v19-d92274-d1e783">
+      ¶ Quarto arguitur. sunt duo mutuo pugnantes 
+      <lb ed="#C" n="90"/>in bello: sortes christianus et plato infidelis. habeat 
+      <lb ed="#C" n="91"/>cicero velle occidendi hostem fidei: et dirigat sagit 
+      <lb ed="#C" n="92"/>tam vt hostem fidei trucidet et non apponat sic scilibet 
+      <lb ed="#C" n="93"/>quod christianum negligenter occidat: hoc casu 
+      suppo<lb ed="#C" n="94" break="no"/>sito. arguitur sic. actus exterior occidendi est malus 
+      <lb ed="#C" n="95"/>cui nullus in voluntate respondetur. ergo actus 
+      <lb ed="#C" n="96"/>exterior habet aliquod malicie distincte ab 
+      actu<lb ed="#C" n="97" break="no"/>interiori. Simile arguitur. fieri potest tenendo quod 
+      sem<lb ed="#C" n="98" break="no"/>sualitas possit hominem impellere ad operationem 
+      <lb ed="#C" n="99"/>malam sine actu libero voluntatis.
+   </p>
+            <p xml:id="jb2v19-d92274-d1e807">
+      ¶ Quinto 
+      ar<lb ed="#C" n="100" break="no"/>guitur. sortes distractus dicit horas. tunc non est aliquis 
+      <lb ed="#C" n="101"/>actus bonus in voluntate: et tamen bene agit exterius 
+      <lb ed="#C" n="102"/>celebrando quia si omitteret peccaret nunc cum dicit 
+      <lb ed="#C" n="103"/>et non ex industria distractus satisfaceret praecepto. 
+      <lb ed="#C" n="104"/>de dicendis horis sic scilicet quod non omittit.
+   </p>
+            <p xml:id="jb2v19-d92274-d1e820">
+      ¶ 
+      Sexto<lb ed="#C" n="105" break="no"/>arguitur. prohibeat deus actum exteriorem scilicet dationem 
+      <lb ed="#C" n="106"/>elemosine dande: sorti precipiat actum interiorem scilicet 
+      <lb ed="#C" n="107"/>vel le dandi: isto casu supposito datio illa 
+      exteri<lb ed="#C" n="108" break="no"/>or est peccatum: quia contra prohibitionem dei et actus 
+      <lb ed="#C" n="109"/>interior non est peccntum: ergo conclusio falsa.
+   </p>
+            <p xml:id="jb2v19-d92274-d1e833">
+      ¶ Ad 
+      quar<lb ed="#C" n="110" break="no"/>tum respondetur admittendo casum argumenti concedendo 
+      <lb ed="#C" n="111"/>quod actus exterior est malus cui nullus actus in 
+      vo<lb ed="#C" n="112" break="no"/>luntate mali respondet. Sed tunc contra positionem que 
+      <lb ed="#C" n="113"/>vult dato hoc interiori solo in sorte et simili inte 
+      <lb ed="#C" n="114"/>riori in platone cum actu exteriori. ita imputabiliter 
+      <lb ed="#C" n="115"/>peccat sortes sicut plato: non tamen negat sicut nec 
+      ne<lb ed="#C" n="116" break="no"/>gare debet quin dari potest actus exterior malus cui 
+      <lb ed="#C" n="117"/>nullus in voluntate respondet. sed satis est quod voluntas 
+      <lb ed="#C" n="118"/>omittat reimprimere illam operationem malam sicut in 
+      <lb ed="#C" n="119"/>17. distin. primi. contra magistrum martinum diximus / 
+      <lb ed="#C" n="120"/>eodem modo si operatio exterior esset a sens
+      <pb ed="#V" n="155-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>tate producta.
+   </p>
+            <p xml:id="jb2v19-d92274-d1e867">
+      ¶ Ad quintum dico quod distracte 
+      cele<lb ed="#C" n="2" break="no"/>brans nil meretur cum nullum actum voluntatis habeat 
+      <lb ed="#C" n="3"/>suum dicere exterius a proposito bono a principio 
+      <lb ed="#C" n="4"/>em ante ans. est horarum aquitatiuum oratio aliqua est 
+      <lb ed="#C" n="5"/>satisfactoria aliqua aquitatiua: et non oportet aliquam 
+      <lb ed="#C" n="6"/>istarum esse meritoriam vite eterne. Ex isto non 
+      ha<lb ed="#C" n="7" break="no"/>bes. quod dictre exterius sit actus bonus in voluntate 
+      re<lb ed="#C" n="8" break="no"/>spondet.
+   </p>
+            <p xml:id="jb2v19-d92274-d1e885">
+      ¶ Ad septimum dicitur casus non est 
+      rationa<lb ed="#C" n="9" break="no"/>bilis. ratio est si precipiatur actus interior efficax 
+      <lb ed="#C" n="10"/>celebrandi. precipitur antecedens ad celebradum si non 
+      <lb ed="#C" n="11"/>sit impedimentum aliunde: ergo irrationabile esset 
+      <lb ed="#C" n="12"/>preceptum quo quis obligaretur ad antecedens. et 
+      op<lb ed="#C" n="13" break="no"/>positum consequentis non prosequar vlterius hanc que 
+      <lb ed="#C" n="14"/>stionem. quia ea seriosius in primam distinctionem primi 
+      <lb ed="#C" n="15"/>prosequutus suum. nunc autem tetigi aliqua in quorum 
+      <lb ed="#C" n="16"/>solutionibus alibi eram breuis et argumenta aliquid 
+      ap<lb ed="#C" n="17" break="no"/>parentie habent in re difficili non primo venit mate 
+      <lb ed="#C" n="18"/>riam variis in lociis tractare dummodo differenter 
+      <lb ed="#C" n="19"/>et vtiliter tractetur vidimus quonam pacto homo non 
+      <lb ed="#C" n="20"/>habebit plus beatitudinis pro actu interiori et ex 
+      <lb ed="#C" n="21"/>teriori respondenti illi quam pro interiori solo sumpta 
+      <lb ed="#C" n="22"/>paritate actus voluntatis vtrobique. et hoc 
+      extra<lb ed="#C" n="23" break="no"/>sacramenta que bonitatem habent ratione operis 
+      ope<lb ed="#C" n="24" break="no"/>rati quia sine actu interiori hoc in sacramentis 
+      lo<lb ed="#C" n="25" break="no"/>cum habet: patet quando baptisatur paruulus vel 
+      <lb ed="#C" n="26"/>confirmatur vel ordines capit licet gaudium 
+      acci<lb ed="#C" n="27" break="no"/>dentale sequatur vel maior pena in hoc mundo 
+      pro<lb ed="#C" n="28" break="no"/>interiori et exteriori mentis: vel maior 
+      accelera<lb ed="#C" n="29" break="no"/>tio ad gloriam vt per indulgentias et aliorum preces 
+      <lb ed="#C" n="30"/>dicimus actum exteriorem esse peccatum denomninatione 
+      <lb ed="#C" n="31"/>extrinseca quando a peccato interiore emanat qua 
+      <lb ed="#C" n="32"/>re aliqui mirari no habent si vterque actus prohibeatur 
+      cu<lb ed="#C" n="33" break="no"/>vterque es peccatum et apud aliquas putabat quod actus interior 
+      <lb ed="#C" n="34"/>non exat peccatum per vnum praeceptum tam actus interior quod exte 
+      <lb ed="#C" n="35"/>rior prohibet. sed ne aliqui credat in solo actu exterio 
+      <lb ed="#C" n="36"/>ri est peccatum tam actus interior quam exterior 
+      prohiben<lb ed="#C" n="37" break="no"/>tur fornicatio et furtum actus prohibetur precepto 
+      <lb ed="#C" n="38"/>sexto et septimo actus interior 0. et. 10. 
+      prece<lb ed="#C" n="39" break="no"/>pto prohibentur. sic actus exterior est meritum 
+      quan<lb ed="#C" n="40" break="no"/>do ab actu interiori meritorio procedit. Queritur 
+      <lb ed="#C" n="41"/>secundo an sit peccatum in cogitatione. et arguitur quod non 
+      <lb ed="#C" n="42"/>nichil est peccatum nisi voluntarium cogitatio non est 
+      <lb ed="#C" n="43"/>voluntaria immo effectine concurrit ad actum 
+      merito<lb ed="#C" n="44" break="no"/>rium ex dictis distinc. 25 si mente tenes. vel secundum 
+      <lb ed="#C" n="45"/>alios noticiam praesupponit et nichil producit illud quod 
+      <lb ed="#C" n="46"/>est presuppositum. forte dicis voluntas non producit 
+      <lb ed="#C" n="47"/>noticiam que est causa eius sed vnam aliam noticiam vel 
+      <lb ed="#C" n="48"/>vult continuare noticiam praesentem. Contra hoc 
+      argui<lb ed="#C" n="49" break="no"/>tur: sit hec noticia a. nihil est volitum nisi cognitum 
+      <lb ed="#C" n="50"/>decimo de trinitate capite primo. et sit a. secundo 
+      <lb ed="#C" n="51"/>noticia non est cognita non est seipsa nec oportet 
+      <lb ed="#C" n="52"/>quod sit cognita aliqua alia noticia. Respondetur ad que 
+      <lb ed="#C" n="53"/>itionem per conclusionem vnicam que est hec: in cogita 
+      <lb ed="#C" n="54"/>tione potest esse peccatum quod est in noticia sensitiua 
+      <lb ed="#C" n="55"/>vel intellectiua ita quam illa trasitiua constructio loco 
+      <lb ed="#C" n="56"/>vnius intransitiue capiatur. patet per dictum hiero 
+      <lb ed="#C" n="57"/>nimi quod magister in licatia allegat. propterea in 
+      con<lb ed="#C" n="58" break="no"/>fessione generali dicimus: in cogitatione / 
+      locu<lb ed="#C" n="59" break="no"/>tione / delectatione. praeterea aliqua cogitatio est
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="60"/>periculosa quam voluntas rescidere tenetur: ergo est 
+      pec<lb ed="#C" n="61" break="no"/>catum. Insuper: prouerbiorum 24. cogitatio stulti 
+      pec<lb ed="#C" n="62" break="no"/>catum est. Coclusione probata resiat soluere arg 
+      <lb ed="#C" n="63"/>mentum contra eum in capite questionis factum quod 
+      <lb ed="#C" n="64"/>probare intendebat quod noticia non potest esse 
+      voli<lb ed="#C" n="65" break="no"/>ta. ad quod dico requiritur primo noticia in 
+      intel<lb ed="#C" n="66" break="no"/>lectu antequa voluntas aliud velit. Secundo dico voluntas 
+      <lb ed="#C" n="67"/>potest velle a noticiam existentem in intellectu si a. 
+      no<lb ed="#C" n="68" break="no"/>ticia sit distincte cognita per b. noticiam refiexam et sic 
+      <lb ed="#C" n="69"/>stat esse peccatum in cogitatione et vnam cogitationem 
+      <lb ed="#C" n="70"/>esse formaliter volitam: licet non quelibet sit forma 
+      <lb ed="#C" n="71"/>liter volita vt patet de b. noticia reflexa cuius non 
+      <lb ed="#C" n="72"/>habetur noticia et sic reuocaretur in dubium an 
+      <lb ed="#C" n="73"/>possit esse volita absque hoc quod sit in parte 
+      co<lb ed="#C" n="74" break="no"/>gnita. Circa hoc est varius modus dicendi 
+      inuti<lb ed="#C" n="75" break="no"/>tilis. vnus modus dicendi est gregorii arim inensis 
+      <lb ed="#C" n="76"/>libro iI. distin. xi. dicentis quod hoc potest libere vti 
+      spem<lb ed="#C" n="77" break="no"/>et eodem modo diceret de actu sine actu elicito 
+      vo<lb ed="#C" n="78" break="no"/>luntatis contra: tunc voluntas fertur in incognitum 
+      conm<lb ed="#C" n="79" break="no"/>tra augustinum. x. de trini. sed dices volitio non 
+      fer<lb ed="#C" n="80" break="no"/>tur in aliquod obiectum sine actu eius elicito: patet 
+      <lb ed="#C" n="81"/>de intellectu et aliis sensibus. ergo si voluntas 
+      fer<lb ed="#C" n="82" break="no"/>tur in specie hoc erit per velle vel nolle: et sic 
+      spe<lb ed="#C" n="83" break="no"/>cies erit volita et non cognita et reddit difficultas 
+      <lb ed="#C" n="84"/>argumenti. Secundo: augustinus loquitur de 
+      vo<lb ed="#C" n="85" break="no"/>luntate dicens quod non feratur in incognitum. 
+      Ter<lb ed="#C" n="86" break="no"/>tio: aperitur michi via dicendi vtrobique voluntas 
+      fer<lb ed="#C" n="87" break="no"/>tur in a. obiectum sine actu aliquo et tamen a. non est 
+      co<lb ed="#C" n="88" break="no"/>gnitum immo ad viam numquam esset ponendus actus elicitus 
+      <lb ed="#C" n="89"/>quia non ponitur nisi ad hoc voluntas feratur in suum 
+      <lb ed="#C" n="90"/>obiectum et alias potentias moueat Insuper: si 
+      vo<lb ed="#C" n="91" break="no"/>luntas imperet potentiis sine actu elicito et / 
+      <lb ed="#C" n="92"/>nouo semper imperaret cum semper est voluntas et 
+      ni<lb ed="#C" n="93" break="no"/>hil aliud requiritur per te: igitur. propterea dicitur quod 
+      volun<lb ed="#C" n="94" break="no"/>tas fertur in incognitum quando obiectum est habitus 
+      <lb ed="#C" n="95"/>probatio ex Aristotele et Augustino et ratione dicit 
+      <lb ed="#C" n="96"/>Aristoteles secundo de anima commento. 60. intelligimus 
+      <lb ed="#C" n="97"/>cum volumus scilicet quorum noticiam habitualem 
+      habe<lb ed="#C" n="98" break="no"/>mus. et primo ethi. et 3 de anima dicit: hintus est quo quis 
+      <lb ed="#C" n="99"/>potest vti cum voluerit. et Augustinus decimo 
+      quin<lb ed="#C" n="100" break="no"/>to de trinita. cap 26 dicit: voluntas copulat 
+      inter<lb ed="#C" n="101" break="no"/>ligentiam. probabili ratione arguitur sic: et fundatur iam 
+      in<lb ed="#C" n="102" break="no"/>dicta auctoritate philosophi in secundo de anima. a. 
+      sor<lb ed="#C" n="103" break="no"/>tes habet multas noticias inequaliter productas in 
+      <lb ed="#C" n="104"/>specie et in gradum interdum exit in actum vnius noticie 
+      <lb ed="#C" n="105"/>et non alterius et non semper noticie perfectiorum sed in 
+      <lb ed="#C" n="106"/>terdum remissorum et nulla est causa nisi concursus 
+      vo<lb ed="#C" n="107" break="no"/>luntatis: igitur. Sed dicis: occurrit aliquod obiectum 
+      cu<lb ed="#C" n="108" break="no"/>ius noticia dat aditum ad vnam noticiam actualem 
+      intel<lb ed="#C" n="109" break="no"/>lectus et non ad aliam et per consequens illa habetur 
+      <lb ed="#C" n="110"/>et non alia: vt in distinctione. 45. quaestione. 6. quarti 
+      <lb ed="#C" n="111"/>diximus contra hoc non totaliter extingunt 
+      difficul<lb ed="#C" n="112" break="no"/>tatem volo ita esse sicut dicis in solutione quaero vel 
+      <lb ed="#C" n="113"/>per imperium oluntatis intellectus potest exire in 
+      ac<lb ed="#C" n="114" break="no"/>tualem noticiam vnius obiecti cogniti habitualiter 
+      <lb ed="#C" n="115"/>et non alterius si regressus ad vna noticiam non habea 
+      <lb ed="#C" n="116"/>tur vel non videtur secundum contra id quod in nobis 
+      experi<lb ed="#C" n="117" break="no"/>mur et contra aucentes adductas. Secunda ratio est 
+      <lb ed="#C" n="118"/>hec: intellectus interdum format noticiam reflexam a. no¬
+      <pb ed="#V" n="156-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>ticie directe quae habetur de argumentatione. et 
+      noti<lb ed="#C" n="2" break="no"/>cia directa et intellectus non sunt cause sufficientes 
+      <lb ed="#C" n="3"/>producere noticiam reflexam. probatio: sunt cause 
+      na<lb ed="#C" n="4" break="no"/>turales: ergo si essent sufficientes quamdocumque 
+      ha<lb ed="#C" n="5" break="no"/>betur noticia directa in intellectu haberetur vna 
+      <lb ed="#C" n="6"/>reflex a b. et rursus b. est agens naturale 
+      obiecti<lb ed="#C" n="7" break="no"/>ue ad productionem noticie de ipso b. et intellectus 
+      <lb ed="#C" n="8"/>est agens naturale: ergo haberetur noticia 
+      refle<lb ed="#C" n="9" break="no"/>xa et sic tot quot intellectus capere potest contra ex 
+      <lb ed="#C" n="10"/>perientiam: tunc sic. interdum in nobis est noticia 
+      refle<lb ed="#C" n="11" break="no"/>xa interdum vero non: ergo cause sufficientes 
+      produce<lb ed="#C" n="12" break="no"/>re noticiam reflexam sunt pure naturales: sed 
+      quaeli<lb ed="#C" n="13" break="no"/>bet causa in nobis est naturalis nisi voluntas: ergo 
+      <lb ed="#C" n="14"/>requiritur concursus voluntatis ad productionem noticie 
+      <lb ed="#C" n="15"/>refiexe.
+   </p>
+            <p xml:id="jb2v19-d92274-d1e1165">
+      ¶ Tertio arguitur. intellectus non semper 
+      <lb ed="#C" n="16"/>quando habet noticias simplices rerum conformat 
+      <lb ed="#C" n="17"/>complexionem: ergo simplices noticie rerum in 
+      intelle<lb ed="#C" n="18" break="no"/>ctu non sufficiunt producere complexum. quia si essent causae 
+      <lb ed="#C" n="19"/>sufficientes semper noticiam complexam propositionalem 
+      <lb ed="#C" n="20"/>producerent contra experientia. Item: non citius 
+      produ<lb ed="#C" n="21" break="no"/>cerent eplexionem affirmatiuam quam negatiuam: ergo 
+      re<lb ed="#C" n="22" break="no"/>quiritur concursus voluntatis vltra noticias 
+      simpli<lb ed="#C" n="23" break="no"/>ces rerum ad formandam complexionem affirmatiuam vel 
+      <lb ed="#C" n="24"/>negatiuam. et eodemmodo de discursu probare 
+      pos<lb ed="#C" n="25" break="no"/>sum. intellectus interdum sillogisat / interdum vero 
+      <lb ed="#C" n="26"/>non. ergo cause sufficientes quae habent concursum 
+      pro<lb ed="#C" n="27" break="no"/>ducere non sunt naturales: ergo requiritur 
+      concur<lb ed="#C" n="28" break="no"/>sus cause libere scilicet voluntatis. eodem modo in 
+      <lb ed="#C" n="29"/>tellectus intelligit se / interdum vero non. ergo 
+      re<lb ed="#C" n="30" break="no"/>quiritur concursus voluntatis ad intelligentiam 
+      ip<lb ed="#C" n="31" break="no"/>sius intellectus: sic nullam fugam video vtilem 
+      <lb ed="#C" n="32"/>diceretur vnomodo prouenit ex parte influentie 
+      ce<lb ed="#C" n="33" break="no"/>lestis vel dei vel alicuius alterius noticie preuie 
+      <lb ed="#C" n="34"/>singularis: que interdum producitur / interdum 
+      <lb ed="#C" n="35"/>non producitur. Et propterea non semper habetur 
+      <lb ed="#C" n="36"/>noticia reflex a dum directa habentur: nec complexio 
+      affir<lb ed="#C" n="37" break="no"/>matiua vel negatiua non habetur noticia singularis 
+      <lb ed="#C" n="38"/>nec discursus dum habetur noticia complex a 
+      propo<lb ed="#C" n="39" break="no"/>sitionalis. teneo ergo in aliquibus voluntas feratur 
+      <lb ed="#C" n="40"/>in incognitum vt pote quando obiectum est noticia actua 
+      <lb ed="#C" n="41"/>lis vel habitualis: et forte idem est potentie 
+      inferio<lb ed="#C" n="42" break="no"/>ris in homine: licet potest dici voluntas imperat 
+      intelle<lb ed="#C" n="43" break="no"/>ctui habenti noticiam directam quaetenus se reflectat super 
+      <lb ed="#C" n="44"/>illam directam vult voluntas intellectum intelligere: 
+      <lb ed="#C" n="45"/>immo potest velle noticiam nondum existentem et 
+      impe<lb ed="#C" n="46" break="no"/>rare potentie pro illa habenda vt de noticia 
+      refle<lb ed="#C" n="47" break="no"/>xa complexione discursu noticia vniuersali de 
+      ascensu<lb ed="#C" n="48" break="no"/>fidei. summatim volo dicere voluntas potest 
+      im<lb ed="#C" n="49" break="no"/>perare potentiis vt in suas operationes exeant 
+      intel<lb ed="#C" n="50" break="no"/>lectum vt intelligat visum vt videat mediante 
+      actu<lb ed="#C" n="51" break="no"/>elicito voluntatis cadente in potentiam de qua habet 
+      no<lb ed="#C" n="52" break="no"/>ticiam actualem: vel forte illa non requiritur. ita quod 
+      volun<lb ed="#C" n="53" break="no"/>tas potest velle non existens cui noticia potissimum 
+      <lb ed="#C" n="54"/>vniuersali illius non existentis. patet de assensu 
+      fi<lb ed="#C" n="55" break="no"/>dei quem motiuum et pia affectio causant ex dictis in 
+      <lb ed="#C" n="56"/>prologo primi. tunc sic: ille assensus fidei acquisite 
+      <lb ed="#C" n="57"/>producitur ab actu voluntatis et a motiuo. sed illum 
+      <lb ed="#C" n="58"/>assensum fidei praecedit pia affectio: quia est causa eius 
+      <lb ed="#C" n="59"/>ergo voluntas aliquid distincte vult quod non est. de 
+      <lb ed="#C" n="60"/>quo intellectus non habet noticiam distinctam non in¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>tuitiuam quia illa non habetur obiecto non existente 
+      sal<lb ed="#C" n="62" break="no"/>tem naturaliter et distincta abstractiua 
+      presuppo<lb ed="#C" n="63" break="no"/>nit intuitiuam. Contra ista arguitur. ex dictis habet 
+      <lb ed="#C" n="64"/>quod voluntas fertur in incognitum contra auctatem 
+      Augu<lb ed="#C" n="65" break="no"/>stini. et probatur dictum auentatis. iudicium non habetur 
+      <lb ed="#C" n="66"/>sine noticia apprhensiua rei cuius est iudicium. sed tantum / 
+      <lb ed="#C" n="67"/>volitio dependet a noticia. ergo non potest haberi 
+      si<lb ed="#C" n="68" break="no"/>ne noticia. Preterea: noticia est causa volitionis 
+      <lb ed="#C" n="69"/>ex. 27. distinct. ergo precedit volitionem. habitua 
+      <lb ed="#C" n="70"/>lis notici a non sufficit quia tunc dormiens posset 
+      vel<lb ed="#C" n="71" break="no"/>le amplius. Si teneatur quod voluntas feratur in 
+      inco<lb ed="#C" n="72" break="no"/>gnitum quia est actus intellectus: eodem modo dicimus / 
+      <lb ed="#C" n="73"/>respectu ceterorum obiectorum ad extra. et sic 
+      pro<lb ed="#C" n="74" break="no"/>miscue voluntas fertur in incognitum quodcumque ob 
+      <lb ed="#C" n="75"/>iectum fuerit. Ad primum dicitur quod voluntas nichil 
+      <lb ed="#C" n="76"/>vult nisi cognoscat. potest tamen velle aliquid quod non 
+      <lb ed="#C" n="77"/>est cognitum potissimum distincte conceditur quod 
+      iudi<lb ed="#C" n="78" break="no"/>cium complexum non sit sine noticia apprehensiua 
+      incon<lb ed="#C" n="79" break="no"/>plexorum et magis ab illa dependet quod volitio a. 
+      ob<lb ed="#C" n="80" break="no"/>iecti a noticia distincta illius.
+   </p>
+            <p xml:id="jb2v19-d92274-d1e1311">
+      ¶ Ad secundum 
+      <lb ed="#C" n="81"/>concedo quod noticia est causa volitionis. sed aliquam 
+      <lb ed="#C" n="82"/>volitione potest voluntas producere cum noticia 
+      <lb ed="#C" n="83"/>communi obiecti voliti et quod noticia habitualis distincta 
+      <lb ed="#C" n="84"/>talis obiecti potissimum si fuerit noticia communis in 
+      in<lb ed="#C" n="85" break="no"/>tellectu representans obiectum.
+   </p>
+            <p xml:id="jb2v19-d92274-d1e1324">
+      ¶ Ad tertium non 
+      habe<lb ed="#C" n="86" break="no"/>tur quod voluntas feratur in incognitum adhuc 
+      obie<lb ed="#C" n="87" break="no"/>ctum est habitualiter cognitum vel confuse. Secundo 
+      di<lb ed="#C" n="88" break="no"/>co: non est idem de potentiis hominis et eius qualitatibus 
+      <lb ed="#C" n="89"/>et aliis obiectis ad extra. Et ratio est adducta 
+      de<lb ed="#C" n="90" break="no"/>noticia refiex a communi noticia comparatiua noticia 
+      dis<lb ed="#C" n="91" break="no"/>cursiua de noticia complexa proportionabiliter 
+      af<lb ed="#C" n="92" break="no"/>firmatiue vel negatiue. Siliter de generatione 
+      <lb ed="#C" n="93"/>assensus fidei que non est in rerum natura ad 
+      cu<lb ed="#C" n="94" break="no"/>ius generationem concurrit voluntas. secus est 
+      respe<lb ed="#C" n="95" break="no"/>ctu obiectorum non inherentium alicui potentie hominis. 
+      <lb ed="#C" n="96"/>Licet communiter etiam in istis ponitur noticia et tunc 
+      faci<lb ed="#C" n="97" break="no"/>lius mouetur voluntas exire in suum actum: discrimen 
+      <lb ed="#C" n="98"/>est a posteriori a parte rei voluntas imperat aliis 
+      <lb ed="#C" n="99"/>potentiis exire in suas operationes. vt dicit Augu. 
+      <lb ed="#C" n="100"/>2 de libero arbitrio. cap. 36 dicens ceteris 
+      virtu<lb ed="#C" n="101" break="no"/>tibus et potentiis per liberam voluntatem vtimur etiam 
+      <lb ed="#C" n="102"/>ipsa l. bera voluntate per eam ipsam vti nos possumus 
+      <lb ed="#C" n="103"/>vt quodam modo seipsa vtatur voluntas que vtitur 
+      ce<lb ed="#C" n="104" break="no"/>teris. sed non potest imperare sine actu elicito 
+      super<lb ed="#C" n="105" break="no"/>potentias et qualitates inexistentes et possibiles. et 
+      <lb ed="#C" n="106"/>stat quod imperet quando intellectus non cognoscit vel 
+      sal<lb ed="#C" n="107" break="no"/>tem non taliter cognoscit: sed habitualiter vel 
+      confuse<lb ed="#C" n="108" break="no"/>et illud adhuc potest esse duobus modis. vno 
+      mo<lb ed="#C" n="109" break="no"/>do quod voluntas imperet intellectui potentie visiue 
+      <lb ed="#C" n="110"/>ad videndum: et nullam efficientiam habeat 
+      respectu<lb ed="#C" n="111" break="no"/>illius noticie actualis vel visionis vt quemadmodum 
+      <lb ed="#C" n="112"/>auriga cogat equum trahere pondus non quod 
+      auriga<lb ed="#C" n="113" break="no"/>aliquid de pondere trahat: sed applicat agens 
+      sue<lb ed="#C" n="114" break="no"/>actioni naturali. Alio modo quod applicet agens ad 
+      <lb ed="#C" n="115"/>agendum et cum hoc coagat immediate. exemplum ad 
+      as<lb ed="#C" n="116" break="no"/>sensum fidei pla affectio concurrit immediate et ett 
+      in<lb ed="#C" n="117" break="no"/>tellectus talis fides genita est alterius speciei ab 
+      <lb ed="#C" n="118"/>opinione producta a solo intellectu et motiuo. Si 
+      <lb ed="#C" n="119"/>militer voluntas potest imperare intellectui vt 
+      as<lb ed="#C" n="120" break="no"/>sentiat cum motiuo dato quod ad illum assensum volun¬
+      <pb ed="#V" n="156-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>tas non immediate concurrat et stante imperio 
+      intelle<lb ed="#C" n="2" break="no"/>ctus necessitatur assentire si deus concurrat. et iste 
+      as<lb ed="#C" n="3" break="no"/>sensus forte est alterius speciei ab assensu 
+      causa<lb ed="#C" n="4" break="no"/>to a voluntate et intellectu simul. sed de hoc amplius 
+      <lb ed="#C" n="5"/>in generatione fidei dicere propono quod feratur 
+      ap<lb ed="#C" n="6" break="no"/>petitus naturalis in obiectum sine preuiam noticia 
+      <lb ed="#C" n="7"/>non debet esse difficultas: sicut esuriens equus in 
+      <lb ed="#C" n="8"/>auenam et fitiens in aquam. et ratio est: appetitus 
+      na<lb ed="#C" n="9" break="no"/>turalis nullum actum elicitum ponit in ipso 
+      appetitu<lb ed="#C" n="10" break="no"/>et per consequens nullam noticiam in sensu requirit vel 
+      <lb ed="#C" n="11"/>in intellectum in homine. Ex istis in parte patere potest quo 
+      <lb ed="#C" n="12"/>voluntas potest diuertere intellectum a 
+      consideratio<lb ed="#C" n="13" break="no"/>ne vnius obiecti et conuertere ad aliud. vno modo 
+      <lb ed="#C" n="14"/>imperando intellectui vt se conuertat ad a. obiectum 
+      <lb ed="#C" n="15"/>passionem christi derelinquendo malam cogitationem 
+      <lb ed="#C" n="16"/>et intellectus non potest contraire. Secundo potest 
+      vo<lb ed="#C" n="17" break="no"/>luntas imperare intellectui speculari a. obiectum non 
+      <lb ed="#C" n="18"/>curam o si speculetur b. vel non. et cum hoc voluntas 
+      <lb ed="#C" n="19"/>volet a. obiectum cum intellectu et omnes potentias 
+      ap<lb ed="#C" n="20" break="no"/>prehensiuas a. obiecti in ipsum a conuertet. et quando 
+      intel<lb ed="#C" n="21" break="no"/>iectus et cetere potentie sunt inuerse in idem obiectum 
+      <lb ed="#C" n="22"/>faciunt intellectum cessare ab actu crica aliud 
+      obie<lb ed="#C" n="23" break="no"/>ctum quando plures potentie sunt in actibus suis 
+      queli<lb ed="#C" n="24" break="no"/>bet potentia minorem habet actiuitatem. et ratio est 
+      <lb ed="#C" n="25"/>cum omnes potentie radicentur in eadem essentia anime 
+      <lb ed="#C" n="26"/>Secundo arguitur: cogitatio peccati est meritoria: ergo 
+      <lb ed="#C" n="27"/>non est peccatum: antecedens patet de illo qui cogitat 
+      <lb ed="#C" n="28"/>de suo peccato vt ipsum detestetur. et in confessione 
+      reci<lb ed="#C" n="29" break="no"/>tet. similiter de concionatore qui de peccato cogitat 
+      <lb ed="#C" n="30"/>vt ordinate populum informet et ita de scriptore. 
+      <lb ed="#C" n="31"/>Similiter cogitatio peccati nobis nescientibus 
+      ve<lb ed="#C" n="32" break="no"/>nit in mente per aditum aliarum noticiarum preuia 
+      <lb ed="#C" n="33"/>rum viam monstrantium non est in potestate nostra quin 
+      <lb ed="#C" n="34"/>visis tangamur potissimum in actibus intellectus 
+      <lb ed="#C" n="35"/>Respondetur: aliqua cogitatio est laudabilis et velle 
+      <lb ed="#C" n="36"/>in illa cogitatione insistere est meritorium et 
+      intel<lb ed="#C" n="37" break="no"/>lectio meritum tanquam actus imperatus. et patet per 
+      ar<lb ed="#C" n="38" break="no"/>gumentum quod aliquos casus affert licitos. 
+      Ali<lb ed="#C" n="39" break="no"/>qua cogitatio est infructuosa et peccatum: et potissimum 
+      <lb ed="#C" n="40"/>circamateriam illam in qua homo facile succumbit quod 
+      <lb ed="#C" n="41"/>transit in consensum. lubricus non debet cogitare 
+      <lb ed="#C" n="42"/>de muliere pulchra nec superbus vel inuidus 
+      cir<lb ed="#C" n="43" break="no"/>ca materiam in qua facile cadere solet. ex 
+      preteri<lb ed="#C" n="44" break="no"/>tis potest quilibet in seipso cognoscere an talis 
+      <lb ed="#C" n="45"/>cogitatio est ei periculosa. forti cogitatio est 
+      ad<lb ed="#C" n="46" break="no"/>mittenda que a debili est rescindenda.
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

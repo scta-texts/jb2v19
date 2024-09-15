@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="108-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d64504"><!-- l2d21q2 -->
+            <head xml:id="jb2v19-d64504-Hd1e101">Quaestio 2</head>
+            <head xml:id="jb2v19-d64504-Hd1e103" type="question-title">An primus parens poterat  peccare  venialiter in statu innocentiae</head>
+            <p xml:id="jb2v19-d64504-d1e106">
+               <lb ed="#C" n="79"/>SEcundo circa eandem distinctionem 
+      <lb ed="#C" n="80"/>quaeritur: an primus parens poterat 
+      pec<lb ed="#C" n="81" break="no"/>care venialiter in statu inocentie. non 
+      <lb ed="#C" n="82"/>inquiro an stante statu innocentie 
+      <lb ed="#C" n="83"/>adam poterat peccare venialiter in 
+      <lb ed="#C" n="84"/>sensu composito palam est qudo non 
+      pec<lb ed="#C" n="85" break="no"/>cato veniali commisso: non fuisset status 
+      innocen<lb ed="#C" n="86" break="no"/>tie vniuersalis: sed nocentie. nec pro nunc quero 
+      <lb ed="#C" n="87"/>an veniali commisso: iusticia originalis non fuisset 
+      <lb ed="#C" n="88"/>per ipsum amissa de hoc in quodam argumento 
+      in<lb ed="#C" n="89" break="no"/>quira. intendimus ergo inquirere an homo stans 
+      <lb ed="#C" n="90"/>in statu innocentie potest peccare primo 
+      veni<lb ed="#C" n="91" break="no"/>aliter ante omne mortale. siue iusticia 
+      origina<lb ed="#C" n="92" break="no"/>lis amittatur siue non. contione sic limitata: 
+      va<lb ed="#C" n="93" break="no"/>ria est ad questionem responsio. vna positio tenet partem ad 
+      <lb ed="#C" n="94"/>firmatiua. alia negatiuam.
+   </p>
+            <p xml:id="jb2v19-d64504-d1e143">
+      ¶ his premissis pono 
+      <lb ed="#C" n="95"/>aliquas conclusiones: quarum prima est. non poterat 
+      <lb ed="#C" n="96"/>esse motus surrepticius venialis prio in 
+      sen<lb ed="#C" n="97" break="no"/>tate. probatur hec conclusio. iusticia originalis 
+      cohi<lb ed="#C" n="98" break="no"/>buit vires in feriores parere rationi: vt Augusti. 
+      <lb ed="#C" n="99"/>dicit. 1 de ciuitate dei. ergo.
+   </p>
+            <p xml:id="jb2v19-d64504-d1e156">
+      ¶ Secunda conclu e 
+      <lb ed="#C" n="100"/>sio: mendacium iocosum in nobis veniale si fuisset 
+      <lb ed="#C" n="101"/>primo ab ada commissum: non fuisset mortale 
+      pro<lb ed="#C" n="102" break="no"/>pter altitudinem sui status. probatio. nunquam 
+      altitu<lb ed="#C" n="103" break="no"/>do status facit illud quod est de genere veniale 
+      <lb ed="#C" n="104"/>in alio / esse mortale in altiori statu vel alio: nisi 
+      <lb ed="#C" n="105"/>sit ei prohibitio votum / iuramentum / vel huiusmodi / 
+      per<lb ed="#C" n="106" break="no"/>communem doctorum theoricam: licet faciat de venia 
+      <lb ed="#C" n="107"/>li minore veniale maius ratione alicuius 
+      circun<lb ed="#C" n="108" break="no"/>stantie. sed in aliam speciem peccati non mutat: sic 
+      <lb ed="#C" n="109"/>scilicet: quod finitatem pene in eternam commutet. modo 
+      <lb ed="#C" n="110"/>adam non habuit speciale preceptum ne mentiretur 
+      <lb ed="#C" n="111"/>iocose pro illo statu: nec iurauit nec vouebat quod 
+      <lb ed="#C" n="112"/>non sic mentiretur prout supponitur. et suppositione 
+      <lb ed="#C" n="113"/>negata: capiatur aliud de genere veniale. dixi 
+      pre<lb ed="#C" n="114" break="no"/>ceptum vel prohibitionem: non pono nunc discrimen. 
+      <lb ed="#C" n="115"/>prohibetur presbytero contrahere vel existenti in 
+      sa<lb ed="#C" n="116" break="no"/>cris. si existens in sacris contrahere niteretur: 
+      morta<lb ed="#C" n="117" break="no"/>liter peccaret: vbi laicus vel non existens in sacris 
+      con<lb ed="#C" n="118" break="no"/>trahendo non peccaret. sed hoc est propter 
+      prohibi<lb ed="#C" n="119" break="no"/>tionem superioris huic matrimonium interdicentis. 
+      <lb ed="#C" n="120"/>similiter si sortes voueret quod nunquam mentiretur
+      <pb ed="#V" n="109-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>locofe: mentiendo dehiberate mortaliter peccaret 
+      <lb ed="#C" n="2"/>vbi alias vel alius illud non vouens solum venialiter 
+      <lb ed="#C" n="3"/>peccaret.
+   </p>
+            <p xml:id="jb2v19-d64504-d1e216">
+      ¶ Tertia conclusio. primum peccatum 
+      ade<lb ed="#C" n="4" break="no"/>poterat fuisse veiale probatur: ada poterat primo 
+      <lb ed="#C" n="5"/>mentiri iocose ipsei eue. sed tale in adam pro illo 
+      sta<lb ed="#C" n="6" break="no"/>tu non fuisset mortale ex conclusione praecedenti. igstur 
+      <lb ed="#C" n="7"/>maior patet. adam erat liber pro illo statu ad peccandum 
+      <lb ed="#C" n="8"/>vt euentus rei docuit.
+   </p>
+            <p xml:id="jb2v19-d64504-d1e229">
+      ¶ Secundo arguitur ad idem 
+      pote<lb ed="#C" n="9" break="no"/>rat adam habenre motum surrepticium circa illud quod est 
+      prohi<lb ed="#C" n="10" break="no"/>bitum sub pena peccati mortalis: vt circa articulum 
+      fi<lb ed="#C" n="11" break="no"/>dei. sed talis motus: cum non est actus deliberatus: est 
+      so<lb ed="#C" n="12" break="no"/>lum venialis nunc igitur.
+   </p>
+            <p xml:id="jb2v19-d64504-d1e240">
+      ¶ Contra tertiam conclusionem 
+      ar<lb ed="#C" n="13" break="no"/>guitur. ex ea sequitur quod per peccatum veniale homo fuisset 
+      e<lb ed="#C" n="14" break="no"/>iectus de paradiso et iusticiam originalem amisisset: 
+      <lb ed="#C" n="15"/>quod est inconueniens. si dicas. non sequitur. gratia per venia 
+      <lb ed="#C" n="16"/>le nec remittitur nec perditur. sic nec iusticia original 
+      <lb ed="#C" n="17"/>quae veniale compatitur sicut gratia iusticia originalis est gratia 
+      infe<lb ed="#C" n="18" break="no"/>rior. quia sine ea non redditur homo deo gratus. Contra. 
+      <lb ed="#C" n="19"/>iusticia originalis magis reddebat tranquillitatem 
+      <lb ed="#C" n="20"/>in homine quam gratia: licet gratia aliquam supereminentiam habenat. ergo ex 
+      <lb ed="#C" n="21"/>vno non potes aliud inferre.
+   </p>
+            <p xml:id="jb2v19-d64504-d1e262">
+      ¶ Secundo sequitur quod cum 
+      <lb ed="#C" n="22"/>iusticia originali staret tristicia et pena: quod non 
+      <lb ed="#C" n="23"/>solent sancti concedere. patet: veniale illud non semper 
+      stetis<lb ed="#C" n="24" break="no"/>set cum iusticia originali: ergo oportet quod interdum de leretur 
+      <lb ed="#C" n="25"/>per penitentiam. et sic adam tristiciam habuisset.
+   </p>
+            <p xml:id="jb2v19-d64504-d1e273">
+      ¶ Secundo 
+      <lb ed="#C" n="26"/>arguitur contra eandem conclusionem. peccatum mortale est 
+      cir<lb ed="#C" n="27" break="no"/>ca finem veniale circa illa quae ad finem ordinantur modo 
+      <lb ed="#C" n="28"/>pro statu innocentie fuisset infallibilis firmitas 
+      ordi<lb ed="#C" n="29" break="no"/>nis vt semper inferius continetur sub superiori: ergo 
+      <lb ed="#C" n="30"/>quamdiu homo paruisse deo et ratio superior ei paruisset 
+      <lb ed="#C" n="31"/>ita diu bene se habuisset circa inferiora. nec etiam tunc 
+      <lb ed="#C" n="32"/>fuisset motus surrepticius venialis: quia non fuisset inde 
+      <lb ed="#C" n="33"/>liberatio. et ex hoc sequitur quod secunda probatio est nulla. 
+   </p>
+            <p xml:id="jb2v19-d64504-d1e293">
+               <lb ed="#C" n="34"/>¶ Ad primum dicitur quod deus poterat (si voluisse) 
+      tol<lb ed="#C" n="35" break="no"/>lere iusticiam originalem et adam euertere de paradiso 
+      <lb ed="#C" n="36"/>veniali commisso. et si venialiter primo peccasset: vix 
+      <lb ed="#C" n="37"/>constat quod deus fecisset. nunc vero scimus quod primo 
+      <lb ed="#C" n="38"/>mortaliter deliquit: et de paradiso est eiectus. sed 
+      proba<lb ed="#C" n="39" break="no"/>biliter ostendimus quam primo poterat venialiter delinque 
+      <lb ed="#C" n="40"/>re. quid deus de eo fecisset si primo venialiter peccasse 
+      <lb ed="#C" n="41"/>non constat. alterum fuisset trium: scilicet: quod eum de peradiso eie 
+      <lb ed="#C" n="42"/>cisset: vel stante iusticia poterat suum veniale 
+      dete<lb ed="#C" n="43" break="no"/>stari per penitentiam paruam quae illi statui non repugnat 
+      ab<lb ed="#C" n="44" break="no"/>solute: vel poterat ei remittere culpam deus per 
+      ali<lb ed="#C" n="45" break="no"/>ud opus consilii ita ei gratum sicut culpa erat 
+      ingra<lb ed="#C" n="46" break="no"/>ta.
+   </p>
+            <p xml:id="jb2v19-d64504-d1e325">
+      ¶ Ad secundum dico quod tam vemiale quam mortale sunt 
+      circa<lb ed="#C" n="47" break="no"/>finem et ea quae sunt citra finem. non omnis actus malus circa 
+      fi<lb ed="#C" n="48" break="no"/>nem vltimum est mortalis. nec omnis actus malus 
+      circa<lb ed="#C" n="49" break="no"/>medium est venialis. nec in hoc vllomodo est discrimen 
+      <lb ed="#C" n="50"/>intur mortale et veniale. Secundo. non distinguuntur per hoc a 
+      <lb ed="#C" n="51"/>veniale est contra consilium et mortale contra praeceptum: vt 
+      <lb ed="#C" n="52"/>quidam aiutet. numquam actus contra consilium commissus est 
+      pec<lb ed="#C" n="53" break="no"/>catim. si assit contemptus consilii: potest esse peccatum 
+      morta<lb ed="#C" n="54" break="no"/>le sicut veniale. propterea non oportet ire ad illud 
+      dis<lb ed="#C" n="55" break="no"/>crimen. similiter potest esse surrepticius motus tam 
+      cir<lb ed="#C" n="56" break="no"/>ca finem quam citra finem per hoc in generali loquendo 
+      <lb ed="#C" n="57"/>mortale a veniali secernitur. vnum prohibetur sub 
+      pe<lb ed="#C" n="58" break="no"/>na temporali in alio foro: et aliud sub pena eterna. 
+      <lb ed="#C" n="59"/>nec est sufficienter probatum ab aliis quod in superiori 
+      por<lb ed="#C" n="60" break="no"/>tione in statu innocentie non poterat esse motus
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>surrepticius venialis. et illo dato: adhuc adam facere 
+      <lb ed="#C" n="62"/>potuit aliquid quod erat veniale ex genere: et per 
+      <lb ed="#C" n="63"/>consequens ei veniale: et nullomodo propter statum mortale: 
+      <lb ed="#C" n="64"/>vt in secunda conclusione diximus. Ecce homo poterat primo 
+      <lb ed="#C" n="65"/>statum innocentie amittere per veniale peccatum: sed non 
+      <lb ed="#C" n="66"/>quodibet. quiquid est status innocentie huane durauit ab homine 
+      <lb ed="#C" n="67"/>condito quousque eua primo peccauit vel vltimo non 
+      <lb ed="#C" n="68"/>peccauit. secundum quod primum peccatum subito vel pure partibi 
+      <lb ed="#C" n="69"/>liter produxit. sed adhuc erat status innocentie viri. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

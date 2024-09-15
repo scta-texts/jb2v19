@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 3</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 3</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="55-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d32631"><!-- l2d8q3 -->
+            <head xml:id="jb2v19-d32631-Hd1e101">Quaestio 3</head>
+            <head xml:id="jb2v19-d32631-Hd1e103" type="question-title">An daemon possit sensibus humanis illudere</head>
+            <p xml:id="jb2v19-d32631-d1e106">
+               <lb ed="#C" n="94"/>TErtio circa hanc 
+      distinctio<lb ed="#C" n="95" break="no"/>nem. viii. quaeritur an demon 
+      pos<lb ed="#C" n="96" break="no"/>sit sensibus humanis illudere. 
+   </p>
+            <p xml:id="jb2v19-d32631-d1e115">
+               <lb ed="#C" n="97"/>¶ Respondetur affirmatiue deo 
+      <lb ed="#C" n="98"/>permittente: sicut plerique 
+      expti<lb ed="#C" n="99" break="no"/>sunt. Prino ludificare per 
+      speci<lb ed="#C" n="100" break="no"/>es execuentes in sensibus 
+      interiori<lb ed="#C" n="101" break="no"/>Ti bus. Pro eius enucleatione 
+      sup<lb ed="#C" n="102" break="no"/>ponamus illud quod tenet Commentator secundo de anima. 
+      <lb ed="#C" n="103"/>quattuor sunt sensus interiores: qui interiores 
+      di<lb ed="#C" n="104" break="no"/>cuntur: quia non immutantur a sensibilibus nisi prius sensus 
+      <lb ed="#C" n="105"/>exteriores a sensibil. bus imutentur: scilicet sensus communis / 
+      <lb ed="#C" n="106"/>fantasia / estinatia / et memoria. Auicena vi. natura 
+      <lb ed="#C" n="107"/>lium parte prima capulo vltimo ponit imaginativam 
+      ali<lb ed="#C" n="108" break="no"/>am distinctam: quam Commentator ponit idemptificari 
+      <lb ed="#C" n="109"/>cum phantasia: et in vmbris non sunt multiplicande 
+      <lb ed="#C" n="110"/>res: plus placet. per anathomiam tres patent in 
+      cere<lb ed="#C" n="111" break="no"/>bro ventriculi. In primo est sensus communis. et dicitur 
+      <lb ed="#C" n="112"/>communis quia cognoscit sensibilia. v. sensuum exteriorum: 
+      <lb ed="#C" n="113"/>et eorum actus: et inter illa iudicat. Sensus 
+      exteri<lb ed="#C" n="114" break="no"/>or non iudicat secundum conem scholam. quod sic suacd 
+      <lb ed="#C" n="115"/>tur. Freneticus iudicat aliquid esse presens quod 
+      <lb ed="#C" n="116"/>non est: vt paleam esse serpentem. et tamen oculo exterio 
+      <lb ed="#C" n="117"/>ri satis bene videt. nec videtur esse indispositio in 
+      <lb ed="#C" n="118"/>illo tanta: quod sic finistre iudicaret. Est ergo hec 
+      in<lb ed="#C" n="119" break="no"/>dispositio in sensu communi. a quolibet sensu exteriori sunt 
+      <lb ed="#C" n="120"/>aliqui nerui ad sensum communem transeuntes in quibus
+      <pb ed="#V" n="55-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>sunt spiritus receptiui specierum et delatiui ad sensum 
+      <lb ed="#C" n="2"/>communem. ita quod respectu sensuum exteriorum est tanquam 
+      <lb ed="#C" n="3"/>centrum circuli in ordine ad cicumferentiam. sensus 
+      <lb ed="#C" n="4"/>communis non diu retinet species receptas propter eius 
+      <lb ed="#C" n="5"/>humiditatem. quemadmodum nec sensus exteriores 
+      <lb ed="#C" n="6"/>species sensibilium retinent post absentiam sensibilium 
+      <lb ed="#C" n="7"/>vllo modo nisi per accidens ratione alicuius 
+      qualita<lb ed="#C" n="8" break="no"/>tis derelicte in sensu exteriore a sensibilibus. 
+      requi<lb ed="#C" n="9" break="no"/>ritur siccitas ad retinendum: patet de aqua 
+      recipi<lb ed="#C" n="10" break="no"/>ente formam sigilli. sed sigillo ablato: perit protinus 
+      <lb ed="#C" n="11"/>figura sigilli. Propterea ordinauit deus quod speciens 
+      <lb ed="#C" n="12"/>essent delate ad aliquem alium locum specierum 
+      reserua<lb ed="#C" n="13" break="no"/>tiuum in absentia sensibilium. non quod species migrent 
+      <lb ed="#C" n="14"/>de subiecto in subiectum: sed per multiplicationem 
+      <lb ed="#C" n="15"/>et productionem speciei. ergo deferuntur ad 
+      fanta<lb ed="#C" n="16" break="no"/>sia que in ipsa vocantur fantasmata siue species 
+      fa<lb ed="#C" n="17" break="no"/>tastice. fantasia non est ita calida et humida vt 
+      sen<lb ed="#C" n="18" break="no"/>sus communis. retinet propterea diutius species: cuius 
+      <lb ed="#C" n="19"/>officium est iudicare de sensibilibus ta presentibus 
+      <lb ed="#C" n="20"/>quam absentibus per species reseruatas. alia est 
+      poten<lb ed="#C" n="21" break="no"/>tia siue virtus cogitatiua: quae ex speciebus rerum 
+      se<lb ed="#C" n="22" break="no"/>satarum habet elicere species rerum insensatarum. vt ouis 
+      <lb ed="#C" n="23"/>ex speciebus sensatis lupi speciem inimicitie elicit. 
+      <lb ed="#C" n="24"/>in oue et in brutis vocatur estimatiua: in homine 
+      co<lb ed="#C" n="25" break="no"/>itatina. et he virtutes sunt in media capitis 
+      cel<lb ed="#C" n="26" break="no"/>lula. virtus memoratiua: siue ille sensus 
+      interio<lb ed="#C" n="27" break="no"/>quae memoria dicitur: reseruat species et est specierum 
+      <lb ed="#C" n="28"/>archa sicut fantasia. cuius officium est iudicare 
+      pe<lb ed="#C" n="29" break="no"/>species reseruatas de rebus alias sensatis et etiam 
+      <lb ed="#C" n="30"/>de tempore quo tales res sentiebantur. et per hoc differt a 
+      <lb ed="#C" n="31"/>farnrasia que reseruat species sine differentia temporis 
+      <lb ed="#C" n="32"/>preteriti. memoria est in occipite. certo certius est 
+      ha<lb ed="#C" n="33" break="no"/>bentes magnum occiput sunt bene memoratiui. si hec 
+      <lb ed="#C" n="34"/>postrema ledatur notabiliter: leditur hominis meoria 
+      sen<lb ed="#C" n="35" break="no"/>sitiua: qui tamen adhuc bene iudicat: hoc est alia potentia 
+      <lb ed="#C" n="36"/>cogitatiua a memoria similiter si pars anterior capi 
+      <lb ed="#C" n="37"/>tis ledatur: leditur tota sensitiua: vt in freneticis patet. 
+      <lb ed="#C" n="38"/>licet commentator iiii. sensus interiores: et Auicenna. v. 
+      <lb ed="#C" n="39"/>posuerit: est tenebrosa aqua in nubibus aeris. Ar. 
+      <lb ed="#C" n="40"/>stote. numquam posuit tot sensus interiores vbicumque 
+      lo<lb ed="#C" n="41" break="no"/>quutus est. sed solum posuit duos sensus: vnum ad 
+      conse<lb ed="#C" n="42" break="no"/>uandas species quae est specierum archa: quaoe vocatur memo 
+      <lb ed="#C" n="43"/>ria siue fantasia. alter sensus est conis 
+      imaginati<lb ed="#C" n="44" break="no"/>ua et cogitatiua propter alia eius varia officia. 
+      Pro<lb ed="#C" n="45" break="no"/>prterea illum modum probabiliorem reputo. hoc tamen vel 
+      <lb ed="#C" n="46"/>illo modo supposito: responsio quonis vtrique parti 
+      suffi<lb ed="#C" n="47" break="no"/>ciet.
+   </p>
+            <p xml:id="jb2v19-d32631-d1e276">
+      ¶ Suppono vlterius quod sensus communis duas habet 
+      <lb ed="#C" n="48"/>acies: quarum altera ad memoriam conuertitur: et a 
+      spec<lb ed="#C" n="49" break="no"/>ebus in ea recoditis in somperno mouetur. sensibus ext 
+      <lb ed="#C" n="50"/>rioribus clausis. patet in sompniante. aliam habet aciem ad 
+      <lb ed="#C" n="51"/>sensus exteriores conuersam: quam habet in vigilia si non 
+      <lb ed="#C" n="52"/>fuerit intensiue immersa circa aliqua materia 
+      imperti<lb ed="#C" n="53" break="no"/>nentem sensationi exteriori. quia sic: licet species 
+      reci<lb ed="#C" n="54" break="no"/>piat: non immutatur simplici noticia vel iudicio. stat 
+      <lb ed="#C" n="55"/>quod totus ambitus concursus eius sit applicatus circa 
+      ex<lb ed="#C" n="56" break="no"/>traneum. ergo illo magno concursu stante: non potest noticiam 
+      <lb ed="#C" n="57"/>aliam hatre circa aliod.
+   </p>
+            <p xml:id="jb2v19-d32631-d1e301">
+      ¶ his praemissis / pono conclusiones 
+      <lb ed="#C" n="58"/>rum prima est. Demon potest multifariam nos illudere ad 
+      <lb ed="#C" n="59"/>intra. Probatur conclusio. o dormiens iudicat se 
+      vide<lb ed="#C" n="60" break="no"/>re quod non videt: audire quod non audit / comedere bi¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>bere / pugnare / cadere in aqua / vel in igne. et hoc 
+      iudi<lb ed="#C" n="62" break="no"/>cium potest esse tam in sensu quam in intellectu: et illa illusio est 
+      <lb ed="#C" n="63"/>solum ad intra. ergo demon hoc potest facere de istis 
+      som<lb ed="#C" n="64" break="no"/>prniis est quotidiana experientia: potissimum post grues 
+      <lb ed="#C" n="65"/>et cronicos morbos iam a quindecim annis praeteritis pro 
+      <lb ed="#C" n="66"/>me experior hec sompnia ita quod assistentibus dicere 
+      <lb ed="#C" n="67"/>soleo non prius tempore sed solum natura dormio quam 
+      som<lb ed="#C" n="68" break="no"/>pernio. notum est de iudicio quo iudicamus. sed quod aliquod 
+      ta<lb ed="#C" n="69" break="no"/>le sit in sensu patet. sensus communis iudicat: cum interdum 
+      <lb ed="#C" n="70"/>vnum est sensus iudicium: et aliud intellectus / iudicium 
+      <lb ed="#C" n="71"/>sensus castigatiuum: vt de magnitudine solis super 
+      ter<lb ed="#C" n="72" break="no"/>ram. et cum vehemens actus sensus intellectum immutet: 
+      <lb ed="#C" n="73"/>vtriusque iudicium habebitur. quod si non ponatur iudicium 
+      <lb ed="#C" n="74"/>intellectus in sompno: hoc est propterea quod intellectus 
+      omni<lb ed="#C" n="75" break="no"/>non clauditur in sompno ne in vllum actu exire potest. sed 
+      <lb ed="#C" n="76"/>hoc non recordamur de nocte in sompno actuum 
+      nostro<lb ed="#C" n="77" break="no"/>rum tam bonorum quam malorum: qui non cadunt sub obiecto 
+      sen<lb ed="#C" n="78" break="no"/>sus: cum sint non extensi. nobis in proposito sufficit quod 
+      iu<lb ed="#C" n="79" break="no"/>dicemus in sompno sicut experimur: siue fiat hoc iudici 
+      <lb ed="#C" n="80"/>um in sensu siue in intellectu. tamen pro enucleatione 
+      maio<lb ed="#C" n="81" break="no"/>ri conclusionis hoc posuimus. sed demon ista facere potest per 
+      <lb ed="#C" n="82"/>illa quae in nobis sunt in sompno. patet. sunt specens rerum 
+      sen<lb ed="#C" n="83" break="no"/>satarum in nobis: fortassis pulchrarum mulierum et eorum 
+      <lb ed="#C" n="84"/>quae instigant ad malum: quod demon optime cognoscit per 
+      <lb ed="#C" n="85"/>nostrum modum viuendi. et talium obiectorum simulachra qua 
+      <lb ed="#C" n="86"/>cadunt sub obiecto intellectus eius potest optine 
+      obii<lb ed="#C" n="87" break="no"/>cere potentie iudicatiue: scilicet sensui communi 
+      tollen<lb ed="#C" n="88" break="no"/>do impedimenta in neruis et spiritibus intermediis 
+      inter<lb ed="#C" n="89" break="no"/>memoriam et sensum communem. quia per vapores 
+      interme<lb ed="#C" n="90" break="no"/>dios sompnia impediuntur. hinc est multi in principio 
+      <lb ed="#C" n="91"/>noctis et in fine soniant quae in medio sompno non sopniant 
+      <lb ed="#C" n="92"/>quia in principio vapores nondum sunt in sua ptate: 
+      po<lb ed="#C" n="93" break="no"/>tissimum si quis mox post cibum assumptum mittit se in 
+      <lb ed="#C" n="94"/>sompnum. sicut post fortis vini potationem non mox per 
+      <lb ed="#C" n="95"/>turbatur cerebrum: sed ad tempus in medio tempore abundant in 
+      <lb ed="#C" n="96"/>via intermedia. in fine sompni sunt multum remissi. 
+      <lb ed="#C" n="97"/>vel si non sint magni vapores intermedii inter sensum 
+      <lb ed="#C" n="98"/>communem et memoriam: tamen propter miltum calorem sanguinis 
+      <lb ed="#C" n="99"/>vt in iuuentute in illa vita est multus motus et multa 
+      sp<lb ed="#C" n="100" break="no"/>rituum parturbatio. propterea illa commotione stante spes 
+      <lb ed="#C" n="101"/>praesentes non sufficienter immutant potentiam iudicatiu 
+      <lb ed="#C" n="102"/>quaecumque sit illa. et tamen bene immutatur spiritibus mitigatis 
+      <lb ed="#C" n="103"/>patet: si aqua vento vel aliunde agitata fuerit: visibile tibi 
+      <lb ed="#C" n="104"/>no ostendet: quod pacata sufficienter obiiciet potentio 
+      <lb ed="#C" n="105"/>tue. hec omnia demon optine nouit. dato quod more 
+      mul<lb ed="#C" n="106" break="no"/>torum teneatur quod demon sue nature relictus / 
+      na<lb ed="#C" n="107" break="no"/>potest intueri secreta cordis alterius. tamen omne 
+      sensibi<lb ed="#C" n="108" break="no"/>le potest intelligere. quicquid potest sensus sentire potest 
+      intel<lb ed="#C" n="109" break="no"/>lectus apprehendere: cum est potentia superior
+   </p>
+            <p xml:id="jb2v19-d32631-d1e418">
+      ¶ 
+      Se<lb ed="#C" n="110" break="no"/>cunda conclusio. Demon potest sensibus habuanis 
+      ludifo<lb ed="#C" n="111" break="no"/>de die. probatio. potest optie applicare simulachra 
+      <lb ed="#C" n="112"/>obiectorum sensatorum potentie ad ipam imitanda quod 
+      ho<lb ed="#C" n="113" break="no"/>iudicabit se videre obm quod illud simulachrum 
+      repr<lb ed="#C" n="114" break="no"/>sentat. probatio. hoc homo iudicat in se de nocte. et si 
+      <lb ed="#C" n="115"/>in vigilia hec iudicia non castigaret: quia oppositum 
+      <lb ed="#C" n="116"/>deprhendit: sic iudicando maneret. sed de die licet speciens 
+      <lb ed="#C" n="117"/>sint in archa memorie recluse: non es talis fortis 
+      sem<lb ed="#C" n="118" break="no"/>satio nec tale iudicium. et id rationis est. quia sensus 
+      exte<lb ed="#C" n="119" break="no"/>riores circa sua obsientia vagantur et operantur. modo est eadem 
+      <lb ed="#C" n="120"/>anima in qulibet sensu extiori et in sensu comni. ergo cum anima in scsi¬
+      <pb ed="#V" n="56-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>communi est occupata in maioribus circa sensibilia 
+      sensu<lb ed="#C" n="2" break="no"/>nm suorum: distrahitur ab immutatione a spembus menorie. 
+      <lb ed="#C" n="3"/>et cum hoc vie intermedie a sensibus exterioribus ad 
+      me<lb ed="#C" n="4" break="no"/>moriam agitantur. ergo in die ho non sentit / sicut in 
+      nocte<lb ed="#C" n="5" break="no"/>quia maiores motus imporediunt minores. propteres in tene 
+      <lb ed="#C" n="6"/>bris et de nocte ho solus timet: et non de die: sicut 
+      di<lb ed="#C" n="7" break="no"/>cit Aristoteles in de somperno et vigilia. non 
+      vide<lb ed="#C" n="8" break="no"/>mus (vt nosti) stellas de die quis videmus de nocte. 
+      <lb ed="#C" n="9"/>specens stellarum a sua immutatione impediuntur propter specens 
+      <lb ed="#C" n="10"/>maiores: scilicet lumen solis quod est spens lucis. hoc ipsum 
+      <lb ed="#C" n="11"/>patet. si tibi doleat digitus aut pes: si superueniat 
+      coli<lb ed="#C" n="12" break="no"/>ca motus maior: dolorem digiti quem ante sentiebas 
+      <lb ed="#C" n="13"/>non sentis. sed demon potest illud impedire in vigilia et 
+      in<lb ed="#C" n="14" break="no"/>die ne maiores motus minores impediant 
+      multipha<lb ed="#C" n="15" break="no"/>riam tam ad intra quam ad exur. ad intra / optine disponendo et 
+      <lb ed="#C" n="16"/>mitigando spiritus et humores ne moueantur: optime 
+      <lb ed="#C" n="17"/>specens obiiciendo sensui vel intellectui. et licet non sint 
+      <lb ed="#C" n="18"/>alie species quam prius erant ordo situandi et ordinandi 
+      <lb ed="#C" n="19"/>multum facit ad immutandam potentiam.
+   </p>
+            <p xml:id="jb2v19-d32631-d1e490">
+      ¶ Sed dicis. 
+      <lb ed="#C" n="20"/>Species non sunt in variis subsenis: sed in eodem substanto 
+      mu<lb ed="#C" n="21" break="no"/>tuo: sicu speciens colorum in medio. hoc es verum. varie 
+      spe<lb ed="#C" n="22" break="no"/>cies non habent varia substantia distincta. non obstante sunt ex 
+      <lb ed="#C" n="23"/>tense sicut suum subiectum. potest subiectum transponere 
+      <lb ed="#C" n="24"/>et disponere quod aliter immutent complexe vel incomplexe. 
+      <lb ed="#C" n="25"/>sicu ex viginti litris alphabeti aliter dispositis 
+      termi<lb ed="#C" n="26" break="no"/>ni alii prodeunt. potest facere commotionem spitrituum in parte 
+      <lb ed="#C" n="27"/>remota meorie: et impedire ne illa parturbatio 
+      obicen<lb ed="#C" n="28" break="no"/>prestet anterioribus sensui iudicatiuo maxime 
+      propin<lb ed="#C" n="29" break="no"/>quis: sic scilicet: quod immutatio erit vehementior a parte 
+      <lb ed="#C" n="30"/>memorie quod a sensibus exterioribus. quia immutatio a 
+      <lb ed="#C" n="31"/>sensibus exterioribus non infinite excedit immutatione: 
+      <lb ed="#C" n="32"/>a meoria. ergo tantum potest esse crementum in speciebus 
+      meno<lb ed="#C" n="33" break="no"/>rie per applicationem ad sensum iudicatiuum quod 
+      iudi<lb ed="#C" n="34" break="no"/>cabit secundum illam applicationem in sompno. et patet per simile. 
+      <lb ed="#C" n="35"/>licet migrania aliquem dolorem stomachi exuperet: et 
+      fa<lb ed="#C" n="36" break="no"/>ciat illum dolorem perceptibilem: tamen crescere potest dolor 
+      <lb ed="#C" n="37"/>stomachi stante vniformi discrasia migranie in 
+      se<lb ed="#C" n="38" break="no"/>quod non sentiatur. Secundo arguitur ad idem de 
+      freneti<lb ed="#C" n="39" break="no"/>con qui de factuo sic iudicat in vigilia. Preterea arguitur 
+      <lb ed="#C" n="40"/>ad idem. si non potest esse crementum ab immutatione 
+      interi<lb ed="#C" n="41" break="no"/>ori ad equaelitatem vel maioritatem: hoc est propter 
+      obicen<lb ed="#C" n="42" break="no"/>sensuum exteriorum. sed hoc non. quia illas sensationes 
+      impedi<lb ed="#C" n="43" break="no"/>re potest in vigilia. cecus nihil videt. surdus nihil audit / 
+      <lb ed="#C" n="44"/>nec olfactu habens corruptum. et stat quod tangibile senss 
+      <lb ed="#C" n="45"/>extrioris immutatuum non occurrat.
+   </p>
+            <p xml:id="jb2v19-d32631-d1e549">
+      ¶ Insuper ad 
+      ean<lb ed="#C" n="46" break="no"/>dem partem arguitur. crebro sensus iudicium capies / a 
+      no<lb ed="#C" n="47" break="no"/>ticiis sensus falliter in iudicando. et etiam intellectus vbi 
+      <lb ed="#C" n="48"/>non habet manuductionem sensus castigatiuum. quod sensus 
+      <lb ed="#C" n="49"/>falliter hoc est iudicium ex sensibus haustum: patet nuc sine 
+      <lb ed="#C" n="50"/>arte demoniaca in sensibus potissimis visus / quem 
+      <lb ed="#C" n="51"/>tantopere expetimus falliter videndo vnum per aliud. patet 
+      <lb ed="#C" n="52"/>videndo luce cum fumo apparet rubedo patet in carbo 
+      <lb ed="#C" n="53"/>ne ignito in quo nulla e rubedo. sed hic in doctis ratio 
+      sen<lb ed="#C" n="54" break="no"/>sum castigat ostendens quam iux miscetur cum magno 
+      fu<lb ed="#C" n="55" break="no"/>mo a carbone seuato proprterea apparet rubedo. sic 
+      <lb ed="#C" n="56"/>cum fumi nigri leuatur a terta in aere mane et 
+      vespe<lb ed="#C" n="57" break="no"/>re: pre quo lucen solis videntes sol apparet rubeus. 
+      <lb ed="#C" n="58"/>sic in iride et halone apparet: vel videndo vrinale 
+      <lb ed="#C" n="59"/>pre vitro rubeo. sic apparet radius solaris in parie 
+      <lb ed="#C" n="60"/>te azurato rubeus dummodo transit per vitrum rubeum. et si
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>sensus non castigaretur hic per rationem: intellectus vtique 
+      iu<lb ed="#C" n="62" break="no"/>dicaret ad iudicium sensus: et multi de facto ita 
+      iu<lb ed="#C" n="63" break="no"/>dicant. et nedum hoc: sed per colorum iuter positionem. patet 
+      in<lb ed="#C" n="64" break="no"/>cauda pauonis et collo columbe: vbi per varia incidem 
+      <lb ed="#C" n="65"/>tiam luminis super illa obsentia apparet alius color quam sit si 7 
+      <lb ed="#C" n="66"/>modica oculi leuatio exur suum situm facit re vnam 
+      ap<lb ed="#C" n="67" break="no"/>parere duas. et pisum digitis cancellatis tactum 
+      appe<lb ed="#C" n="68" break="no"/>ret duo. quis ergo dubitat angelum scire hec omnia 
+      faceroe<lb ed="#C" n="69" break="no"/>artificiosius quod qucuque ho mortalis. voceni aere sine 
+      <lb ed="#C" n="70"/>corpore assumpto fortare potest. patet. corde 
+      monocordie<lb ed="#C" n="71" break="no"/>dant sonos intelligibiles cantuum a bene ludente ordinate 
+      <lb ed="#C" n="72"/>hominum opera adinuente. ergo hoc ab angelo non negandum 
+      <lb ed="#C" n="73"/>est. potest medium s strahere ab vna parte et non ab alia. 
+      <lb ed="#C" n="74"/>et tunc color vel coloratum ab vno non videtur: et 
+      vide<lb ed="#C" n="75" break="no"/>bitur ab alio. potest apponere speculum ante te representa 
+      <lb ed="#C" n="76"/>tiuum rei a tergo: nec speculum videbis. potest multis 
+      <lb ed="#C" n="77"/>modis speculum occultare. circunuoluendo species 
+      <lb ed="#C" n="78"/>visibiles facere potest vt res quieta appareat mota et 
+      <lb ed="#C" n="79"/>circunuolui. Ex his sequitur. multe praesent esse 
+      deceptio<lb ed="#C" n="80" break="no"/>nes a demone.
+   </p>
+            <p xml:id="jb2v19-d32631-d1e630">
+      ¶ Contra primam conclusionem et eius 
+      proba<lb ed="#C" n="81" break="no"/>tionem sic arguitur. species in sompno representat res quaerum 
+      <lb ed="#C" n="82"/>sunt speces vel omnes res. et sic intellectus in sompno innume 
+      <lb ed="#C" n="83"/>ra videret: contra experientiam.
+   </p>
+            <p xml:id="jb2v19-d32631-d1e639">
+      ¶ Dicis. aliqua res ipsas 
+      repre<lb ed="#C" n="84" break="no"/>sentant.
+   </p>
+            <p xml:id="jb2v19-d32631-d1e645">
+      ¶ Contra quaeratur ro. illius siue arguendo. cum non 
+      <lb ed="#C" n="85"/>sper fortiores specens mouent: vt experimur
+   </p>
+            <p xml:id="jb2v19-d32631-d1e650">
+      ¶ Secundo 
+      ar<lb ed="#C" n="86" break="no"/>guitur contra idem. sopniamus de elephante et de re nunquam a 
+      <lb ed="#C" n="87"/>nobis sensata. ergo illa representatio non est per simulachra 
+      <lb ed="#C" n="88"/>res ipsas reresentantia.
+   </p>
+            <p xml:id="jb2v19-d32631-d1e659">
+      ¶ Respondetur inter arguendum ad 
+      <lb ed="#C" n="89"/>calce vsque sufficientur. non sper maior speciens fortius 
+      mo<lb ed="#C" n="90" break="no"/>uet potentiam cognitiuam. stat quod minor speciens plus 
+      ha<lb ed="#C" n="91" break="no"/>beat auxilii vel ab influentia celi vel ab hominis 
+      comple<lb ed="#C" n="92" break="no"/>xione et inclinatione animae. propterea flegmatici sompniant 
+      <lb ed="#C" n="93"/>de pluuia quod sunt in aqua sprimersi. Colerici de pugna: 
+      <lb ed="#C" n="94"/>et melancolici de cacademonibus et rebus atris. propter 
+      <lb ed="#C" n="95"/>ea dicit Aristoteles de sompno et vigilia. gratiosi 
+      <lb ed="#C" n="96"/>medici / in sua scientia solennes / attendunt ad sompnia: quia 
+      <lb ed="#C" n="97"/>per illa iudicant de patiente
+   </p>
+            <p xml:id="jb2v19-d32631-d1e681">
+      ¶ Ad secundum argumentum 
+      con<lb ed="#C" n="98" break="no"/>cedo quod sompniamus de re insensata componendo notici 
+      <lb ed="#C" n="99"/>am vnam cum alia rerum sensatarum quaerum specens habemus. vt 
+      <lb ed="#C" n="100"/>sompniando de flumine lacteo cum tam fluminis quam lactis 
+      <lb ed="#C" n="101"/>habemus noticiam. et quis sompniat quod sedet super trabem 
+      <lb ed="#C" n="102"/>qui numquam erat super trabem: tamen vtriusque specens habet. sicud ex 
+      <lb ed="#C" n="103"/>xx. litris alphabeti ordinatis aliter et aliter: varias 
+      saci<lb ed="#C" n="104" break="no"/>mus dictiones. et sic facit pictor vel tinctor 
+      respectu<lb ed="#C" n="105" break="no"/>colorum.
+   </p>
+            <p xml:id="jb2v19-d32631-d1e701">
+      ¶ Insuper: dicit Aristoteles in libro de 
+      son<lb ed="#C" n="106" break="no"/>perno et vigilia. si in via a fantasia ad sensum communem 
+      de<lb ed="#C" n="107" break="no"/>fluat modicum de colera speciens calidorum fortificantur 
+      <lb ed="#C" n="108"/>et facient apparere ignes aut fulgura vel 
+      fortissi<lb ed="#C" n="109" break="no"/>mos estus. propterea res ceca est sompnium
+   </p>
+            <p xml:id="jb2v19-d32631-d1e712">
+      ¶ Contra 
+      secun<lb ed="#C" n="110" break="no"/>dam conclusiono arguitur. sensus non decipitur circa suu 
+      propriun<lb ed="#C" n="111" break="no"/>obsiem in debita distantia sine impedimento applicatum. 
+      <lb ed="#C" n="112"/>oppositum hic contingit.
+   </p>
+            <p xml:id="jb2v19-d32631-d1e722">
+      ¶ Respondetur: vt in pluribus non de 
+      <lb ed="#C" n="113"/>cipitur homo oculatus: potissimum ab homimbus. a 
+      demo<lb ed="#C" n="114" break="no"/>nibus multis modis decipi potest. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 4</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 4</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="146-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d87584"><!-- l2d37q4 -->
+            <head xml:id="jb2v19-d87584-Hd1e101">Quaestio 4</head>
+            <head xml:id="jb2v19-d87584-Hd1e103" type="question-title">Utrum  Deus prius agat et coagat ad actus voluntatis creatae an  contra</head>
+            <p xml:id="jb2v19-d87584-d1e106">
+      ¶ Propteres 
+      <lb ed="#C" n="109"/>quaeritur iste quaestionis titulus: an deus prius agat et coagat 
+      <lb ed="#C" n="110"/>ad actus voluntatis create vel contra et non est quastio de 
+      acti<lb ed="#C" n="111" break="no"/>bus inquantum malis. diximus enim in quaestione praecedenti / deus 
+      <lb ed="#C" n="112"/>nullomodo est causa mali culpe: sed quaerendum est de substantia 
+      <lb ed="#C" n="113"/>actus solum tam de substantia actus boni quam mali: quia nunc 
+      <lb ed="#C" n="114"/>suppono quod tam deus quam voluntas creata ad subsentias illo 
+      <lb ed="#C" n="115"/>lorum actuum concurrunt: et quod totus actus a deo producitur 
+      to<lb ed="#C" n="116" break="no"/>taliter affectus: licet non totalitati cause. 
+   </p>
+            <p xml:id="jb2v19-d87584-d1e126">
+               <lb ed="#C" n="117"/>¶ Pro solutione questionis scito video viros hic 
+      <lb ed="#C" n="118"/>dicere contraria: et aliquos alios multitudine ver 
+      <lb ed="#C" n="119"/>borum et se et alios fatigare. dicam ergo succincte 
+      <lb ed="#C" n="120"/>de quaestione primo ponendo distinctiones declarativas 
+      qui<lb ed="#C" n="121" break="no"/>modo quaestio potest limitari: et secundum h ponentur conclusiones
+      <pb ed="#V" n="146-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>responsiue notabile erit hoc. vna causa potest dici 
+      pri<lb ed="#C" n="2" break="no"/>or alia quia perfectior alia / vel est independens in agendo vel 
+      <lb ed="#C" n="3"/>sufficiens ex se in cauendo sic scilicet potest quemcumque 
+      <lb ed="#C" n="4"/>effectum causare sine causalitate alterius cause: et 
+      <lb ed="#C" n="5"/>alia posterior quae est imperfectior dependens tam inesse quam in 
+      <lb ed="#C" n="6"/>causare ab alia causa sic scilicet quod non potest care alia causa non 
+      can<lb ed="#C" n="7" break="no"/>te: bene autem econuerso. Hoc supposito Respondetur per 
+      conclusio<lb ed="#C" n="8" break="no"/>nes.
+   </p>
+            <p xml:id="jb2v19-d87584-d1e161">
+      ¶ Prima est. deus prius causat quemcumque effectum 
+      <lb ed="#C" n="9"/>quem cat quod creatura: ad hunc sensum: quod est cas perfectior 
+      in<lb ed="#C" n="10" break="no"/>dependens est sufficies se sola et determinat alia cam 
+      <lb ed="#C" n="11"/>ad hunc effectum producendum et non ad similem quem equaliter 
+      <lb ed="#C" n="12"/>habet in sua ptante. et creatura hoc modo est ca posterior. 
+      <lb ed="#C" n="13"/>hec conclusio est nota de quocumque effectu positiuo non 
+      <lb ed="#C" n="14"/>modo de actu voluntatis bono vel malo sed de 
+      quocum<lb ed="#C" n="15" break="no"/>que ente.
+   </p>
+            <p xml:id="jb2v19-d87584-d1e180">
+      ¶ Secunda conclusio. aliter deus concurrit ad actum 
+      <lb ed="#C" n="16"/>bonum volutati aliter ad malum. probatio. neo potest 
+      est<lb ed="#C" n="17" break="no"/>cere actum moraliter bonum complete sine dei 
+      speciali<lb ed="#C" n="18" break="no"/>auxilio ex 28. distinctione huius. praecipit bonum vel ipsum 
+      <lb ed="#C" n="19"/>consulit et ad illud instigat: et dat auxilium et leges hmonis 
+      <lb ed="#C" n="20"/>facienda. ergo priuenit voluntatem in productione boni actus. 
+      <lb ed="#C" n="21"/>hoc patet ex aug. 13 de ciuitate dei capite 
+      decimoquin<lb ed="#C" n="22" break="no"/>to. Sic ad malum quippe anime prior est voluntas eius. ad 
+      <lb ed="#C" n="23"/>bonum vero eius prior est creatoris eius. propterea aliter 
+      <lb ed="#C" n="24"/>sancti atrribuunt actus malos deo et aliter bonos. 
+   </p>
+            <p xml:id="jb2v19-d87584-d1e202">
+               <lb ed="#C" n="25"/>¶ Tertia conclusio. deus in absoluto sermone est dicendus 
+      <lb ed="#C" n="26"/>prius agere ad effectum communem quam creatura. patet. esse prima 
+      <lb ed="#C" n="27"/>causam est perfectionis. propterea philsopi idem per deum et primam 
+      causa<lb ed="#C" n="28" break="no"/>intellexerunt. ergo prima causalitas vel prioritas causandi 
+      <lb ed="#C" n="29"/>respectu effectus communis non est neganda a deo.
+   </p>
+            <p xml:id="jb2v19-d87584-d1e215">
+      ¶ 
+      Se<lb ed="#C" n="30" break="no"/>cundo arguitur ad idem. si prioritas causandi 
+      respectu<lb ed="#C" n="31" break="no"/>actus voluntatis negaretur a deo: hoc esset quia 
+      volun<lb ed="#C" n="32" break="no"/>tas necessitaretur ad suorum actuum productionem. sed 
+      <lb ed="#C" n="33"/>hoc non noticia causae naturalis concurrit ad productio 
+      <lb ed="#C" n="34"/>nem actus voluntatis: non obstante actus voluntatis est 
+      li<lb ed="#C" n="35" break="no"/>ber. ergo a fortiore cum deus agens liberum concurrit ad 
+      <lb ed="#C" n="36"/>actum voluntatis etiam prioritate nature: actus erit 
+      li<lb ed="#C" n="37" break="no"/>ber. et licet deus sit infinitus in actiuitate: non tamen infinite 
+      <lb ed="#C" n="38"/>concurrit. sampson potest iuuare pigmeum ferre paruum 
+      <lb ed="#C" n="39"/>pondus.
+   </p>
+            <p xml:id="jb2v19-d87584-d1e239">
+      ¶ Quarta conclusio. potest dici ad aliquem 
+      bo<lb ed="#C" n="40" break="no"/>num sensum quod voluntas prius agit ad actum malum quam de 
+      <lb ed="#C" n="41"/>us. patet. secundum sanctos aliter deus agit ad bonum 
+      <lb ed="#C" n="42"/>et malum. ad omne bonum prius agit et voluntatem praeuenit 
+      <lb ed="#C" n="43"/>ad agendum / secundum ortonem: actiones nostras quaesumus domine as 
+      <lb ed="#C" n="44"/>pirando praeueni. ergo ad aliquem sensum volutas praeuenit 
+      <lb ed="#C" n="45"/>deum ad malum. sensus est explicitus sufficientur prius. 
+      <lb ed="#C" n="46"/>deus est paratus coagere voluntati ad substntiam actus 
+      ma<lb ed="#C" n="47" break="no"/>li: quam voluntas non potest elicere deo non concurrente quom 
+      <lb ed="#C" n="48"/>prohibet creature ne eliciatur. Intel lectus dinus 
+      intel<lb ed="#C" n="49" break="no"/>ligit voluntatem creatam velle a. actum malum producere 
+      <lb ed="#C" n="50"/>si concursum prime causae necessarium ad productionem illius 
+      <lb ed="#C" n="51"/>actus haberet: quod non illud velle possit habenre sine 
+      con<lb ed="#C" n="52" break="no"/>cursu dei. deus illi coagit ad hoc: et illud prohibetur: et 
+      <lb ed="#C" n="53"/>quodammodo inuitus hoc facit. hoc est: non pure 
+      sponta<lb ed="#C" n="54" break="no"/>nee ad sensum superius crebro declaratum. sic potest ad 
+      no<lb ed="#C" n="55" break="no"/>stram intelligentia dici quod ad bonum sensum voluntas 
+      crea<lb ed="#C" n="56" break="no"/>ta prius agit ad actum malum quam deus concurrat 
+      dependem<lb ed="#C" n="57" break="no"/>ter.
+   </p>
+            <p xml:id="jb2v19-d87584-d1e281">
+      ¶ Contra ista arguitur sic. deus prius concurrit ad a. 
+      <lb ed="#C" n="58"/>actum quam creatura. ergo quando a. actus producitur a deo 
+      <lb ed="#C" n="59"/>adhuc / nondum est productus a creatura. et sic substantia 
+      <lb ed="#C" n="60"/>actus mali in vno signo nature est bommna a deo: et in po¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>steriore ille actus est malus a creatura. et per consequens in eo 
+      <lb ed="#C" n="62"/>dem instanti tempuis idem actus est bonus et malus. Respondetur 
+      <lb ed="#C" n="63"/>non est signandum vnum instans nature in quo deus 
+      cau<lb ed="#C" n="64" break="no"/>sat actum communem qui in eodem creatura coagit: sicut in eo 
+      <lb ed="#C" n="65"/>dem instanti quo ca efficiens agit in genere causae efficientis 
+      ma<lb ed="#C" n="66" break="no"/>teria agit in genere cause materialis: sic est de duabus 
+      <lb ed="#C" n="67"/>causis efficientibus subordinatis inter se¶ Secundo arguitur. vel 
+      <lb ed="#C" n="68"/>voluntas creata agit quia deus agit vel econuerso. si 
+      pri<lb ed="#C" n="69" break="no"/>mum non est libtas in actu voluntatis: cum deo coagente non 
+      <lb ed="#C" n="70"/>potest non agere. si secundum voluntas creata prius agit 
+      <lb ed="#C" n="71"/>quod voluntas diuina.
+   </p>
+            <p xml:id="jb2v19-d87584-d1e316">
+      ¶ Respondetur: oportet distinguere tales 
+      causa<lb ed="#C" n="72" break="no"/>les: si notetur voluntas praeceptiua vel consultiua dei vel 
+      <lb ed="#C" n="73"/>presuppositio independens. possumus tales concedere 
+      <lb ed="#C" n="74"/>voluntas creata vult a. actum bonum quia deus ipsum vult 
+      <lb ed="#C" n="75"/>sicut si quereretur a nouitio vel iuuene religioso: 
+      quae<lb ed="#C" n="76" break="no"/>re mundat claustrum. Respondet quod magister morum vult. vel 
+      qua<lb ed="#C" n="77" break="no"/>re vult religionem bonam ingreditur. quia talis sapiens 
+      con<lb ed="#C" n="78" break="no"/>suluit. vel quare sortes het gloria. quia discessit in gratia 
+      <lb ed="#C" n="79"/>sic voluntas creata dependet a voluntate dei. et ad 
+      a<lb ed="#C" n="80" break="no"/>tum bonum habet praeceptum / vel consilium vel auxilium dei 
+      spe<lb ed="#C" n="81" break="no"/>ciale praerequisitum. tales causales admittimus quando antecedens 
+      in<lb ed="#C" n="82" break="no"/>portat aliquid quod est praesuppositum et dispositio ad consequens 
+      <lb ed="#C" n="83"/>de actu malo: malo concedere tales causales deus facit 
+      <lb ed="#C" n="84"/>substantiam actus mali quia creatura facit malum: ita quod 
+      <lb ed="#C" n="85"/>malicia venita creatura et deus prohibet illum actum. et 
+      <lb ed="#C" n="86"/>cum punit. displicet deo quod ille actus fiat. tamen secundum genera 
+      <lb ed="#C" n="87"/>lem influentiam eius: concurrit ad talis actus productionem. et 
+      <lb ed="#C" n="88"/>propterea deus dicitur producere actum illum: quia homo facit illum 
+      <lb ed="#C" n="89"/>non quod illum homo facere potest nisi deo coagente: nec etiam 
+      <lb ed="#C" n="90"/>deus coageret: nisi homo ex malicia sua illum actum 
+      eli<lb ed="#C" n="91" break="no"/>ceret. si esset secumdo de causalibus proprie dictis mlte 
+      <lb ed="#C" n="92"/>istarum negarentur. sed hic est sermo ad bonum sensum 
+      <lb ed="#C" n="93"/>de causalibus.
+   </p>
+            <p xml:id="jb2v19-d87584-d1e367">
+      ¶ Tertio arguitur: ex dictis sequitur quod 
+      <lb ed="#C" n="94"/>actus voluntatis sortis non est liber. consequens est in 
+      <lb ed="#C" n="95"/>conueniens. quod sequatur patet sic. bene sequitur: deus 
+      coa<lb ed="#C" n="96" break="no"/>git ad a. actu voluntatis sortis. ergo a: actus est. antecedens non 
+      <lb ed="#C" n="97"/>est in prtante sortis. ergo nec consequens.
+   </p>
+            <p xml:id="jb2v19-d87584-d1e378">
+      ¶ Quarto arguitur. 
+      si<lb ed="#C" n="98" break="no"/>deus velit a. actum esse. necessarium est sorti velle eum 
+      <lb ed="#C" n="99"/>esse. quia non potest deo resistere. ergo actus eius non est 
+      con<lb ed="#C" n="100" break="no"/>tigens.
+   </p>
+            <p xml:id="jb2v19-d87584-d1e387">
+      ¶ Ad tertium concedo consnuentam. et bene sequitur sortes 
+      <lb ed="#C" n="101"/>coagit deo ad a. actum voluntatis ergo. a actus est. et nego 
+      <lb ed="#C" n="102"/>quod antecedes non est in patante sortis ad actusnon moraliter bonos 
+      <lb ed="#C" n="103"/>sufficit dei concursus generalis. quem concursum non subtra 
+      <lb ed="#C" n="104"/>hit a creaturis commissiue. si tamen conseruaret 
+      creatu<lb ed="#C" n="105" break="no"/>ram inesse: et non coageret ei in causando: 
+      creatu<lb ed="#C" n="106" break="no"/>ra agere non potest. et sic ignis non calefaceret stupam 
+      <lb ed="#C" n="107"/>impositam. et patuit in fornace regis babilonis Damie 
+      <lb ed="#C" n="108"/>lis tertio. quemadmodum obiectum solum sine concursu in 
+      <lb ed="#C" n="109"/>tellectus non producit noticiam intuitiuam. sed ille 
+      due<lb ed="#C" n="110" break="no"/>cause simul iuncte illam noticiam producunt. sic in 
+      pro<lb ed="#C" n="111" break="no"/>posito de facto secundum legem conem: sed in hoc est 
+      dis<lb ed="#C" n="112" break="no"/>crimen. deus se solo potest producere: quicquid 
+      <lb ed="#C" n="113"/>ab ipso et creatura producitur: non autem 
+      obiec<lb ed="#C" n="114" break="no"/>tum solum vel intellectus respectu noticie 
+      intui<lb ed="#C" n="115" break="no"/>tiue. ad actus moraliter bonos liberaliter communicat 
+      <lb ed="#C" n="116"/>auxilium speciale ad sensum dictum in 
+      distincti<lb ed="#C" n="117" break="no"/>oue 28. ergo antecedens est merito negandum. 
+   </p>
+            <p xml:id="jb2v19-d87584-d1e426">
+               <lb ed="#C" n="118"/>¶ Ad quartum dicitur. si deus efficaciter velit a 
+      <lb ed="#C" n="119"/>actum esse: a. actus erit. sed non semper sic vult 
+      <lb ed="#C" n="120"/>deus.
+      <pb ed="#V" n="147-r"/>
+               <cb ed="#P" n="a"/>
+            </p>
+            <p xml:id="jb2v19-d87584-d1e439">
+               <lb ed="#C" n="1"/>¶ Dubitatur quae est causa actus mali vt malus est: cum de 
+      <lb ed="#C" n="2"/>us non est causa eius tali modo. aliqui dicunt voluntas creata 
+      <lb ed="#C" n="3"/>per accidens producit peccatum. aliqui voluntas inquam 
+      <lb ed="#C" n="4"/>tum defectibilis. aliqui hoc et illud impugnant. sed omnia ista 
+      <lb ed="#C" n="5"/>sunt vera: secundo / phisicorum. et quito methaphisi 
+      <lb ed="#C" n="6"/>sice. policletus est ca per accidens statue. et album per 
+      ac<lb ed="#C" n="7" break="no"/>cidens edificat. licet in cais per accidens sit ordo. quito 
+      <lb ed="#C" n="8"/>methaphisice: textu commenti tertii. propinquior est: 
+      poli<lb ed="#C" n="9" break="no"/>cletus respectu statue quod album. edificator per se 
+      edifi<lb ed="#C" n="10" break="no"/>cat. estatuficus per se facit statuam quando suobpunum importat causam 
+      po<lb ed="#C" n="11" break="no"/>peinquam sie extraeitate: quaere praedicatum ei conuenit tunc est 
+      causa<lb ed="#C" n="12" break="no"/>per se. vt edificator edificat in aliis est causa per accidens. 
+      di<lb ed="#C" n="13" break="no"/>xi sine extrameitate: propter hanc: edificator albus 
+      edifi<lb ed="#C" n="14" break="no"/>cat in qua est causa per accidens. alio modo casus et fortu 
+      <lb ed="#C" n="15"/>na habent causam per accidens. puta non intenduntur ab agio 
+      <lb ed="#C" n="16"/>te: sed praeter eius intentionem fiunt. Ad propositum dico: 
+      vo<lb ed="#C" n="17" break="no"/>luntas creata est causa peccati. secundo dico: voluntas est 
+      causa<lb ed="#C" n="18" break="no"/>per accidens peccati. tertio dicitur: peccator per se peccat 
+      <lb ed="#C" n="19"/>quarto voluntas intendit positiuum in peccato: nec 
+      inten<lb ed="#C" n="20" break="no"/>dit difformitatem in actu. sed illa praeter eius intentionem 
+      <lb ed="#C" n="21"/>inest: secundum dionysium de diuinis nominbus. 4. c. neno agit 
+      <lb ed="#C" n="22"/>ad malum aspiciens. vlterius voluntas defectibilis 
+      <lb ed="#C" n="23"/>est causa peccati. sed non est de ratione voluntatis in communi posse 
+      pec<lb ed="#C" n="24" break="no"/>care. patet de voluntate diuina.
+   </p>
+            <p xml:id="jb2v19-d87584-d1e494">
+      ¶ Superest paucis 
+      <lb ed="#C" n="25"/>sarcinulas colligere. et cauere receptui. dicitur ad omnem 
+      <lb ed="#C" n="26"/>entitatem prius agit deus quam creatura: ad hunc sensum ne 
+      <lb ed="#C" n="27"/>quod idempedenter agit sufficienter potest sc solo effectum 
+      <lb ed="#C" n="28"/>producere. creatura dependenter et insufficienter. quia 
+      <lb ed="#C" n="29"/>sine concursu dei agere nequit. deus autem solo. nec 
+      coas<lb ed="#C" n="30" break="no"/>sumit creatura ad coagendum: quia eius concursu egeat 
+      <lb ed="#C" n="31"/>sed liberaliter ei causalitatem communicat. secundum illud augustini. 
+      <lb ed="#C" n="32"/>. de ciuitate dei. c. tertio: sic deus res quas 
+      condi<lb ed="#C" n="33" break="no"/>dit adminstrat vt eas agere proprios motus sinat. et 
+      <lb ed="#C" n="34"/>commetator nono metaphisice. textu commenti. 7. 
+      <lb ed="#C" n="35"/>moderni ponunt vnum agens omnia entia causare sine 
+      <lb ed="#C" n="36"/>medio. an. deum. et conuenit illis dicere vt nullum ens 
+      <lb ed="#C" n="37"/>habeat propriam actionem naturaliter. et cum entia non 
+      <lb ed="#C" n="38"/>habuerint actiones proprias: non habebunt essentias 
+      pro<lb ed="#C" n="39" break="no"/>prias siue potentias. actiones enim non distinguuntur nisi 
+      <lb ed="#C" n="40"/>per essentias diuisas et illa opino est valde extranea 
+      <lb ed="#C" n="41"/>a natura hominis. I nsuper. deus enim alia prioritate ad 
+      bo<lb ed="#C" n="42" break="no"/>num et alia ad malum mouet. ad bonum prius agit. ad 
+      <lb ed="#C" n="43"/>malum autem posterius. et quidammodo inuitus coagit. peccator 
+      <lb ed="#C" n="44"/>per se peccat. nec sto in talibus hic peccator 
+      per<lb ed="#C" n="45" break="no"/>se peccat sortes est hic peccator. ergo sortes per se 
+      pec<lb ed="#C" n="46" break="no"/>cat. sic potes in exemplis aristotelis insistere. hic 
+      edi<lb ed="#C" n="47" break="no"/>ficator per se edificat. album est hic edificator. ergo al 
+      <lb ed="#C" n="48"/>bum per se edificat. si per se determinet copulam ac si esset 
+      <lb ed="#C" n="49"/>modalis diuisa. concedenda est conclusio. si 
+      determi<lb ed="#C" n="50" break="no"/>nat totam propositionem. discursus est malus. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

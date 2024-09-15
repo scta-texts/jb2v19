@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 4</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 4</title>
+          <date when="2024-09-15">September 15, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-09-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="4-v"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jb2v19-d02374"><!-- l2d1q4 -->
+        <head xml:id="jb2v19-d02374-Hd1e101">Quaestio 4</head>
+        <head xml:id="jb2v19-d02374-Hd1e103" type="question-title">An fuerit possibile mundum fuisse ab aeterno</head>
+        <p xml:id="jb2v19-d02374-d1e106">
+          <lb ed="#C" n="113"/>QUarto restat inquirere 
+          <lb ed="#C" n="114"/>an fuerit possibile mundum fuisse ab 
+          <lb ed="#C" n="115"/>eterno. In hac questione multi 
+          tenue<lb ed="#C" n="116" break="no"/>runt partem affirmatiuam: multi 
+          nega<lb ed="#C" n="117" break="no"/>tiuam: multi questionem tenuerunt probleumatice 
+          <lb ed="#C" n="118"/>Alii rati sunt non esse idem in permanentibus et 
+          suc<lb ed="#C" n="119" break="no"/>cessiuis.
+        </p>
+        <p xml:id="jb2v19-d02374-d1e124">
+          ¶ Circa hanc materiam duas formabo quae¬
+          <pb ed="#V" n="5-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#C" n="1"/>stiones. Una circa res permanentes erit. Altera 
+          cir<lb ed="#C" n="2" break="no"/>ca res successiuas. Pro expeditione prioris queritur 
+          quae<lb ed="#C" n="3" break="no"/>stio sub hoc verborum tenore: An enti creato 
+          perma<lb ed="#C" n="4" break="no"/>nenti repugnet fuisse ab eterno.
+        </p>
+        <p xml:id="jb2v19-d02374-d1e140">
+          ¶ Pro solutione 
+          quae<lb ed="#C" n="5" break="no"/>stionis pono hanc vnam conclusionem 
+          afftirmati<lb ed="#C" n="6" break="no"/>uam. Quod deus poterat fecisse quod ens permanens 
+          <lb ed="#C" n="7"/>fuisset ab eterno. probatur hec conclusio. deus potest 
+          fa<lb ed="#C" n="8" break="no"/>cere vel fecisse poterat / omne illud quod non 
+          impli<lb ed="#C" n="9" break="no"/>cat contradictionem: quia non est impossibile apud 
+          <lb ed="#C" n="10"/>deum omne verbum. Sed non implicat contradictionem 
+          <lb ed="#C" n="11"/>ponere rem permanentem ab eterno creatam. igitur 
+          con<lb ed="#C" n="12" break="no"/>sequentia est nota cum maiore. Minor probatur: 
+          phi<lb ed="#C" n="13" break="no"/>losophi claris ingeniis / praediti: posuerunt multa 
+          per<lb ed="#C" n="14" break="no"/>manentia ab eterno: vt celum et partes eius: primo de 
+          ce<lb ed="#C" n="15" break="no"/>lo. Et non est veri simile quod cepissent ex industria 
+          tue<lb ed="#C" n="16" break="no"/>ri illud quod est impossibile: igitur. Sed dicis: 
+          in<lb ed="#C" n="17" break="no"/>compossibilia et simpliciter impossibilia crebro 
+          po<lb ed="#C" n="18" break="no"/>suerunt sicut fideles infide et clari philoso. Secundo 
+          <lb ed="#C" n="19"/>probatur eadem minor soluendo rationes 
+          aduer<lb ed="#C" n="20" break="no"/>sariorum partem oppositam tenentium: et cum 
+          <lb ed="#C" n="21"/>hoc non minus forte rationes introducendo.
+        </p>
+        <p xml:id="jb2v19-d02374-d1e180">
+          ¶ 
+          Se<lb ed="#C" n="22" break="no"/>cundo principaliter dicitur. deus poterat mundum 
+          <lb ed="#C" n="23"/>vel hanc rem permanentem produxisse heri / anno 
+          <lb ed="#C" n="24"/>preterito / tribus annis antequam mundum produxit / 
+          <lb ed="#C" n="25"/>centum millibus annis / et sic sine statu. ergo ab 
+          e<lb ed="#C" n="26" break="no"/>terno poterat deus produxisse mundum. Sed 
+          di<lb ed="#C" n="27" break="no"/>cis: ab eterno deus poterat produxisse mundum. 
+          <lb ed="#C" n="28"/>sed non poterat produxisse mundum ab eterno: 
+          <lb ed="#C" n="29"/>Sicut Aristoteles concessisset ab eterno fuit vnus 
+          <lb ed="#C" n="30"/>homo. In perpetuum erit homo: Sed nullus 
+          ho<lb ed="#C" n="31" break="no"/>mo fuit ab eterno: Nullus homo erit perpetuo. hoc 
+          <lb ed="#C" n="32"/>non soluit argumentum. Hic homo potuit fuisse 
+          <lb ed="#C" n="33"/>heri anno preterito / a mille annis praeteritis / et sic 
+          <lb ed="#C" n="34"/>in abyssum. ergo hic homo potuit fuisse ab 
+          eter<lb ed="#C" n="35" break="no"/>no. relinquendo suppositionem confusam accipiendo 
+          termi<lb ed="#C" n="36" break="no"/>nos discretos.
+        </p>
+        <p xml:id="jb2v19-d02374-d1e215">
+          ¶ Tertio arguitur. Si iste homo non 
+          <lb ed="#C" n="37"/>potuit fuisse ab eterno: hoc ideo est quia effectus non 
+          <lb ed="#C" n="38"/>potest esse coeuus sue cause: sed hoc est falsum. Si 
+          <lb ed="#C" n="39"/>igitur fuisset ab eterno splendor ignis fuisset ab 
+          e<lb ed="#C" n="40" break="no"/>terno: secundum Augustinum. vi de trinitate: 
+          ca<lb ed="#C" n="41" break="no"/>pite primo. et decimo de ciuitate dei. ca. xxxi. 
+          Si<lb ed="#C" n="42" break="no"/>pes fuisset in puluere ab eterno: vestigium pedis 
+          <lb ed="#C" n="43"/>impressum fuisset ab eterno. Et libro secundo. capite 
+          <lb ed="#C" n="44"/>iiii. modo quodam vix intelligibili philosophi 
+          dixe<lb ed="#C" n="45" break="no"/>runt mundum esse factum: et tamem non habere 
+          <lb ed="#C" n="46"/>principium durationis: ergo si ille modus egre sit 
+          in<lb ed="#C" n="47" break="no"/>telligibilis: tamen est intelligibilis. idem dicit in 
+          <lb ed="#C" n="48"/>homelia. xxvi. super Iohannem de virgulto et 
+          y<lb ed="#C" n="49" break="no"/>magine eius in aqua: sed talis imago est causata a 
+          <lb ed="#C" n="50"/>virgulto. Aristoteles debuit dicere quod aliquod 
+          lu<lb ed="#C" n="51" break="no"/>men solis fuit ab eterno.
+        </p>
+        <p xml:id="jb2v19-d02374-d1e250">
+          ¶ Quarto arguitur: 
+          fi<lb ed="#C" n="52" break="no"/>lius dei generatur a patre ab eterno: a quo habet 
+          <lb ed="#C" n="53"/>esse: licet non causetur a patre. ergo eodemmodo 
+          <lb ed="#C" n="54"/>effectus aliquis potest fieri a deo ab eterno.
+        </p>
+        <p xml:id="jb2v19-d02374-d1e259">
+          ¶ 
+          Quin<lb ed="#C" n="55" break="no"/>to arguitur. Mundus potest esse perpetuus a 
+          par<lb ed="#C" n="56" break="no"/>te post: ergo et a parte ante. consequentia tenet: 
+          an<lb ed="#C" n="57" break="no"/>tecedente dato: sequitur quod res permanens 
+          dura<lb ed="#C" n="58" break="no"/>bit per infinitum tempus: et habet terminum a parte 
+          <lb ed="#C" n="59"/>ante ab isto die: et non terminum a parte post. 
+          ni<lb ed="#C" n="60" break="no"/>chil aliud sequitur ad consequens.
+        </p>
+        <p xml:id="jb2v19-d02374-d1e275">
+          ¶ Sexto arguitur 
+          <lb ed="#C" n="61"/>sicut in agentibus naturalibus posita causa suffi¬
+          <cb ed="#P" n="b"/>
+          <lb ed="#C" n="62"/>ciente: et cessante impedimento ponltur effectus: 
+          <lb ed="#C" n="63"/>patet de sole et suo lumine in medio: ita in agentibus 
+          <lb ed="#C" n="64"/>liberis et sufficientibus sublato impedimento 
+          po<lb ed="#C" n="65" break="no"/>test poni effectus. deus ab eterno fuit sufficiens 
+          pro<lb ed="#C" n="66" break="no"/>ducere mundum: et non impedibilis. igitur.
+        </p>
+        <p xml:id="jb2v19-d02374-d1e293">
+          ¶ 
+          Sep<lb ed="#C" n="67" break="no"/>timo arguitur: secundum aduersarios oportet 
+          de<lb ed="#C" n="68" break="no"/>um quiescere per tempus infinitum antequam possit 
+          <lb ed="#C" n="69"/>mundum producere quod est inconueniens. dato 
+          <lb ed="#C" n="70"/>opposito antecedentis: potest deus ab eterno 
+          crea<lb ed="#C" n="71" break="no"/>turam producere.
+        </p>
+        <p xml:id="jb2v19-d02374-d1e307">
+          ¶ Contra hanc conclusionem 
+          <lb ed="#C" n="72"/>arguitur: ex ea sequitur quod deus potest producere 
+          <lb ed="#C" n="73"/>infinitum actu / multitudine / magnitudine / et 
+          in<lb ed="#C" n="74" break="no"/>tensione. consequens est negatum a philosophis 
+          <lb ed="#C" n="75"/>constanter: vt patet iii. phisicorum. et primo de 
+          ce<lb ed="#C" n="76" break="no"/>lo. et communius ab antiquis theologis. et quod 
+          sequa<lb ed="#C" n="77" break="no"/>tur probatur sic. ponatur mundus fuisse ab eterno et 
+          <lb ed="#C" n="78"/>homines sicut nunc sunt geniti et corrupti. Iam 
+          <lb ed="#C" n="79"/>esset infinita multitudo animarum rationalium: 
+          er<lb ed="#C" n="80" break="no"/>go iam habetur infinitum multitudine. et si quolibet 
+          <lb ed="#C" n="81"/>die preterito creasset lapidem pedalem addendo 
+          <lb ed="#C" n="82"/>vnum alteri: iam esset continuum infinitum / secundum 
+          lon<lb ed="#C" n="83" break="no"/>gitudinem / latitudinem / vel omnem dimensionem / 
+          <lb ed="#C" n="84"/>secundum quod deus disposuisset lapides. eodem modo 
+          <lb ed="#C" n="85"/>argumentari potes de albedine / nigredine / 
+          cha<lb ed="#C" n="86" break="no"/>ritate / vel qualibet alia forma intensibili.
+        </p>
+        <p xml:id="jb2v19-d02374-d1e342">
+          ¶ 
+          Respon<lb ed="#C" n="87" break="no"/>deo concedendo sequelam. Miror eorum hanc 
+          con<lb ed="#C" n="88" break="no"/>clusionem tenentium quam teneo negando 
+          possibi<lb ed="#C" n="89" break="no"/>litatem infiniti cathegoreumatice sumpti in 
+          mul<lb ed="#C" n="90" break="no"/>titudine: si ponatur mundus inesse perpetuo et 
+          homin<lb ed="#C" n="91" break="no"/>nes sicut opinatus est philosophus: quod isti 
+          conce<lb ed="#C" n="92" break="no"/>dunt. Addo tertiam propositionem. deus poterat 
+          <lb ed="#C" n="93"/>conseruare quamlibet animam quam aliquis habuit: et 
+          <lb ed="#C" n="94"/>numquam duo habuissent animam eandem. Mirum est 
+          mi<lb ed="#C" n="95" break="no"/>hi quod hec propositio ab aliquo fideli negetur / quod ex 
+          <lb ed="#C" n="96"/>his sequitur infinitas animarum immo potest deus 
+          <lb ed="#C" n="97"/>reproducere omnes asinos corruptos: et sic 
+          infi<lb ed="#C" n="98" break="no"/>nitos haberemus nunc. Propterea concedo quod deus 
+          <lb ed="#C" n="99"/>potest facere infinitum multitudine iam in quolibet 
+          <lb ed="#C" n="100"/>continuo sunt infinite partes: cathegoreumatice 
+          <lb ed="#C" n="101"/>capiendo infinitum. et infinita sunt puncta in 
+          <lb ed="#C" n="102"/>continuo: secundum reales. Eodem modo 
+          conce<lb ed="#C" n="103" break="no"/>do quod deus potest facere lineam infinitam. immo nunc 
+          <lb ed="#C" n="104"/>actu corporis columnaris decem pedum / 
+          crassitudi<lb ed="#C" n="105" break="no"/>nis pedalis / datur vna linea curua infinite longa. 
+          <lb ed="#C" n="106"/>Certum est infinite longa est linea gyratiua 
+          capien<lb ed="#C" n="107" break="no"/>do infinitum syncathegoreumatice. Quod sic 
+          osten<lb ed="#C" n="108" break="no"/>ditur. Gira girans primam partem proportionalem 
+          <lb ed="#C" n="109"/>columne est ad minus pedalis. Circulus primam partem 
+          <lb ed="#C" n="110"/>proportionalem ambiens est pedalis: ergo a 
+          for<lb ed="#C" n="111" break="no"/>tiori linea gyratiua est pedalis. gira gyrans duas 
+          <lb ed="#C" n="112"/>primas partes proportionales illius columne est 
+          bi<lb ed="#C" n="113" break="no"/>pedalis. gyra gyrans tres primas partes 
+          propor<lb ed="#C" n="114" break="no"/>tionales illius columne est tripedalis: et sic 
+          conse<lb ed="#C" n="115" break="no"/>quenter gyra quanto girat plures partes 
+          propor<lb ed="#C" n="116" break="no"/>tionales tanto est longior. Sed infinite sunt 
+          par<lb ed="#C" n="117" break="no"/>tes proportionales in columna: etiam capiendo ly 
+          in<lb ed="#C" n="118" break="no"/>finitum cathegoreumatice: ergo gyra gyrans 
+          om<lb ed="#C" n="119" break="no"/>nes est infinite longa. Quod aliqua gyret omnes in 
+          <lb ed="#C" n="120"/>xliiii. distinctione primi sufficienter (vt reor) 
+          osten<lb ed="#C" n="121" break="no"/>dimus. et si teneatur linea latitudinis et 
+          profun<lb ed="#C" n="122" break="no"/>ditatis expars: datur iam aliqua linea infinite lon¬
+          <pb ed="#V" n="5-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#C" n="1"/>ga: scilicet a linea gyratiua istu columne nominate: et 
+          <lb ed="#C" n="2"/>si detur adhuc quod linea habet tres dimension es: 
+          <lb ed="#C" n="3"/>sed longitudo linee attenditur penes lineam 
+          ima<lb ed="#C" n="4" break="no"/>ginabilem imperceptibilem mediam: ad huc illa 
+          li<lb ed="#C" n="5" break="no"/>nea erit infinite longa. Si teneatur quod linea 
+          diffor<lb ed="#C" n="6" break="no"/>mis longitudis in partibus: non est ita longa sicut pars 
+          <lb ed="#C" n="7"/>longior: vt pote: si detur asser bipedalis latitudinis 
+          <lb ed="#C" n="8"/>cuius vna medietas secundum longum est. viii. pedum. 
+          <lb ed="#C" n="9"/>et alia decem: Tota illa linea erit longa precise: 
+          <lb ed="#C" n="10"/>vt nouem. reducendo difformitatem ad vniformi 
+          <lb ed="#C" n="11"/>tatem. hoc est ad imaginationem tollendo 
+          peda<lb ed="#C" n="12" break="no"/>le a latere longiore et addendo breviori: iam 
+          to<lb ed="#C" n="13" break="no"/>tus asser erit vniformis longitudins in partibus: scilicet 
+          <lb ed="#C" n="14"/>nouem pedum. tunc si linea difformis longitudinis 
+          <lb ed="#C" n="15"/>in partibus debet attendi longam secundum 
+          redu<lb ed="#C" n="16" break="no"/>ctionem partium difformis longitudinis ad vnifor 
+          <lb ed="#C" n="17"/>mem: non habetur linea gyratiua infinite longa: sed 
+          <lb ed="#C" n="18"/>habetur infinite longa est linea gyratiua: et si ita est 
+          <lb ed="#C" n="19"/>nunc de facto: a fortiori deus potest facere lineam 
+          <lb ed="#C" n="20"/>infinite longam. Concedo ergo quod deus potest 
+          fa<lb ed="#C" n="21" break="no"/>cere infinitum: secundum vnam dimensionem tantum / 
+          <lb ed="#C" n="22"/>duas / vel omnes. Similiter potest facere infinitum 
+          <lb ed="#C" n="23"/>in gradu. tam in formis corporalibus quam in 
+          spiritua<lb ed="#C" n="24" break="no"/>libus. Et de philosophis aliqui eorum 
+          putaue<lb ed="#C" n="25" break="no"/>uerunt infinitos fuisse mundos: vt ex valcrio alias 
+          <lb ed="#C" n="26"/>recitauimus de fletu alexandri macedonis quod 
+          ad<lb ed="#C" n="27" break="no"/>huc vix potiebatur vno mundo. Et licet ilia 
+          positio<lb ed="#C" n="28" break="no"/>sit falsa: et contra hoc Aristoteles primo celi 
+          elegan<lb ed="#C" n="29" break="no"/>ter disputauerit: non demonstrauit propositum. 
+          <lb ed="#C" n="30"/>quia illo dato probauit quod deus non potest facere 
+          li<lb ed="#C" n="31" break="no"/>neam infinite longam: quod falsum iudico. Quod 
+          <lb ed="#C" n="32"/>dicebatur de theologis: licet antiqui communius 
+          infi<lb ed="#C" n="33" break="no"/>nitum negarunt: iam a centum annis communius 
+          <lb ed="#C" n="34"/>ab ingenios viris tenetur oppositum de 
+          religio<lb ed="#C" n="35" break="no"/>sis suos praeceptores insequetibus loqui non oportet 
+          <lb ed="#C" n="36"/>quia non ponunt in numerum cum in deliberatione 
+          <lb ed="#C" n="37"/>praeceptum suorum quicquid opinati fuerint steterunt. Et quia 
+          <lb ed="#C" n="38"/>hanc materiam seriosius in. xliiii. distinctione 
+          pri<lb ed="#C" n="39" break="no"/>mi prosecutus suni: super hoc nunc supersedeo.
+        </p>
+        <p xml:id="jb2v19-d02374-d1e511">
+          ¶ 
+          Se<lb ed="#C" n="40" break="no"/>cundo arguitur: contra eandem conclusionem: 
+          il<lb ed="#C" n="41" break="no"/>la de possibili posita inesse quam semper 
+          suppo<lb ed="#C" n="42" break="no"/>no in omnibus argumentis sequitur quod causa non 
+          pre<lb ed="#C" n="43" break="no"/>cessit suum effectum: consequens est inconueniens 
+          <lb ed="#C" n="44"/>causa est ad cuius ess sequitur aliud ii. physicorum. 
+          <lb ed="#C" n="45"/>Et quod sequatur patet de gallina et ouo quaerendo an ouum 
+          <lb ed="#C" n="46"/>praecessit gallinam. si sic: effectus praecessit causam / quia 
+          <lb ed="#C" n="47"/>ouum est effectus galline. Si dicas gallina 
+          preces<lb ed="#C" n="48" break="no"/>sit ouum.
+        </p>
+        <p xml:id="jb2v19-d02374-d1e533">
+          ¶ Contra: sequitur idem 
+          inconueni<lb ed="#C" n="49" break="no"/>ens: quia gallina est effectus oui ex quo genita 
+          <lb ed="#C" n="50"/>est.
+        </p>
+        <p xml:id="jb2v19-d02374-d1e540">
+          ¶ Respondetur: aliquorum effectuum causa 
+          so<lb ed="#C" n="51" break="no"/>lum praecedit effectum suum natura et non tempore vel 
+          <lb ed="#C" n="52"/>instanti: vt totus mundus deum in casu 
+          conclusio<lb ed="#C" n="53" break="no"/>nis nostre: et hoc Aristoteles concessisset de lumine 
+          <lb ed="#C" n="54"/>solis in vna parte sui orbis: inter quam et corpus 
+          <lb ed="#C" n="55"/>solis numquam cadit corpus opacum ad causandam 
+          vm<lb ed="#C" n="56" break="no"/>bram. Aliquorum effectuum causa precessit effectum 
+          <lb ed="#C" n="57"/>duratione: vt in argumento assumpto de gallina 
+          <lb ed="#C" n="58"/>et ouo tenendo efficientiam naturalem matris ad 
+          <lb ed="#C" n="59"/>tetum. Alicuius oui gallina est vel fuit causa. Et 
+          <lb ed="#C" n="60"/>eiusdem galline ouum fuit causa: et illius oui gal¬
+          <cb ed="#P" n="b"/>
+          <lb ed="#C" n="61"/>lina fuit causa. Unde iste propositiones 
+          conceden<lb ed="#C" n="62" break="no"/>de argumentum sufficienter eluunt. Quamlibet 
+          gal<lb ed="#C" n="63" break="no"/>linam precessit ouum: Quodibet ouum gallina ante 
+          <lb ed="#C" n="64"/>cessit. Cuiuslibet galline ouum fuit causa: Cuiuslibet 
+          <lb ed="#C" n="65"/>oui gallina fuit causa efficiens: Nulla gallina omne 
+          <lb ed="#C" n="66"/>ouum precessit. Nullum ouum omnem gallinam 
+          <lb ed="#C" n="67"/>antecessit. sicut de hominibus: ante omnem 
+          homi<lb ed="#C" n="68" break="no"/>nem fuit homo. et nullus homo creatus precessit omnem hominem. 
+          <lb ed="#C" n="69"/>dixi creatus: quia de virtute sermonis aliquis homo 
+          <lb ed="#C" n="70"/>precessit omnem hominem. quod patet. Iste deus 
+          <lb ed="#C" n="71"/>precessit omnem hominem: demonstrando filium 
+          <lb ed="#C" n="72"/>dei. iste deus est vel fuit aliquis homo. ergo aliquis 
+          <lb ed="#C" n="73"/>homo precessit omnem hominem. Omnem 
+          homin<lb ed="#C" n="74" break="no"/>nem creatum precessit homo creatus qui non 
+          prae<lb ed="#C" n="75" break="no"/>cessit omnem hominem creatum: si relatiuum non 
+          <lb ed="#C" n="76"/>referat signum vniuersale. Sed vbi datur causa 
+          <lb ed="#C" n="77"/>eterna et effectus quilibet temporalis: illic 
+          conce<lb ed="#C" n="78" break="no"/>des cum termino stante determinate vniuersalem 
+          <lb ed="#C" n="79"/>precessionem. Exemplum: sol precessit omnem 
+          homi<lb ed="#C" n="80" break="no"/>nem: deus praecessit omnem hominem: Omnem 
+          sub<lb ed="#C" n="81" break="no"/>stantiam ab sole genitam iste sol precessit. Sol 
+          preces<lb ed="#C" n="82" break="no"/>sit omnem hominem. licet christus sit incarnatus ex 
+          <lb ed="#C" n="83"/>tempore: non impeditur veritas illius.
+        </p>
+        <p xml:id="jb2v19-d02374-d1e616">
+          ¶ Et si 
+          di<lb ed="#C" n="84" break="no"/>cas: Sol omnem hominem precessit: ergo sol 
+          om<lb ed="#C" n="85" break="no"/>nes homines precessit. et per consequens non 
+          per<lb ed="#C" n="86" break="no"/>petuo erant homines contra casum conclusionis 
+        </p>
+        <p xml:id="jb2v19-d02374-d1e626">
+          <lb ed="#C" n="87"/>¶ Respondetur: consequentia est nulla 
+          qualitercun<lb ed="#C" n="88" break="no"/>que capiatur signum omnes: siue collectiue sicut potest 
+          <lb ed="#C" n="89"/>in plurali numero: siue diuisiue et distributiue. sol 
+          <lb ed="#C" n="90"/>non precessit omnes homines collectiue: quia tunc 
+          <lb ed="#C" n="91"/>sol totam multitudinem hominum precessisset. et 
+          <lb ed="#C" n="92"/>cum illa est falsa capiendo omnes collectiue: illa 
+          <lb ed="#C" n="93"/>erit falia sol precessit omnes homines: capiendo 
+          <lb ed="#C" n="94"/>omnes distributiue. ratio: habebit vnam 
+          singu<lb ed="#C" n="95" break="no"/>larem falsam descendendo copulatiue demonstram 
+          <lb ed="#C" n="96"/>do totam multitudinem. Sed concedo istas: istos 
+          <lb ed="#C" n="97"/>homines precessit iste sol demonsitrando sortem et 
+          <lb ed="#C" n="98"/>platonem genitos hodie et heri. et istes iste 
+          pre<lb ed="#C" n="99" break="no"/>cessit sol. demonstrando tres: et sic de 
+          quibuscun<lb ed="#C" n="100" break="no"/>que finitis hominibus ascendendo demonstratis. 
+          <lb ed="#C" n="101"/>Ex his potest solui argumentum quod totus mundus 
+          <lb ed="#C" n="102"/>non potest produci ex materia. hoc est falsum: si 
+          <lb ed="#C" n="103"/>sit solum prioritas nature materie ad suam formam 
+          <lb ed="#C" n="104"/>et totum compositum. Ulterius patet: Nulla est 
+          <lb ed="#C" n="105"/>vis in ratione hec Henrici Gaudem. creatura habet 
+          <lb ed="#C" n="106"/>non ess ante esse: quia ex se habet non esse. in primis 
+          assu<lb ed="#C" n="107" break="no"/>mit falsum proprie loquendo / quod creatura ex se habet 
+          <lb ed="#C" n="108"/>non esse illa enim implicat hanc falsam. Creatura 
+          <lb ed="#C" n="109"/>ex se est non ens. deberet dicere creatura ex se non 
+          <lb ed="#C" n="110"/>habet esse: et hoc est vertm. Creatura capit esse et 
+          <lb ed="#C" n="111"/>existentiam a producente: et non a seipsa. Sed ad 
+          <lb ed="#C" n="112"/>intentionem eius dico non est necessarium quod non 
+          <lb ed="#C" n="113"/>esse praecedat esse: cum per conclusionem et eius 
+          probatio<lb ed="#C" n="114" break="no"/>nem potest perpetuo habere esse creatura parmanens 
+        </p>
+        <p xml:id="jb2v19-d02374-d1e689">
+          <lb ed="#C" n="115"/>¶ Tertio arguitur: implicat sortem vel brunellum 
+          <lb ed="#C" n="116"/>tuisse ab eterno: et quod generassent cum seminis sue 
+          <lb ed="#C" n="117"/>speciei sicut modo generant: et tamen asinis et homines 
+          <lb ed="#C" n="118"/>sunt entia permanentia: ergo conclusio falsa. 
+          Assum<lb ed="#C" n="119" break="no"/>ptum patet. vel omnes geniti a sorte et brunello 
+          <lb ed="#C" n="120"/>ad hunc diem sunt finiti aut infiniti. Si primum:
+          <pb ed="#V" n="6-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#C" n="1"/>Totum tempus ab illo ad hunc diem est finitum. 
+          <lb ed="#C" n="2"/>Si secundum: ergo positis extremis possit esse infinitum 
+          <lb ed="#C" n="3"/>in actu.
+        </p>
+        <p xml:id="jb2v19-d02374-d1e715">
+          ¶ Respondetur: hoc argumentum non 
+          con<lb ed="#C" n="4" break="no"/>cludit. licet ille casus non stet cum conclusione: tamen 
+          <lb ed="#C" n="5"/>sufficit quod deus poterat fecisse tam brunellum quod 
+          sor<lb ed="#C" n="6" break="no"/>tem ab eterno absque isto modo generandi. 
+          Secun<lb ed="#C" n="7" break="no"/>do dico: poterant stetisse cum suis feminis infinito 
+          <lb ed="#C" n="8"/>tempore antequam generassent: et tunc essent finiti homines 
+          <lb ed="#C" n="9"/>vel asini geniti: et totum tempus generationis ad 
+          <lb ed="#C" n="10"/>diem hunc esset solum finitum. Tertio dico: 
+          pote<lb ed="#C" n="11" break="no"/>rant esse infiniti homines vel asini geniti: et non 
+          fuis<lb ed="#C" n="12" break="no"/>set aliquis primogenitus bene autem vltimo genitus 
+          <lb ed="#C" n="13"/>Tunc concedendum est quod quilibet asinus praeteritus 
+          fi<lb ed="#C" n="14" break="no"/>nite distabat ab hoc asino genito: et nullus 
+          asin<lb ed="#C" n="15" break="no"/>distabat per infinitum tempus ab isto asino vltimo 
+          produ<lb ed="#C" n="16" break="no"/>cto. Sed per infinitum tempus distabat aliquis 
+          asi<lb ed="#C" n="17" break="no"/>nus ab isto asino producto. Nec ex illo sequitur quod 
+          <lb ed="#C" n="18"/>detur primus asinus. nosti hic esse fallaciam figure 
+          <lb ed="#C" n="19"/>dictionis: omni asino dabatur asinus prior ergo 
+          daba<lb ed="#C" n="20" break="no"/>tur asinus omni asino dato prior: nec est 
+          inconue<lb ed="#C" n="21" break="no"/>niens quod inter duo extrema creentur infiniti 
+          homi<lb ed="#C" n="22" break="no"/>nes vel asinis intermedii: quando vni extremo siue 
+          in<lb ed="#C" n="23" break="no"/>ceptionem virsus siue finem versus non datur 
+          proxi<lb ed="#C" n="24" break="no"/>mus: vt in casu argumenti. exemplum in simili. dico si 
+          <lb ed="#C" n="25"/>deus in qualibet parte proportionabili vnius hore 
+          <lb ed="#C" n="26"/>crearet vnum hominem: tunc inter vltimum 
+          in<lb ed="#C" n="27" break="no"/>stans non esse illius hore et primum non esse eiusdem 
+          <lb ed="#C" n="28"/>dantur infiniti homines intermedii creati: et licet sit 
+          ali<lb ed="#C" n="29" break="no"/>quis primo creatus in illa hora: nullus est tamen 
+          <lb ed="#C" n="30"/>vltimo creatus in illa hora: quemadmodum non 
+          <lb ed="#C" n="31"/>est dabilis vltimis pars proportionabilis hore. et 
+          po<lb ed="#C" n="32" break="no"/>namus quod sortes fuerit creatus in vltimo instanti non 
+          <lb ed="#C" n="33"/>esse illius hore: et plato in primo instanti non esse illius 
+          <lb ed="#C" n="34"/>hore cum casu premisso. Tunc inter sortem et 
+          pla<lb ed="#C" n="35" break="no"/>tonem sunt infiniti homines creati: et nullus proximo 
+          <lb ed="#C" n="36"/>creatus ipsi platoni: bene autem proximo creatus 
+          <lb ed="#C" n="37"/>sorti. sic est de asinis et hominibus productis in casu 
+          <lb ed="#C" n="38"/>ponendo quod quilibet asinus stetisset in vtero femine 
+          <lb ed="#C" n="39"/>sicut modo stat fetus et non amplius: sed tunc deus 
+          spe<lb ed="#C" n="40" break="no"/>cialiter conseruasset istos homines et istos asinos 
+          <lb ed="#C" n="41"/>in casu generationis. sicut quando ponit aliquid 
+          spe<lb ed="#C" n="42" break="no"/>ciale in antecedente: oportet ponere idem in omni 
+          <lb ed="#C" n="43"/>consequente ad illud antecedens. vt si deus producat 
+          <lb ed="#C" n="44"/>hominem ab eterno: oportet conseruare eum a 
+          <lb ed="#C" n="45"/>corruptione intrinseca et extrinseca contrariorum 
+          <lb ed="#C" n="46"/>per tempus infinitum. Ex hac solutione sequitur: 
+          in<lb ed="#C" n="47" break="no"/>ter platonem nunc vltimo creatum in instanti 
+          ex<lb ed="#C" n="48" break="no"/>trinseco hore et quemlibet alium hominem in 
+          ho<lb ed="#C" n="49" break="no"/>ra productum mediant infiniti homines. et 
+          quocum<lb ed="#C" n="50" break="no"/>que homine creato propinque platoni: datur vnus 
+          <lb ed="#C" n="51"/>propinquior eidem. Sed dicis: asini isti vel 
+          homi<lb ed="#C" n="52" break="no"/>nes de quibus est sermo in principio argumenti non 
+          <lb ed="#C" n="53"/>erant successiui. sed omnes simul. patet. quilibet 
+          a<lb ed="#C" n="54" break="no"/>sinus preteritus fuit praesens. ergo interdum verum 
+          <lb ed="#C" n="55"/>erat dicere de presenti. Quilibet asinus preteritus 
+          <lb ed="#C" n="56"/>est praesens.
+        </p>
+        <p xml:id="jb2v19-d02374-d1e832">
+          ¶ Respondetur: ponis hoc contra casum 
+          <lb ed="#C" n="57"/>Secundo solum adducis sophisma puerorum illa 
+          <lb ed="#C" n="58"/>vniuersalis est vera: patet per ascensum sub termino 
+          <lb ed="#C" n="59"/>distributo asinus praeteritus: sed non debet poni inesse per 
+          <lb ed="#C" n="60"/>vniuersalem vt ex logica nosti / sed per singulares inconiun¬
+          <cb ed="#P" n="b"/>
+          <lb ed="#C" n="61"/>ctim insumptas.
+        </p>
+        <p xml:id="jb2v19-d02374-d1e848">
+          ¶ Quarto arguitur: deus non potest 
+          <lb ed="#C" n="62"/>producere vnum graue simplex ab eterno puta 
+          gle<lb ed="#C" n="63" break="no"/>bam terre in aere relinquendo ipsum sue nature ad 
+          de<lb ed="#C" n="64" break="no"/>scensum: ergo non potest ens permanens producere ab 
+          <lb ed="#C" n="65"/>eterno nec mundum. antecedens patet: vel illa 
+          gle<lb ed="#C" n="66" break="no"/>ba stetit ab eterno in aere: et tunc non erat relicta 
+          sue<lb ed="#C" n="67" break="no"/>nature contra hypothesim Si per tempus finitum: 
+          <lb ed="#C" n="68"/>tunc prius fuit in aere productus quam prope terram. 
+          <lb ed="#C" n="69"/>et stetit solum per tempus finitum in aere. Et inter 
+          <lb ed="#C" n="70"/>illud tempus et tempus descensus non est tempus 
+          <lb ed="#C" n="71"/>infinitum. Nec post descensum eius tempus infinitum: 
+          <lb ed="#C" n="72"/>ergo non durauit per tempus infinitum contra casum. 
+        </p>
+        <p xml:id="jb2v19-d02374-d1e874">
+          <lb ed="#C" n="73"/>¶ Respondetur: quocumque graui dato deus potest 
+          <lb ed="#C" n="74"/>illud producere ab eterno: sed casus includit 
+          repu<lb ed="#C" n="75" break="no"/>gnantia. quia si deus produxisset glebam terre ab 
+          e<lb ed="#C" n="76" break="no"/>terno in aere: oportuit illam glebam conseruari in 
+          <lb ed="#C" n="77"/>eodem loco manutenentia speciali per certum 
+          tem<lb ed="#C" n="78" break="no"/>pus: ergo contradictio est quod deus produxisset 
+          gle<lb ed="#C" n="79" break="no"/>bam terre ab eterno in aere extra locum suum 
+          na<lb ed="#C" n="80" break="no"/>turalem: et quod ab eterno mota sit illa gleba ad 
+          cen<lb ed="#C" n="81" break="no"/>trum.
+        </p>
+        <p xml:id="jb2v19-d02374-d1e897">
+          ¶ Quinto arguitur. Si deus produxit 
+          ali<lb ed="#C" n="82" break="no"/>quid ab eterno: est necessitatus conseruare illud 
+          <lb ed="#C" n="83"/>per tempus infinitum: quod est inconueniens. Et 
+          pro<lb ed="#C" n="84" break="no"/>batur esse falsum. per nullum tempus infinitum deus 
+          <lb ed="#C" n="85"/>est necessitatus conseruare rem illam. non per hunc 
+          di<lb ed="#C" n="86" break="no"/>em: nec per diem preteritum: non per anum praeteritum: et 
+          <lb ed="#C" n="87"/>sic de quocumque alio tempore finito dato: igitur: consequentia patet 
+          <lb ed="#C" n="88"/>da a. quod erat ab eterno: et deus non erat 
+          necessi<lb ed="#C" n="89" break="no"/>tatus conseruare a. per tempus infinitum: tunc 
+          conser<lb ed="#C" n="90" break="no"/>uet per tempus solum finitum: et sic non fuit ab 
+          e<lb ed="#C" n="91" break="no"/>terno.
+        </p>
+        <p xml:id="jb2v19-d02374-d1e921">
+          ¶ Ad quintum dico: quod deus est necessitatus 
+          ne<lb ed="#C" n="92" break="no"/>cessitate consequentie conseruare a. per tempus infinitum: 
+          <lb ed="#C" n="93"/>cum ipsum est eternum. non autem necessitate 
+          consequen<lb ed="#C" n="94" break="no"/>tis. et quando probas: non est necessarium conseruare 
+          <lb ed="#C" n="95"/>a. per hunc diem: nec per diem praeteritum: et sic de 
+          quo<lb ed="#C" n="96" break="no"/>cumque tempore finito. solum probas non esse 
+          neces<lb ed="#C" n="97" break="no"/>sarium necessitate consequentis. hec conditionalis 
+          so<lb ed="#C" n="98" break="no"/>lum est necessaria. Si deus producat. a. ab eterno: 
+          <lb ed="#C" n="99"/>a. est per tempus infinitum: quemadmodum si a. 
+          <lb ed="#C" n="100"/>est album de necessitate habet determinatum 
+          gra<lb ed="#C" n="101" break="no"/>dum albedinis: et nullum gradum albedinis de 
+          <lb ed="#C" n="102"/>necessitate habet. Nec ascensus et descensus 
+          va<lb ed="#C" n="103" break="no"/>let in conditionali et consequentiis: Nisi nouum 
+          fin<lb ed="#C" n="104" break="no"/>gendo et quintum pedem in ariete querendo. et est 
+          si<lb ed="#C" n="105" break="no"/>mile. Necesse est si sortes currit sortes mouetur. 
+          <lb ed="#C" n="106"/>argumentum illud potest adduci contra aduersarios 
+          pau<lb ed="#C" n="107" break="no"/>lo mutatis terminis: puta de non esse ab 
+          eter<lb ed="#C" n="108" break="no"/>no Si antechristus non fuit ab eterno non esse fuit 
+          <lb ed="#C" n="109"/>per tempus infinitum.
+        </p>
+        <p xml:id="jb2v19-d02374-d1e963">
+          ¶ Sexto arguit: Omne quod est 
+          quan<lb ed="#C" n="110" break="no"/>do est de necessitate est: primo peryharmenias. ergo si 
+          <lb ed="#C" n="111"/>mundus est ab eterno vel asinus: de necessitate est. et 
+          <lb ed="#C" n="112"/>sic deus produxit aliquid ad extra de necessitate: quod 
+          <lb ed="#C" n="113"/>non est dicendum.
+        </p>
+        <p xml:id="jb2v19-d02374-d1e974">
+          ¶ Respondetur: contigens est 
+          contin<lb ed="#C" n="114" break="no"/>gens in instantis vel tempore qui est. non sequitur in hoc instanti 
+          <lb ed="#C" n="115"/>mundus potest non esse: ergo in hoc instanti mundus non 
+          <lb ed="#C" n="116"/>est. stet ergo oppositum consequentis cum 
+          anteceden<lb ed="#C" n="117" break="no"/>te: quod mundus potest non esse in hoc instantis et in hoc 
+          in<lb ed="#C" n="118" break="no"/>stanti mundus est. Eternitas mundi non facit quod 
+          mun<lb ed="#C" n="119" break="no"/>dus de necessitate est. patet. Sortes est 
+          predesti<lb ed="#C" n="120" break="no"/>natus ab eterno: et non propterea de necessitate: sed so¬
+          <pb ed="#V" n="6-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#C" n="1"/>lum contigenter: sic est de existentia mundi. posito casu 
+          con<lb ed="#C" n="2" break="no"/>clusionis nostre. Et licet Henricus nititur dare 
+          discri<lb ed="#C" n="3" break="no"/>men nullum dare potest in rei veritate. ab eterno sortes 
+          <lb ed="#C" n="4"/>est predestinatus siue ponatur in rerum natura siue non: 
+          <lb ed="#C" n="5"/>et tamen contingenter est. ergo mundum produci ab eterno 
+          <lb ed="#C" n="6"/>non arguit non contingentiam mundi. Propositio 
+          Aristo<lb ed="#C" n="7" break="no"/>telis est vera in sensu composito. Necesse est Omne 
+          <lb ed="#C" n="8"/>quod est quando est: c. bene sequitur: deus est ergo aliquid 
+          <lb ed="#C" n="9"/>quando est est. ergo omne quod est quando est: est. primum 
+          antece<lb ed="#C" n="10" break="no"/>dens est necessarium in secunda consequentia arguitur 
+          <lb ed="#C" n="11"/>ab inferiori ad superius sine errore. et primum 
+          conse<lb ed="#C" n="12" break="no"/>quens equiualet vltimo consequenti. Sunt 
+          particula<lb ed="#C" n="13" break="no"/>ris et vniuersalis in materia naturali vltra omnes 
+          <lb ed="#C" n="14"/>instantias illa propositio Aristotelis est falsa in 
+          sen<lb ed="#C" n="15" break="no"/>su diuiso.
+        </p>
+        <p xml:id="jb2v19-d02374-d1e1029">
+          ¶ Contra illud arguitur. et est septimum 
+          ar<lb ed="#C" n="16" break="no"/>gumentum. sequitur quod mundus solum conseruatur 
+          <lb ed="#C" n="17"/>et numquam producitur. patet quocumque instanti dato in quo 
+          <lb ed="#C" n="18"/>est verum dicere. a. est. prius fuit: ergo solum 
+          conser<lb ed="#C" n="19" break="no"/>uatur.
+        </p>
+        <p xml:id="jb2v19-d02374-d1e1040">
+          ¶ Octauo arguitur. Si a. creatura producitur 
+          <lb ed="#C" n="20"/>ab eterno: vel in quolibet instanti quo est producitur: 
+          <lb ed="#C" n="21"/>et hoc non: quia tunc aliquid producitur post quam est 
+          pro<lb ed="#C" n="22" break="no"/>ductum: et sic sortes adultus continuo producitur. nec 
+          <lb ed="#C" n="23"/>potes dicere in aliquo instanti producitur et in 
+          ali<lb ed="#C" n="24" break="no"/>quo non producitur / quia rationem assignere 
+          ne<lb ed="#C" n="25" break="no"/>quis.
+        </p>
+        <p xml:id="jb2v19-d02374-d1e1057">
+          ¶ Ad septimum dicitur quod conseruatio et 
+          pro<lb ed="#C" n="26" break="no"/>ductio ex parte cause non distinguuntur: Nec ex parte 
+          <lb ed="#C" n="27"/>effectus. Sed de hoc inferius in hac distinctione. 
+        </p>
+        <p xml:id="jb2v19-d02374-d1e1064">
+          <lb ed="#C" n="28"/>¶ Ad octauum. Respondetur sicut in primo de 
+          pro<lb ed="#C" n="29" break="no"/>ductione fillii dei qui ab eterno producitur: et est 
+          ea<lb ed="#C" n="30" break="no"/>dem questio de lumine solis producto in parte sui 
+          <lb ed="#C" n="31"/>orbis prope solem. et dico quod continuo producitur 
+          <lb ed="#C" n="32"/>et causatur. Nec propterea est successiuum: quia in 
+          suc<lb ed="#C" n="33" break="no"/>cessiuo semper sunt alie partes. hic est duratio 
+          e<lb ed="#C" n="34" break="no"/>iusdem.
+        </p>
+        <p xml:id="jb2v19-d02374-d1e1082">
+          ¶ Nono arguitur. Non est possibilis impressio 
+          <lb ed="#C" n="35"/>pedis in puluere quin motus causans vestigium 
+          <lb ed="#C" n="36"/>precessisset illud vestigium. ergo probatio ex 
+          Augu<lb ed="#C" n="37" break="no"/>stino adducta fuit nulla.
+        </p>
+        <p xml:id="jb2v19-d02374-d1e1091">
+          ¶ Respondetur vestigium 
+          com<lb ed="#C" n="38" break="no"/>muniter causatum in pulueribus successiue fit et 
+          impres<lb ed="#C" n="39" break="no"/>sio et motus vestigium precedit. potest tamen pes a 
+          <lb ed="#C" n="40"/>deo subito imprimi: ita quod sit prioritas naturalis 
+          <lb ed="#C" n="41"/>inter pedem vel pedis applicationem et vestigium 
+          <lb ed="#C" n="42"/>Notum est quod deus potest facere similem 
+          concauita<lb ed="#C" n="43" break="no"/>tem in pulueribus qualis causatur a pede impresso. 
+          <lb ed="#C" n="44"/>et addo: potest producere ab eterno pedem et facere 
+          ip<lb ed="#C" n="45" break="no"/>sum facere talem concauitatem ab eterno. Ex 
+          illo<lb ed="#C" n="46" break="no"/>patet quod doctor subtilis non debuit in vestigio et 
+          pul<lb ed="#C" n="47" break="no"/>uere diffidere. dicit: secundum veritatem pedem 
+          <lb ed="#C" n="48"/>semper fuisse et causasse vestigium in puluere 
+          in<lb ed="#C" n="49" break="no"/>cludit contradictionem. et causa est inquit. quia vestigium 
+          <lb ed="#C" n="50"/>causatur per impressionem pedis in puluere per 
+          mo<lb ed="#C" n="51" break="no"/>tum localem. dico quod non oportet per motum localem. 
+          <lb ed="#C" n="52"/>sed potest fieri ab eterno sicut lumen solis a sole. deus 
+          <lb ed="#C" n="53"/>talem concauitatem poterat facere ab eterno et pes produci 
+          <lb ed="#C" n="54"/>in illa. sic poterat deus ab eterno facetur pedem fecisse talem 
+          con<lb ed="#C" n="55" break="no"/>cauitatem quam vestigium dicimus. sic imaginatus 
+          <lb ed="#C" n="56"/>est Augustinus ingeniose et bene: licet prima fronte 
+          <lb ed="#C" n="57"/>non sit facile captu
+        </p>
+        <p xml:id="jb2v19-d02374-d1e1137">
+          ¶ Decimo arguitur: oppositum 
+          <lb ed="#C" n="58"/>istius est articulus fidei: puta quod mundus factus est: ergo non potest 
+          <lb ed="#C" n="59"/>demonstrari. ymo etiam non expedit propter fideles 
+          <lb ed="#C" n="60"/>vel infideles. propter fideles: Tunc assensus creden¬
+          <cb ed="#P" n="b"/>
+          <lb ed="#C" n="61"/>di tolleretur et sic iudicium fidei. Nec conducit 
+          habe<lb ed="#C" n="62" break="no"/>re demonstrationes propter infideles / quia sic 
+          pu<lb ed="#C" n="63" break="no"/>tarent nos solum assentire propter 
+          demonstratio<lb ed="#C" n="64" break="no"/>nes: et non habere fidem. hec ratio parum valet. 
+          <lb ed="#C" n="65"/>Articulus fidei est de hac deus est: et tamen ipsa 
+          <lb ed="#C" n="66"/>demonstratur in lumine naturali: et concedo quod 
+          <lb ed="#C" n="67"/>notitia euidens et fides actus non se 
+          compatium<lb ed="#C" n="68" break="no"/>tur in eodem intellectu respectu eiusdem obiecti. et 
+          <lb ed="#C" n="69"/>licet fides esset corrupta: non perditur meritum. bonus 
+          <lb ed="#C" n="70"/>doctor est paratus assentire antequam habeatur ratio 
+          de<lb ed="#C" n="71" break="no"/>monstrans. et conducit propter alios 
+          manuducen<lb ed="#C" n="72" break="no"/>dos ad fidem demonstrationes habere: licet non 
+          me<lb ed="#C" n="73" break="no"/>reantur per illum assenssum. postea habent liberos 
+          <lb ed="#C" n="74"/>actus in voluntate et bonos. et abeunte euidentia 
+          <lb ed="#C" n="75"/>assentitur assensu fidei. non modo conducit 
+          adduce<lb ed="#C" n="76" break="no"/>re demonstrationes: sed vtiles suasiones et 
+          possi<lb ed="#C" n="77" break="no"/>bilitates cum analogiis quando putatur res 
+          diffi<lb ed="#C" n="78" break="no"/>cilis creditu ergo nec nocet rationes validas 
+          as<lb ed="#C" n="79" break="no"/>sumere tam propter fideles quam infideles.
+        </p>
+        <p xml:id="jb2v19-d02374-d1e1189">
+          ¶ 
+          Unde<lb ed="#C" n="80" break="no"/>cimo arguitur: Sortem fuisse ab eterno est 
+          propo<lb ed="#C" n="81" break="no"/>sitio de preterito falsa cuius veritas non 
+          depen<lb ed="#C" n="82" break="no"/>det ex vna de futuro contingenti. Sed ad 
+          preteri<lb ed="#C" n="83" break="no"/>tum nulla est potentia vi. physicorum. igitur.
+        </p>
+        <p xml:id="jb2v19-d02374-d1e1201">
+          ¶ 
+          Re<lb ed="#C" n="84" break="no"/>spondetur: hoc non est contra intentionem 
+          conclu<lb ed="#C" n="85" break="no"/>sionis dicentis non implicat contradictionem 
+          sor<lb ed="#C" n="86" break="no"/>tem esse vel fuisse ab eterno.
+        </p>
+        <p xml:id="jb2v19-d02374-d1e1210">
+          ¶ Duodecimo arguitur: 
+          <lb ed="#C" n="87"/>auctoritate Ambrosil in exameron dicentis. quid 
+          <lb ed="#C" n="88"/>tam inconueniens quam quod eternitas operis 
+          coniunga<lb ed="#C" n="89" break="no"/>tur eternitati dei. Et Augustinus contra felicianum 
+          <lb ed="#C" n="90"/>diffinit creaturam. Creatura est substantia facta ex 
+          <lb ed="#C" n="91"/>eo quod adhuc non est aut aliquando non fuit.
+        </p>
+        <p xml:id="jb2v19-d02374-d1e1223">
+          ¶ Ad 
+          prio<lb ed="#C" n="92" break="no"/>rem auctoritatem dico: adhuc creatura non 
+          pari<lb ed="#C" n="93" break="no"/>ficatur deo: quia ipse de necessitate est: creatura 
+          ve<lb ed="#C" n="94" break="no"/>ro contingenter est. Ad Augustinum: dicitur quod 
+          loqui<lb ed="#C" n="95" break="no"/>tur de facto: et hoc est verum: sicut modus est in 
+          scho<lb ed="#C" n="96" break="no"/>la. vt si queras: que creatura est digna vita eterna: 
+          <lb ed="#C" n="97"/>dicitur quod illa que est in gratia. sermo est de facto. 
+          Ec<lb ed="#C" n="98" break="no"/>ce licet sunt varie opiniones in hac parte tam 
+          ra<lb ed="#C" n="99" break="no"/>tiones quam auctoritates sunt pro conclusione quam 
+          <lb ed="#C" n="100"/>tenemus. In oppositum nulla est ratio ex rebus 
+          <lb ed="#C" n="101"/>permanentibus accepta. Si que difficultas 
+          acce<lb ed="#C" n="102" break="no"/>pta fuerit in argumento aliquo: illa prouenit ex 
+          ad<lb ed="#C" n="103" break="no"/>ditione incompossibilium: et a difficultate 
+          extrin<lb ed="#C" n="104" break="no"/>seca. Quare non teneo hanc materiam 
+          probleuma<lb ed="#C" n="105" break="no"/>ticam. sed conclusionem quam posui: potissimum 
+          <lb ed="#C" n="106"/>cum est sermo de dei omnipotentia que nullomodo 
+          <lb ed="#C" n="107"/>est restringenda nisi vbi docetur de opposito. et 
+          <lb ed="#C" n="108"/>cum hoc gentiles philosophi ita opinati sunt de 
+          <lb ed="#C" n="109"/>deo: non ita alte sentientes sicut fideles: quare 
+          fi<lb ed="#C" n="110" break="no"/>delis non habet hanc viam negare. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

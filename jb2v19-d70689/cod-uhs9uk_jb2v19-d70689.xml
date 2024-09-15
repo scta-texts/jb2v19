@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="118-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d70689"><!-- l2d26q1 -->
+            <head xml:id="jb2v19-d70689-Hd1e101">Quaestio 1</head>
+            <head xml:id="jb2v19-d70689-Hd1e103" type="question-title">An  gratia cooperans et operans cum caritate eadem sit in essentia animae vel in eius potentia</head>
+            <p xml:id="jb2v19-d70689-d1e106">
+               <lb ed="#C" n="48"/>IN hac distinctione 26 in qua 
+      <lb ed="#C" n="49"/>magister loquitur de gratia 
+      operan<lb ed="#C" n="50" break="no"/>te et cooperante tria inquiram. 
+      <lb ed="#C" n="51"/>primo an gratia cooporerans et 
+      <lb ed="#C" n="52"/>operans cum charitate eadem 
+      <lb ed="#C" n="53"/>sit in essentia anime vel in eius 
+      <lb ed="#C" n="54"/>potentia. Secundo vtrum 
+      quili<lb ed="#C" n="55" break="no"/>bet actus a gratia elicitus sit 
+      vi<lb ed="#C" n="56" break="no"/>te eterne meritorius. Tertio vtrum actus 
+      merito<lb ed="#C" n="57" break="no"/>rius et non meritorius sint eiusdem speciei specialissime 
+      <lb ed="#C" n="58"/>entitatiue.
+   </p>
+            <p xml:id="jb2v19-d70689-d1e132">
+      ¶ Pro prime questionis elucidatione 
+      <lb ed="#C" n="59"/>scito triphariam in genere capitur terminus gratia. 
+      pri<lb ed="#C" n="60" break="no"/>mo latissime pro omni dono a deo gratis dato
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>hoc est sine debito. et sic diuiditur in gratam creatam 
+      <lb ed="#C" n="62"/>et in gratam icreata gratia increata est spiritus sanctus: qui rationali 
+      <lb ed="#C" n="63"/>creatura datur in eius sanctificatione: secundum illud roma. 5. 
+      <lb ed="#C" n="64"/>Charitas diffusa est in cordibus nostris per scilicet 
+      <lb ed="#C" n="65"/>qui datus est nobis. hoc modo quelibet creatura est 
+      <lb ed="#C" n="66"/>gratia: quia res a deo gratis producta. secundum illud I. Cori. 
+      <lb ed="#C" n="67"/>4. quid habes quod non accepisti: et I Cori. 15. gratia 
+      <lb ed="#C" n="68"/>dei sum id quod sum.
+   </p>
+            <p xml:id="jb2v19-d70689-d1e158">
+      ¶ Secundo modo late gratia 
+      acci<lb ed="#C" n="69" break="no"/>pitur pro aliquo dono nature superaddito siue 
+      na<lb ed="#C" n="70" break="no"/>turam cosequatur generaliter siue hanc naturam 
+      spe<lb ed="#C" n="71" break="no"/>cialiter. Ioanis. 3 non potest accipere homo quicqua nisi 
+      <lb ed="#C" n="72"/>datum ei fuerit de celo: et in quotidiano sermone 
+      <lb ed="#C" n="73"/>dicimus prudentes / ingeniosos / magnam gratiam a 
+      <lb ed="#C" n="74"/>deo accepisse et reges dicunt. karolus dei gratia 
+      fran<lb ed="#C" n="75" break="no"/>corum rex.
+   </p>
+            <p xml:id="jb2v19-d70689-d1e177">
+      ¶ Tertio modo capitur stricte pro dono 
+      <lb ed="#C" n="76"/>supernaturali accepto: et sic diuiditur in gratiam 
+      gra<lb ed="#C" n="77" break="no"/>tis datam. et gratiam gratum facientem. Gratia gratis 
+      <lb ed="#C" n="78"/>data datur in vtilitatem illius cui confertur et 
+      alio<lb ed="#C" n="79" break="no"/>rum quantum est ex parte eius. homo tamen cum est liber 
+      <lb ed="#C" n="80"/>potest illa abuti. exemplum: prime ad Cori . 12. 
+      Diui<lb ed="#C" n="81" break="no"/>siones gratiarum sunt: vnus autem spiritus. et sequitur 
+      <lb ed="#C" n="82"/>quarundam gratiarum specificatio: sermo sapientie 
+      <lb ed="#C" n="83"/>sermo scientie / fides / gratia sanitatum / operatio 
+      vir<lb ed="#C" n="84" break="no"/>tutum / prophetia / discretio spirituum / genera 
+      lingua<lb ed="#C" n="85" break="no"/>rum /  interpretatio sermonum hec omnia operatur 
+      <lb ed="#C" n="86"/>vnus atque idem spiritus diuidens singulis prout vult 
+   </p>
+            <p xml:id="jb2v19-d70689-d1e203">
+               <lb ed="#C" n="87"/>¶ Gratia gratum faciens / est quedam qualitas 
+      ratio<lb ed="#C" n="88" break="no"/>nali creature a deo creata per quam creatura est 
+      <lb ed="#C" n="89"/>deo grata: et est vestis nuptialis sine quaa non 
+      ve<lb ed="#C" n="90" break="no"/>nitur ad nupertiarum conuiuum et ratione illus dicit 
+      gra<lb ed="#C" n="91" break="no"/>tia operans: hoc est voluntatem disponens que est 
+      <lb ed="#C" n="92"/>in paruulo baptisato ante quod vtatur ratione. 
+      nomina<lb ed="#C" n="93" break="no"/>liter capitur ly operans eadem gratia dicitur 
+      coope<lb ed="#C" n="94" break="no"/>rans propter aliam causam: pro quanto effectiue 
+      <lb ed="#C" n="95"/>ad actum meritorium concurrit: vt in. 17. 
+      distin<lb ed="#C" n="96" break="no"/>ctione primi latius deduximus.
+   </p>
+            <p xml:id="jb2v19-d70689-d1e227">
+      ¶ Quo fit 
+      nul<lb ed="#C" n="97" break="no"/>lum est discrimen reale inter gratiam 
+      operan<lb ed="#C" n="98" break="no"/>tem et coopereratem. magister hinc inde in littera 
+      <lb ed="#C" n="99"/>dubitationem facit an sit eadem gratia operans 
+      <lb ed="#C" n="100"/>et cooperans: sed non loquitur de gratia hoc 
+      mo<lb ed="#C" n="101" break="no"/>do: ipse non ponit aliam gratiam ab increata: sed 
+      <lb ed="#C" n="102"/>hoc quod dixi / verum etiam habet de gratia creata et 
+      <lb ed="#C" n="103"/>de gratia increata proportionabiliter deus dicitur 
+      ope<lb ed="#C" n="104" break="no"/>rans / preueniens concursum libertatis: et cooperans 
+      <lb ed="#C" n="105"/>concurrens in continuatione actus cum ipsa voluntate 
+      <lb ed="#C" n="106"/>vt videbitur post hac distinctione 28.
+   </p>
+            <p xml:id="jb2v19-d70689-d1e251">
+      ¶ Istis 
+      pre<lb ed="#C" n="107" break="no"/>missis pono tres conclusiones: quarum prior est. idem 
+      <lb ed="#C" n="108"/>est gratia et charitas.
+   </p>
+            <p xml:id="jb2v19-d70689-d1e258">
+      ¶ Secunda conclusio. charitas  
+      <lb ed="#C" n="109"/>est tam in essentia anime quam in eius potentiis 
+      imme<lb ed="#C" n="110" break="no"/>diate.
+   </p>
+            <p xml:id="jb2v19-d70689-d1e265">
+      ¶ Tertia conclusio. gratia potissimum est in 
+      vo<lb ed="#C" n="111" break="no"/>luntate et ei primo inheret.
+   </p>
+            <p xml:id="jb2v19-d70689-d1e271">
+      ¶ Prima conclusio probatur. da 
+      <lb ed="#C" n="112"/>oppositum: non sunt idem realiter: et vna non est pars 
+      <lb ed="#C" n="113"/>alterius nec deus. ergo deus potest vnam annichilare 
+      <lb ed="#C" n="114"/>altera conseruata. et sic aliquis erit deo charus et 
+      <lb ed="#C" n="115"/>non gratus: vel econuerso quod non est dicendum
+   </p>
+            <p xml:id="jb2v19-d70689-d1e282">
+      ¶ 
+      Se<lb ed="#C" n="116" break="no"/>cundo arguitur ad idem omnis proprietas conueniens 
+      chari<lb ed="#C" n="117" break="no"/>tati gratiae conuenit et econuerso. gratia est donum 
+      excellen<lb ed="#C" n="118" break="no"/>tissimum secundum apostolum prime ad Corin. 13 et sic est 
+      cha<lb ed="#C" n="119" break="no"/>ritas secundum Augu. in sermone de laude charitatis 
+      <lb ed="#C" n="120"/>charitas diuidit inter filios regni et perditionis
+      <pb ed="#V" n="119-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>
+               <ref xml:id="jb2v19-d70689-Rd1e301">15 de trinitate. c. 18.</ref> sic facit gratia. vtraque est vestis 
+      <lb ed="#C" n="2"/>nuptialis. vtraque est forma virtutum: et neutra 
+      po<lb ed="#C" n="3" break="no"/>test esse informis.
+   </p>
+            <p xml:id="jb2v19-d70689-d1e308">
+      ¶ Tertio arguitur. non est peten¬- 
+      <lb ed="#C" n="4"/>da pluralitas vbi paucitas sufficit: primo phisicorum 
+      <lb ed="#C" n="5"/>sed omnia bene saluatur nullam ponendo distinctionem 
+      <lb ed="#C" n="6"/>inter charitatem et gratiam: igitur.
+   </p>
+            <p xml:id="jb2v19-d70689-d1e317">
+      ¶ Secunda 
+      conclusio<lb ed="#C" n="7" break="no"/>probatur. eadem res numero est essentia anime et 
+      <lb ed="#C" n="8"/>eius potentia et econuerso.
+   </p>
+            <p xml:id="jb2v19-d70689-d1e324">
+      ¶ Tertia conclusio 
+      pro<lb ed="#C" n="9" break="no"/>batur. actus meritorius proxima dispositio ad 
+      <lb ed="#C" n="10"/>gratiam est in voluntate. ergo gratia ad quam 
+      dispo<lb ed="#C" n="11" break="no"/>nit est in voluntate. Preterea arguitur ad idem. 
+      beati<lb ed="#C" n="12" break="no"/>tudo est in potentiis anime: et non in essentia. et 
+      ra<lb ed="#C" n="13" break="no"/>tione potentiarum redundat in essentiam: et non 
+      econ<lb ed="#C" n="14" break="no"/>uerso. probatio. da oppositum: cum essentia anime 
+      <lb ed="#C" n="15"/>nuda non ponit aliquem actum: sed hoc ad poten- 
+      <lb ed="#C" n="16"/>tias animae spectat: anima erit beata sine actu: quod non 
+      <lb ed="#C" n="17"/>est dicendum: cum potentia non coniungitur obiecto 
+      <lb ed="#C" n="18"/>beatifico optime sine suo actu. Amplius. peccatum 
+      <lb ed="#C" n="19"/>est in voluntate. ergo gratia ei opposita de lege. 
+      <lb ed="#C" n="20"/>consequentia tenet contrarie opposita vel 
+      priuati<lb ed="#C" n="21" break="no"/>ue opposita sunt in eodem subiecto.
+   </p>
+            <p xml:id="jb2v19-d70689-d1e355">
+      ¶ Contra ista 
+      <lb ed="#C" n="22"/>simul arguitur sic. gratia est in anima continue in 
+      ac<lb ed="#C" n="23" break="no"/>tu gratificandi. sed nulla potentia est continuo in 
+      <lb ed="#C" n="24"/>suo actu. ergo gratia non est in essentia animae 
+      median<lb ed="#C" n="25" break="no"/>te potentia.
+   </p>
+            <p xml:id="jb2v19-d70689-d1e367">
+      ¶ Secundo arguitur. prius ordine 
+      na<lb ed="#C" n="26" break="no"/>ture essentia anime exit a deo quam potentia. igitur 
+      <lb ed="#C" n="27"/>prius redit in deum. tenet consequentia per 
+      diony<lb ed="#C" n="28" break="no"/>sium libro celestis hierarchie: res reducuntur ir 
+      <lb ed="#C" n="29"/>deum eo modo quo exeunt a deo. ergo gratia et 
+      <lb ed="#C" n="30"/>beatitudo prius est in essentia. et ex consequenti 
+      <lb ed="#C" n="31"/>redundat in potentias.
+   </p>
+            <p xml:id="jb2v19-d70689-d1e383">
+      ¶ Tertio arguitur. forma 
+      <lb ed="#C" n="32"/>determinans ad agendum magis debet esse in 
+      prin<lb ed="#C" n="33" break="no"/>cipali agente quam in instrumento. voluntas est 
+      instru<lb ed="#C" n="34" break="no"/>mentum anime: et gratia determinat ad meritorie 
+      <lb ed="#C" n="35"/>operandum.
+   </p>
+            <p xml:id="jb2v19-d70689-d1e394">
+      ¶ Quarto: essentia anime est indetermina 
+      <lb ed="#C" n="36"/>tior quam potentia. ergo magis indiget determinari 
+      <lb ed="#C" n="37"/>quam potentia. sed determinatur ad vnum per gratiam scilicet 
+      <lb ed="#C" n="38"/>ad meritorie diligendum: igitur.
+   </p>
+            <p xml:id="jb2v19-d70689-d1e403">
+      ¶ Ad primum 
+      re<lb ed="#C" n="39" break="no"/>spondetur: consequentia est nulla. formaliter gratia 
+      <lb ed="#C" n="40"/>gratificat habentem siue dormiat siue vigilet. 
+   </p>
+            <p xml:id="jb2v19-d70689-d1e410">
+               <lb ed="#C" n="41"/>¶ Ad secundum dicitur: nulla est prioritas temporis vel 
+      <lb ed="#C" n="42"/>instantis essentie ad potentias cum quibus 
+      reali<lb ed="#C" n="43" break="no"/>ter idemptificatur et sic essentia non prius exit a deo 
+      <lb ed="#C" n="44"/>quam potentia. sed admissa prioritate nature: non 
+      sequi<lb ed="#C" n="45" break="no"/>tur quod propterea prius ordine nature inheret 
+      es<lb ed="#C" n="46" break="no"/>sentie quam potentie: ymmo ediuerso: quemadmodum 
+      <lb ed="#C" n="47"/>dilectio actus eius: secundum illud ugonis in 
+      so<lb ed="#C" n="48" break="no"/>liloquio de arra sponse dicentis anime sue. scio anima 
+      <lb ed="#C" n="49"/>mea quod in vita tua dilectio est. modo dilectio est 
+      <lb ed="#C" n="50"/>in voluntate vt in primo subiecto: quemadmodum 
+      <lb ed="#C" n="51"/>diceremus noticiam esse in intellectu tanquam in 
+      pri<lb ed="#C" n="52" break="no"/>mo subiecto: licet in voluntate sit realiter. est in 
+      in<lb ed="#C" n="53" break="no"/>tellectu tanquam in primo subiecto. quia mediante 
+      in<lb ed="#C" n="54" break="no"/>tellectu inheret. et si intellectus esset vna 
+      substan<lb ed="#C" n="55" break="no"/>tia realiter ab anima distincta ad ymaginationem: 
+      no<lb ed="#C" n="56" break="no"/>ticia ei inhereret et non nude essentie animae. nec 
+      spec<lb ed="#C" n="57" break="no"/>impossibilitate separandi intellectus ab anima. talem 
+      <lb ed="#C" n="58"/>modum loquendi crebriter ingeniose admittit 
+      Ari<lb ed="#C" n="59" break="no"/>stoteles: vtpote de motu mobilis in vacuo 
+      posi<lb ed="#C" n="60" break="no"/>ti: quod iudicauit impossibile. gratia eruditionis
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>talia admittimus. beatus Dionysius intellexit quod 
+      <lb ed="#C" n="62"/>res primo condita exit in operationem suam: et hoc 
+      <lb ed="#C" n="63"/>est verum. angelus in primo die factus prius 
+      ope<lb ed="#C" n="64" break="no"/>rabatur circa deum quam homo vltimo die conditus 
+   </p>
+            <p xml:id="jb2v19-d70689-d1e467">
+               <lb ed="#C" n="65"/>¶ Ad tertium concedo de instrumento extrinseco: 
+      <lb ed="#C" n="66"/>non autem intrinseco: quemadmodum est voluntas. 
+   </p>
+            <p xml:id="jb2v19-d70689-d1e475">
+               <lb ed="#C" n="67"/>¶ Ad quartum: potentia indiget determinari: quia 
+      <lb ed="#C" n="68"/>ipsa est indeterminata ad bene et male agere vel 
+      <lb ed="#C" n="69"/>omittere. Gratia eam determinat ad meritorie 
+      <lb ed="#C" n="70"/>operandum. gratia perficit animam ad determinatum 
+      ac<lb ed="#C" n="71" break="no"/>tum: scilicet voluntatis. ergo debet voluntati 
+      inhere<lb ed="#C" n="72" break="no"/>re. exemplum: quia fides infusa determinat animam 
+      <lb ed="#C" n="73"/>ad determinatum actum: scilicet ad credere: 
+      propte<lb ed="#C" n="74" break="no"/>rea intellectui inheret: et non nude essentie anime. 
+   </p>
+            <p xml:id="jb2v19-d70689-d1e495">
+               <lb ed="#C" n="75"/>¶ Quinto arguitur. charitate deus est homini 
+      cha<lb ed="#C" n="76" break="no"/>rus: et homo deo gratus gratia. ergo non est eadem 
+      <lb ed="#C" n="77"/>qualitas gratia et charitas.
+   </p>
+            <p xml:id="jb2v19-d70689-d1e504">
+      ¶ Respondetur: 
+      quin<lb ed="#C" n="78" break="no"/>tum argumentum non probat quod charitas et 
+      gra<lb ed="#C" n="79" break="no"/>tia realiter distinguuntur: sed solum quod hec duo 
+      voca<lb ed="#C" n="80" break="no"/>bula / gratia et charitas / non sunt termini sinoni 
+      <lb ed="#C" n="81"/>mi sed conuertibiles. aliter connotant: quod sinoni 
+      <lb ed="#C" n="82"/>mitatem euertit. charitas connotat deum in ratione 
+      di<lb ed="#C" n="83" break="no"/>ligibilis. gratia connotat deum vt gratum habentem 
+      si<lb ed="#C" n="84" break="no"/>ue acceptantem hominem vel angelum. habemus 
+      cha<lb ed="#C" n="85" break="no"/>ritatem erga superiores. inferiores superioribus 
+      <lb ed="#C" n="86"/>sunt grati ex vsu loquendi: de nomimbus non refert. 
+      <lb ed="#C" n="87"/>de materiali illi duo termini conuertibiliter 
+      sup<lb ed="#C" n="88" break="no"/>ponunt pro eodem. quemadmodum est de ly 
+      rationa<lb ed="#C" n="89" break="no"/>le et risibile. eadem res propter varias 
+      proprieta<lb ed="#C" n="90" break="no"/>tes et habitudines diuersa sortitur nomina.
+   </p>
+            <p xml:id="jb2v19-d70689-d1e535">
+      ¶ Sexto 
+      <lb ed="#C" n="91"/>arguitur. charitas est forma virtutum. ergo 
+      distingui<lb ed="#C" n="92" break="no"/>tur a virtutibus.
+   </p>
+            <p xml:id="jb2v19-d70689-d1e542">
+      ¶ Septimo: stat aliquem habere 
+      <lb ed="#C" n="93"/>charitatem et eum non acceptari a deo nec actus 
+      <lb ed="#C" n="94"/>eius. ergo male dictum est.
+   </p>
+            <p xml:id="jb2v19-d70689-d1e549">
+      ¶ Respondetur ad sextum: chari 
+      <lb ed="#C" n="95"/>tas est suprema virtus habeintus quam pro hoc statu 
+      habe<lb ed="#C" n="96" break="no"/>mus. sed quia virtutes sine charitate non producunt 
+      ac<lb ed="#C" n="97" break="no"/>tus meritorios: et ipsa etiam actus virtutum dirigit in 
+      <lb ed="#C" n="98"/>debitum finem: dicitur forma virtutum: et earum mater. etiam 
+      <lb ed="#C" n="99"/>dicitur finis virtutum. operationes ordinantur propter 
+      cha<lb ed="#C" n="100" break="no"/>ritatem finis praecepti est charitas secundum apostolum 
+      <lb ed="#C" n="101"/>Assumptum pro septima ratione non stat de lege. 
+   </p>
+            <p xml:id="jb2v19-d70689-d1e568">
+               <lb ed="#C" n="102"/>¶ Uides quonam pacto charitas et gratia idemptificam 
+      <lb ed="#C" n="103"/>tur. non est petenda pluralitas sine necessitate. sed 
+      <lb ed="#C" n="104"/>alia ratione hec qualitas dicitur charitas: et alia 
+      <lb ed="#C" n="105"/>gratia.
+   </p>
+            <p xml:id="jb2v19-d70689-d1e579">
+      ¶ Insuper. gratia est in essentia anime: et realiter in 
+      in<lb ed="#C" n="106" break="no"/>tellectu et voluntate: cum sunt vna et eadem res. nec 
+      <lb ed="#C" n="107"/>pono distinctionem formalium more conterranei: 
+      <lb ed="#C" n="108"/>sed solum discrimen in connotationibus vocabulorum 
+      <lb ed="#C" n="109"/>hoc non obstante. in famato modo loquendi 
+      debe<lb ed="#C" n="110" break="no"/>mus dicere gratiam esse in voluntate et non in 
+      nuda<lb ed="#C" n="111" break="no"/>essentia animae: sicut dicimus noticias esse in 
+      intelle<lb ed="#C" n="112" break="no"/>ctu et non in voluntate nec in nuda essentia animae: 
+      <lb ed="#C" n="113"/>hoc intelligentes si voluntas distingueretur ab 
+      intel<lb ed="#C" n="114" break="no"/>lectu et essentia animae: gratia ei inhereret: et non aliis. vel 
+      <lb ed="#C" n="115"/>sic: aliis duabus iheret ratione voluntatis et non econuerso.
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

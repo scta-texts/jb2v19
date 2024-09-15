@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="46-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d26958"><!-- l2d4q1 -->
+            <head xml:id="jb2v19-d26958-Hd1e101">Quaestio 1</head>
+            <head xml:id="jb2v19-d26958-Hd1e103" type="question-title">An angeli creati sunt in gratia</head>
+            <p xml:id="jb2v19-d26958-d1e106">
+               <lb ed="#C" n="42"/>¶ Distinctio quarta. 
+      <lb ed="#C" n="43"/>Ixca banc quaream 
+      <lb ed="#C" n="44"/>oistinctionem quaeritur: an 
+      angeli<lb ed="#C" n="45" break="no"/>creatis sunt in gratia
+   </p>
+            <p xml:id="jb2v19-d26958-d1e117">
+      ¶ 
+      Respo<lb ed="#C" n="46" break="no"/>detur: quistio est de facto. et 
+      neu<lb ed="#C" n="47" break="no"/>tra pars potest conuinci per 
+      au<lb ed="#C" n="48" break="no"/>ctoritates sifficientes: neque 
+      ra<lb ed="#C" n="49" break="no"/>tiones.
+   </p>
+            <p xml:id="jb2v19-d26958-d1e128">
+      ¶ Sed paro 
+      affirmati<lb ed="#C" n="50" break="no"/>ua videtur rationabilior. Probatio partis 
+      aftirma<lb ed="#C" n="51" break="no"/>tiue. Dicit Augu. xii de ciuitate dei. quod deus 
+      simul<lb ed="#C" n="52" break="no"/>erat condens naturam et largiens gratia.
+   </p>
+            <p xml:id="jb2v19-d26958-d1e138">
+      ¶ hoc 
+      di<lb ed="#C" n="53" break="no"/>cit heronymus oe doemonibus Osee issit. dicens en 
+      <lb ed="#C" n="54"/>quod demones in magna pinguedine spiritusscti 
+      creati<lb ed="#C" n="55" break="no"/>sunt.
+   </p>
+            <p xml:id="jb2v19-d26958-d1e147">
+      ¶ Preterea: primus ho creatuas est in gratia 
+      <lb ed="#C" n="56"/>ergo angeli ans patet. quia fuit creatus cum iusticia 
+      ori<lb ed="#C" n="57" break="no"/>ginali qua concomitabat gratia
+   </p>
+            <p xml:id="jb2v19-d26958-d1e154">
+      ¶ Amplius sicut 
+      <lb ed="#C" n="58"/>est in esse nature sic suo modo debet esse in esse 
+      super<lb ed="#C" n="59" break="no"/>naturali: sed in esse nature quaecumque processutemporis 
+      <lb ed="#C" n="60"/>producta sunt in se a principio fuerunt producta secundum
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>rationes seminales. vt dicit Augu. super Genesim. 
+      <lb ed="#C" n="62"/>ergo similiter in esse supernaturali. gloria quae 
+      pro<lb ed="#C" n="63" break="no"/>cessu temporis creaturis rationabilibus est data 
+      fu<lb ed="#C" n="64" break="no"/>it a principio secundum principium seminarium producta. 
+      <lb ed="#C" n="65"/>sed seminarium glorie est gratia. ergo a 
+      principio<lb ed="#C" n="66" break="no"/>fuit hominis et angelo concreata. Sed hee 
+      ratio<lb ed="#C" n="67" break="no"/>nes non persuadent volenti tenere oppositum.
+   </p>
+            <p xml:id="jb2v19-d26958-d1e180">
+      ¶ Ad 
+      <lb ed="#C" n="68"/>primum diceretur quod duplex est gratia / quedam 
+      gra<lb ed="#C" n="69" break="no"/>tum faciens. et negarent quod auctoritates intelligam 
+      <lb ed="#C" n="70"/>tur de illa. Alia est gratis data. et illa est duplex. 
+      <lb ed="#C" n="71"/>Nam quedam est quae est occasio boni: vel occasio 
+      ma<lb ed="#C" n="72" break="no"/>li. vt esse ingeniosum: esse bonum cytharedum: bonum 
+      <lb ed="#C" n="73"/>musicum. Alia quae inclinat de per se ad bonum: vt sapien 
+      <lb ed="#C" n="74"/>tia: et alie virtutes. De tertia gratia auctoritates 
+      <lb ed="#C" n="75"/>intelliguntur
+   </p>
+            <p xml:id="jb2v19-d26958-d1e200">
+      ¶ Ad tertium negarent atfces. non est 
+      ne<lb ed="#C" n="76" break="no"/>cesse iusticiam originalem habere gratiam de sege¬ 
+   </p>
+            <p xml:id="jb2v19-d26958-d1e205">
+               <lb ed="#C" n="77"/>¶ Ad quartum conceditur maior: et totus discursus 
+      <lb ed="#C" n="78"/>illius coparationis. et ad applicationem. gratia est 
+      <lb ed="#C" n="79"/>principium seminarium. diceretur: verum est gratia gratis: 
+      <lb ed="#C" n="80"/>boata: et non gratum faciens.
+   </p>
+            <p xml:id="jb2v19-d26958-d1e217">
+      ¶ Sed contra 
+      conclu<lb ed="#C" n="81" break="no"/>sionem arguitur sic. Augustinus dicit super 
+      Gene<lb ed="#C" n="82" break="no"/>sim ad litteram / quod angelica natura primo erat 
+      in<lb ed="#C" n="83" break="no"/>formis creata: et celum dicta. deinde dicit eam 
+      for<lb ed="#C" n="84" break="no"/>matam: et lucem appellatam. Non aute erat informis 
+      <lb ed="#C" n="85"/>nisi per defectum gratie.
+   </p>
+            <p xml:id="jb2v19-d26958-d1e230">
+      ¶ Irem / Gregorlus. xxxii. 
+      <lb ed="#C" n="86"/>moralium tractas illud Ezechielis. xxvlii. Aurum 
+      <lb ed="#C" n="87"/>opus decoris tui. et foramina in doie qua conditus est. 
+      <lb ed="#C" n="88"/>Et loquens boe lucifero dicit. huius lapidis in die 
+      <lb ed="#C" n="89"/>conditionis sue foramina preparata sunt: quia vide 
+      <lb ed="#C" n="90"/>licet capax charitatis conditus fuit. quasi 
+      reple<lb ed="#C" n="91" break="no"/>ri volusset stantibus angelis tanquam in ornamentis 
+      <lb ed="#C" n="92"/>regis positis lapidibus inherere potuisset. 
+      habu<lb ed="#C" n="93" break="no"/>it ergo ille lapis foramina. sed propter superbie 
+      vi<lb ed="#C" n="94" break="no"/>clum charitatis auro non sunt repleta. Et sic aprte 
+      <lb ed="#C" n="95"/>dicit quod noon habuit charitatem. Stantes quoque 
+      <lb ed="#C" n="96"/>ibidem dicit charitatem recepisse cadentibus aliis. 
+   </p>
+            <p xml:id="jb2v19-d26958-d1e256">
+               <lb ed="#C" n="97"/>¶ Ad primum dicitur quod prlus natura erat informis: 
+      <lb ed="#C" n="98"/>non autem prlus tempore vel instanti. Secundo sic. 
+      pri<lb ed="#C" n="99" break="no"/>us erat informis beatitudine: postea erat beatitu 
+      <lb ed="#C" n="100"/>dine for natus.
+   </p>
+            <p xml:id="jb2v19-d26958-d1e267">
+      ¶ Ad auctoritatem Gregorii potest 
+      <lb ed="#C" n="101"/>dici quod loquitur de charitate permanenti. quod ex 
+      eo<lb ed="#C" n="102" break="no"/>patet: quia dicit quod propter superbie vicium foramina 
+      <lb ed="#C" n="103"/>charitatis non sunt repleta. sed palam est quod vicium 
+      su<lb ed="#C" n="104" break="no"/>perbie non fuit in eo a principio creationis: quia non 
+      <lb ed="#C" n="105"/>malus: sed innocens creatus.
+   </p>
+            <p xml:id="jb2v19-d26958-d1e280">
+      ¶ Secundo arguitur. 
+      <lb ed="#C" n="106"/>gratia inclinat habentem ad confirmandum se deo. 
+      <lb ed="#C" n="107"/>ergo si omnes habuissent gratiam omnes conuersi fuissent 
+      <lb ed="#C" n="108"/>in deum. et ita nullus cecidisset.
+   </p>
+            <p xml:id="jb2v19-d26958-d1e289">
+      ¶ hoc argumentum 
+      <lb ed="#C" n="109"/>non est magni poderis. gratia inclinat ad 
+      confor<lb ed="#C" n="110" break="no"/>mandum voluntatem habentis voluntati diuine: non 
+      <lb ed="#C" n="111"/>tamen necessitat ipsam voluntatem.
+   </p>
+            <p xml:id="jb2v19-d26958-d1e299">
+      ¶ Dubitatur 
+      <lb ed="#C" n="112"/>quid factum fuisset: si Adam fuisset mortuus ante 
+      pec<lb ed="#C" n="113" break="no"/>catum: tenendo quod non fuerit creatus in gratia.
+   </p>
+            <p xml:id="jb2v19-d26958-d1e306">
+      ¶ 
+      Se<lb ed="#C" n="114" break="no"/>cundo dubitatur / an angeli poterant esse miseri in 
+      <lb ed="#C" n="115"/>primo instanti sui esse.
+   </p>
+            <p xml:id="jb2v19-d26958-d1e313">
+      ¶ Tertio dubitatur / an 
+      bo<lb ed="#C" n="116" break="no"/>ni fuerunt prescii sne confirmationis: et alii sui 
+      ca<lb ed="#C" n="117" break="no"/>sus.
+   </p>
+            <p xml:id="jb2v19-d26958-d1e320">
+      ¶ Ad primum respondetur / quod casus est preter 
+      le<lb ed="#C" n="118" break="no"/>gem: videlicet quod mortuus fuisset ante cuipam: sed 
+      ca<lb ed="#C" n="119" break="no"/>su admisso: nec luisset danatus nec saluatus.
+   </p>
+            <p xml:id="jb2v19-d26958-d1e327">
+      ¶ Ad 
+      <lb ed="#C" n="120"/>secundum dicitur quod sic. oalus angelus potest in 
+      primo<lb ed="#C" n="121" break="no"/>instantis sui esse peccare. vt in. xvii. distin. primi di¬
+      <pb ed="#V" n="46-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>
+               <lb ed="#C" n="2"/>ctum est: sed in quocumque instantis in quo peccat 
+      de<lb ed="#C" n="3" break="no"/>us potest infligere ei penam.
+   </p>
+            <p xml:id="jb2v19-d26958-d1e345">
+      ¶ Ad tertium respondetur 
+      <lb ed="#C" n="4"/>quod magister recitat duas opiniones contrarias in 
+      <lb ed="#C" n="5"/>littera. tamen positio negatioa est rationabilior: quod nec 
+      <lb ed="#C" n="6"/>boni sciebant suam confirmationem nec mali erant 
+      pre<lb ed="#C" n="7" break="no"/>scli sue miserie. Si boni presciuissent suam 
+      beati<lb ed="#C" n="8" break="no"/>tudinem tunc damnatis poterant conqueri quod hoc ne¬ 
+      l<lb ed="#C" n="9" break="no"/>sciebant: et quod non habebant tantum auxilii sicut alii. 
+      <lb ed="#C" n="10"/>Ad hanc partem declinat Augustinus. xi de ciuitate 
+      <lb ed="#C" n="11"/>dei. c. xiii. et ad horosium: omnes angeli creati sunt 
+      <lb ed="#C" n="12"/>equees: sed cadentibus illis per supbia ceteri omno 
+      poria<lb ed="#C" n="13" break="no"/>obedientia coheserunt accipientes certa scientiam 
+      <lb ed="#C" n="14"/>sue stabilitatis quod illi numquam habuerunt: tamen habebat 
+      <lb ed="#C" n="15"/>probabilem coniecturam quod essent habituri beatitudi 
+      <lb ed="#C" n="16"/>nem. sicut de nobis contingit.
+   </p>
+            <p xml:id="jb2v19-d26958-d1e377">
+      ¶ Ex illo patet quod 
+      angeo<lb ed="#C" n="17" break="no"/>li casuri non presciebant suum casum. alias 
+      habuis<lb ed="#C" n="18" break="no"/>sent penam ante culpam.
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

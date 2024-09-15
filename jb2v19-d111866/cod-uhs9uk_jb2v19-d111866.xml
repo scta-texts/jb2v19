@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 3</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 3</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="187-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d111866"><!-- l2d44q3 -->
+            <head xml:id="jb2v19-d111866-Hd1e101">Quaestio 3</head>
+            <head xml:id="jb2v19-d111866-Hd1e103" type="question-title">An licite Christiani principes possint impetere Saracenos, proprie Hagarenos, Tartaros et reliquos gentiles bella movendo</head>
+            <p xml:id="jb2v19-d111866-d1e106">
+               <lb ed="#C" n="81"/>¶ Questio Tertia. 
+      <lb ed="#C" n="82"/>SEcundo circa hanc materiam 
+      quaeri<lb ed="#C" n="83" break="no"/>tur an licite christiani principes 
+      <lb ed="#C" n="84"/>possint impetere saracenos 
+      pro<lb ed="#C" n="85" break="no"/>prie agarenos tartaros et reliquos 
+      <lb ed="#C" n="86"/>gentiles bella mouendo: Respondetur 
+      <lb ed="#C" n="87"/>nam infidelium: aliqui sunt habentes 
+      <lb ed="#C" n="88"/>terras christianorum sicut 
+      menphi<lb ed="#C" n="89" break="no"/>cus rex quem vulgus Soledanum 
+      sy<lb ed="#C" n="90" break="no"/>rie appellamus terram promissionis egyptum: et 
+      ara<lb ed="#C" n="91" break="no"/>biam habet Similiter et Othomannus turcus turciam 
+      <lb ed="#C" n="92"/>et greciam habet quae quondam christiani principes 
+      habue<lb ed="#C" n="93" break="no"/>runt. Alii sunt habentes terras non sic per rapinam: sed 
+      <lb ed="#C" n="94"/>gentilibus titulis iustis: hoc est titulis quos gentilis 
+      <lb ed="#C" n="95"/>philosophus iustum appellaret: et tales possunt multi 
+      <lb ed="#C" n="96"/>phariam se habere vel permittunt christianos 
+      prae<lb ed="#C" n="97" break="no"/>dicare fidem christi inter illos christum et legem non 
+      <lb ed="#C" n="98"/>contemnentes vel resistunt plantationi fidei Istis 
+      presup<lb ed="#C" n="99" break="no"/>positis ponuntur aliquae conclusiones.
+   </p>
+            <p xml:id="jb2v19-d111866-d1e150">
+      ¶ Prima est: christiani  
+      <lb ed="#C" n="100"/>principes possunt licite auferre terras quag 
+      sarace<lb ed="#C" n="101" break="no"/>ni habent pro nobis. probatio: Alii tenent alienum 
+      <lb ed="#C" n="102"/>inuito domino. Nec est aliquis superior qui ministret 
+      iu<lb ed="#C" n="103" break="no"/>stitiam in restituendis illis terris: ergo bello possunt illas 
+      <lb ed="#C" n="104"/>terras capere.
+   </p>
+            <p xml:id="jb2v19-d111866-d1e163">
+      ¶ Et confirmatur hec ratio: quia si illas 
+      ter<lb ed="#C" n="105" break="no"/>ras capere non possunt hoc esset ideo quia alii iam 
+      lon<lb ed="#C" n="106" break="no"/>go tempore in illis terris prescripserunt: sed hoc 
+      con<lb ed="#C" n="107" break="no"/>sequens est falsum Possessor malefide in nullo 
+      tempo<lb ed="#C" n="108" break="no"/>re prescribit: ergo nullam prescriptionem in illis 
+      ter<lb ed="#C" n="109" break="no"/>ris habent. Non sufficit quod ex errore vincibili se 
+      <lb ed="#C" n="110"/>iustum titulum habere suspicatur
+   </p>
+            <p xml:id="jb2v19-d111866-d1e180">
+      ¶ Secunda conclusio: 
+      christia<lb ed="#C" n="111" break="no"/>ni principes possunt quascunque terras quas 
+      sara<lb ed="#C" n="112" break="no"/>ceni tenent vel gentiles capere: dato quor ipsi 
+      habe<lb ed="#C" n="113" break="no"/>ant illas terras per veram successionem: vel per 
+      <lb ed="#C" n="114"/>consensum populi vel per quecumque alium iustum titulum 
+      <lb ed="#C" n="115"/>gentilium: et hoc auctoritate ecclesie. 
+   </p>
+            <p xml:id="jb2v19-d111866-d1e193">
+               <lb ed="#C" n="116"/>¶ Probatur hec conclusio: dominus inferior omni via 
+      pro<lb ed="#C" n="117" break="no"/>curans discessionem a suo superioris a quo totam 
+      au<lb ed="#C" n="118" break="no"/>ctoritatem dominandi habet iuste meretur 
+      priua<lb ed="#C" n="119" break="no"/>ri illo dominio: sed omnes infideles cuiuscumque secte 
+      fue<lb ed="#C" n="120" break="no"/>rint moliuntur procurare discessionem a christo: a
+      <pb ed="#V" n="187-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>quo est omnis potestas: vt patet ad romanos. xiii. Et 
+      <lb ed="#C" n="2"/>quaestione praecedente: igitur Ista maior patet. non alias ob 
+      <lb ed="#C" n="3"/>crimen lese maiestatis quis dominium rerum suarum 
+      amit<lb ed="#C" n="4" break="no"/>tit et per heresim. Minor patet de saracenis tam in 
+      aphri<lb ed="#C" n="5" break="no"/>ca quam in asia qui moliuntur euertere quantum in eis est 
+      fi<lb ed="#C" n="6" break="no"/>dem christianam: et omnes attrahere ad errorem mahometi 
+      <lb ed="#C" n="7"/>cum. oc idem faciunt tartari liuoniam: et ruthenos 
+      <lb ed="#C" n="8"/>incursitantes.
+   </p>
+            <p xml:id="jb2v19-d111866-d1e228">
+      ¶ Et confirmatur hec ratio non alias 
+      mili<lb ed="#C" n="9" break="no"/>tes tutonici beate marie virginis ceperunt 
+      liuoni<lb ed="#C" n="10" break="no"/>am amissis terris in oriente eis concessum est capere 
+      <lb ed="#C" n="11"/>terras illas a gentilibus christianos inuadentibus.
+   </p>
+            <p xml:id="jb2v19-d111866-d1e237">
+      ¶ In 
+      <lb ed="#C" n="12"/>super secundum leges Cesareas comittens crimen lese 
+      <lb ed="#C" n="13"/>maiestatis amittit rerum suarum dominium: sed isti hostiliter 
+      in<lb ed="#C" n="14" break="no"/>quantum in eis est christum et eius membra inquietant in eum 
+      blas<lb ed="#C" n="15" break="no"/>phemant paruulos et senes rapiunt: et in furore 
+      truci<lb ed="#C" n="16" break="no"/>dant. horet animus recensere seuitiam quam capto 
+      bi<lb ed="#C" n="17" break="no"/>santio illi viri beleal contra christi sacramenta imaginem: 
+      con<lb ed="#C" n="18" break="no"/>tra sacerdotes et moniales nequissime commiserit. hoc 
+      <lb ed="#C" n="19"/>patuit apud achonem. et alias vrbes ab eis captas 
+      <lb ed="#C" n="20"/>Ulterius hereticus dominium rerum suarum per heresim amit 
+      <lb ed="#C" n="21"/>tit. extra de here. vergentis: ergo idem erit in 
+      pro<lb ed="#C" n="22" break="no"/>posito. Preterea christianorum principium interest cultum 
+      <lb ed="#C" n="23"/>diuini nominis procurare et ipsum augeri: sed hoc 
+      <lb ed="#C" n="24"/>potissimum fit terras eorum capiendo et 
+      imponen<lb ed="#C" n="25" break="no"/>do christianos
+   </p>
+            <p xml:id="jb2v19-d111866-d1e270">
+      ¶ Tertia conclusio: hac lege potest 
+      ec<lb ed="#C" n="26" break="no"/>clesia concedere principi vni capere terras quae erant 
+      <lb ed="#C" n="27"/>ab olim alterius principis quas nunc occupat 
+      sara<lb ed="#C" n="28" break="no"/>ceni quando alius princeps potissimum non potest eas capere 
+   </p>
+            <p xml:id="jb2v19-d111866-d1e279">
+               <lb ed="#C" n="29"/>¶ Probatur hec conclusio Constantinopolis et 
+      trape<lb ed="#C" n="30" break="no"/>suntum habentur ab antiquis imperatoribus 
+      gre<lb ed="#C" n="31" break="no"/>cis nunc pro derelicto habentur. non quin vellent 
+      he<lb ed="#C" n="32" break="no"/>redes veri terras illas habere sed hoc nequeunt 
+      Pro<lb ed="#C" n="33" break="no"/>batur conclusio. rationabile est: quod ille terre essent in 
+      <lb ed="#C" n="34"/>manibus christianorum: sed illi qui terras amiserunt vel 
+      <lb ed="#C" n="35"/>eorum heredes legitimi non possunt eos reuocare 
+      <lb ed="#C" n="36"/>nemo est inter christianos principes qui suo marte 
+      <lb ed="#C" n="37"/>vellet eis acquirere dominia: ergo rationabiliter velle 
+      <lb ed="#C" n="38"/>deberent quod ille terre principi christiano alteri 
+      conce<lb ed="#C" n="39" break="no"/>dantur: et dato quod noluit ecclesia potest illlud 
+      alte<lb ed="#C" n="40" break="no"/>ri concedere. Et hoc iterum probatur: forte 
+      prin<lb ed="#C" n="41" break="no"/>ceps plures sumptus faceret in recuperandis illis 
+      ter<lb ed="#C" n="42" break="no"/>ris quam valeant. Tum in pecunia militi data Tum 
+      <lb ed="#C" n="43"/>in tot in bello occisis in discrimine vite principis 
+      <lb ed="#C" n="44"/>Et istud confirmatur non alias Godfridus de 
+      bil<lb ed="#C" n="45" break="no"/>lon fuit rex hierosolimitanus: nisi quia primo primus 
+      <lb ed="#C" n="46"/>muros fortissime condescendit et ab alia egregia 
+      fa<lb ed="#C" n="47" break="no"/>cinora in regem electus est pro se et suis: et tamen alii 
+      prin<lb ed="#C" n="48" break="no"/>cipes christiani hierosolimam prius habuerunt: igitur 
+   </p>
+            <p xml:id="jb2v19-d111866-d1e326">
+               <lb ed="#C" n="49"/>¶ Item distinctio dominiorum est de iure humano. 8  
+      <lb ed="#C" n="50"/>distinctione: quo iure ergo pro rationabili 
+      cau<lb ed="#C" n="51" break="no"/>sa in tota repu. hic ecclesia dominium transferre potest 
+      <lb ed="#C" n="52"/>Nolumus tamen dicere quod ad nutum eius regna 
+      christiano<lb ed="#C" n="53" break="no"/>rum principum in quibus dominium in temporalibus 
+      <lb ed="#C" n="54"/>non habet nisi regitiuum transferre potest: sed vbi 
+      <lb ed="#C" n="55"/>essent heretici et fidem euertere molientes rex 
+      chri<lb ed="#C" n="56" break="no"/>stianus deponendus esset. De mahometistis et tartaris 
+      <lb ed="#C" n="57"/>plantationi fidei non resistentibus scilicet qui 
+      no<lb ed="#C" n="58" break="no"/>lunt fidem suscipere: sed permittunt christianos 
+      <lb ed="#C" n="59"/>libere predicare veritatem fidei nostre: et eorum 
+      <lb ed="#C" n="60"/>deliria ex sacris hystoriis depromere non loquor
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>quia nusquam inueniuntur. Sed dicis: hyspani tales 
+      inue<lb ed="#C" n="62" break="no"/>nerunt in mari athlantico an iuste regnum ab eis 
+      <lb ed="#C" n="63"/>abstulerunt quod rex eorum prius habebat vel 
+      quamcum<lb ed="#C" n="64" break="no"/>que aliam policiam. Respondetur cum linguam hyspanicam 
+      <lb ed="#C" n="65"/>non intellexerunt nec concionatores verbi diuini 
+      si<lb ed="#C" n="66" break="no"/>ne magno milite admitterent necesse erat arces 
+      <lb ed="#C" n="67"/>munitas hic et illic exstruere: vt successu temporum 
+      ef<lb ed="#C" n="68" break="no"/>frenis populus ad mores christianorum assuescerent et 
+      in<lb ed="#C" n="69" break="no"/>telligendo se mutuo: et quia in omnibus istis faciendis 
+      ma<lb ed="#C" n="70" break="no"/>gne requiruntur impense: quas rex alius non ministrat 
+      <lb ed="#C" n="71"/>Licitum est ergo illas capere quia alius hoc velle 
+      rationa<lb ed="#C" n="72" break="no"/>biliter debebit: et tunc cum populus fuerit christianus vel 
+      <lb ed="#C" n="73"/>antiquus rex fidem suscipit vel non. Si secundum cum potest 
+      <lb ed="#C" n="74"/>vergere in iacturam fidei deponendus est ob libertatem 
+      <lb ed="#C" n="75"/>orthodoxe fidei etiam meretur deponi: et hoc vult ille 
+      <lb ed="#C" n="76"/>populus si bene christianitatem suscipiat. Quod si ponas 
+      <lb ed="#C" n="77"/>populum velle adhuc habere illum antiquum regem 
+      li<lb ed="#C" n="78" break="no"/>cet gentilis maneat grande iudicium est quod non 
+      syn<lb ed="#C" n="79" break="no"/>cere adhuc suscipitur fides: et tunc non est 
+      relinquen<lb ed="#C" n="80" break="no"/>dum ei regnum. Etiam non decet regem infidelem habet 
+      <lb ed="#C" n="81"/>populum christianum cum per munera: et honores potest 
+      <lb ed="#C" n="82"/>eos a fide auertere: sed si fide voluerit suscipere cum 
+      <lb ed="#C" n="83"/>aliis soluendo pro impensis assumptis non video quod 
+      de<lb ed="#C" n="84" break="no"/>ponendus sit: et hoc si prudens fuerit nisi timeatur de 
+      <lb ed="#C" n="85"/>lapsu in infidelitatem. Si erat alia policia quam regalis 
+      <lb ed="#C" n="86"/>illam insulam capiens mutare potest: et dignum est pro 
+      plan<lb ed="#C" n="87" break="no"/>tatione fidei quod ipse regnum capiat Etiam aliud est: 
+      po<lb ed="#C" n="88" break="no"/>pulus ille bestialiter viuit citra vltraque equatorem et 
+      <lb ed="#C" n="89"/>sub potis viuunt homines ferini vt Ptholomeus in qua 
+      <lb ed="#C" n="90"/>dripertito dicit: et iam hoc experientia compertum est 
+      <lb ed="#C" n="91"/>quare primus eos occupans iuste eis imperat: quia 
+      na<lb ed="#C" n="92" break="no"/>tura sunt serui vt patet: primi politicorum tertio et 
+      quar<lb ed="#C" n="93" break="no"/>to. dicit philosophus quod sunt alii natura serui alii 
+      li<lb ed="#C" n="94" break="no"/>beri manifestum est: et in quibusdam determinatum est esse 
+      <lb ed="#C" n="95"/>tale aliquid quibus ob idipsum prodest: et iustum est 
+      <lb ed="#C" n="96"/>alium seruire alium esse liberum: et conuenit alium 
+      impera<lb ed="#C" n="97" break="no"/>re alium parere eo imperio quod innatum est quare et 
+      <lb ed="#C" n="98"/>dominari. Propterea dicit philosophus primo 
+      ca<lb ed="#C" n="99" break="no"/>pite illius libri Quamobrem aiunt poete grecos 
+      bar<lb ed="#C" n="100" break="no"/>baris dominari: oportere quod idem sit natura barbarus et 
+      <lb ed="#C" n="101"/>seruus.
+   </p>
+            <p xml:id="jb2v19-d111866-d1e446">
+      ¶ Contra primam conclusionem arguitur sic. Ex ea sequitur 
+      <lb ed="#C" n="102"/>quod tenentes illas terras continuo peccant 
+      tenen<lb ed="#C" n="103" break="no"/>tes alienum.
+   </p>
+            <p xml:id="jb2v19-d111866-d1e453">
+      ¶ Contra secundam conclusionem 
+      ar<lb ed="#C" n="104" break="no"/>guitur: sequeretur eodemmodo quod peccarent 
+      detin<lb ed="#C" n="105" break="no"/>nentes terras quas habent per verum titulum 
+      suc<lb ed="#C" n="106" break="no"/>cedendi cum non sint sue.
+   </p>
+            <p xml:id="jb2v19-d111866-d1e462">
+      ¶ Ad primum: non sequitur 
+      <lb ed="#C" n="107"/>tempore quo dormiunt nec cogitant de restitutione nec 
+      <lb ed="#C" n="108"/>cogitare tenentur: non peccant: sed semper sunt 
+      <lb ed="#C" n="109"/>in peccato immo in multis in infidelitate cum 
+      blas<lb ed="#C" n="110" break="no"/>phemia contra nomen dei: et tenentur velle 
+      resti<lb ed="#C" n="111" break="no"/>tuere efficaciter alienum oblatum. 
+   </p>
+            <p xml:id="jb2v19-d111866-d1e475">
+               <lb ed="#C" n="112"/>¶ Ad secundum concedimus eos semper esse in 
+      <lb ed="#C" n="113"/>peccato vt patuit in solutione prioris 
+      argumen<lb ed="#C" n="114" break="no"/>ti: sed non sequitur quod peccent propter 
+      detentio<lb ed="#C" n="115" break="no"/>nem terrarum quas habent vero titulo gentilium 
+      <lb ed="#C" n="116"/>non obstante possunt ab eis auferri iuste: sicut 
+      he<lb ed="#C" n="117" break="no"/>reticus vtitur suis bonis quo ad auferantur: vt 
+      <lb ed="#C" n="118"/>in fine primi diximus: et illa sufficiuut pro solutione 
+      <lb ed="#C" n="119"/>huius.
+   </p>
+            <p xml:id="jb2v19-d111866-d1e495">
+      ¶ Contra tertiam conclusionem arguitur 
+      <lb ed="#C" n="120"/>sic. Ex ea sequitur quod aliquis sine culpa priuabitur ter¬
+      <pb ed="#V" n="188-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>ris suis: consequens est inconueniens: ergo et 
+      ante<lb ed="#C" n="2" break="no"/>cedens. consequentiam probo. legitimus heres 
+      con<lb ed="#C" n="3" break="no"/>stantinopolitanus spem habet forte pro 
+      recuperan<lb ed="#C" n="4" break="no"/>da constantinopoli: et non peccauit in amissione 
+      il<lb ed="#C" n="5" break="no"/>lius: ergo si pannonie rex bisantium occuparet 
+      si<lb ed="#C" n="6" break="no"/>ne culpa suo dominio priuabitur.
+   </p>
+            <p xml:id="jb2v19-d111866-d1e518">
+      ¶ Insuper ex hac via 
+      <lb ed="#C" n="7"/>sequitur quod aliquis princeps christianus poterat a 
+      tri<lb ed="#C" n="8" break="no"/>ginta annis praeteritis vel a minori tempore 
+      pote<lb ed="#C" n="9" break="no"/>rat regnum granate capere: intelligo de principe 
+      <lb ed="#C" n="10"/>alio a castellano: sed hoc videtur incoueniens: igitur 
+      <lb ed="#C" n="11"/>Conceditur in illo casu quod aliquis sine culpa 
+      priua<lb ed="#C" n="12" break="no"/>bitur suis terris: et iuste vt patet de filio heretici 
+      nul<lb ed="#C" n="13" break="no"/>lo pacto cum patre in heresi communicante: et de 
+      <lb ed="#C" n="14"/>filio illius qui crimen sese maiestatis contra regem et rem 
+      <lb ed="#C" n="15"/>publicam incurrit: sed id non est sine causa. Deberet 
+      <lb ed="#C" n="16"/>velle citius iste quod rex pannonie terram haberet quam 
+      Otho<lb ed="#C" n="17" break="no"/>mannus: et si terras suas haberet eas protegere 
+      ne<lb ed="#C" n="18" break="no"/>quiret: sed in eius dolorem: et iterum in reipu. christiane 
+      iac<lb ed="#C" n="19" break="no"/>turam totum amitteretur. Ubi dicis spem habet 
+      re<lb ed="#C" n="20" break="no"/>cuperandi. dicitur quod illa est bene vana: et nos loquimur 
+      <lb ed="#C" n="21"/>vbi sapientes iudicarent quod non est spes recuperandi 
+      <lb ed="#C" n="22"/>illa via.
+   </p>
+            <p xml:id="jb2v19-d111866-d1e555">
+      ¶ Ad secundum argumentum nego sequelam: post 
+      <lb ed="#C" n="23"/>eiectos aphros de reliqua parte hyspanie a 
+      grana<lb ed="#C" n="24" break="no"/>ta semper erat verosimile quod castellani granatam 
+      ca<lb ed="#C" n="25" break="no"/>perent. Et propterea nullus alius rex a castellano 
+      de<lb ed="#C" n="26" break="no"/>bebat ad hoc adhibere manum: quia hoc fuisset 
+      pone<lb ed="#C" n="27" break="no"/>re falcem in messem alienam. Et seminaria litis inter 
+      <lb ed="#C" n="28"/>christianos principes dispergere a quo cauendo 
+      <lb ed="#C" n="29"/>castellie et lusitanie principes varias plagas 
+      aphri<lb ed="#C" n="30" break="no"/>ce sibi de legerunt vt si eas capere possunt inter eos 
+      <lb ed="#C" n="31"/>incentiuum belli non oriretur. Supponimus oppositum 
+      <lb ed="#C" n="32"/>in casu nostro nec de facto contendimus. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

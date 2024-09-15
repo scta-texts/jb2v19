@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="148-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d89077"><!-- l2d39q1 -->
+            <head xml:id="jb2v19-d89077-Hd1e101">Quaestio 1</head>
+            <head xml:id="jb2v19-d89077-Hd1e103" type="question-title">Quid est synderesis et conscientia, et in qua potentia consistunt</head>
+            <p xml:id="jb2v19-d89077-d1e106">
+               <lb ed="#C" n="91"/>N hac distinctione. xxxix. in qua 
+      ma<lb ed="#C" n="92" break="no"/>igister loquitur de conscientia et sinde 
+      <lb ed="#C" n="93"/>resi: quera duo. Primo: quid est sinde 
+      <lb ed="#C" n="94"/>U E ixresis et conscientia: et in qua potentia 
+      <lb ed="#C" n="95"/>consi tunt. secundo quomodo conscientia liget. 
+      <lb ed="#C" n="96"/>Circa primam questionem varias inuenio 
+      posi<lb ed="#C" n="97" break="no"/>tiones. Unam quam sequitur Gandensis. 35. 
+      quotlibe<lb ed="#C" n="98" break="no"/>to questione. xviii. dicens. magis proprie 
+      conscien<lb ed="#C" n="99" break="no"/>tia et sinderesis sunt in voluntate quam in intellectu. 
+      <lb ed="#C" n="100"/>Durandus dicit: est aggregatum eorum que sunt in 
+      <lb ed="#C" n="101"/>intellectu et in voluntate. verbaliter solum ab 
+      Hen<lb ed="#C" n="102" break="no"/>rico differt. Alii dicunt et est modus communis quod est 
+      in<lb ed="#C" n="103" break="no"/>intellectu. Aliqui dicunt sinderesis realiter est 
+      ip<lb ed="#C" n="104" break="no"/>se intellectus. nec est iudicium actuale vel habitua 
+      <lb ed="#C" n="105"/>le in eo existens.
+   </p>
+            <p xml:id="jb2v19-d89077-d1e141">
+      ¶ Circa hanc materiam pono 
+      <lb ed="#C" n="106"/>aliquas conclusiones Quarum prima est. 
+      Con<lb ed="#C" n="107" break="no"/>scientia est actus intellectus. patet per communem 
+      <lb ed="#C" n="108"/>modum hominum loquendi. testis est michi 
+      conscien<lb ed="#C" n="109" break="no"/>tia mea: hoc est iudicium intellectus mei. et 
+      catho<lb ed="#C" n="110" break="no"/>Conscius ipse sibi de se putat omnia dici. et 
+      Eccl<lb ed="#C" n="111" break="no"/>siastici. 7. scit conscientia tua quia tua crebro male 
+   </p>
+            <p xml:id="jb2v19-d89077-d1e157">
+               <lb ed="#C" n="112"/>¶ Secunda conclusio: sinderesis est in intellectu. 
+      <lb ed="#C" n="113"/>dixisti aliis. scire autem pertinet ad intellectum. 
+      <lb ed="#C" n="114"/>probatur: sinderesis est scintilla conscientie. sed 
+      <lb ed="#C" n="115"/>conscientia est in intellectu per precedentem 
+      con<lb ed="#C" n="116" break="no"/>clusionem: ergo et sinderesis. maior patet per illud 
+      <lb ed="#C" n="117"/>Ezechie. primo. et facies et pennas per quattuor partes 
+      <lb ed="#C" n="118"/>habebant: vbi dicit glosa: sinderesis est 
+      scintil<lb ed="#C" n="119" break="no"/>la conscientie. Insuper: sinderesis est iudicium 
+      pra<lb ed="#C" n="120" break="no"/>ctici et euidens: sicut conscientia est assensus propoio
+      <pb ed="#V" n="149-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>sitionis practice concluse. hoc totum est in intellectu: 
+      <lb ed="#C" n="2"/>igitur.
+   </p>
+            <p xml:id="jb2v19-d89077-d1e189">
+      ¶ Ex istis sequitur. Tertia conclusio: sindere 
+      <lb ed="#C" n="3"/>sis et conscientia ab intellectu distinguuntur. patet 
+      <lb ed="#C" n="4"/>sunt accidentia eius et ei inherent. probatur hec 
+      con<lb ed="#C" n="5" break="no"/>clusio. aliter si sinderesis non distingueretur ab 
+      in<lb ed="#C" n="6" break="no"/>tellectu hoc tenet eo sicut dicunt: quod intellectus 
+      sem<lb ed="#C" n="7" break="no"/>per habet sinderestm: hoc est iudiciu practicum 
+      <lb ed="#C" n="8"/>de euidenti propositione ex terminis. sed hac via 
+      <lb ed="#C" n="9"/>nullus esset assensus principiorum contra Aristotelem 
+      <lb ed="#C" n="10"/>primo posteriorum et omnes.
+   </p>
+            <p xml:id="jb2v19-d89077-d1e209">
+      ¶ Quarta conclusio 
+      <lb ed="#C" n="11"/>nec sinderesis nec conscientia est in voluntate. patet 
+      <lb ed="#C" n="12"/>nec est actus. passio. nec habitus. ergo nlon est in 
+      <lb ed="#C" n="13"/>ea consequentia tenet ex secundo ethicorum. sed isti 
+      <lb ed="#C" n="14"/>dicunt est habitus.
+   </p>
+            <p xml:id="jb2v19-d89077-d1e220">
+      ¶ Contra hoc arguitur. vel est 
+      ha<lb ed="#C" n="15" break="no"/>bitus infusus vel acquisitus. non primum. effectus 
+      <lb ed="#C" n="16"/>sinderesis: est remurmurare contra malum: et 
+      incli<lb ed="#C" n="17" break="no"/>nare in bonum: reperiuntur in bonis et malis 
+      fide<lb ed="#C" n="18" break="no"/>libus et infidelibus. non est habitus acquisitus: 
+      <lb ed="#C" n="19"/>patet: Omnis talis ex actu vel actibus generatur. sed 
+      <lb ed="#C" n="20"/>non datur actus ex quo generatur. patet. ille non 
+      <lb ed="#C" n="21"/>est actus voluntatis secundum eos: sed actus 
+      intel<lb ed="#C" n="22" break="no"/>lectus. et tunc sic. omnis habitus genitus ab 
+      ac<lb ed="#C" n="23" break="no"/>tu intellectus manet subiectiue et primo in 
+      intelle<lb ed="#C" n="24" break="no"/>ctu: patet de sapientia / prudentia / et scientia. sicut 
+      <lb ed="#C" n="25"/>habitus acquisitus ex actibus voluntatis manet 
+      <lb ed="#C" n="26"/>in voluntate: et ita vtrobique: igitur. Sed an sit 
+      po<lb ed="#C" n="27" break="no"/>nendus aliquis habitus in voluntate qui malo 
+      re<lb ed="#C" n="28" break="no"/>sistit tanquam pondus. post hac inter arguendum 
+      dice<lb ed="#C" n="29" break="no"/>tur ad primum argumentum. Sed ad cognoscendum 
+      <lb ed="#C" n="30"/>quid sit sinderesis et conscientia. dicitur: sicut in 
+      spe<lb ed="#C" n="31" break="no"/>culabilibus sunt aliqua principia nota ex 
+      termi<lb ed="#C" n="32" break="no"/>nis. vt communes animi conceptiones: quibus cognitis 
+      ter<lb ed="#C" n="33" break="no"/>minis intellectus protinus assentit: ita in 
+      practi<lb ed="#C" n="34" break="no"/>cis sunt alique veritates potissimum propositionum 
+      <lb ed="#C" n="35"/>vniuersalium ex terminis note: quibus intellectus 
+      <lb ed="#C" n="36"/>assentit terminis cognitis. et assensus secundarum 
+      <lb ed="#C" n="37"/>propositionum realiter est sinderesis. et assensus 
+      con<lb ed="#C" n="38" break="no"/>clusionum practicarum est conscientia. et si iudicium 
+      ve<lb ed="#C" n="39" break="no"/>rum fuerit obiectiue dicitur conscienentia recta. si 
+      fue<lb ed="#C" n="40" break="no"/>rit de falso dicitur conscientia erronea. patet 
+      exem<lb ed="#C" n="41" break="no"/>plariter. nullum malum est faciendum. furtum est 
+      ma<lb ed="#C" n="42" break="no"/>lum. ergo furtum non est faciendum. assensus 
+      maio<lb ed="#C" n="43" break="no"/>ris est sinderesis. mi nor est pure speculatiua. 
+      assen<lb ed="#C" n="44" break="no"/>sus conclusionis practice est conscientia. si quis fura 
+      <lb ed="#C" n="45"/>tur et habet iudicium in oppositum. quod non est 
+      furan<lb ed="#C" n="46" break="no"/>dum. tunc conscientia remurmurat. circa maiorem 
+      <lb ed="#C" n="47"/>non est error. sed crebro in malis in minore et 
+      con<lb ed="#C" n="48" break="no"/>clusione est error. hinc dicitur sinderesis non 
+      ex<lb ed="#C" n="49" break="no"/>tinguitur. conscientia vero extinguitur. hoc sic 
+      de<lb ed="#C" n="50" break="no"/>claro: nullum malum est faciendum vel continuandum 
+      <lb ed="#C" n="51"/>sorti. tenere hec duo beneficia est malum. ergo 
+      <lb ed="#C" n="52"/>hoc non est faciendum. tam sortes quam amici eius 
+      se<lb ed="#C" n="53" break="no"/>cundum seculum assentiunt maiori. sed circa minorem 
+      <lb ed="#C" n="54"/>et conclusionem dissentiunt.
+   </p>
+            <p xml:id="jb2v19-d89077-d1e309">
+      ¶ Contra ista arguitur probando 
+      <lb ed="#C" n="55"/>quod sinde resis et conscientia non sunt in intellectur 
+      <lb ed="#C" n="56"/>sic. ex isto sequitur quod ille qui melius scit de aliquo 
+      <lb ed="#C" n="57"/>quod est malum magis tristaretur. et haberet 
+      maio<lb ed="#C" n="58" break="no"/>rem conscientiam. consequens est falsum. multi litte 
+      <lb ed="#C" n="59"/>rati viri sciunt se male agere. nec formant 
+      conscien<lb ed="#C" n="60" break="no"/>tiam: sicut rudiores. ergo conscientia est in volun¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>tate.
+   </p>
+            <p xml:id="jb2v19-d89077-d1e329">
+      ¶ Secundo arguitur ad idem. bonitas est 
+      <lb ed="#C" n="62"/>in voluntate. sed qui habet bonam conscientiam dicitur 
+      <lb ed="#C" n="63"/>bonus de bono viro dicimus: habet bonam 
+      conscien<lb ed="#C" n="64" break="no"/>tiam. ergo conscientia est in voluntate.
+   </p>
+            <p xml:id="jb2v19-d89077-d1e338">
+      ¶ Tertio 
+      <lb ed="#C" n="65"/>tristatur vir cum contra conscientiam aliquid 
+      fe<lb ed="#C" n="66" break="no"/>cerit. in nobis experimur post aliquod 
+      exprobrosum<lb ed="#C" n="67" break="no"/>in nobis commissum tristamur et gemimus. et 
+      mo<lb ed="#C" n="68" break="no"/>re sentis carnem pungentis affligimur: cum malum 
+      <lb ed="#C" n="69"/>commissum intellectui obiectiue occurrit. sed 
+      tristi<lb ed="#C" n="70" break="no"/>cia est in voluntate: ergo causa illius productiua 
+      <lb ed="#C" n="71"/>est in voluntate.
+   </p>
+            <p xml:id="jb2v19-d89077-d1e357">
+      ¶ Pro solutione primi 
+      argumen<lb ed="#C" n="72" break="no"/>ti notato quando aliquis recte iudicat de operabi 
+      <lb ed="#C" n="73"/>li crebro voluntas conformiter vult vel nult / si est 
+      <lb ed="#C" n="74"/>malum. vt quando aliquis in iuuentute audit de 
+      tur<lb ed="#C" n="75" break="no"/>pitudine luxus loqui: vel quod sit malum tenere 
+      immen<lb ed="#C" n="76" break="no"/>sitatem beneficiorum. elicit nolle facere talia. et qui 
+      <lb ed="#C" n="77"/>est melior pluries elicit bonos actus in voluntate. 
+      <lb ed="#C" n="78"/>qui quidam actus producunt in voluntate refrigitiuum 
+      <lb ed="#C" n="79"/>mali: et prosequutiuum boni / aliquis plus habet de 
+      <lb ed="#C" n="80"/>illo habitu / quod alter. et per consequens est difficilius 
+      <lb ed="#C" n="81"/>tali facere oppositum. quia habet habitum 
+      inclinan<lb ed="#C" n="82" break="no"/>tem ad bonum. modo sicut homo prompte et dele 
+      <lb ed="#C" n="83"/>ctabiliter operatur: quando operatur secundum 
+      incli<lb ed="#C" n="84" break="no"/>nationem sui habitus: cum tristicia et murmure 
+      la<lb ed="#C" n="85" break="no"/>borat. in oppositum malitia paruertit iudicium 
+      intel<lb ed="#C" n="86" break="no"/>lectus. et homo non format conscientiam vbi forma 
+      <lb ed="#C" n="87"/>ri debet. patet de intemperato in gradum. 7. 
+      Ethi<lb ed="#C" n="88" break="no"/>corum. et sexto ethicorum. peruertit iudicium malicia: 
+      <lb ed="#C" n="89"/>et mentiri facit circa principia practica. sed 
+      posi<lb ed="#C" n="90" break="no"/>to quod quis nullum habitum habeat in oppositum illius 
+      <lb ed="#C" n="91"/>quod facit preter rationem dempto iudicio 
+      intelle<lb ed="#C" n="92" break="no"/>ctus recto: concedo quod homo operatur cum tristicia 
+      <lb ed="#C" n="93"/>contraueniendo suo iudicio. et quanto habet 
+      ma<lb ed="#C" n="94" break="no"/>iorem noticiam. et perfectius iudicium: quod illud 
+      <lb ed="#C" n="95"/>quod facit est malum: tanto magis contrauenit 
+      con<lb ed="#C" n="96" break="no"/>scientie sue: et torquetur: si passum sit equaliter 
+      di<lb ed="#C" n="97" break="no"/>spositum.
+   </p>
+            <p xml:id="jb2v19-d89077-d1e416">
+      ¶ Ad secundum concedo quod bonitas est in 
+      vo<lb ed="#C" n="98" break="no"/>luntate ad minorem dico quod homo habet crebriter 
+      <lb ed="#C" n="99"/>bonam conscientiam. et conformiter operatur. 
+      stimu<lb ed="#C" n="100" break="no"/>latur ad bonum a conscientia. non quod conscientia 
+      ne<lb ed="#C" n="101" break="no"/>cessitet: sicut nec alia passio appetitus sensitiui. et 
+      <lb ed="#C" n="102"/>sic communiter qui habet bonam conscientiam est bonus. non 
+      <lb ed="#C" n="103"/>quod bonitas sit in conscientia sed in actu voluntatis 
+      <lb ed="#C" n="104"/>conformi recte dictato. si homo non conformiter operatur 
+      <lb ed="#C" n="105"/>ad rectam conscientiam: non est bonus. propterea 
+      de<lb ed="#C" n="106" break="no"/>aliquibus dicimus iste bene iudicat. et nichil 
+      ope<lb ed="#C" n="107" break="no"/>ratur. homines dicunt multa decora et honesta et 
+      <lb ed="#C" n="108"/>tamen conformiter non operantur: primo 
+      Elencho<lb ed="#C" n="109" break="no"/>rum. non eadem dicunt et volunt homines. dicunt de 
+      <lb ed="#C" n="110"/>coratissimas orstones volunt ea que videntur 
+      pro<lb ed="#C" n="111" break="no"/>desse.
+   </p>
+            <p xml:id="jb2v19-d89077-d1e449">
+      ¶ Ad tertium concedo quod vir tristatur cum 
+      ali<lb ed="#C" n="112" break="no"/>quid fecerit contra conscientiam. et transeat quod 
+      tristi<lb ed="#C" n="113" break="no"/>cia est in voluntate. non sequitur quod causa producti 
+      <lb ed="#C" n="114"/>ua illius sit in voluntate. tristicia sequitur crebro 
+      ap<lb ed="#C" n="115" break="no"/>prehensionem displicibilis sine vllo actu 
+      volunta<lb ed="#C" n="116" break="no"/>tis. tristicia enim est passio que potest esse in vna 
+      <lb ed="#C" n="117"/>potentia: licet actus eius productiuus sit in alia. 
+      si<lb ed="#C" n="118" break="no"/>cut noticia actus intellectus ad productionem 
+      ac<lb ed="#C" n="119" break="no"/>tus voluntatis concurrit. et tamen noticia non est 
+      in<lb ed="#C" n="120" break="no"/>voluntate. sic in proposito. sed generaliter actus et
+      <pb ed="#V" n="149-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>habitus eius sunt in ea potentia.
+   </p>
+            <p xml:id="jb2v19-d89077-d1e478">
+      ¶ Contra 
+      secun<lb ed="#C" n="2" break="no"/>dam et tertiam conclusionem sic arguitur. 
+      sindere<lb ed="#C" n="3" break="no"/>sis nunquam extinguitur. omne iudicium intellectus 
+      ex<lb ed="#C" n="4" break="no"/>tinguitur. ergo sinderesis non est iudicium 
+      intelle<lb ed="#C" n="5" break="no"/>ctus. sed intellectus ipse. maior patet per Augu. 
+      <lb ed="#C" n="6"/>. de ciuitate dei. c. 26 dicentem tanta est vis 
+      pro<lb ed="#C" n="7" break="no"/>bitatis et castitatis vt omnes vel pene omnes eius 
+      laude<lb ed="#C" n="8" break="no"/>moneatur humana natura. nec vsque adeo sit 
+      tur<lb ed="#C" n="9" break="no"/>pitudinis viciosa: vt totum amittat sensum 
+      hone<lb ed="#C" n="10" break="no"/>statis. et glosa super illud Luce. 10. abierunt 
+      semi<lb ed="#C" n="11" break="no"/>uiuo relicto: dicit quod immortalitatem exuere sed 
+      <lb ed="#C" n="12"/>rationis sensum abolere non possunt. quin homo 
+      <lb ed="#C" n="13"/>sapere et deum possit cognoscere.
+   </p>
+            <p xml:id="jb2v19-d89077-d1e507">
+      ¶ 
+      Responde<lb ed="#C" n="14" break="no"/>tur: idem argumentum potest fieri contra assensus 
+      pro<lb ed="#C" n="15" break="no"/>positionum per se notarum. distinguitur illa: quod sinde 
+      <lb ed="#C" n="16"/>resis numquam extinguitur. si intelligatur quod iudicium 
+      <lb ed="#C" n="17"/>quod est sinderesis nunquam desinit esse. hoc est 
+      fal<lb ed="#C" n="18" break="no"/>sum patet quando propositio cuius habetur sinde 
+      <lb ed="#C" n="19"/>resis non presentatur intellectui. alius sensus est 
+      pro<lb ed="#C" n="20" break="no"/>posita propositione circa quam habetur sinderesis: 
+      <lb ed="#C" n="21"/>protinus homo rationis compos illi assentit. cum 
+      <lb ed="#C" n="22"/>est propositio practica per se nota ex terminis st 
+      a<lb ed="#C" n="23" break="no"/>tim assentitur illi. In foribus quis delinquit. et 
+      con<lb ed="#C" n="24" break="no"/>tra dignitatem non contingit instare: primo 
+      posterio<lb ed="#C" n="25" break="no"/>rum. eius potest ad tempus poni obex. nunquam tamen ex 
+      <lb ed="#C" n="26"/>tinguitur: quin homo rationis compos statim 
+      assen<lb ed="#C" n="27" break="no"/>tit propositioni eius est sinderesis. vt nullum 
+      ma<lb ed="#C" n="28" break="no"/>lum est faciendum. bonum est faciendum pro 
+      lo<lb ed="#C" n="29" break="no"/>co et tempore. interdum extenditur sinderesis ad 
+      comn<lb ed="#C" n="30" break="no"/>scientiam. et tunc potest deprauari sicut circa 
+      as<lb ed="#C" n="31" break="no"/>sensum conclusionis: sicut glosa Ezechielis primo. 
+      <lb ed="#C" n="32"/>capit de sinderesi loquens ait hanc cum sicut in 
+      <lb ed="#C" n="33"/>prouerbiis dicitur Impius cum in profundum vene 
+      <lb ed="#C" n="34"/>rit contempnit: sepe precipitari videmus. et suum 
+      <lb ed="#C" n="35"/>locum amittere. cum quidam sine pudore peccant. 
+      <lb ed="#C" n="36"/>quibus merito dicitur facies meretricis facta est 
+      <lb ed="#C" n="37"/>tibi. noluisti erubescere. sed talis non est 
+      sindere<lb ed="#C" n="38" break="no"/>sis proprie dicta. et si dicas secundum Aristotelem. 77. 
+      <lb ed="#C" n="39"/>Ethicorum. viciosus iam habitum acquisiuit. qui habet 
+      <lb ed="#C" n="40"/>ignorantiam finis. vnde et qualis vnusquisque est 
+      ta<lb ed="#C" n="41" break="no"/>lis sibi videtur. sed stante errore in fine non potest esse 
+      <lb ed="#C" n="42"/>rectum iudicium circa principium practicum. quia finis 
+      <lb ed="#C" n="43"/>in practicis est sicut principium in speculabilibus 
+      <lb ed="#C" n="44"/>secundo phisicorum. Respondeutr: non est error finis 
+      <lb ed="#C" n="45"/>in vniuersali. vel de multis finibus. sed est error 
+      <lb ed="#C" n="46"/>in fine particulari. et quicquid sit de fine non est 
+      <lb ed="#C" n="47"/>error circa propositiones practicas per se notas 
+      <lb ed="#C" n="48"/>quarum est sinderesis.
+   </p>
+            <p xml:id="jb2v19-d89077-d1e585">
+      ¶ Ex his patet tam 
+      sinde<lb ed="#C" n="49" break="no"/>resis quam conscientia est iudicium intellectus et non 
+      <lb ed="#C" n="50"/>cuiuslibet intellectus sed intellectus practici et 
+      <lb ed="#C" n="51"/>non speculatiui. non quod sint duo intellectus 
+      reali<lb ed="#C" n="52" break="no"/>ter distincti: quorum vnus est speculatiuus et alter 
+      <lb ed="#C" n="53"/>practicus sed pro quanto est noticia practica 
+      infor<lb ed="#C" n="54" break="no"/>matus dicitur practicus. et licet interdum ponatur 
+      <lb ed="#C" n="55"/>habitus in voluntate conformis ad sinderesim et 
+      <lb ed="#C" n="56"/>conscientiam. habitus ille generatur ex actibus 
+      vo<lb ed="#C" n="57" break="no"/>luntatis: qui nullomodo est sinderesis. vel 
+      conscien<lb ed="#C" n="58" break="no"/>tia. vel ad eas pertinens. et si quis in terminis 
+      lu<lb ed="#C" n="59" break="no"/>ctari voluerit: capiatur aliquis sine habitu 
+      confo<lb ed="#C" n="60" break="no"/>miter ad rationem inclinantem. adhuc in tali erit sti
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>mulus ad bonum. et remurmuratio a malo: ex 
+      per<lb ed="#C" n="62" break="no"/>fectione ipsius voluntatis et intellectus 
+      inclina<lb ed="#C" n="63" break="no"/>ti ad bonum.
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="62-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d36747"><!-- l2d11q2 -->
+            <head xml:id="jb2v19-d36747-Hd1e101">Quaestio 2</head>
+            <head xml:id="jb2v19-d36747-Hd1e103" type="question-title">Utrum cuilibet hominum deputetur angelus bonus a principio nativitatis ad eius custodiam</head>
+            <p xml:id="jb2v19-d36747-d1e106">
+               <lb ed="#C" n="43"/>SEcundo circa hanc distinctionem quaeritur vtrum 
+      <lb ed="#C" n="44"/>cuilibet hominum deputetur angelus bonus a 
+      <lb ed="#C" n="45"/>principio natiuitatis ad eius custodia 
+   </p>
+            <p xml:id="jb2v19-d36747-d1e115">
+               <lb ed="#C" n="46"/>¶ Ad hac quastionem respondetur per duas 
+      <lb ed="#C" n="47"/>conclusiones. affirmatiuam persuadet magister capite 
+      <lb ed="#C" n="48"/>primo huius distinctionis introducens illud Mathei 
+      <lb ed="#C" n="49"/>28. Angeli eorum semper vident faciem patris. super 
+      <lb ed="#C" n="50"/>quo loco dicit hieronymus vnamquamque animam 
+      <lb ed="#C" n="51"/>ab exordio natiuitatis habere angelum ad sui 
+      cu<lb ed="#C" n="52" break="no"/>stodiam deputatum inquiens: ita magna dignitas anima 
+      <lb ed="#C" n="53"/>rum est: vt vnaqueque habeat ab ortu natiuitatis 
+      <lb ed="#C" n="54"/>in cust odiam sui angelum de legatum. quod non 
+      intelligi<lb ed="#C" n="55" break="no"/>tur de nato extra vterum solum: sed etiam de nato 
+      sim<lb ed="#C" n="56" break="no"/>pliciter.
+   </p>
+            <p xml:id="jb2v19-d36747-d1e141">
+      ¶ Item ysaye. lxii. super muros tuos 
+      hie<lb ed="#C" n="57" break="no"/>rusalem consttui custodes. muri sunt apostoi: custodes 
+      <lb ed="#C" n="58"/>sunt angeli. vt dicit glosa.
+   </p>
+            <p xml:id="jb2v19-d36747-d1e149">
+      ¶ Preterea: ecci siasti 
+      <lb ed="#C" n="59"/>ci. xyvii. in vnaquamque gentium preposuit rectores. 
+      <lb ed="#C" n="60"/>glosa: angelos.
+   </p>
+            <p xml:id="jb2v19-d36747-d1e156">
+      ¶ Secuda conclusio. hominem non
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>deserit in via angelica custodia. probatur. non det 
+      <lb ed="#C" n="62"/>cessare custodia angeli quamdiu potest proficere homin: sed 
+      <lb ed="#C" n="63"/>omni viatori: et in quolibet eius statu potest ei angelus 
+      <lb ed="#C" n="64"/>proficere. igitur. Confirmatur hec suasio non minus sol 
+      <lb ed="#C" n="65"/>licitus est bonus angelus custodiendo quam malus in 
+      <lb ed="#C" n="66"/>nocendo: sed malus angelus etia in cruce christo r 
+      <lb ed="#C" n="67"/>non defuit: sicut habet per glosam Io. vltimo 
+      <lb ed="#C" n="68"/>ergo bonus angelus nullum viatorem quan tumcumqu 
+      <lb ed="#C" n="69"/>malum penitus deserit.
+   </p>
+            <p xml:id="jb2v19-d36747-d1e180">
+      ¶ Contra priorem 
+      conclusio<lb ed="#C" n="70" break="no"/>nem arguitur sic. Inutilis est hec custodia angelo 
+      <lb ed="#C" n="71"/>rum in paruulis non capacibus rationis: cum mereri / 
+      <lb ed="#C" n="72"/>neque demereri nequeant.
+   </p>
+            <p xml:id="jb2v19-d36747-d1e189">
+      ¶ Et confirmatur hoc. in 
+      <lb ed="#C" n="73"/>omnibus angelus est nobis datus sicut praeceptor 
+      re<lb ed="#C" n="74" break="no"/>spectu discipuli: sed malus esset pedagogus vel 
+      <lb ed="#C" n="75"/>inutilis si permitteret ei commissum delinquere vbi 
+      <lb ed="#C" n="76"/>potest eum impedire ne male agat: et potest eum 
+      vr<lb ed="#C" n="77" break="no"/>gere ad bene agendum: sed angelus est nobis 
+      for<lb ed="#C" n="78" break="no"/>tior. ergo potest nos impedire ab homicidio et 
+      <lb ed="#C" n="79"/>multis flagiciis in que nos nostra sponte praecipitantur 
+      <lb ed="#C" n="80"/>ruimus: et potest nos cogere ad bona.
+   </p>
+            <p xml:id="jb2v19-d36747-d1e209">
+      ¶ Ad 
+      pri<lb ed="#C" n="81" break="no"/>mum respondetur quod bonus angelus est vtilis 
+      existen<lb ed="#C" n="82" break="no"/>ti in vtero praeseruando malum angelum ne paruulum 
+      <lb ed="#C" n="83"/>suffocet. et ad multa alia quae paruulo conducunt. 
+   </p>
+            <p xml:id="jb2v19-d36747-d1e218">
+               <lb ed="#C" n="84"/>¶ Sed contra. tunc angelus det seruare paruulum 
+      <lb ed="#C" n="85"/>ne suffocetur in lecto inter parentes: vel ne occida 
+      <lb ed="#C" n="86"/>tur a vipera vel cane rabido / vel tyranno vt 
+      po<lb ed="#C" n="87" break="no"/>tiatur hereditate paruuli.
+   </p>
+            <p xml:id="jb2v19-d36747-d1e230">
+      ¶ Respondetur negando 
+      <lb ed="#C" n="88"/>consequentiam. Si angelus omnia hec suppleret 
+      paren<lb ed="#C" n="89" break="no"/>tes ignauiter curam haberent de paruulo: et non 
+      <lb ed="#C" n="90"/>essent solliciti de prole seruanda quam genuerunt: 
+      con<lb ed="#C" n="91" break="no"/>tra naturas omnium animalium: et leena: tigrides: 
+      serpen<lb ed="#C" n="92" break="no"/>tes solliciti sunt de conseruando suo fetu. decuit 
+      ho<lb ed="#C" n="93" break="no"/>mines non esse deterioris conditionis quibus cum 
+      ro<lb ed="#C" n="94" break="no"/>bore corporis data est ratio ad hec omnia diligenda. 
+   </p>
+            <p xml:id="jb2v19-d36747-d1e248">
+               <lb ed="#C" n="95"/>¶ Ad secundum respondetur quod angelus est nobis datus 
+      tan<lb ed="#C" n="96" break="no"/>quam praeceptor: sed aliquid discriminis est. effrenem 
+      pe<lb ed="#C" n="97" break="no"/>tulantiam iuuenis verberibus verbis ve cohibet 
+      <lb ed="#C" n="98"/>preceptor: qui interdum assistit: nonnumquam vero 
+      di<lb ed="#C" n="99" break="no"/>scedit. et cum adoleuerit iuuenis relinquitur in 
+      ma<lb ed="#C" n="100" break="no"/>nu consilii sui. non esset congruum quod angelus sic 
+      cu<lb ed="#C" n="101" break="no"/>stoditu arceret sensibiliter ( cum est commes 
+      indiui<lb ed="#C" n="102" break="no"/>duus custoditi numquam daretur homini facultas 
+      ma<lb ed="#C" n="103" break="no"/>lefaciendi: sed quilibet esset coactus bene agere: et 
+      im<lb ed="#C" n="104" break="no"/>peditus perperam agere / et sic vnus homo non esset 
+      ma<lb ed="#C" n="105" break="no"/>gis laudandus quam alius: et sic tolleretur glinia et praiemium quae 
+      <lb ed="#C" n="106"/>fomentum praestant virtuti. Uirtus et ars est circa 
+      diffi<lb ed="#C" n="107" break="no"/>cile secundo ethicorum et quinti ethicorum primo dictum 
+      <lb ed="#C" n="108"/>byantis Aristoteles commendat inquientis 
+      magi<lb ed="#C" n="109" break="no"/>stratus vtrum ostendit. et sic est de libertate /n et hoc est 
+      <lb ed="#C" n="110"/>maxime congruum: iuxta illud ecclinastici. xv. deus ab 
+      <lb ed="#C" n="111"/>initio constituit ho em et reliquit illum in manu 
+      con<lb ed="#C" n="112" break="no"/>silii sui: et adiecit mandata et percepta sua. Si 
+      volue<lb ed="#C" n="113" break="no"/>ris mandata conseruare conseruabunt te: et in 
+      perpe<lb ed="#C" n="114" break="no"/>tuum placidam fidem seruare. apposuit tibi aquam et 
+      <lb ed="#C" n="115"/>ignem ad quod volueris porrige manum tuam: ante 
+      ho<lb ed="#C" n="116" break="no"/>minem: vita et mors: bonum et malum.
+   </p>
+            <p xml:id="jb2v19-d36747-d1e298">
+      ¶ Contra 
+      secun<lb ed="#C" n="117" break="no"/>dam conclusionem arguitur per glosam super illud hie 
+      <lb ed="#C" n="118"/>remie. lyv. Curauimus babilonem et non est sanata. de 
+      <lb ed="#C" n="119"/>relinquamus eam et vadat vnusquisque in locum suum: 
+      di<lb ed="#C" n="120" break="no"/>cit. medici sunt angeli quos a nobis repellimus
+      <pb ed="#V" n="62-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>dum eorum consilio non acquiescimus. Item Damasce. 
+      <lb ed="#C" n="2"/>dicit quod antechrists carebit angelorum custodia. et Esaie 
+      <lb ed="#C" n="3"/>. super illo verbo: auferam sepem eius i. angelorum 
+      cu<lb ed="#C" n="4" break="no"/>stodiam: ergo a gente iudeorum: cum vineam vocat: 
+      subtra<lb ed="#C" n="5" break="no"/>xit angelorum custodiam.
+   </p>
+            <p xml:id="jb2v19-d36747-d1e324">
+      ¶ Respontur ad ista: quod angelus 
+      <lb ed="#C" n="6"/>reliquit tales praescitos obstinatos ad bonum: non 
+      tamen<lb ed="#C" n="7" break="no"/>eos deserit impediendo eos ne plura mala 
+      perpe<lb ed="#C" n="8" break="no"/>trant. et sic intelligantur si (fes auctoritates. potest sd 
+      <lb ed="#C" n="9"/>ess aliquid spei quandiu quis est viator per finalem praenenam: et 
+      <lb ed="#C" n="10"/>latet angelum creberrime: an suus custoditus sit 
+      pr<lb ed="#C" n="11" break="no"/>destinatus. vel praescitus: et quocuque homine signato 
+      <lb ed="#C" n="12"/>ille potest mereri dum est viator et sic quem nominas 
+      ante<lb ed="#C" n="13" break="no"/>christum potest non fuisse antichriss: de quo scriptura et 
+      pa<lb ed="#C" n="14" break="no"/>tres loquuntur: sed alius erit. angelus bonus mlta 
+      <lb ed="#C" n="15"/>bona praestat. arcet demones Thob. vl. et hoc 
+      pa<lb ed="#C" n="16" break="no"/>tuit in reges medorum. tollet impedimenta 
+      boni<lb ed="#C" n="17" break="no"/>prpterea percussit primogenita egypti: vt perplols 
+      isril<lb ed="#C" n="18" break="no"/>liberaretur. Exo. 12. Illuminat: vt Dant o. Nuc egres 
+      <lb ed="#C" n="19"/>sus sum vt docerem te: vt intelligeres. consolatur 
+      affli<lb ed="#C" n="20" break="no"/>ctos: Thobie. 5. Forti animo esto: in proximo est vt a 
+      <lb ed="#C" n="21"/>deo cureris. 3 Re. 10. dixit angelus helye quem 
+      <lb ed="#C" n="22"/>etiam laute refecit: surge et commede: inquiens. grandis 
+      <lb ed="#C" n="23"/>em tibi restat via. ducit et reducit. Thob. 5. Ego 
+      <lb ed="#C" n="24"/>ducam et reducam eum ad te. deiecit hostes Esaye. 77. 
+      <lb ed="#C" n="25"/>Egressus angelus domini percussit in castris assiriorum. 
+      <lb ed="#C" n="26"/>tentationes mitigat. Gen. 22. vbi post luctam iacob 
+      <lb ed="#C" n="27"/>cum angelo: et benedictione accepta: tetigit neruum 
+      fe<lb ed="#C" n="28" break="no"/>moris eius: et statim emarcuit. orones defert. 
+      tho<lb ed="#C" n="29" break="no"/>bie vl. quando orabas cum lachrymis ego obtuli. 
+   </p>
+            <p xml:id="jb2v19-d36747-d1e379">
+               <lb ed="#C" n="30"/>¶ Dubitatur: an christs habuit angelos custodes: 
+   </p>
+            <p xml:id="jb2v19-d36747-d1e384">
+               <lb ed="#C" n="31"/>¶ Secundo dubitatur: an angelus malus potest prauas 
+      <lb ed="#C" n="32"/>affectiones causare in nobis:
+   </p>
+            <p xml:id="jb2v19-d36747-d1e392">
+      ¶ Ad primum dicitur quod non 
+      <lb ed="#C" n="33"/>custodiri dicit custoditum lapsum / vel labilem. et diot 
+      in<lb ed="#C" n="34" break="no"/>digentiam in custodito. mon hoc non conuetebat. 
+      chro<lb ed="#C" n="35" break="no"/>nec nature assumpte ab eo. bene aut habuit 
+      agelos<lb ed="#C" n="36" break="no"/>minstros: vt patet Mat. 4. Accesserunt angeli et 
+      mini<lb ed="#C" n="37" break="no"/>strabant ei.
+   </p>
+            <p xml:id="jb2v19-d36747-d1e405">
+      ¶ Sed contra hoc arguitur. Luce. 22. dtum: Apparuit 
+      <lb ed="#C" n="38"/>ei angelus de celo confortans eum. et confortatio quadam 
+      <lb ed="#C" n="39"/>custodia est. et prsaeo. d0. ditur. Angelis suis mandauit d 
+      <lb ed="#C" n="40"/>te: vt custodiat te in omnibus viis tuis.
+   </p>
+            <p xml:id="jb2v19-d36747-d1e414">
+      ¶ Ad primum 
+      <lb ed="#C" n="41"/>ditur: duplex est confortatio: quedam potestatiua. et illa 
+      <lb ed="#C" n="42"/>est eminentior in confortante quod in confortato. talis 
+      con<lb ed="#C" n="43" break="no"/>fortatio non erat in chrsto. Alia es confortatio mister 
+      <lb ed="#C" n="44"/>alis: et de illa loquitur Lucas. et hoc factum est: vt oste 
+      <lb ed="#C" n="45"/>datur huanitas in christo: qui confortabatur contra tristiciam 
+      <lb ed="#C" n="46"/>insurgentem in parte sensitiua ex apprehensione 
+      mortis<lb ed="#C" n="47" break="no"/>imminentis. et hoc est quod glo. interli. dt: sicut perper nos 
+      <lb ed="#C" n="48"/>tristis est: necesse est vt perper nos confortatus sit. nec 
+      e<lb ed="#C" n="49" break="no"/>gebat angelo custode perper mortem: quia sua sponte se 
+      <lb ed="#C" n="50"/>holocaustum obtulit pro nobis: secundum illud Esaye. 3553. 
+      <lb ed="#C" n="51"/>oblatus est quia voluit. et Ioh. 10. ego pono animam 
+      <lb ed="#C" n="52"/>meam: et iterum sumo eam: nemo eam tollit a me: sed ego 
+      <lb ed="#C" n="53"/>pono eam a meiprso. et quae sequuntur.
+   </p>
+            <p xml:id="jb2v19-d36747-d1e445">
+      ¶ Ad illud 
+      psalmi<lb ed="#C" n="54" break="no"/>ste dicitur quod non intelligitur de capite christi prper se: sed propter 
+      <lb ed="#C" n="55"/>sua membra.
+   </p>
+            <p xml:id="jb2v19-d36747-d1e452">
+      ¶ Ad 2. dubium dicitur quod angelus malus 
+      <lb ed="#C" n="56"/>non potest immediate causare aliquas qualitates in anima 
+      no<lb ed="#C" n="57" break="no"/>stra: nec obiectiue intuitiue: nec aliter. pro hoc 
+      statu<lb ed="#C" n="58" break="no"/>non est obmn intuitiue nostre. Et si obmen esset: aliter 
+      nul<lb ed="#C" n="59" break="no"/>lam noticiam vel actum voluntatis in animam nostram 
+      <lb ed="#C" n="60"/>care potest. sicut in distinctione superiori minus rationabile
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>putauimus quod angelus auditionem causet in angelo 
+      <lb ed="#C" n="62"/>quia sic demo tristiciam / iram / et odium posset causare in 
+      an<lb ed="#C" n="63" break="no"/>gelos beatos: nisi deus impediret. et in damnatos. 
+      <lb ed="#C" n="64"/>hoc non ded poni. et quicquid sit de angelulr: nullam 
+      quaeli<lb ed="#C" n="65" break="no"/>tatem potest care in animam informantem corpus potissimum 
+      <lb ed="#C" n="66"/>mortale. demon tamen potest ludificare sensus huimos: 
+      <lb ed="#C" n="67"/>ponendo inter nos et visibile obmen opacum impediti 
+      <lb ed="#C" n="68"/>uum illius visibilis: potest ponere varios colores 
+      iux<lb ed="#C" n="69" break="no"/>ta se quod appareant plures: sicut in Iride: in cauda 
+      <lb ed="#C" n="70"/>pauonis: vel in collo columbe. Uidemus etiam quod vnus 
+      <lb ed="#C" n="71"/>pannus delicatus positus super alium causat alium colorem. 
+      <lb ed="#C" n="72"/>Siliter potest mutare receptiua specierum.
+   </p>
+            <p xml:id="jb2v19-d36747-d1e494">
+      ¶ Dubium est 
+      <lb ed="#C" n="73"/>apud multos: an potest mutare visionem et spens 
+      visi<lb ed="#C" n="74" break="no"/>uas de sorte in platonem non ponendo accesens d 
+      sub<lb ed="#C" n="75" break="no"/>iecto in submum: sed ipsum variando cum suo subiecto: 
+      <lb ed="#C" n="76"/>sed ponendo quod subm primum visionis est aggregatum 
+      <lb ed="#C" n="77"/>ex corpore partiali et anima intellectiua: sine corruptione 
+      <lb ed="#C" n="78"/>subiecti hoc facere nequit. Etiam illo dato: cecus 
+      na<lb ed="#C" n="79" break="no"/>turaliter potest videre in sensu composito contra arist. 
+      <lb ed="#C" n="80"/>I. poste. et hoc modo fiunt fascinationes. 18 de ci. dei. 
+      <lb ed="#C" n="81"/>c. 17. Augustinus refert varronem narrare quod quedam 
+      <lb ed="#C" n="82"/>maga socios vlissis mutauit in bestias: et tamen ita non 
+      <lb ed="#C" n="83"/>erat secundum veritatem: cui quadrat illud poete Car: 
+      <lb ed="#C" n="84"/>minibus Circe socios mutauit vlissis. Et 
+      conso<lb ed="#C" n="85" break="no"/>nat glosa interli. ad Gala 3. O insensati 
+      galathe<lb ed="#C" n="86" break="no"/>quis vos fascinauit vitati non obedire: vbi glosa vt 
+      <lb ed="#C" n="87"/>quod ante oculos est / non videatis interdum est per malos 
+      <lb ed="#C" n="88"/>humores oculos inficere: secundum illud Uergil in 
+      bu<lb ed="#C" n="89" break="no"/>co. Nescio quis teneros oculus michi fascinat 
+      ag<lb ed="#C" n="90" break="no"/>nos. Cum arte ioculatoria grauem trabem videatur 
+      tra<lb ed="#C" n="91" break="no"/>here gallus. et exectentes in cena videntur decollati. 
+      <lb ed="#C" n="92"/>domus vacua / serpentibus / ac illusione easdem referta 
+      <lb ed="#C" n="93"/>videatur. quaere hoc negabitur a callido demone: Si 
+      <lb ed="#C" n="94"/>per naturas herbarum et lapidum apud Albertum / et 
+      ali<lb ed="#C" n="95" break="no"/>os miranda narrantur posse fieri. Hos effectus 
+      in<lb ed="#C" n="96" break="no"/>comperabiliter melius nouit altioris speciei angelus. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

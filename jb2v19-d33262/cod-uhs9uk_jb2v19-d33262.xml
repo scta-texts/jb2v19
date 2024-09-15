@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="56-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d33262"><!-- l2d9q1 -->
+            <head xml:id="jb2v19-d33262-Hd1e101">Quaestio 1</head>
+            <head xml:id="jb2v19-d33262-Hd1e103" type="question-title">Utrum  omnes homines salvandi assumantur ad novem angelorum ordines</head>
+            <p xml:id="jb2v19-d33262-d1e106">
+               <lb ed="#C" n="115"/>N hac nona distinctione magister loquitur 
+      <lb ed="#C" n="116"/>de angelorum ordinibus. circa quam 
+      distin<lb ed="#C" n="117" break="no"/>ctionem quaettuor faciam.
+   </p>
+            <p xml:id="jb2v19-d33262-d1e115">
+      ¶ Primo quaerens si 
+      <lb ed="#C" n="118"/>omnes homines saluandi assumantur ad 
+      no<lb ed="#C" n="119" break="no"/>uem angelorum ordines:
+   </p>
+            <p xml:id="jb2v19-d33262-d1e122">
+      ¶ Secundo: an 
+      <lb ed="#C" n="120"/>angeli superiores illuminent inferiores:
+   </p>
+            <p xml:id="jb2v19-d33262-d1e128">
+      ¶ Tertio:
+      <pb ed="#V" n="56-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>an angelus sibi relictus potest secreta alterius 
+      ange<lb ed="#C" n="2" break="no"/>li intueri.
+   </p>
+            <p xml:id="jb2v19-d33262-d1e139">
+      ¶ Quarto de angelorum loquutione. 
+      pri<lb ed="#C" n="3" break="no"/>mum manebit pro quaestionis titulo iam dictum: 
+      solun<lb ed="#C" n="4" break="no"/>mutando verbum modi comnuniunctiui in verbum 
+      indica<lb ed="#C" n="5" break="no"/>ui modi. pro cuius intelligentia premittam aliqua 
+      <lb ed="#C" n="6"/>postea ad titulum quaestionis responsurus.
+   </p>
+            <p xml:id="jb2v19-d33262-d1e150">
+      ¶ Notabis 
+      <lb ed="#C" n="7"/>ex beato Dionysio de celesti hierarchia Nouem 
+      <lb ed="#C" n="8"/>sunt angelorum ordinens. tres permam angelorum hicrar 
+      <lb ed="#C" n="9"/>chia complet. tres media: totidem infima. rursus quaelibes 
+      <lb ed="#C" n="10"/>hierarchia in numero agelo rum ternario diuiditur sper 
+      <lb ed="#C" n="11"/>per ternarium partitio ad similitudinem increate 
+      san<lb ed="#C" n="12" break="no"/>te trinitatis et ierarchie super celestis. sacer est 
+      nu<lb ed="#C" n="13" break="no"/>merus ternarius etiam apud gentiles. Necte tribus 
+      <lb ed="#C" n="14"/>modis numero deus impare gaudet: inquit poneta 
+      <lb ed="#C" n="15"/>Et nouenarius est numerus quadratus ex tribus 
+      <lb ed="#C" n="16"/>trigonis conflatus. prima ierarchia secundum beatum 
+      <lb ed="#C" n="17"/>dionysium in tribus ordinibus complet / seraphin / 
+      cherubin<lb ed="#C" n="18" break="no"/>throni 2. dominationes / principatus / et ptates / complent / 
+      <lb ed="#C" n="19"/>virtutes archangeli / et angeli / infimam ierarchiam 
+      <lb ed="#C" n="20"/>conflant. singuli ordines / a gratuitis quae excellenter 
+      ha<lb ed="#C" n="21" break="no"/>bent denomninantur. primi ab optimo dono 
+      gratuito<lb ed="#C" n="22" break="no"/>nominantur: scilicet ardore charitatis: scilicet seraphin. de 
+      <lb ed="#C" n="23"/>btintudine non est sermo: licet inter omnes angelos sint 
+      <lb ed="#C" n="24"/>magis beati angeli de ordine seraphin ratio 
+      btintu<lb ed="#C" n="25" break="no"/>do est omnibus eis communis. et per consequens per eam 
+      no<lb ed="#C" n="26" break="no"/>bis de angelis nichil innotesceret. cherubin a 
+      scien<lb ed="#C" n="27" break="no"/>tia. maius est charitate ardere quam scire. thronns 
+      <lb ed="#C" n="28"/>sedes interpretatur. in quo ordine videtur deus sedere si 
+      <lb ed="#C" n="29"/>cut exponit btus gregorius. quia per eos deus iudicia 
+      <lb ed="#C" n="30"/>decernit atque informat. et magis est scire quam 
+      iudi<lb ed="#C" n="31" break="no"/>care. Dicit magister. scientia naque in forma iudicium. 
+      <lb ed="#C" n="32"/>dominationes vocantur / quae principatus et partantes 
+      transcen<lb ed="#C" n="33" break="no"/>dunt. principatus / quae sibi subiectis de agendis 
+      dispo<lb ed="#C" n="34" break="no"/>nunt ad explenda diuina mysteria. Ptates nominantur 
+      <lb ed="#C" n="35"/>hi qui hoc ceteris potentius in suo ordine acceperunt vt 
+      <lb ed="#C" n="36"/>virtutes aduerse eis subiecte eorum refrenatur 
+      po<lb ed="#C" n="37" break="no"/>testates: ne homies tantum temptare valeant quantum 
+      desi<lb ed="#C" n="38" break="no"/>derant. vrtutes vocantur illi per quos miracula et signa 
+      <lb ed="#C" n="39"/>frequenter fiunt. archangeli quae maiora: ageli quae 
+      mino<lb ed="#C" n="40" break="no"/>ra nunciant.
+   </p>
+            <p xml:id="jb2v19-d33262-d1e226">
+      ¶ Preterea considera quod angeli de suprima 
+      <lb ed="#C" n="41"/>ierarchia sunt conuersi. circa deum et in eo contemplanti 
+      <lb ed="#C" n="42"/>et ei assistunt et illuminant medios et medii 
+      infi<lb ed="#C" n="43" break="no"/>mos. cap iii. secundi eadem ponens damascenus hoc 
+      au<lb ed="#C" n="44" break="no"/>ctoritate bti dionysii probat. exemplum. sicut vides 
+      <lb ed="#C" n="45"/>cum rege sunt pauci aulici continuo assistentes regi 
+      con<lb ed="#C" n="46" break="no"/>sultantes de omnibus agendis: de quorum consilio regis edi 
+      <lb ed="#C" n="47"/>cta singula prodeunt. sicut hester primo scribitur de 
+      sep<lb ed="#C" n="48" break="no"/>tem ducibus persarum qui semper videbant faciem regis 
+      as<lb ed="#C" n="49" break="no"/>sueri. cape manuductionem in parte per hoc quod est 
+      re<lb ed="#C" n="50" break="no"/>gis lateri adherere consilio neglecto. deus non est 
+      ali<lb ed="#C" n="51" break="no"/>cuius consilii indignus. Secundi sunt in curia magni et 
+      <lb ed="#C" n="52"/>proximi post istos primos qui capiunt decreta primorum 
+      <lb ed="#C" n="53"/>et ea extremis officiariis indicant. et extremi per 
+      vr<lb ed="#C" n="54" break="no"/>bes varias regni regis edicta enunciant.
+   </p>
+            <p xml:id="jb2v19-d33262-d1e259">
+      ¶ his 
+      pre<lb ed="#C" n="55" break="no"/>missis accedendo ad quaestionis titulum. non intelligimus 
+      <lb ed="#C" n="56"/>de homimbus assumendis ad angelorum officia: sed ad 
+      si<lb ed="#C" n="57" break="no"/>miles btintudines cum eis. pono conclusiones
+   </p>
+            <p xml:id="jb2v19-d33262-d1e268">
+      ¶ Quarum 
+      <lb ed="#C" n="58"/>prima est. aliqui sunt homines super nouem angelorum ordines in 
+      <lb ed="#C" n="59"/>btintudine. Probatio de vno homine. scilicet christo: cui non est 
+      <lb ed="#C" n="60"/>datus spiritus ad mensuram. quod plenius in xiii. disficti.
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>tertii tango: quod gratia anime christi est infinita in gradu: et sic 
+      <lb ed="#C" n="62"/>sua btitudo. de btam virgie quae est exaltata super 
+      cho<lb ed="#C" n="63" break="no"/>ros agelorum vt canit eccua: es mihi vosi e Ioanes 
+      <lb ed="#C" n="64"/>baptista / apostoli ecclie bases / doctorgetium / et multi 
+      <lb ed="#C" n="65"/>alii fideles viri qui deo ruierunt in vita / nullis agelis 
+      <lb ed="#C" n="66"/>sunt inferiorens in permio. quod facile suadetur ex 
+      eoru<lb ed="#C" n="67" break="no"/>probatione / et optia vita
+   </p>
+            <p xml:id="jb2v19-d33262-d1e295">
+      ¶ Secuda conclusto. miti 
+      <lb ed="#C" n="68"/>erunt homines qui non assumentur ad aliquem agelorum 
+      ore<lb ed="#C" n="69" break="no"/>Probatur. assumi ad eorum ordinem in proposito est 
+      assu<lb ed="#C" n="70" break="no"/>mi ad equele praimium cum eis. sed multi erunt homines qui 
+      an<lb ed="#C" n="71" break="no"/>gelorum praemia non attingent. probatio in primis de omnibus 
+      <lb ed="#C" n="72"/>paruulis circuncisis / baptisatis / et morientibus in 
+      sa<lb ed="#C" n="73" break="no"/>cramentis legis nostre vel in fide parentum more aliorum. 
+      <lb ed="#C" n="74"/>alii solum gratiam sacramentalem habent. et glinam 
+      <lb ed="#C" n="75"/>solum illi respondentem ageli bti creati st in magna 
+      <lb ed="#C" n="76"/>gratia: et vt apparet secundum eorum naturalia: hoc est 
+      <lb ed="#C" n="77"/>suprmi plus gratiae acceperunt quam infimi. et cum hoc mltum 
+      <lb ed="#C" n="78"/>meriti sunt: licet in breui tempore: vt in distinctione. v. iam 
+      dixi<lb ed="#C" n="79" break="no"/>mus. et quod isti erunt milti non est dubium. quod fuerunt ab 
+      or<lb ed="#C" n="80" break="no"/>be condito et ante diem iudicii qui morientur et mortui sunt 
+      <lb ed="#C" n="81"/>ante discretionem. idem patet de multis adultis: aliquibus 
+      <lb ed="#C" n="82"/>puta gentilibus qui veniunt ad fidem in fine vite qui steterit 
+      <lb ed="#C" n="83"/>in infidelitate. milti tales capientes sacramenta vel 
+      sa<lb ed="#C" n="84" break="no"/>cramenta capere volentes non veniunt ad angelorum 
+      pre<lb ed="#C" n="85" break="no"/>mium. hoc idem patet de multis adultis fidelibus 
+      mo<lb ed="#C" n="86" break="no"/>rientibus in iuuentute per iiii. vel. v. anos discretionis: 
+      <lb ed="#C" n="87"/>immo in quarto anno vel quinto anno post 
+      ba<lb ed="#C" n="88" break="no"/>ptismum qui diu male viuunt in vitiorum collunie: 
+      demun<lb ed="#C" n="89" break="no"/>praenima ducti acquirunt gloriam.
+   </p>
+            <p xml:id="jb2v19-d33262-d1e345">
+      ¶ Tertia conclusio: 
+      ho<lb ed="#C" n="90" break="no"/>mines assumuntur ad omnium agelorum ordines. in 
+      o<lb ed="#C" n="91" break="no"/>ca non sto. dicat iuuenculus (si voluerit) ad omntue ordi 
+      <lb ed="#C" n="92"/>nes agelorum assumut homines. patet mathe 22. de ele 
+      <lb ed="#C" n="93"/>ctis. erunt sicut angeli dei. et gregorius homelia. 3 4. 
+      <lb ed="#C" n="94"/>super euangelia dicit omnes assumendos ad ordines 
+      <lb ed="#C" n="95"/>angelorum. hoc tet glesa Luce. 15 quae mulier habens 
+      <lb ed="#C" n="96"/>dragmas decem. decem mulier habuit. cum nouem 
+      ordien<lb ed="#C" n="97" break="no"/>uibus agelorum additus est decimus vt compleretur nume 
+      <lb ed="#C" n="98"/>rus electorum. et patet ratione. aliqui homines plus meriti 
+      <lb ed="#C" n="99"/>sunt quam aliqui angeli. licet christs habeat praiemium btinficum gra 
+      <lb ed="#C" n="100"/>tis: virgo meritis primium acquisiuit: de qua ecclina 
+      ca<lb ed="#C" n="101" break="no"/>nit quae est ista quae ascendit super choros agelorum. 
+      Ioan<lb ed="#C" n="102" break="no"/>nes baptista / paulus / apostli / et partriarche licet ad eam 
+      <lb ed="#C" n="103"/>non partigerint: tamen est mihi mltum verisile quod agelorum 
+      <lb ed="#C" n="104"/>prauci vel nulli tantum meriti sunt. aliqui homines non tantum 
+      <lb ed="#C" n="105"/>meriti sunt: et aliqui equaeliter. rursus varii homines 
+      habe<lb ed="#C" n="106" break="no"/>bunt equelia praimia. ergo homines et angeli.
+   </p>
+            <p xml:id="jb2v19-d33262-d1e384">
+      ¶ Si dicas 
+      Ec<lb ed="#C" n="107" break="no"/>clesia de confessoribus canit. non est inuentus similis illi qui 
+      <lb ed="#C" n="108"/>conseruaret legem excelsi. Respondetur dupliter. tum primo. hoc 
+      <lb ed="#C" n="109"/>de moyse ad litam dicitur. 2. vnus vnomo legem dei 
+      ad<lb ed="#C" n="110" break="no"/>implet et alius alio mo. non dabis duos adequate 
+      <lb ed="#C" n="111"/>eodem modo legem dei adiplentes. licet equaliter mereant in 
+      <lb ed="#C" n="112"/>via: vt patet de facierum diuersitate in corpore huano: et 
+      <lb ed="#C" n="113"/>itineratibus romam de duobus transeuntibus per varia 
+      <lb ed="#C" n="114"/>itinera: stat eque cito romam attingere: vel equalia 
+      <lb ed="#C" n="115"/>beneficia adipisci.
+   </p>
+            <p xml:id="jb2v19-d33262-d1e406">
+      ¶ Circa hanc conclusionem 
+      moueo<lb ed="#C" n="116" break="no"/>aliquas dubitationes. Prima an angelorum ordines 
+      ma<lb ed="#C" n="117" break="no"/>nebunt distincti post diem iuditii sicut et mo.
+   </p>
+            <p xml:id="jb2v19-d33262-d1e413">
+      ¶ 
+      Respon<lb ed="#C" n="118" break="no"/>detur. non per officia. non purgabunt / perficient et illuminabut / 
+      <lb ed="#C" n="119"/>et nos custodiet: sed manebunt in eadem 
+      <lb ed="#C" n="120"/>tate praiemir
+   </p>
+            <p xml:id="jb2v19-d33262-d1e422">
+      ¶ Secundo dubitat an omnes i
+      <pb ed="#V" n="57-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>ordines sunt equae perfecti.
+   </p>
+            <p xml:id="jb2v19-d33262-d1e432">
+      ¶ Respondetur distinguendo. vel de 
+      per<lb ed="#C" n="2" break="no"/>perfectione essentiali in naturalibus: et illud est mihi 
+      probabi<lb ed="#C" n="3" break="no"/>lius. modus sancti thome in prima parte quone. 48. apud omnes 
+      <lb ed="#C" n="4"/>nisi / addictos iurare verba magistri / est inopinabi 
+      <lb ed="#C" n="5"/>lis: quod non est possibile dare plures agelos in eadem 
+      <lb ed="#C" n="6"/>specie per aliquam potentiam. vel de perfectiones accidentali 
+      <lb ed="#C" n="7"/>scilicet btintudine: opior quod non. licet omnes eiusdem speciei 
+      habe<lb ed="#C" n="8" break="no"/>bant gratiam equalem: et habitus concreatos equeles: non 
+      <lb ed="#C" n="9"/>est verosile quod omnes vsi sunt naturalibus suis et 
+      il<lb ed="#C" n="10" break="no"/>lis donis equaliter coloratur illud de nobis qui sumus 
+      <lb ed="#C" n="11"/>eiusdem speciei. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

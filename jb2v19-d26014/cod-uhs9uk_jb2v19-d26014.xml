@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 12</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 12</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="44-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d26014"><!-- l2d3q12 -->
+            <head xml:id="jb2v19-d26014-Hd1e101">Quaestio 12</head>
+            <head xml:id="jb2v19-d26014-Hd1e103" type="question-title">
+      An notitia intuitiva producatur a sola potentia, vel ab obiecto
+    </head>
+            <p xml:id="jb2v19-d26014-d1e106">
+               <lb ed="#C" n="50"/>Vndecimo quaeritur. 
+      <lb ed="#C" n="51"/>an noticia intuitiua 
+      produ<lb ed="#C" n="52" break="no"/>catur a sola potentia: vel ab 
+      <lb ed="#C" n="53"/>obiecto.
+   </p>
+            <p xml:id="jb2v19-d26014-d1e117">
+      ¶ Circa praesentem 
+      quae<lb ed="#C" n="54" break="no"/>stionem varie sunt positiones 
+      <lb ed="#C" n="55"/>vna tenet quod producitur 
+      no<lb ed="#C" n="56" break="no"/>ticia intuitiua a sola poten- 
+      <lb ed="#C" n="57"/>tia: alia a solo obiecto. Tertia ab obiecto et 
+      poten<lb ed="#C" n="58" break="no"/>tia simul. et hec via est communior et apparentior. 
+   </p>
+            <p xml:id="jb2v19-d26014-d1e130">
+               <lb ed="#C" n="59"/>¶ Pro solutione questionis pono conclusiones ali¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="60"/>quas: quarum prima erit: non potest defendi quod 
+      so<lb ed="#C" n="61" break="no"/>la potentia producat noticiam intuitiuam. Secunda 
+      <lb ed="#C" n="62"/>conclusio: difficile est probare seclusa auctoritate 
+      <lb ed="#C" n="63"/>quod potentia vllam efficientiam habeat respectu noticie 
+      <lb ed="#C" n="64"/>intuitiue. facile dicetur quod obiectum vel eius 
+      speci<lb ed="#C" n="65" break="no"/>es se solo in genere cause efficientis producit 
+      no<lb ed="#C" n="66" break="no"/>ticiam intuitiuam: sicut producit species in sensu: 
+      <lb ed="#C" n="67"/>sine concursu sensus. et potentia concurrat in 
+      ge<lb ed="#C" n="68" break="no"/>nere cause materialis solum suscipiendo ipsam 
+      qua<lb ed="#C" n="69" break="no"/>litatem. Tertia conclusio non obstante noticia 
+      in<lb ed="#C" n="70" break="no"/>tuitiua producitur tam a potentia quam ab obiecto. 
+   </p>
+            <p xml:id="jb2v19-d26014-d1e162">
+               <lb ed="#C" n="71"/>¶ Prima conclusio probatur. da oppositum: sola 
+      po<lb ed="#C" n="72" break="no"/>tentia producit noticiam intuitiuam: et potentia est 
+      <lb ed="#C" n="73"/>agens naturale. ergo semper producit noticiam 
+      in<lb ed="#C" n="74" break="no"/>tuitiuam: omne agens naturale totale sufficiens agit 
+      <lb ed="#C" n="75"/>in passum dispositum. Insuper: si sola potentia 
+      pro<lb ed="#C" n="76" break="no"/>ducit noticiam intuitiuam. et non est maior ratio quod 
+      <lb ed="#C" n="77"/>producat noticiam a. obiecti quam b. obiecti: aut b. 
+      ob<lb ed="#C" n="78" break="no"/>iecti quam c. obiecti. ergo omnem noticiam intuitiuam 
+      <lb ed="#C" n="79"/>possibilem se sola producit: quod non est dicendum. 
+      <lb ed="#C" n="80"/>nec valet dicere requiritur presentia obiecti tanquam causa 
+      <lb ed="#C" n="81"/>sine qua non ad hoc quod sensus / vel intellectus 
+      pro<lb ed="#C" n="82" break="no"/>ducat noticiam intuitiuam: et obiectum nullam 
+      effi<lb ed="#C" n="83" break="no"/>cientiam habet: cuius sine obiecto nequit noticia 
+      <lb ed="#C" n="84"/>intuitiua produci: nec videtur quod sit solum dispositio 
+      <lb ed="#C" n="85"/>prerequisita: quia sic negabitur omnis causalltas 
+      <lb ed="#C" n="86"/>ergo obiectum mediate vel immediate concurrit ad 
+      <lb ed="#C" n="87"/>productionem notice intuitiue. Item: sicut 
+      sensibi<lb ed="#C" n="88" break="no"/>le ad sensum sic intelligibile ad intellectum ii de anima 
+      <lb ed="#C" n="89"/>sed sensibile per se producit sensationem in sensum. 
+      er<lb ed="#C" n="90" break="no"/>go et intellgibile producit noticiam intellectiuam 
+      <lb ed="#C" n="91"/>in intellectum.
+   </p>
+            <p xml:id="jb2v19-d26014-d1e210">
+      ¶ Pro secunda conclusione volo 
+      <lb ed="#C" n="92"/>dicere: potest quis cum magno colore dicere quod 
+      <lb ed="#C" n="93"/>obiectum sine concursu potentie producit noticiam 
+      <lb ed="#C" n="94"/>ita quod potentia solum concurrit in genere causae 
+      ma<lb ed="#C" n="95" break="no"/>terialis ad productionem noticie. patet. soluendo 
+      ra<lb ed="#C" n="96" break="no"/>tiones gratia disputationis que aliquid 
+      apparen<lb ed="#C" n="97" break="no"/>tie habent. quarum vna est: operatio vitalis necessario 
+      <lb ed="#C" n="98"/>causatur a forma vitali. sed intellectio est operatio 
+      <lb ed="#C" n="99"/>vitalis igitur. Secundo arguitur: ex illo sequitur 
+      <lb ed="#C" n="100"/>quod angelus nullam habet cognitionem de nouo de 
+      ob<lb ed="#C" n="101" break="no"/>iecto praesente: cum obiectum est equaliter praesens: si 
+      no<lb ed="#C" n="102" break="no"/>ticia producatur a solo obiecto vel specie eius. 
+      <lb ed="#C" n="103"/>Tertio: tunc actus reflexus causatur ab actu 
+      re<lb ed="#C" n="104" break="no"/>cto naturaliter: et primus reflexus / alium reflexum 
+      <lb ed="#C" n="105"/>causabit: nec vnquam erit status quousque infiniti 
+      ac<lb ed="#C" n="106" break="no"/>tus erunt in intellectu: quod est contra experientiam 
+   </p>
+            <p xml:id="jb2v19-d26014-d1e245">
+               <lb ed="#C" n="107"/>¶ Primum argumentum nichil concludit. operatio 
+      vi<lb ed="#C" n="108" break="no"/>talis causatur ab obiecto quod non est vitale. ergo non 
+      <lb ed="#C" n="109"/>est de ratione operationis vitalis quod causetur a causa vitali. sed 
+      <lb ed="#C" n="110"/>sat est quod inhereat vite: vel forme quae est apta nata 
+      <lb ed="#C" n="111"/>viuificare: vel forme abstracte.
+   </p>
+            <p xml:id="jb2v19-d26014-d1e258">
+      ¶ Secundum 
+      argumen<lb ed="#C" n="112" break="no"/>tum non mouet. eodem modo concludit tenendo 
+      <lb ed="#C" n="113"/>oppositum. obiectum mere naturaliter concurrit ad 
+      pro<lb ed="#C" n="114" break="no"/>ductionem noticie. et intellectus etiam mere 
+      naturali<lb ed="#C" n="115" break="no"/>ter concurrit ad productionem noticie. ergo oportet 
+      arguen<lb ed="#C" n="116" break="no"/>tes dare causam: quare interdum ille cause naturales non 
+      pro<lb ed="#C" n="117" break="no"/>ducunt noticiam: et ita nobis sufficit. Tertium 
+      argumen<lb ed="#C" n="118" break="no"/>tum tantum mouet contra aduersarios: actus rectus et 
+      in<lb ed="#C" n="119" break="no"/>tellectus sunt causae naturales naturaliter causante. ergo si sunt
+      <pb ed="#V" n="45-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>cause naturales et sufficientes respectu actus refle 
+      <lb ed="#C" n="2"/>xi semper causabunt actum reflexum: nec cessabunt 
+      <lb ed="#C" n="3"/>quousque tot actus causauerint quot causare 
+      pos<lb ed="#C" n="4" break="no"/>sune si eant ad liberum concursum voluntatis: 
+      <lb ed="#C" n="5"/>hoc nobis sufficit. et difficultas est communis. 
+   </p>
+            <p xml:id="jb2v19-d26014-d1e293">
+               <lb ed="#C" n="6"/>¶ Quarto arguitur: albedo tunc vel eius species 
+      <lb ed="#C" n="7"/>erit causa totalis noticie intuitiue quae habetur de al 
+      <lb ed="#C" n="8"/>bedine. sed hoc non quod patet. albedo est causa 
+      <lb ed="#C" n="9"/>equiuoca et semper causa equluoca: totalis 
+      potis<lb ed="#C" n="10" break="no"/>simum: debet prestare suo effectui. sed albedo / qua 
+      <lb ed="#C" n="11"/>litas corporalis vel species eius / extensa in aere non 
+      <lb ed="#C" n="12"/>est ita perfecta sicut noticia intuitua. ergo 
+      opor<lb ed="#C" n="13" break="no"/>tet dicere etiam anima concurrit partialiter effectiue. 
+   </p>
+            <p xml:id="jb2v19-d26014-d1e313">
+               <lb ed="#C" n="14"/>¶ Quinto arguitur. forma quanto est perfectior 
+      tan<lb ed="#C" n="15" break="no"/>to est actiuior. propterea elementum ignis arguitur 
+      <lb ed="#C" n="16"/>nobilius ceteris elementis. sed intellectus est 
+      perfe<lb ed="#C" n="17" break="no"/>ctior quom forma elementorum. ergo intellectus potest 
+      <lb ed="#C" n="18"/>agere ad productionem noticie in eo.
+   </p>
+            <p xml:id="jb2v19-d26014-d1e327">
+      ¶ Ad quartum 
+      di<lb ed="#C" n="19" break="no"/>citur sicut de vermibus strabonibus et multis 
+      ani<lb ed="#C" n="20" break="no"/>malibus genitis a celo et influentiis celestibus. 
+      <lb ed="#C" n="21"/>et non datur totalis causa equiuoca perfectior his 
+      <lb ed="#C" n="22"/>animalibus / nisi includendo deum: cum quodlibet viuens 
+      <lb ed="#C" n="23"/>sit non viuente nobilius. ergo licet albedo vel eius 
+      <lb ed="#C" n="24"/>species quae est imperfectior noticia intellectiua vel 
+      sen<lb ed="#C" n="25" break="no"/>sit2sit totalis causa secunda in productione non 
+      <lb ed="#C" n="26"/>ticie: non habetur inconueniens: cum hoc extra hanc 
+      ma<lb ed="#C" n="27" break="no"/>teriam contingit: vt patet in. xii. distinctione quarti. 
+   </p>
+            <p xml:id="jb2v19-d26014-d1e349">
+               <lb ed="#C" n="28"/>¶ Ad quintum argumentum instatur. nec homo 
+      gene<lb ed="#C" n="29" break="no"/>rat hominem quo ad animam intellectiuam / nec angelus 
+      <lb ed="#C" n="30"/>angelum. et tamen prestant elementis.
+   </p>
+            <p xml:id="jb2v19-d26014-d1e358">
+      ¶ Sexto 
+      argui<lb ed="#C" n="31" break="no"/>tur: tunc semper anima separata intelligit se vel 
+      angel<lb ed="#C" n="32" break="no"/>intelligit se: cum ipse angelus semper sit presens in 
+      <lb ed="#C" n="33"/>ratione obiecti semper concurrit ad productionem 
+      <lb ed="#C" n="34"/>noticie quae habetur de eo.
+   </p>
+            <p xml:id="jb2v19-d26014-d1e369">
+      ¶ Illud argumentum est 
+      so<lb ed="#C" n="35" break="no"/>lutum ex dictis angelus est obiectum respectu noti 
+      <lb ed="#C" n="36"/>cie quae habetur oe ipso. et omnia creatura mere natura 
+      <lb ed="#C" n="37"/>liter obiectiue concurrit ad noticiam quae habetur 
+      de<lb ed="#C" n="38" break="no"/>ea. igitur. si ponas concursum liberum voluntatis 
+      <lb ed="#C" n="39"/>requiri ad illam noticiam producendam: hoc 
+      no<lb ed="#C" n="40" break="no"/>bis sufficit. non insisto in pluribus rationibus. 
+      ocu<lb ed="#C" n="41" break="no"/>latus potest eas obsicere contra arguentem dum pon 
+      <lb ed="#C" n="42"/>derat quorsum tendunt
+   </p>
+            <p xml:id="jb2v19-d26014-d1e389">
+      ¶ Tertia conclusio patet. 
+      <lb ed="#C" n="43"/>non est neganda causalitas a tam nobili causa nisi 
+      <lb ed="#C" n="44"/>doceatur de opposito. sed doceri non potest. 
+      Insuper<lb ed="#C" n="45" break="no"/>noticia est perfectio et salus anie. ergo dandum est 
+      prin<lb ed="#C" n="46" break="no"/>cipium intrinsecum ipsi ad illam salutem habendam. 
+      <lb ed="#C" n="47"/>Prcterea intellectus concurrit ad suam beatitudinem 
+      <lb ed="#C" n="48"/>intellectiuam. Rursus voluntas concurrit ad actus 
+      <lb ed="#C" n="49"/>voluntatis: ergo intellectus ad actus intelligendi. 
+      <lb ed="#C" n="50"/>Insuper: non alias sentire et intelligere essent 
+      actio<lb ed="#C" n="51" break="no"/>nes immanentes. amplius nono de trinitate dicit 
+      <lb ed="#C" n="52"/>Augustinus. a cognoscente et cognito paritur non 
+      <lb ed="#C" n="53"/>ticia: et commentator secundo de anima: intelligere vide 
+      <lb ed="#C" n="54"/>re et himoni: sunt vere passiones. igitur.
+   </p>
+            <p xml:id="jb2v19-d26014-d1e418">
+      ¶ Ad 
+      ar<lb ed="#C" n="55" break="no"/>gumentum quod innuitur in secunda conclusione de 
+      <lb ed="#C" n="56"/>peciebus respondetur non est idem. sensibile 
+      produ<lb ed="#C" n="57" break="no"/>cit suas species in media etiam diuersarum 
+      ratio<lb ed="#C" n="58" break="no"/>num dummodo sint diaphana sine concursu 
+      poten<lb ed="#C" n="59" break="no"/>tie. patet. color producit suas species per aerem / cristallum 
+      vi<lb ed="#C" n="60" break="no"/>trum / aquam / et huiusmodi. pupilla oculi est dia¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>phana: et organa sensuum interiorum. species 
+      in<lb ed="#C" n="62" break="no"/>telligibilis tamen producitur a fantasmate in 
+      fan<lb ed="#C" n="63" break="no"/>tasia et ab ipso intellectu. non est idem ergo de 
+      spe<lb ed="#C" n="64" break="no"/>cie sensibili et sensatione quae est terminus specierum 
+      <lb ed="#C" n="65"/>sensibilium.
+   </p>
+            <p xml:id="jb2v19-d26014-d1e448">
+      ¶ Sed dubitas cum obiectum 
+      produ<lb ed="#C" n="66" break="no"/>cit visionem vel intellectionem quare obiectum non 
+      <lb ed="#C" n="67"/>dicitur videre vel intelligere.
+   </p>
+            <p xml:id="jb2v19-d26014-d1e455">
+      ¶ Respondetur. nihil 
+      <lb ed="#C" n="68"/>dicitur videre nisi quod visionemin se suscipit et 
+      vi<lb ed="#C" n="69" break="no"/>det per illam. sic est de intellectione. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

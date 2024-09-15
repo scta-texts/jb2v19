@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 11</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 11</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="30-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d17218"><!-- l2d2q11 -->
+            <head xml:id="jb2v19-d17218-Hd1e101">Quaestio 11</head>
+            <head xml:id="jb2v19-d17218-Hd1e103" type="question-title">An angelus potest se movere localiter</head>
+            <p xml:id="jb2v19-d17218-d1e106">
+               <lb ed="#C" n="37"/>deticut ondecino. 
+      <lb ed="#C" n="38"/>an angelus potest se 
+      mouere<lb ed="#C" n="39" break="no"/>localiter. hic scias aliquos 
+      te<lb ed="#C" n="40" break="no"/>inuisse angelos nullo modo poto 
+      <lb ed="#C" n="41"/>lisse se mouere. aliqui dixerunt 
+      <lb ed="#C" n="42"/>nisi per accidens producendo 
+      mo<lb ed="#C" n="43" break="no"/>tum in corpus: ad cuius motum 
+      <lb ed="#C" n="44"/>mouetur. pro principio tenent quod nichil potest 
+      age<lb ed="#C" n="45" break="no"/>re in se et se mouere.
+   </p>
+            <p xml:id="jb2v19-d17218-d1e128">
+      ¶ Pro quaestionis solutione 
+      po<lb ed="#C" n="46" break="no"/>nitur hec conclusio angelus sine corpore potest se 
+      <lb ed="#C" n="47"/>mouere. intelligo in sensu composito. probatur 
+      <lb ed="#C" n="48"/>conclusio anlma christi descendit ad inferos in 
+      tri<lb ed="#C" n="49" break="no"/>duo: vt tenet articulus fidei: similiter angelus (
+      cor<lb ed="#C" n="50" break="no"/>pore relicto in terra cum totum suum misterium 
+      comple<lb ed="#C" n="51" break="no"/>uit) ascendit et mouetur sine corpore. igitur. 
+      Si<lb ed="#C" n="52" break="no"/>militer esavye sexto ait propheta: volauit ad 
+      me<lb ed="#C" n="53" break="no"/>vnus de seraphin. et Luce primo: missus est 
+      gabri<lb ed="#C" n="54" break="no"/>el angelus a deo in cluitatem galilee. sed dicis. hoc 
+      <lb ed="#C" n="55"/>erat in corpore assumpto. vel motus erat ab 
+      ex<lb ed="#C" n="56" break="no"/>trinseco deo vel alio angelo. propterea aliter 
+      ar<lb ed="#C" n="57" break="no"/>guitur. grauitas separata in eucharistia mouet 
+      se<lb ed="#C" n="58" break="no"/>seorsum: et leuitas mouet se seorsuim. ergo hoc non 
+      <lb ed="#C" n="59"/>est negandum ab angelo. tenet consequentia. ange¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="60"/>lus est mobilis: et habet potentiam motiuam: cum 
+      po<lb ed="#C" n="61" break="no"/>test aliud corpus vel alium angelum inferiorem 
+      moue<lb ed="#C" n="62" break="no"/>re. Forte dicis ad antecedens. celum mouet graue deorsum et 
+      <lb ed="#C" n="63"/>leue seorsum. sic dixit empedocles secundo celi. sicut 
+      <lb ed="#C" n="64"/>habetur a Philo. et commentatore commento. lxxxv. 
+      <lb ed="#C" n="65"/>Contra hoc argui. quia tunc quanto magis corpus 
+      di<lb ed="#C" n="66" break="no"/>staret a celo tanto tardius descenderet. 
+      conse<lb ed="#C" n="67" break="no"/>quens est falsum. propter maioritatem impetus 
+      <lb ed="#C" n="68"/>acquisitam et minorem resistentiam medii descendit 
+      <lb ed="#C" n="69"/>celerius: vt videre est ad experientiam consequena probatur. 
+      <lb ed="#C" n="70"/>quanto passum magis elongatur a sua causa actia 
+      <lb ed="#C" n="71"/>tanto minoratur effectus et ipse descensus. Secundo 
+      <lb ed="#C" n="72"/>sequitur. quod non velocius descendet graue maius 
+      <lb ed="#C" n="73"/>vt grossum plumbum: quam vna pluma vel frustum ligni 
+      <lb ed="#C" n="74"/>putridi. consequens est falsum: vt patet ad sensum. 
+      <lb ed="#C" n="75"/>consequena est clara: cum mobilia pure passiue se habent 
+      re<lb ed="#C" n="76" break="no"/>spectu illius descensus: et descensus ille est a celo per te. 
+      <lb ed="#C" n="77"/>igitur. has duas rationes in valore ponit 
+      Aristote<lb ed="#C" n="78" break="no"/>les primo celi commento. xcii. forte dicis. huiusmodi 
+      <lb ed="#C" n="79"/>corpora mouentur a locis effectiue ad que tendunt 
+      <lb ed="#C" n="80"/>Contra. tunc graue minus velocius debet moueri 
+      <lb ed="#C" n="81"/>quam graue maius: si grauitas actionem ad illum 
+      descen<lb ed="#C" n="82" break="no"/>sum non habeat: sed pure passiue se habeat et attra 
+      <lb ed="#C" n="83"/>ctio est a loco naturali. nec potest dici quod talis 
+      gra<lb ed="#C" n="84" break="no"/>uitas moueatur a medio. quia qua ratione 
+      moue<lb ed="#C" n="85" break="no"/>tur ab vna parte medii eadem ratonne mouebitur 
+      <lb ed="#C" n="86"/>ad aliam partem medii: immo secundum hoc debet quie 
+      <lb ed="#C" n="87"/>scere in illo medio citius quaom descendere vel 
+      ascen<lb ed="#C" n="88" break="no"/>dere. breuiter nulla est euasio nec dari potest nisi 
+      <lb ed="#C" n="89"/>dicere: quod grauitas mouet se si moueat coepus 
+      gra<lb ed="#C" n="90" break="no"/>ue: si esset separata moueret se. propter 
+      vnumquod<lb ed="#C" n="91" break="no"/>que tale et illud maius primo posteriorum: et 
+      potisssi<lb ed="#C" n="92" break="no"/>mum quando illud aliud est susceptiuum illius: sed 
+      <lb ed="#C" n="93"/>grauitas descendit vt notum est: siue per se siue 
+      per<lb ed="#C" n="94" break="no"/>accidens non refert. Preterea arguitur. angelus 
+      po<lb ed="#C" n="95" break="no"/>test inouere corpus secundum omnes. ergo potest 
+      moue<lb ed="#C" n="96" break="no"/>re angelum inferioris speciei et elusdem speciei secum. 
+      <lb ed="#C" n="97"/>ergo potest se mouere. Insuper. angelus et anima 
+      <lb ed="#C" n="98"/>concurrunt partialiter ad noticiam qua habent de a. 
+      <lb ed="#C" n="99"/>obiecto. ergo partialiter se mouet angelus. propter 
+      <lb ed="#C" n="100"/>ista teneo quod angelus potest se mouere tam motu 
+      <lb ed="#C" n="101"/>acquisitio / quam motu deperditimo. Exemplum primi. 
+      <lb ed="#C" n="102"/>quando est in parte sui loci totalis: potest se 
+      pone<lb ed="#C" n="103" break="no"/>re in totum suum locum totalem. exemplum 
+      secun<lb ed="#C" n="104" break="no"/>di quando est in parte sui loci totalis potest se 
+      pone<lb ed="#C" n="105" break="no"/>re in minorem locum totalem.
+   </p>
+            <p xml:id="jb2v19-d17218-d1e263">
+      ¶ Contra ista arguitur. 
+      <lb ed="#C" n="106"/>aristoteles. viii. Phisicorum: animal mouetur ex se: 
+      <lb ed="#C" n="107"/>graue inanimatum autem non.
+   </p>
+            <p xml:id="jb2v19-d17218-d1e271">
+      ¶ Respondetur. hoc 
+      <lb ed="#C" n="108"/>non est propterea quod graue non moueatur per 
+      gra<lb ed="#C" n="109" break="no"/>uitatem sibi intrinsecam. sed est propterea: quia animal 
+      <lb ed="#C" n="110"/>potest de nouo moueri post quietem absque hoc quod 
+      ha<lb ed="#C" n="111" break="no"/>beat motorem extrinsecum ipsum mouentem: vt dum 
+      <lb ed="#C" n="112"/>dormit: facta digestione mouetur absque motore 
+      <lb ed="#C" n="113"/>extrinseco ipso expergefacto: eius sensus et 
+      appe<lb ed="#C" n="114" break="no"/>titus potest moueri per species reseruatas in sua 
+      <lb ed="#C" n="115"/>menoria ad aliquid prosequendum vel fugiendum. et 
+      <lb ed="#C" n="116"/>hoc potest fieri de nouo absque hoc quod habeat pro tunc 
+      <lb ed="#C" n="117"/>motorem extrinsecum. licet ante habuerit: hoc non 
+      re<lb ed="#C" n="118" break="no"/>fert. et propterea animal dicitur moueri ex se. ad 
+      <lb ed="#C" n="119"/>hoc autem quod graue inanimatum moueatur: non suffi¬
+      <pb ed="#V" n="30-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>cit habuisse motorem extrinsecum: sed requi ritur 
+      de<lb ed="#C" n="2" break="no"/>prefenti habere motorem extrinsecum: quod sic patet. 
+      <lb ed="#C" n="3"/>cum graue inanimatum incipit moueri de nouo: vel 
+      <lb ed="#C" n="4"/>hoc est cum de nouo incipit esse: vel aum erat. si primum: 
+      <lb ed="#C" n="5"/>indiget motore extrinseco: scllicet generante si se 
+      <lb ed="#C" n="6"/>cundum vel ergo mouetur violente oe nouo vel 
+      na<lb ed="#C" n="7" break="no"/>turaliter. si primum: indiget motore extrinseco: si 
+      <lb ed="#C" n="8"/>naturaliter: erat impedimentum quod est ablatum. 
+      <lb ed="#C" n="9"/>sed indiget aliquo ad tollendum impedimentum. 
+      <lb ed="#C" n="10"/>et licet graue manendo super trabem que vetusta 
+      <lb ed="#C" n="11"/>te consumitur et tandem descendit graue: est aliquod 
+      <lb ed="#C" n="12"/>extrinsecum corrosiuum trabis. semper ergo graue 
+      in<lb ed="#C" n="13" break="no"/>animatum indiget motore extrinseco ad hoc quod 
+      tmo<lb ed="#C" n="14" break="no"/>ueatur: hoc est ad hoc quod ponatur dispositio ad 
+      mo<lb ed="#C" n="15" break="no"/>tum. sed ipsa grauitas mouet tam graue quom se 
+      ab<lb ed="#C" n="16" break="no"/>lato impedimento.
+   </p>
+            <p xml:id="jb2v19-d17218-d1e339">
+      ¶ Secundo arguitur: septimo 
+      phi<lb ed="#C" n="17" break="no"/>sicorum. omne quod mouetur mouetur ab alio. 
+      er<lb ed="#C" n="18" break="no"/>go angelus mouetur ab alio quam a se. propterea commen 
+      <lb ed="#C" n="19"/>tator sexto Phisicorum commento. xliiii. reprobat 
+      <lb ed="#C" n="20"/>Platonem in hoc quod dicit angelos se mouere. 
+   </p>
+            <p xml:id="jb2v19-d17218-d1e350">
+               <lb ed="#C" n="21"/>¶ Tertio arguitur. omne quod mouetur partim est in 
+      <lb ed="#C" n="22"/>termino a quo et partim in termino ad quem. et 
+      pro<lb ed="#C" n="23" break="no"/>pterea indiuisibile non mouetur secundum Aristotelem 
+      <lb ed="#C" n="24"/>sexto Phisicorum. angelus non habet partes. ergo 
+      <lb ed="#C" n="25"/>non est partim in termino as quo et partim in ter 
+      <lb ed="#C" n="26"/>mino ad quem. ergo non inouetur.
+   </p>
+            <p xml:id="jb2v19-d17218-d1e366">
+      ¶ Ad secundum Ari 
+      <lb ed="#C" n="27"/>stoteles vult habere vnum primum mouens immobile. 
+      <lb ed="#C" n="28"/>ad cuiuslibet alterius motus prlmus motor 
+      concur<lb ed="#C" n="29" break="no"/>rit. de comment atore non refert quid in illa parte 
+      di<lb ed="#C" n="30" break="no"/>cat: cum Ptlato bene dicat: ipse autem male.
+   </p>
+            <p xml:id="jb2v19-d17218-d1e377">
+      ¶ Ad 
+      <lb ed="#C" n="31"/>tertium dicitur. hoc intelligitur de illo quod est 
+      cir<lb ed="#C" n="32" break="no"/>cunscriptiue in loco. secundo. mobile cum est in 
+      medio<lb ed="#C" n="33" break="no"/>partim est in termino a quo et partim in 
+      termino<lb ed="#C" n="34" break="no"/>ad quem. hoc est. medio modo se habet ad vtrunque. 
+      <lb ed="#C" n="35"/>secus est quando est in termino a quo in esse fixo ¬ 
+      <lb ed="#C" n="36"/>vel in termino ad quem.
+   </p>
+            <p xml:id="jb2v19-d17218-d1e393">
+      ¶ Quarto. si angelus 
+      po<lb ed="#C" n="37" break="no"/>test moueri. sequitur quod magnitudo motus et tem 
+      <lb ed="#C" n="38"/>pus componuntur ex impartibilibus contra 
+      Aristote<lb ed="#C" n="39" break="no"/>lem sexto Phisicorum consequentia probatur. si 
+      indiui<lb ed="#C" n="40" break="no"/>sibile moueatur mensuraret totum spacium super quod 
+      <lb ed="#C" n="41"/>moueretur: et indiuisibilia in illo essent immediata 
+   </p>
+            <p xml:id="jb2v19-d17218-d1e407">
+               <lb ed="#C" n="42"/>¶ Respondetur illud est argumentum hibernici ad 
+      pro<lb ed="#C" n="43" break="no"/>bandum: quod angelus a nullo agente creato potest 
+      moue<lb ed="#C" n="44" break="no"/>ri: potest tamen (dicit) moueri a deo. Sed mirandum 
+      <lb ed="#C" n="45"/>est quaere in hoc argumento confidat. si argumentum 
+      pro<lb ed="#C" n="46" break="no"/>bet: quod si angelus moueatur ab agente creato: quod 
+      <lb ed="#C" n="47"/>continuum coponatur ex mpartibilibus: idem probat 
+      <lb ed="#C" n="48"/>si moueatur a deo. propterea ratio sua nullius est 
+      <lb ed="#C" n="49"/>momenti. facit quasdam alias rationes speciales: 
+      <lb ed="#C" n="50"/>an possit successiue vel subito moueri. sed rationes 
+      <lb ed="#C" n="51"/>ille nichil valent ad suum propositum: siue sic vel sic 
+      mo<lb ed="#C" n="52" break="no"/>ueantur angeli. sed de specialibus rationibus 
+      il<lb ed="#C" n="53" break="no"/>lic: post hac suturus est sermo. angelus si 
+      impar<lb ed="#C" n="54" break="no"/>tibilis est: est in loco partibili. sed difficultas est 
+      bo<lb ed="#C" n="55" break="no"/>na si possit esse semper in loco punctali: vt ita 
+      lo<lb ed="#C" n="56" break="no"/>quar: et ita maneat super lineam totam quam describit. 
+      <lb ed="#C" n="57"/>sed hoc eum non iuuat. quia pono quod deus ita faciat. 
+      <lb ed="#C" n="58"/>vel ponatur corpus perfecte sphericum super corpus 
+      <lb ed="#C" n="59"/>perfecte planum: lineam describendo in eo. si sempe¬r 
+      <lb ed="#C" n="60"/>ei respondeat vnum punctum adequate et nichil aliud
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>videtur quod linea nichil habet nisi puncta. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

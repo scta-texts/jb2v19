@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 3</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 3</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="36-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d20956"><!-- l2d3q3 -->
+            <head xml:id="jb2v19-d20956-Hd1e101">Quaestio 3</head>
+            <head xml:id="jb2v19-d20956-Hd1e103" type="question-title">&gt;
+      An notitia actualis in angelo distinguatur ab habituali vel a specie intelligibili sicut notita actualis et habitualis distinguitur ab essentia angeli
+    </head>
+            <p xml:id="jb2v19-d20956-d1e106">
+               <lb ed="#C" n="84"/>Ectdo otxet 
+      egn<lb ed="#C" n="85" break="no"/>dem materiam queritur / an non 
+      <lb ed="#C" n="86"/>ticia actualis in angelo 
+      distin<lb ed="#C" n="87" break="no"/>guatur ab habituali vel a specie 
+      <lb ed="#C" n="88"/>intelligibili sicut noticia actua 
+      <lb ed="#C" n="89"/>lis et habitualis distinguitur 
+      <lb ed="#C" n="90"/>ab esscntia angeli.
+   </p>
+            <p xml:id="jb2v19-d20956-d1e124">
+      ¶ Pro 
+      solu<lb ed="#C" n="91" break="no"/>tione questionis ponuntur tres conclusiones. Qua 
+      <lb ed="#C" n="92"/>rum prima est. ponendi sunt habitus tam in anima 
+      <lb ed="#C" n="93"/>pe in angelo.
+   </p>
+            <p xml:id="jb2v19-d20956-d1e133">
+      ¶ Secunda conclusio. habltus 
+      ol<lb ed="#C" n="94" break="no"/>stinguitur specie ab actu. hoc est: noticia habitur 
+      <lb ed="#C" n="95"/>lis a. obiectidistinguitur specie a noticia actuali 
+      <lb ed="#C" n="96"/>que habetur de codem a. obsecto.
+   </p>
+            <p xml:id="jb2v19-d20956-d1e143">
+      ¶ Tertia 
+      con<lb ed="#C" n="97" break="no"/>clusio noticia actualis a. obiecti est perfectior non 
+      <lb ed="#C" n="98"/>ticia habituali elusdem. probatur prima 
+      conclusio<lb ed="#C" n="99" break="no"/>memoramur obiecti alias intuitiue cogniti quan 
+      <lb ed="#C" n="100"/>do reuocatur ante cognitum actualiter in mentem. 
+      <lb ed="#C" n="101"/>et hoc non nisi mediante specie intelligibili / vel 
+      <lb ed="#C" n="102"/>habitu. Insuper: aliquorum intuitiue cognitoru 
+      me<lb ed="#C" n="103" break="no"/>moramur / et aliorum non memoramur. et hoc non 
+      <lb ed="#C" n="104"/>est nisi quia aliquorum manent species: aliorumque non 
+      <lb ed="#C" n="105"/>manent. Insuper: doctus dormiens habet multa 
+      <lb ed="#C" n="106"/>species quas non habet ignarus: alioquin in 
+      vigi<lb ed="#C" n="107" break="no"/>lia non potest exire in actum sui habltus citiuso 
+      <lb ed="#C" n="108"/>ignarus. ergo ponendi sunt habitus.
+   </p>
+            <p xml:id="jb2v19-d20956-d1e172">
+      ¶ 
+      Se<lb ed="#C" n="109" break="no"/>cunda conclusio probatur. actibus actualiter 
+      ten<lb ed="#C" n="110" break="no"/>dimus in obiecta: non autem habtibus. ergo actus 
+      <lb ed="#C" n="111"/>et habitus specie distinguquntur. Secundo argultur ad 
+      <lb ed="#C" n="112"/>ideni. habitus manet cessante actu quolibet: sed 
+      <lb ed="#C" n="113"/>non manet actus cessante quolibet actu. ergo 
+      a<lb ed="#C" n="114" break="no"/>ctus et habitus specie distinguuntur.
+   </p>
+            <p xml:id="jb2v19-d20956-d1e188">
+      ¶ 
+      Ter<lb ed="#C" n="115" break="no"/>tio arguiiur. habitus intellectiui ab actibus antime 
+      spe<lb ed="#C" n="116" break="no"/>cie distinguuntur. crgo actus aliorum sensuum ab 
+      habi<lb ed="#C" n="117" break="no"/>tibus eorundem specie distinguuntur. antecedens patet. 
+      <lb ed="#C" n="118"/>habitus nullo modo remittuntur nisi per 
+      contra<lb ed="#C" n="119" break="no"/>rium: et non oropter concursa actualem potentier
+      <pb ed="#V" n="36-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>hoc non contingit in actu.
+   </p>
+            <p xml:id="jb2v19-d20956-d1e208">
+      ¶ Quarto argultur. actus 
+      <lb ed="#C" n="2"/>intemperantie contrariatur actui temperantie: non autem 
+      <lb ed="#C" n="3"/>habitui temperantie. stat aliquem habitualiter 
+      inten<lb ed="#C" n="4" break="no"/>peratum habere actum temperantie vt alibi 
+      decla<lb ed="#C" n="5" break="no"/>rari habet. ergo actus et habitus specie distinguum 
+      <lb ed="#C" n="6"/>tur.
+   </p>
+            <p xml:id="jb2v19-d20956-d1e221">
+      ¶ Tertia conclusio probatur. perfectius actus 
+      con<lb ed="#C" n="7" break="no"/>iungit potentiam suo obiecto quam habitus. ergo actus 
+      <lb ed="#C" n="8"/>est habitu perfectior. Secundo arguitur ad idem. 
+      <lb ed="#C" n="9"/>actus et habitus specie distinguuntur. ergo sunt in 
+      <lb ed="#C" n="10"/>equaliter perfecti. sed habitus non est 
+      perfecti<lb ed="#C" n="11" break="no"/>or actu. Tertio: actu meremur: non autem 
+      habi<lb ed="#C" n="12" break="no"/>tu ergo actus est habitu laudabilior. Quarto 
+      ar<lb ed="#C" n="13" break="no"/>guitur. deus nobiliori modo se habet actu 
+      intelli<lb ed="#C" n="14" break="no"/>gendo et volendo se quam si soluim habitualiterillud 
+      fa<lb ed="#C" n="15" break="no"/>ceret. igitur. Quinto: beatitudo consistit in actu et 
+      <lb ed="#C" n="16"/>non in habitu sed felicitas est quid optimum et 
+      per<lb ed="#C" n="17" break="no"/>fectisssimum i. et. x. Ethicorum. maior est Aristotelis 
+      <lb ed="#C" n="18"/>in primo Ethicorum. propterea primi Ethicorum 
+      <lb ed="#C" n="19"/>vtii. sic inquit. interest autem fortasse non parum in 
+      <lb ed="#C" n="20"/>possesstone an in vsu: ac in hitu an in opatone: summum 
+      con<lb ed="#C" n="21" break="no"/>sistere bonum putare fieri enim potest vt habitus quidem 
+      <lb ed="#C" n="22"/>set si inest) nullum efficiat bonum: vt in dormiente 
+      <lb ed="#C" n="23"/>vel etiam alio modo quodam ocioso facto. vt 
+      opatio<lb ed="#C" n="24" break="no"/>autem nichil efficiat boni: fieri nequit. qui namque 
+      ope<lb ed="#C" n="25" break="no"/>ratur agit vtique necessario et bene etiam agit. at 
+      <lb ed="#C" n="26"/>quia vt in olimpia non ii qui sunt elegantissimi forma 
+      <lb ed="#C" n="27"/>prestantissimique robore. sed in qui decertant: coro 
+      <lb ed="#C" n="28"/>nis efficiuntur. ipsoru enim aliqui vincunt. sic et qui 
+      <lb ed="#C" n="29"/>bene agunt.
+   </p>
+            <p xml:id="jb2v19-d20956-d1e273">
+      ¶ Contra primam conclusionem aguitur. 
+      <lb ed="#C" n="30"/>ponende sunt species intelligibiles secundue multos. 
+      <lb ed="#C" n="31"/>sed superfluit cum speciebus poncre habitus. 
+      er<lb ed="#C" n="32" break="no"/>go.
+   </p>
+            <p xml:id="jb2v19-d20956-d1e283">
+      ¶ Secundo arguitur. si ponendi snnt habitus 
+      <lb ed="#C" n="33"/>ergo ponende sunt due noticie in eadem potentia 
+      <lb ed="#C" n="34"/>respectu eiusdem obiecti: quod est inconueniens. quia 
+      <lb ed="#C" n="35"/>altera noticiarum superfluit. Et confirmatur 
+      hoc<lb ed="#C" n="36" break="no"/>et erit tertia ratio: de superfluitate. actus est 
+      perfe<lb ed="#C" n="37" break="no"/>ctior habitu ex tertia conclusione. ergo eminenter et 
+      <lb ed="#C" n="38"/>vrtualiter habitum includit. et per consequens non 
+      <lb ed="#C" n="39"/>est ponendus habitus. tenet consequentia: non alias 
+      <lb ed="#C" n="40"/>non ponimus animam sensitiuam ab intellectua 
+      distin<lb ed="#C" n="41" break="no"/>ctam nisi quia intellectiua eminenter sensitiuam in 
+      <lb ed="#C" n="42"/>cludit.
+   </p>
+            <p xml:id="jb2v19-d20956-d1e307">
+      ¶ Ad primum repondetur concedendo quod sunt 
+      po<lb ed="#C" n="43" break="no"/>nende species intelligibiles que non sunt habitus 
+      <lb ed="#C" n="44"/>patet de speciebus multiplicatis ab obiecto 
+      sen<lb ed="#C" n="45" break="no"/>sibili per medium ad organum vsque. ille nullo modo 
+      <lb ed="#C" n="46"/>sunt habitus. proprie habitus sunt actuum vestligia. 
+      <lb ed="#C" n="47"/>si actus non precesserint non sunt habitus. sed 
+      actu<lb ed="#C" n="48" break="no"/>um vestigia: siue fuerint noticiarum siue actuum 
+      volunm<lb ed="#C" n="49" break="no"/>tatis: promouentia in actus memorandi sunt realiter 
+      <lb ed="#C" n="50"/>habitus. ab aliquibus vocantur species. nomina signi 
+      <lb ed="#C" n="51"/>ficant ad placitum. ergo alique species 
+      intelligibi<lb ed="#C" n="52" break="no"/>les identificantur cum habitibus. et idem est de 
+      ali<lb ed="#C" n="53" break="no"/>quibus speciebus sensibilibus actuum filiabus: sed 
+      <lb ed="#C" n="54"/>vltra istos habitus ponere alias species dislinctas 
+      <lb ed="#C" n="55"/>post actus genitos superfluit. nec eas pono. 
+   </p>
+            <p xml:id="jb2v19-d20956-d1e338">
+               <lb ed="#C" n="56"/>¶ Ad secundum concedo quod ponende sunt doue 
+      speci<lb ed="#C" n="57" break="no"/>es diuersarum rationum in eadem potentia 
+      respectu<lb ed="#C" n="58" break="no"/>elusdem obiecti: nec propterea altera superfluit. 
+      per<lb ed="#C" n="59" break="no"/>vnam noticiam obiectum actualiter apprehenditur. et at 
+      <lb ed="#C" n="60"/>tingitur: per aliam habitualiter vt in dormiente: qui
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>ieroecdie ecrcdiateecs 
+   </p>
+            <p xml:id="jb2v19-d20956-d1e356">
+               <lb ed="#C" n="62"/>¶ Ad tertium concedo quod actus est perfectior 
+      ha<lb ed="#C" n="63" break="no"/>bitu. nec habitum eminenter includit sicut ltellectiui 
+      <lb ed="#C" n="64"/>sensitiuum nec sicut tetragonum trigonum intellectus 
+      <lb ed="#C" n="65"/>potest exercere omnes operationes anime 
+      sensi<lb ed="#C" n="66" break="no"/>tiue quo ad actum recordandi / sentiendi 
+      auditio<lb ed="#C" n="67" break="no"/>nem visionem / nutritionem / et ceteras anime 
+      sensi<lb ed="#C" n="68" break="no"/>tiue operationes: quaere superfluit simul ponere 
+      in<lb ed="#C" n="69" break="no"/>formatiue in eadem materia duas animas distin 
+      <lb ed="#C" n="70"/>ctas quarum vna est sensitiua et alia intellectiua. 
+      <lb ed="#C" n="71"/>modo noticia intuitiua non potest supplere 
+      causa<lb ed="#C" n="72" break="no"/>litatem noticie abstractine: licet sit ea pcrfectior. 
+      ip<lb ed="#C" n="73" break="no"/>sa solum manet in presentia obiecti: et obiecto 
+      re<lb ed="#C" n="74" break="no"/>moto ipsa penitus tabeseit vel species intelligibilis 
+      <lb ed="#C" n="75"/>habitus sequens remaet in dormiente vel non 
+      <lb ed="#C" n="76"/>actualiter cogitante quae partialiter iuat 
+      produce<lb ed="#C" n="77" break="no"/>re noticiam abstractiuam recordatiuam quando cetere 
+      cau<lb ed="#C" n="78" break="no"/>se requisite sibi applicantur.
+   </p>
+            <p xml:id="jb2v19-d20956-d1e395">
+      ¶ Quarto arguitur. si 
+      <lb ed="#C" n="79"/>actus producat suam specie: sequitur quot sunt actus 
+      <lb ed="#C" n="80"/>tot erunt species vel habitus in intellecto: conse 
+      <lb ed="#C" n="81"/>quens est falsum et contra experientiam. multa 
+      inteli<lb ed="#C" n="82" break="no"/>leximus et sensiius de quibus nullo modo cogitare 
+      <lb ed="#C" n="83"/>possumus. ergo talium ntellectorum et sensatorum 
+      <lb ed="#C" n="84"/>non habemus species.
+   </p>
+            <p xml:id="jb2v19-d20956-d1e411">
+      ¶ Quinto arguitur. si actus 
+      <lb ed="#C" n="85"/>a producat habitum alterius rationis sequitur eon 
+      <lb ed="#C" n="86"/>pari ratione habitus b. producit habitum c. 
+      alte<lb ed="#C" n="87" break="no"/>rius rationis. et rursus habitus c. producit 
+      habi<lb ed="#C" n="88" break="no"/>tum alteriue rationis. et sic in abyssum
+   </p>
+            <p xml:id="jb2v19-d20956-d1e423">
+      ¶ Sexto 
+      <lb ed="#C" n="89"/>argultur. si actus producat habitum sequitur quo 
+      <lb ed="#C" n="90"/>tienscunque teratur actus producitur noua speces 
+      <lb ed="#C" n="91"/>et sic crescit habitus in abyssum per reiterationem 
+      <lb ed="#C" n="92"/>actus.
+   </p>
+            <p xml:id="jb2v19-d20956-d1e434">
+      ¶ Ad quartum doiter: sequela est nulla. potest dici 
+      <lb ed="#C" n="93"/>sola res cognita producit speciem: vt quando est 
+      <lb ed="#C" n="94"/>reflexa alicuius noticie: illa reflexa speciem noti 
+      <lb ed="#C" n="95"/>cie cognite relinquit. sic obiectum ad extra 
+      cogni<lb ed="#C" n="96" break="no"/>tum relinquit suam speciem. modo non quilibet 
+      <lb ed="#C" n="97"/>actus intellectus est coguitus.
+   </p>
+            <p xml:id="jb2v19-d20956-d1e447">
+      ¶ Ad quintum etiam 
+      <lb ed="#C" n="98"/>nego sequelam. cum habitus est productus. ille 
+      pe<lb ed="#C" n="99" break="no"/>tialiter iuuat ad producendam noticiam actuale in 
+      absen<lb ed="#C" n="100" break="no"/>tia obiecti. propterea superfluit habere vlteriorem 
+      <lb ed="#C" n="101"/>habitum
+   </p>
+            <p xml:id="jb2v19-d20956-d1e458">
+      ¶ Ad sexium etiam nego sequelam. tat 
+      <lb ed="#C" n="102"/>quod sit species ita intense producta: quod intensior 
+      pro<lb ed="#C" n="103" break="no"/>duci non potest a tali agente vel ab agente eiuud 
+      <lb ed="#C" n="104"/>speciei si producatur ita magnus calor ab a. in b. 
+      pa<lb ed="#C" n="105" break="no"/>sum sicutc. calefactiuum potest producere: stante 
+      illo<lb ed="#C" n="106" break="no"/>calore in b. pastio: nichil producitur caloris ab 
+      in<lb ed="#C" n="107" break="no"/>so c. calefactiuo.
+   </p>
+            <p xml:id="jb2v19-d20956-d1e474">
+      ¶ Contra secundam conclusionem af 
+      <lb ed="#C" n="108"/>actus et hitus sunt respectu obiectis eiusdem: ergo sunt elus 
+      <lb ed="#C" n="109"/>dem speciei specialissime. tenet consequena. potentie 
+      distin<lb ed="#C" n="110" break="no"/>guuntur per actus: et actus per obiecta: secundo 
+      <lb ed="#C" n="111"/>de anima.
+   </p>
+            <p xml:id="jb2v19-d20956-d1e485">
+      ¶ Respondetur concedendo antecedens 
+      <lb ed="#C" n="112"/>et negando consequentiam. et ad probationem que 
+      <lb ed="#C" n="113"/>stat in auctoritate Pehicconcedo eam: que sic 
+      inteli<lb ed="#C" n="114" break="no"/>ligicur. quando actus vel qualitates alique 
+      ha<lb ed="#C" n="115" break="no"/>bent obiecta specie distincta dist inguuntur 
+      spe<lb ed="#C" n="116" break="no"/>cie: modo non oportet per locum a contraio 
+      sensu<lb ed="#C" n="117" break="no"/>quando qualitates sunt late in idem obiectum quod sint 
+      <lb ed="#C" n="118"/>eiusdem lpeciei. patet de actu intellectus et 
+      volun<lb ed="#C" n="119" break="no"/>tatis lato in idem obiectum. idem pater de ouobus 
+      <lb ed="#C" n="120"/>actibus elusdem potentie latis in idem cbiectum:
+      <pb ed="#V" n="37-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>patet tam in actibus intellectus et voluntatis. noti 
+      <lb ed="#C" n="2"/>cia intuitiua et abstractiua elusdem obiecti specie 
+      <lb ed="#C" n="3"/>differunt: similliter volitio et nolitio successiue 
+      la<lb ed="#C" n="4" break="no"/>te in idem obiectum: vel simul in duo obiecta 
+      eius<lb ed="#C" n="5" break="no"/>dem speciei otet ad idemptitatem specificam speciei 
+      spe<lb ed="#C" n="6" break="no"/>cialissime quod eodem modo tendant in sua obiecta: quod 
+      <lb ed="#C" n="7"/>in proposito minime contingit. vna actualiter 
+      ten<lb ed="#C" n="8" break="no"/>dit in suum obiectum: alia habitualiter tendit in idem. 
+   </p>
+            <p xml:id="jb2v19-d20956-d1e530">
+               <lb ed="#C" n="9"/>¶ Contra tertiam conclusionem arguitur sic. habitus 
+      <lb ed="#C" n="10"/>est diuturnior actu. ergo est nobilior actu 
+      consequen<lb ed="#C" n="11" break="no"/>tia tenet per regulam thopicam: diuturniora sunt 
+      praestan<lb ed="#C" n="12" break="no"/>tiora minus diuturnis / et propterea felicitas non 
+      <lb ed="#C" n="13"/>est momentanea. i. Ethicorun vbi(ad propositum) 
+      <lb ed="#C" n="14"/>aristoteles primi ethicorum septimo sic ait. Uer 
+      <lb ed="#C" n="15"/>enim nec vna facit irundo nec vnus dies. etc. bea. 
+      <lb ed="#C" n="16"/>tum eodem modo felicem nec vnus dies nec breue 
+      effi<lb ed="#C" n="17" break="no"/>cit tempus.
+   </p>
+            <p xml:id="jb2v19-d20956-d1e552">
+      ¶ Respondetur. diuturniora ceteris 
+      <lb ed="#C" n="18"/>paribus sunt preferenda minus diuturnis / coruus 
+      <lb ed="#C" n="19"/>ceruus et quercus oiutius viuunt quam homo. et hoc 
+      <lb ed="#C" n="20"/>atet apud aristotelem prini Ethicorum sexto 
+      capitu<lb ed="#C" n="21" break="no"/>lo dicentem. at vero neque quia perpetuum est ideo 
+      <lb ed="#C" n="22"/>magis erit bonum: si quidem neque diuturnum album 
+      <lb ed="#C" n="23"/>magis est album quam vnius album oiei.
+   </p>
+            <p xml:id="jb2v19-d20956-d1e568">
+      ¶ Secundo 
+      <lb ed="#C" n="24"/>arguitur. habitus producit actum: et est causa equi 
+      <lb ed="#C" n="25"/>uoca respectu actus. ergo est actu perfectior. 
+   </p>
+            <p xml:id="jb2v19-d20956-d1e575">
+               <lb ed="#C" n="26"/>¶ Respondetur concedendo maiorem tanquam causa 
+      <lb ed="#C" n="27"/>partialis. minor est vera: sed consequentia est 
+      nul<lb ed="#C" n="28" break="no"/>la albedo partialiter producit noticiam sui quae est 
+      <lb ed="#C" n="29"/>perfectior albedine: licet albedo in illo effectu 
+      pro<lb ed="#C" n="30" break="no"/>ducendo sit causa equiuoca. Argumentum potest 
+      <lb ed="#C" n="31"/>reduci in oppositum. actus habitum producit: et 
+      <lb ed="#C" n="32"/>est causa equoca habitus. igitur huic argumento 
+      <lb ed="#C" n="33"/>non est innitendum.
+   </p>
+            <p xml:id="jb2v19-d20956-d1e595">
+      ¶ Dubitatur: cum sint 
+      ponen<lb ed="#C" n="34" break="no"/>de species: an noticia abstractiua ad speciem 
+      ter<lb ed="#C" n="35" break="no"/>minetur vel ad rem ad extra ad quam terminaba 
+      <lb ed="#C" n="36"/>tur noticia intuitiua
+   </p>
+            <p xml:id="jb2v19-d20956-d1e604">
+      ¶ Respondetur: hic partite 
+      <lb ed="#C" n="37"/>sunt positiones. aliquibus tenentibus quod noticia 
+      <lb ed="#C" n="38"/>abstractiua primo et immediate terminatur ad 
+      spe<lb ed="#C" n="39" break="no"/>cies: mediate autem ad rem cuius est species. Alia tenet 
+      <lb ed="#C" n="40"/>quod terminatur precise ad rem ipsam ad quam 
+      ter<lb ed="#C" n="41" break="no"/>muinatur noticia intuitiua. Secundam partem 
+      te<lb ed="#C" n="42" break="no"/>neo cum ita in nobis experimur et iudicamus. cum 
+      <lb ed="#C" n="43"/>cogito de Ediburgo aciem mentis super rem 
+      ip<lb ed="#C" n="44" break="no"/>sam: puta super villam: dirigo: acsi intuitiue eam 
+      <lb ed="#C" n="45"/>comtemplarer. Tum secundo. video immediate 
+      al<lb ed="#C" n="46" break="no"/>bedinem et non species eius. sed licet iste concedat 
+      spe<lb ed="#C" n="47" break="no"/>cies in sensu et intellectu: eas videtur negare in 
+      me<lb ed="#C" n="48" break="no"/>dio de hoc in questione sequenti loquar. Tum 
+      ra<lb ed="#C" n="49" break="no"/>tiones quas aduersarii grandefaciunt magna ver 
+      <lb ed="#C" n="50"/>borum mole equaliter concludunt contra eos sicut 
+      <lb ed="#C" n="51"/>pro eis. hoc sic patet. potissima eorum ratio est: 
+      co<lb ed="#C" n="52" break="no"/>gito doe elephanto non sensato. illa cogitatio non 
+      <lb ed="#C" n="53"/>terminatur ad elephantem sensatum: quia nullius est per post 
+      <lb ed="#C" n="54"/>tum nec ad aliquem alium elephante. ergo nullo 
+      mo<lb ed="#C" n="55" break="no"/>do terminatur ad elephantem. Dico quod istud 
+      argumen<lb ed="#C" n="56" break="no"/>tum ita stringit in arguentem sicut pro eo. hoc sic 
+      decla<lb ed="#C" n="57" break="no"/>ro. talis cogitatio terminatur ad speciem per te: quaero ad 
+      <lb ed="#C" n="58"/>quam speclem. hoc est ad cuius rei speclem. non ad 
+      speciem<lb ed="#C" n="59" break="no"/>rei sensate per casum. si ad aliquam aliam alterius rei 
+      sen<lb ed="#C" n="60" break="no"/>sate. icam quod terminatr ad rem illius speciei. Item: non
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>ticia recordatiua terminatur mediate ad rem ad ex 
+      <lb ed="#C" n="62"/>tra: et redit argumentum ad quam rem ad extra 
+      me<lb ed="#C" n="63" break="no"/>diate terminatur. hoc ergo argumentum est commune 
+      pro<lb ed="#C" n="64" break="no"/>vtraque via. ergo ratione illius argumenti nemo debe 
+      <lb ed="#C" n="65"/>duci ad assentiendum. ad ipsum tamen in tertia distin 
+      <lb ed="#C" n="66"/>ctione primi respond: propterea nunc subticeo. 
+   </p>
+            <p xml:id="jb2v19-d20956-d1e675">
+               <lb ed="#C" n="67"/>¶ Secundo sic arguo pro eo. noticia recordatima 
+      ter<lb ed="#C" n="68" break="no"/>minatur ad patrem meu. ergo pter meus est.
+   </p>
+            <p xml:id="jb2v19-d20956-d1e682">
+      ¶ Rspondetur 
+      ar<lb ed="#C" n="69" break="no"/>gumentum equeliter ducam in oppositum. noticia recordati 
+      <lb ed="#C" n="70"/>aa patris terminatur ad speciem patris. ergo pater est. 
+      <lb ed="#C" n="71"/>si vna consequentia est bona pariter et alia erit. 
+      Di<lb ed="#C" n="72" break="no"/>co neutram valere. noticiam terminari ad patrem nihil 
+      <lb ed="#C" n="73"/>aliud est quam patrem intelligi per illam noticiam. et notum est 
+      <lb ed="#C" n="74"/>hec consequetia est nulla cognosco patrem / ergo 
+      pa<lb ed="#C" n="75" break="no"/>ter est.
+   </p>
+            <p xml:id="jb2v19-d20956-d1e700">
+      ¶ Tertio arguunt isti auctoritate scti An 
+      <lb ed="#C" n="76"/>gustins in de vera religione. c. lx. Si vera inquit 
+      ro<lb ed="#C" n="77" break="no"/>ma est quem circa tyberim nescio quis romulus 
+      di<lb ed="#C" n="78" break="no"/>citur condidisse: falia est illa quam cogitans fingo. 
+      <lb ed="#C" n="79"/>non em est pria: nec ibi sum modo: na ibi quid 
+      aga<lb ed="#C" n="80" break="no"/>tur modo vtique scirem. Si vnus est sol: falsus est 
+      <lb ed="#C" n="81"/>ille quem cogitans fingo. nam ille curricula sua 
+      <lb ed="#C" n="82"/>certis locis et temporibus peragit: istum vbi 
+      vo<lb ed="#C" n="83" break="no"/>lo et quando volo constituo similis est auctoritas 
+      <lb ed="#C" n="84"/>in de quantitate anime capitulo octauo: vbi 
+      Au<lb ed="#C" n="85" break="no"/>gustinus de mediolano loquens (cuius memoriam 
+      <lb ed="#C" n="86"/>habebat) sic inquit. quid igitur nunc agatur 
+      igno<lb ed="#C" n="87" break="no"/>ro: quod vtique non ignorarem si animus meus vsque 
+      <lb ed="#C" n="88"/>ad illa loca porrigeretur: presentiaque sentiret. 
+   </p>
+            <p xml:id="jb2v19-d20956-d1e731">
+               <lb ed="#C" n="89"/>¶ Quarto arguit. ista res de qua habetur memo 
+      <lb ed="#C" n="90"/>ria non est. ergo non potest esse obiectum noticie sin 
+      <lb ed="#C" n="91"/>gularis alicuius. alias nec per visionem 
+      exterio<lb ed="#C" n="92" break="no"/>rem essemus certi de existentia sui obiecti.
+   </p>
+            <p xml:id="jb2v19-d20956-d1e742">
+      ¶ Ad 
+      <lb ed="#C" n="93"/>tertiam dico: nulla auctoritas Augustini est 
+      pro<lb ed="#C" n="94" break="no"/>arguente. vult beatus Augustinus dicere: 
+      fingo<lb ed="#C" n="95" break="no"/>michi obiectum noticie mee: vtpote romam 
+      me<lb ed="#C" n="96" break="no"/>diolanum vel solem: hoc est noticia recoerdatiua 
+      mea<lb ed="#C" n="97" break="no"/>terminatur ad res illas quas esse non oportet ad 
+      <lb ed="#C" n="98"/>hoc quod obiiciatur noticie recordatiue mee. pro ¬ 
+      <lb ed="#C" n="99"/>pterea eas fingo. non autem fingo illas speciest 
+      <lb ed="#C" n="100"/>quia realiter sunt in potentia. et licet noticia mea 
+      <lb ed="#C" n="101"/>vult dicere terminetur ad mediolanum sic fictum 
+      <lb ed="#C" n="102"/>vel romam v istius noticie nescio dicere quid 
+      il<lb ed="#C" n="103" break="no"/>lic agatur. secus esset si presens essem localiter. 
+      <lb ed="#C" n="104"/>quia tunc haberem aliam noticiam: scilicet facia 
+      <lb ed="#C" n="105"/>lem vel intuitiuam virtute cuius dicere scirem quid 
+      <lb ed="#C" n="106"/>illic agatur. species ergo illa in potentia realiter 
+      <lb ed="#C" n="107"/>est et mouet potentiam ad hoc quod obiectum 
+      ap<lb ed="#C" n="108" break="no"/>prehendat actualiter.
+   </p>
+            <p xml:id="jb2v19-d20956-d1e779">
+      ¶ Ad quartum vides nullus 
+      <lb ed="#C" n="109"/>est color in consequentia. probatio eius est nulla. sensus 
+      <lb ed="#C" n="110"/>exterior non terminatur nisi ad existens: 
+      potissi<lb ed="#C" n="111" break="no"/>mum naturaliter: ita iste tenet et communis 
+      scho<lb ed="#C" n="112" break="no"/>la. secus est de sensu interioris intellectu et volun 
+      <lb ed="#C" n="113"/>tate: que terminantur tam ad existens quo non 
+      exi<lb ed="#C" n="114" break="no"/>stens. odus tamen hominum est dicere homo 
+      <lb ed="#C" n="115"/>conuertit se ad suas species: non quod actualis 
+      cogi<lb ed="#C" n="116" break="no"/>tatio terminetur ad eas: sed ad res quarum 
+      haben<lb ed="#C" n="117" break="no"/>tur species: hoc est vti speciebus. nec per hoc 
+      ne<lb ed="#C" n="118" break="no"/>go quin species possint esse obiecta alicuius 
+      a<lb ed="#C" n="119" break="no"/>ctus: patet dum angelus species intuetur vel 
+      a<lb ed="#C" n="120" break="no"/>nima separata. et si coniuncta id potest: nichil con¬
+      <pb ed="#V" n="37-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>tra me quia volo dicere: noticia pontis londoniarum 
+      <lb ed="#C" n="2"/>(quem ante vidi) terminatur ad pontem ipsum: et 
+      nul<lb ed="#C" n="3" break="no"/>lo modo ad speciem eius qua habeo in memoria 
+      <lb ed="#C" n="4"/>reconditam. Ex his patet (et potissimum cum 
+      dicen<lb ed="#C" n="5" break="no"/>dis in questione sequenti) quod ponende sunt 
+      speci<lb ed="#C" n="6" break="no"/>es previe ad productionem noticie intuitiue ab ob 
+      <lb ed="#C" n="7"/>iecto nateriali que fortasse producunt partialiter 
+      <lb ed="#C" n="8"/>noticiam intuitiuam siue sensitiuam siue intellectiuam. 
+      <lb ed="#C" n="9"/>in noticia abstractiua nulle sunt species ab habiti 
+      <lb ed="#C" n="10"/>bus distincte. sed (cum sint reliquie actuum: et actus 
+      <lb ed="#C" n="11"/>praesupponunt) realiter sunt habitus.
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

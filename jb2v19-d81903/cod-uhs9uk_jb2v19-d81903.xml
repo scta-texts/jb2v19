@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="137-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d81903"><!-- l2d32q1 -->
+            <head xml:id="jb2v19-d81903-Hd1e101">Quaestio 1</head>
+            <head xml:id="jb2v19-d81903-Hd1e103" type="question-title">Utrum originale peccatum tollat baptismus</head>
+            <p xml:id="jb2v19-d81903-d1e106">
+               <lb ed="#C" n="43"/>IN hac distinctione trigesimasecunda 
+      <lb ed="#C" n="44"/>magister ostendit quomodo origina 
+      <lb ed="#C" n="45"/>le peccatum de letur in baptismo 
+      Gra<lb ed="#C" n="46" break="no"/>tia illius quaeritur: vtrum originale peccatum tollat 
+      <lb ed="#C" n="47"/>baptismus.
+   </p>
+            <p xml:id="jb2v19-d81903-d1e119">
+      ¶ Respondetur affirmatiue. 
+      Proba<lb ed="#C" n="48" break="no"/>tio: peccatum tolli nihil aliud est quod ipsum non im 
+      <lb ed="#C" n="49"/>putari: secundum illud Psalmiste. Beati quorum 
+      re<lb ed="#C" n="50" break="no"/>misse sunt iniquitates: et quorum tecta sunt peccata i. 
+      <lb ed="#C" n="51"/>non imputata sed post baptismu originale non 
+      <lb ed="#C" n="52"/>amplius imputatur Actuum. 2 dicit petrus. 
+      baptize<lb ed="#C" n="53" break="no"/>tur vnusquisque vestrum in nomine Iesu christi in 
+      <lb ed="#C" n="54"/>remissionem peccatorum vestrorum: et accipietis 
+      do<lb ed="#C" n="55" break="no"/>num spitritus sancti. cum nullum peccatum mortale 
+      <lb ed="#C" n="56"/>posset remitti sine alio: sequitur quod per baptismum 
+      re<lb ed="#C" n="57" break="no"/>mittitur originale peccatum. et Augusti. I lib. de 
+      ba<lb ed="#C" n="58" break="no"/>ptismo paruulorum contra illos loquens qui dicunt 
+      <lb ed="#C" n="59"/>paruulos baptizari: non pro originali peccato 
+      di<lb ed="#C" n="60" break="no"/>mittendo: dicit. Quis christianorum ferat: cum dici
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>tur ad eternam salutem posse quemquam peruenire si non 
+      re<lb ed="#C" n="62" break="no"/>nascatur in christo quod per baptismum non renascerentur 
+      <lb ed="#C" n="63"/>in christo: nisi per ipsum remitteretur originale 
+      pec<lb ed="#C" n="64" break="no"/>catum. Et post: in eodem libro dicit quod nulla ex 
+      no<lb ed="#C" n="65" break="no"/>stro arbitrio (preter baptismum christi) salus 
+      eter<lb ed="#C" n="66" break="no"/>na promittebatur infantibus. In quo includitur 
+      <lb ed="#C" n="67"/>quod per baptismum eis potest promitti vita eterna: 
+      <lb ed="#C" n="68"/>quod non esset verum si originalis culpa non 
+      remit<lb ed="#C" n="69" break="no"/>teretur per baptismum.
+   </p>
+            <p xml:id="jb2v19-d81903-d1e171">
+      ¶ Contra hanc 
+      conclusio<lb ed="#C" n="70" break="no"/>nem arguitur sic. Aliquis est baptizatus qui est 
+      in<lb ed="#C" n="71" break="no"/>peccato originali: etiam baptismo fluminis. ergo 
+      <lb ed="#C" n="72"/>baptismus non tollit originale. consequentia patet. 
+      <lb ed="#C" n="73"/>si interdum non tollit nunquam tollit. antecedens patet: 
+      <lb ed="#C" n="74"/>pono quod adultus commisit aliqua peccata 
+      morta<lb ed="#C" n="75" break="no"/>lia a et b / vult baptizari: non detestatur a / et b / 
+      im<lb ed="#C" n="76" break="no"/>mo in eis complacet: baptizetur iste: nulla est 
+      repu<lb ed="#C" n="77" break="no"/>gnantia de lege. baptisetur etiam stante tali 
+      pro<lb ed="#C" n="78" break="no"/>posito. talis manebit in peccato originali: quia 
+      <lb ed="#C" n="79"/>non separatur originale a mortalibus. et hoc iterum 
+      <lb ed="#C" n="80"/>patet extra de baptismo et eius effec. cap. 
+      maio<lb ed="#C" n="81" break="no"/>res. d. sed queritr: vbi maximus pontifex dicit talem / 
+      <lb ed="#C" n="82"/>manere in peccato originali: eo quod deus non 
+      diui<lb ed="#C" n="83" break="no"/>dit peccata. Insuper arguitur. Hec anima manebit 
+      <lb ed="#C" n="84"/>post baptismum. hec anima est vel erit peccatum 
+      origi<lb ed="#C" n="85" break="no"/>nale. ergo peccatum originale manebit post 
+      ba<lb ed="#C" n="86" break="no"/>ptismum. consequentia tenet cum maiore / et minor 
+      <lb ed="#C" n="87"/>patuit dist. 20.
+   </p>
+            <p xml:id="jb2v19-d81903-d1e214">
+      ¶ Respondetur concedendo quod talis 
+      <lb ed="#C" n="88"/>manet in peccato originali: vt inter arguendum 
+      <lb ed="#C" n="89"/>ostensum est. Ex quo sequuntur iste conclusiones. 
+      Ali<lb ed="#C" n="90" break="no"/>quis baptizatus est in peccato originali. 
+      baptis<lb ed="#C" n="91" break="no"/>mus non tollit a quolibet baptirato peccatu 
+      ori<lb ed="#C" n="92" break="no"/>ginale. patet in ponente obicem. Certia propositio. 
+      <lb ed="#C" n="93"/>Non omnis adultus existens in originali tenetur 
+      susci<lb ed="#C" n="94" break="no"/>pere baptisma: vt patet de isto de quo mentionum 
+      <lb ed="#C" n="95"/>facimus. defectus non est ex parte sacramenti: sed 
+      <lb ed="#C" n="96"/>ex parte baptizati obicem ponentis: actus actiuorum 
+      <lb ed="#C" n="97"/>sunt in patiente et disposito: secundo de anima: sed 
+      po<lb ed="#C" n="98" break="no"/>stea per detestationem habebit gratiam baptismalem. 
+      <lb ed="#C" n="99"/>secundum Augusti. in lib. de baptismo paruulorum. 
+      <lb ed="#C" n="100"/>et patet de consecratione distinctione. 4. tunc 
+      vel<lb ed="#C" n="101" break="no"/>le incipit: nec aliquod illorum peccatorum ante baptis 
+      <lb ed="#C" n="102"/>ma commissorum tenetur confiteri. Raptismus est 
+      ia<lb ed="#C" n="103" break="no"/>nua sacramentorum: sed si continuet vnum actum et sit 
+      <lb ed="#C" n="104"/>baptizatus in medio tempore continuationis: tunc 
+      <lb ed="#C" n="105"/>post baptisma commissum tenetur confiteri: et si actus 
+      <lb ed="#C" n="106"/>non sit intensior in secunda medietate quam in prima 
+      <lb ed="#C" n="107"/>sed idem actus continuatus. tunc peccatum ante 
+      ba<lb ed="#C" n="108" break="no"/>ptisma commissum tenetur confiteri: quod patet. hoc 
+      <lb ed="#C" n="109"/>peccatum tenetur confiteri demonstrando peccatum 
+      con<lb ed="#C" n="110" break="no"/>tinuatum post baptisma. hoc peccatum est vel fuit commissum 
+      <lb ed="#C" n="111"/>ante baptisma. ergo peccatum commissum ante baptisma sortes 
+      <lb ed="#C" n="112"/>tenetur confiteri. permisse clarent cum consequentia.
+   </p>
+            <p xml:id="jb2v19-d81903-d1e271">
+      ¶ Ad secundum 
+      <lb ed="#C" n="113"/>dicitur quod peccatum originale manebit post 
+      baptis<lb ed="#C" n="114" break="no"/>ma: sed non manebit amplius originale neque 
+      pec<lb ed="#C" n="115" break="no"/>catum. Secundo sequitur. quod originale peccatum erit 
+      <lb ed="#C" n="116"/>quando non erit originale. hoc patet: quia hec an 
+      <lb ed="#C" n="117"/>erit quando non erit origiuale peccatum: sed dimit 
+      <lb ed="#C" n="118"/>titur concupiscentia: hoc est mitigatur post 
+      baptis<lb ed="#C" n="119" break="no"/>ma per gratiam infusam incuinantem in contrarium. 
+      <lb ed="#C" n="120"/>concupiscentie carnis per caracterem / et gratia gra¬
+      <pb ed="#V" n="137-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>tis datam: cui concordat Augustinus primo libro de 
+      <lb ed="#C" n="2"/>nuptiis et concupiscentia dicens. Dimitte 
+      concupi<lb ed="#C" n="3" break="no"/>scentiam carnis in baptismo: non vt non sit: sed vt 
+      <lb ed="#C" n="4"/>in peccatum non imputetur.
+   </p>
+            <p xml:id="jb2v19-d81903-d1e304">
+      ¶ Secudo arguitur. 
+      <lb ed="#C" n="5"/>Ubi effectus est / causa deesse non potest: sed 
+      ali<lb ed="#C" n="6" break="no"/>qua concupiscentia post baptisma non deest. ergo post 
+      <lb ed="#C" n="7"/>baptisma originale manet: etiam vltra casum 
+      ta<lb ed="#C" n="8" break="no"/>ctum in argumento praecedenti.
+   </p>
+            <p xml:id="jb2v19-d81903-d1e315">
+      ¶ Preterea sequitur 
+      <lb ed="#C" n="9"/>quod adultus potest experiri effectum baptismi. et sic 
+      <lb ed="#C" n="10"/>potest ostendi naturaliter gentili effectus 
+      sacra<lb ed="#C" n="11" break="no"/>menti / quod non est dicendum. Insuper: sortes est 
+      <lb ed="#C" n="12"/>baptizatus. ergo filius ab eo genitus. arbor 
+      bo<lb ed="#C" n="13" break="no"/>na generat fructum bonum.
+   </p>
+            <p xml:id="jb2v19-d81903-d1e328">
+      ¶ Ad primum istorum 
+      dici<lb ed="#C" n="14" break="no"/>tur quod hoc est verum in effectibus a causis naturali 
+      <lb ed="#C" n="15"/>bus depedentibus: et in continuo fieri.
+   </p>
+            <p xml:id="jb2v19-d81903-d1e335">
+      ¶ Ad 
+      se<lb ed="#C" n="16" break="no"/>cundum nego consequentiam. interdum in nobis est 
+      ma<lb ed="#C" n="17" break="no"/>ior pronitas concupiscentie: interdum minor. et illius 
+      <lb ed="#C" n="18"/>procliuitatis causa nos latet.
+   </p>
+            <p xml:id="jb2v19-d81903-d1e345">
+      ¶ Ad tertium 
+      magi<lb ed="#C" n="19" break="no"/>ster negat consequentiam: et instat per circuncisum / qui 
+      <lb ed="#C" n="20"/>non circuncisum generat. Similiter granum 
+      mun<lb ed="#C" n="21" break="no"/>dum granum immundum cum palea procreat: sed 
+      il<lb ed="#C" n="22" break="no"/>lud exemplum naturale non est ad propositum. 
+      <lb ed="#C" n="23"/>propterea eundum est ad voluntatem dei imputam 
+      <lb ed="#C" n="24"/>tis huic peccatu quousque sit deobligatus per 
+      ba<lb ed="#C" n="25" break="no"/>ptismum potest capi bonum argumentum cont magistum ex 
+      ba<lb ed="#C" n="26" break="no"/>ptisato et non baptisat. Alter eorum debet producere 
+      <lb ed="#C" n="27"/>carnem minus infectam / et minorem concupiscentiam: 
+      <lb ed="#C" n="28"/>et infectio carnis originale peccatum producit in 
+      <lb ed="#C" n="29"/>animam: et ad minorationem cause naturalis effectus 
+      <lb ed="#C" n="30"/>diminuitur.
+   </p>
+            <p xml:id="jb2v19-d81903-d1e374">
+      ¶ Dubitatur an peccatum originale sit 
+      <lb ed="#C" n="31"/>veniale vel mortale.
+   </p>
+            <p xml:id="jb2v19-d81903-d1e379">
+      ¶ Respondetur quod nec sic 
+      ne<lb ed="#C" n="32" break="no"/>que sic. Illa diuisio est peccati actualis 
+      cuiusmodi<lb ed="#C" n="33" break="no"/>non est in paruulis: aliqua conuenientia cum 
+      mor<lb ed="#C" n="34" break="no"/>tali habet eo quod gratiam non compatitur et 
+      per<lb ed="#C" n="35" break="no"/>petuo punitu 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

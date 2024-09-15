@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 11</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 11</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="44-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d25608"><!-- l2d3q11 -->
+            <head xml:id="jb2v19-d25608-Hd1e101">Quaestio 11</head>
+            <head xml:id="jb2v19-d25608-Hd1e103" type="question-title">
+      An notitia intuitiva potest supernaturaliter esse sine potentia obiecti
+    </head>
+            <p xml:id="jb2v19-d25608-d1e106">
+               <lb ed="#C" n="4"/>Decimo que citur: an 
+      <lb ed="#C" n="5"/>noticia intuitiua potest super 
+      nata<lb ed="#C" n="6" break="no"/>lite esse sine potentia obiecti: 
+      su<lb ed="#C" n="7" break="no"/>proposita questione sclto 
+      es<lb ed="#C" n="8" break="no"/>positiones: non in re 
+      theolo<lb ed="#C" n="9" break="no"/>gice loquendo: sed potius 
+      me<lb ed="#C" n="10" break="no"/>thaphisice: vel in terminis: 
+      <lb ed="#C" n="11"/>octor subtilis tenet in noticia intuitiua ouo sunt 
+      <lb ed="#C" n="12"/>consideranda vnum qualitas que est noticia 
+      intuiti<lb ed="#C" n="13" break="no"/>ua: aliud est respectus attingentie fundatus in 
+      il<lb ed="#C" n="14" break="no"/>la qualitate et ad obiectum terminatur: et cum 
+      nlill<lb ed="#C" n="15" break="no"/>respectus secundum quamcumque potentiam potest esse sine funde 
+      <lb ed="#C" n="16"/>mento et termino et contra: et talis respectus 
+      re<lb ed="#C" n="17" break="no"/>ritur ad hoc quod sit noticia intuitiua. clare ex illo 
+      he<lb ed="#C" n="18" break="no"/>betur quod noticia intuitiua non potest esse sine 
+      pre<lb ed="#C" n="19" break="no"/>sentia obiecti. et cum terminus supponat pro 
+      mate<lb ed="#C" n="20" break="no"/>rialisignificato: vt album / nigrum / currens: licet non 
+      <lb ed="#C" n="21"/>ticia intuitlua supponat pro illa qualitate: et 
+      pe<lb ed="#C" n="22" break="no"/>conseques noticia intuitiua potest esse sine 
+      obiecto<lb ed="#C" n="23" break="no"/>illa qualitas potest esse sine obiecto: non habetur quia 
+      <lb ed="#C" n="24"/>noticia intuitima habeatur sine obiecto: et alii dicerent 
+      <lb ed="#C" n="25"/>qui respectus negant: non est possibile quod noticia 
+      <lb ed="#C" n="26"/>intuitiua sit sine obiecto. ad hoc quod dicatur 
+      noti<lb ed="#C" n="27" break="no"/>cia intuitiua requiritur quod obiectum terminet 
+      noti<lb ed="#C" n="28" break="no"/>ciam intuitiuam. et sic licet noticia intuitiua 
+      potest<lb ed="#C" n="29" break="no"/>esse sine obiecto intuitiue cognito: tamen non est 
+      possi<lb ed="#C" n="30" break="no"/>bile quod noticia intuitiua sit sine obiecto. prior 
+      po<lb ed="#C" n="31" break="no"/>sitio dependet ex Methaphisica que tenet quod 
+      po<lb ed="#C" n="32" break="no"/>nendus est respectus a fundamento et termino 
+      distin<lb ed="#C" n="33" break="no"/>ctus: quod nego vt ex dictis in plerisque locis patet 
+      <lb ed="#C" n="34"/>secunda difficultas stat in terminis: propterea non 
+      <lb ed="#C" n="35"/>est magna vis in secundo modo procedendi.
+   </p>
+            <p xml:id="jb2v19-d25608-d1e178">
+      ¶ 
+      Pro<lb ed="#C" n="36" break="no"/>pterea epondetur ad titulum questionis per hanc 
+      conclusio<lb ed="#C" n="37" break="no"/>nem noticia intuitiua potest esse sine presentia obiecti 
+      <lb ed="#C" n="38"/>intuitiue cogniti. Probatur hec conclusio. quicquid deus 
+      <lb ed="#C" n="39"/>potest facere cum causa secunda illud potest facere se solo. 
+      <lb ed="#C" n="40"/>opposito istius conclusionis dato: deus egeret 
+      ope<lb ed="#C" n="41" break="no"/>cause secunde. noticiam intuitiuam deus potest facere cum 
+      <lb ed="#C" n="42"/>causa secunda: quia cum presentia obiecti. ergo noticiam 
+      in<lb ed="#C" n="43" break="no"/>tuitiuam potest facere se solo. quo scto: quielitas quae est non 
+      <lb ed="#C" n="44"/>ticia intuitima: tunc erit noticia intuitima. et hoc 
+      effica<lb ed="#C" n="45" break="no"/>citur probat argumentum: nisi in termins steteris dicendo: 
+      <lb ed="#C" n="46"/>tunc non erit noticia intuitima quam admodum diceres: pater 
+      <lb ed="#C" n="47"/>nitatem deus potest producere se solo: sed non est possibile quod 
+      <lb ed="#C" n="48"/>paternitatem producat se solo. vel melius dicendo 
+      relin<lb ed="#C" n="49" break="no"/>quendo verbum producit: quia paternitatem deus potest 
+      pro<lb ed="#C" n="50" break="no"/>ducere se solo: quia totam efficientiam que est in 
+      produ<lb ed="#C" n="51" break="no"/>ctione paternitatis deus potest facere se solo: licet non sit 
+      <lb ed="#C" n="52"/>possibile quod paternitas sit sine filio.
+   </p>
+            <p xml:id="jb2v19-d25608-d1e217">
+      ¶ Secundo arguitur 
+      <lb ed="#C" n="53"/>ad idem deus potest producere noticiam intuitiuam a. ob 
+      <lb ed="#C" n="54"/>iecti remote distatis: gratia exempli in india. 
+      ergo<lb ed="#C" n="55" break="no"/>produccre noticiam intuitiua a. obiecti non existentis: 
+      <lb ed="#C" n="56"/>consequena tenet: obiectum existens extra spheram 
+      actiuita<lb ed="#C" n="57" break="no"/>tia eius ad prodocendas speies vel visionem nichil plus 
+      <lb ed="#C" n="58"/>facit quam si non existeret: antcedens patet. obiectum in india est in 
+      <lb ed="#C" n="59"/>rerum natura. et camlitatem quam habet in productione specier 
+      <lb ed="#C" n="60"/>vel noticie deus supplere potest: igitur. eoud modo argumen
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>tabor uod a. obiecto a tergo vel pus corpus opacum propter 
+      <lb ed="#C" n="62"/>quum.
+   </p>
+            <p xml:id="jb2v19-d25608-d1e244">
+      ¶ Tertio: capio noticiam intuitiuam a. albedis. 
+      <lb ed="#C" n="63"/>deus potest corrumpere illam albedinem conseruando 
+      <lb ed="#C" n="64"/>noticiam intuitiam eius. ergo habetur noticia intuitima 
+      <lb ed="#C" n="65"/>non existentis: et contra istud diriguntur omnia 
+      argumen<lb ed="#C" n="66" break="no"/>ta que contra aliud diriguntur.
+   </p>
+            <p xml:id="jb2v19-d25608-d1e255">
+      ¶ Insuper arguitur. 
+      <lb ed="#C" n="67"/>capio a. albedinem et elus noticiam intuitiuam: deus 
+      po<lb ed="#C" n="68" break="no"/>test illam qualitatem in genere qualitatis manutenere 
+      <lb ed="#C" n="69"/>destructo obiecto: siue ille respectus fundetur in 
+      il<lb ed="#C" n="70" break="no"/>la qualitate vel non. tunc illa qualitas immutabit 
+      po<lb ed="#C" n="71" break="no"/>tentiam intellectiuam: et per consequens. intellectus per 
+      il<lb ed="#C" n="72" break="no"/>lam cognoscit. illa noticia non est abstractiua: quia 
+      illa<lb ed="#C" n="73" break="no"/>specie distingultur ab intuitiua. ergo est 
+      intuiti<lb ed="#C" n="74" break="no"/>ua. alioquin opet dare vnam tertiam noticiam distinctam 
+      <lb ed="#C" n="75"/>ab his.
+   </p>
+            <p xml:id="jb2v19-d25608-d1e277">
+      ¶ Insuper: manet eadem qualitas que prlus 
+      <lb ed="#C" n="76"/>erat: et ante erat noticia intuitiua: et si nunc non sit 
+      <lb ed="#C" n="77"/>noticia intuitiua: solum in terminis luctart. Prete 
+      <lb ed="#C" n="78"/>rea deus cognoscit intuitiue non exens. ergo non est 
+      <lb ed="#C" n="79"/>de ratione noticie intuitiue quod obiectum existat. 
+      rur<lb ed="#C" n="80" break="no"/>sus noticia in verbo est intuitiua: et est non execuentis: 
+      <lb ed="#C" n="81"/>vel esse potest. igitur.
+   </p>
+            <p xml:id="jb2v19-d25608-d1e293">
+      ¶ Contra hanc conclusionem arguitur 
+      <lb ed="#C" n="82"/>bene sequitr video hanc albedinem. ergo hec albedo 
+      <lb ed="#C" n="83"/>est antces est vna affirmatiua vera vltra instantias 
+      omnes<lb ed="#C" n="84" break="no"/>quas illa regula patitur. ergo predicatum supponit: 
+      <lb ed="#C" n="85"/>et per consis pera predicati. sncus determinatio supponit. 
+      <lb ed="#C" n="86"/>dicit quidam anecedens est falsum propter falsam implicationem 
+      <lb ed="#C" n="87"/>eius a parte predicati: na in ea implicatur quod ego vide 
+      <lb ed="#C" n="88"/>am hoc et hoc est albedo: quod est falsum. sicut 
+      di<lb ed="#C" n="89" break="no"/>cendo video hominem album implicatur quod ego videam 
+      <lb ed="#C" n="90"/>hominem et ille sit albus: si obiectum visionis precise 
+      <lb ed="#C" n="91"/>significetur per nomen demonstratiuum: vt dicendo: 
+      <lb ed="#C" n="92"/>video hoc: esto quod nichil sit: aut per nomen proprium vt 
+      <lb ed="#C" n="93"/>dicendo. video a. vt dicimus: deus videt antichristet: 
+      <lb ed="#C" n="94"/>concedenda est propo: quamuis vt dictum est significando 
+      ip<lb ed="#C" n="95" break="no"/>sum per terminum communem et pronomen demonstratiuum 
+      no<lb ed="#C" n="96" break="no"/>ganda sit. et ratio est. quia illud obiectum non est aliqua 
+      en<lb ed="#C" n="97" break="no"/>titas. et per consequens non est aliqua albedo. quere in iii. 
+      <lb ed="#C" n="98"/>distinctione primi solutionem hanc quam reprehendo. 
+   </p>
+            <p xml:id="jb2v19-d25608-d1e332">
+               <lb ed="#C" n="99"/>¶ Respondeo aliter. cognosco ampliat vt notum est 
+      <lb ed="#C" n="100"/>ex artibus. sic terminus noticia concedimus: heno 
+      <lb ed="#C" n="101"/>noticiam patris mei: et tamen illa determinatio patris 
+      <lb ed="#C" n="102"/>mei non suponit deducta ampliatione. ergo noti 
+      <lb ed="#C" n="103"/>cia ampliat. et licet ampliet. hec est falsa / habeo 
+      <lb ed="#C" n="104"/>distinctam noticiam antichristi. quia ad illius veritatem 
+      <lb ed="#C" n="105"/>requiritur distincta noticia antichristi in intellectu meo. 
+      <lb ed="#C" n="106"/>qui non est similiter deus habet noticiam intuitiuam 
+      <lb ed="#C" n="107"/>antichristi. quia essentia diuina que est obiectum 
+      prlma<lb ed="#C" n="108" break="no"/>rium distincte representatiuum cuiuslibet rei distincte 
+      <lb ed="#C" n="109"/>representat antichristum qui tamen terminat noticiam 
+      <lb ed="#C" n="110"/>dei. ergo ille terminus noticia intuitlua 
+      respectu<lb ed="#C" n="111" break="no"/>dei est terminus ampllatiuus. Ad veritatem ergo istius 
+      in<lb ed="#C" n="112" break="no"/>tuitiue cognosco a. albedinem: sufficit et requiritur 
+      <lb ed="#C" n="113"/>quod habeam illam qualitatem que est noticia intui 
+      <lb ed="#C" n="114"/>tiua: que terminatur ad a albedinem / siue sit / siue 
+      <lb ed="#C" n="115"/>non sit. et hec est concodenda video hanc alhedi 
+      <lb ed="#C" n="116"/>nem: et nullum falsum implicatur in illa propositone. 
+      <lb ed="#C" n="117"/>solemus tamen in communi sermone non vti istis termins 
+      <lb ed="#C" n="118"/>video: audio: ampliatiue. ratio. quia nichil auditur: 
+      <lb ed="#C" n="119"/>aut videtur naturaliter quin sit nulla est alia difficut 
+      <lb ed="#C" n="120"/>tas in hoc argumento.  Ex cuus solutione sei¬
+      <pb ed="#V" n="44-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>tur hec copulatiua possibilis. video a albedinem et 
+      <lb ed="#C" n="2"/>a. non est. audio. b. sonum intuiue et b. sonus non est. 
+      <lb ed="#C" n="3"/>tango a calidum tactione sensui tactus inherente: 
+      <lb ed="#C" n="4"/>et a. calidum non est. aliquis tamen potest illam 
+      distingue<lb ed="#C" n="5" break="no"/>re. Uno modo sic: si ad tactionem sufficiat solum 
+      ha<lb ed="#C" n="6" break="no"/>bere noticiam intuitiuam que est tactio: et sic illa est 
+      <lb ed="#C" n="7"/>vera. sed si vltra hoc requiratur quod vltima 
+      corpo<lb ed="#C" n="8" break="no"/>rum se tangentium sint simul ad hoc quod dicantur se 
+      <lb ed="#C" n="9"/>tangere: tunc numquam tango nisi existens: sufficit 
+      mi<lb ed="#C" n="10" break="no"/>chi quod tactio potest esse in sensu tactus respectu b. 
+      <lb ed="#C" n="11"/>tangibilis licet b. tangibile non sit. de hoc solum 
+      <lb ed="#C" n="12"/>contenditur: similiter ista stant simul: gusto b. panem 
+      <lb ed="#C" n="13"/>et b. panis non est. ad veritatem prime sufficit: quod 
+      <lb ed="#C" n="14"/>sensatio in sensu gustus respectu. b. panis sit: et 
+      <lb ed="#C" n="15"/>stat hoc sine b. pane.
+   </p>
+            <p xml:id="jb2v19-d25608-d1e419">
+      ¶ Secundo arguitur. ponatur 
+      <lb ed="#C" n="16"/>quod sortes habeat noticiam intuitiuam a. albedinis: 
+      <lb ed="#C" n="17"/>vel iudicat sortes a. albedo est: vel quod a. albedo non 
+      <lb ed="#C" n="18"/>est. si primum: false iudicat. si secundum ergo eadem 
+      no<lb ed="#C" n="19" break="no"/>ticia naturaliter concurrit ad contraria iudicia 
+      na<lb ed="#C" n="20" break="no"/>turaliter producibilia. quod eadem noticia concurrat ad 
+      <lb ed="#C" n="21"/>oppositos actus voluntatis non mirabire: et 
+      pate<lb ed="#C" n="22" break="no"/>bit distinctione. xxv. huius in speciali.
+   </p>
+            <p xml:id="jb2v19-d25608-d1e438">
+      ¶ 
+      Respon<lb ed="#C" n="23" break="no"/>detur noticia intuitiua non est iudicium est noticia 
+      <lb ed="#C" n="24"/>singularis: et iudicium est assensus complexus 
+      ob<lb ed="#C" n="25" break="no"/>iectiue: sed noticia intuitiua partialiter causat 
+      iu<lb ed="#C" n="26" break="no"/>dicium: aliqui dicunt noticia intuitiua cum existentia 
+      <lb ed="#C" n="27"/>obiecti causant iudicium de existentia obiecti. Alii alio 
+      <lb ed="#C" n="28"/>modo: que refellimus in secunda distinctione primi. 
+      <lb ed="#C" n="29"/>dico quod noticia intuitiua concurrit / sine 
+      concur<lb ed="#C" n="30" break="no"/>su vlteriori obiecti ad assensum predicatorum 
+      con<lb ed="#C" n="31" break="no"/>tingentium respectu obiecti intuitiue cogniti: nec 
+      a<lb ed="#C" n="32" break="no"/>liter concurrit obiectum ad iudicium nisi mediate 
+      pro<lb ed="#C" n="33" break="no"/>ducendo noticiam intuitiuam obiecti: modo illa 
+      noti<lb ed="#C" n="34" break="no"/>cia est agens naturaliter semper eodem modo 
+      con<lb ed="#C" n="35" break="no"/>currit siue obiectum sit siue non sit: in noticia 
+      in<lb ed="#C" n="36" break="no"/>tuitiua cum est simplex non est deceptio:
+   </p>
+            <p xml:id="jb2v19-d25608-d1e471">
+      ¶ Si 
+      <lb ed="#C" n="37"/>dicas deus decipit in iudicio deceptorio quod 
+      habe<lb ed="#C" n="38" break="no"/>tur virtute noticie intuitiue. non sequitur. quem 
+      admo<lb ed="#C" n="39" break="no"/>dum deus non decipit gentilem: licet 
+      transsubstan<lb ed="#C" n="40" break="no"/>tiat panem in corpus christi prolatis verbis a 
+      mi<lb ed="#C" n="41" break="no"/>nistro sic in proposito.
+   </p>
+            <p xml:id="jb2v19-d25608-d1e484">
+      ¶ Ex his potes 
+      respon<lb ed="#C" n="42" break="no"/>dere ad talia. an possum videre sortem esse album 
+      <lb ed="#C" n="43"/>vel sortem currere licet non sit albus: vel currens. 
+      <lb ed="#C" n="44"/>possum enim habere noticias intuitiuas rerum 
+      <lb ed="#C" n="45"/>significatarum per terminos: et per consequens 
+      ta<lb ed="#C" n="46" break="no"/>lia iudicia abset hoc quod sortes sit albus vel currat. 
+      <lb ed="#C" n="47"/>si importaretur aliud ex modo concipiendi 
+      homi<lb ed="#C" n="48" break="no"/>num: vt pote quod actualiter currat: nichil habetur 
+      <lb ed="#C" n="49"/>contra conclusionem. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

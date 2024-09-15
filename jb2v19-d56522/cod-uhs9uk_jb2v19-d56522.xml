@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="95-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d56522"><!-- l2d16q1 -->
+            <head xml:id="jb2v19-d56522-Hd1e101">Quaestio 1</head>
+            <head xml:id="jb2v19-d56522-Hd1e103" type="question-title">An potentiae animae ab essentia animae distinguantur</head>
+            <p xml:id="jb2v19-d56522-d1e106">
+               <lb ed="#C" n="92"/>IN hac 16. distinctione in qua 
+      <lb ed="#C" n="93"/>magister de imagine loquitur: 
+      <lb ed="#C" n="94"/>quia de illa loqui solent: est 
+      dif<lb ed="#C" n="95" break="no"/>ficultas inter sapientes hic 
+      tra<lb ed="#C" n="96" break="no"/>ctata de potentiis anime et 
+      <lb ed="#C" n="97"/>essentia eius. quomodo 
+      essen<lb ed="#C" n="98" break="no"/>tia anime et eius potentia 
+      in<lb ed="#C" n="99" break="no"/>4iter se habeant. gratia illius quae 
+      <lb ed="#C" n="100"/>ram hunc questionis titulum: an potentie anime 
+      <lb ed="#C" n="101"/>ab essentia anime distinguantur.
+   </p>
+            <p xml:id="jb2v19-d56522-d1e130">
+      ¶ Pro 
+      questio<lb ed="#C" n="102" break="no"/>nis solutione acceptiones vocabuli assignabo: et 
+      <lb ed="#C" n="103"/>ostendam in quo est controuersia inter magistros ex 
+      <lb ed="#C" n="104"/>opinionum pluralitate. aperte dicam ad questionem 
+      <lb ed="#C" n="105"/>sicut sentio. quo ad primum scite aristoteles. 5. et 
+      <lb ed="#C" n="106"/>nono methaphisice distinguit potentiam quantum 
+      <lb ed="#C" n="107"/>ad eius principia in potentiam actiuam et potentia 
+      <lb ed="#C" n="108"/>passiuam: et inhabilitatis impassibile: hoc est in qua 
+      <lb ed="#C" n="109"/>litatiuam dispositionem secundum quam subiectum 
+      po<lb ed="#C" n="110" break="no"/>test resistere corruptiuis et motiuis. iste tertius 
+      <lb ed="#C" n="111"/>modus potentie ad primam speciem qualitatis per 
+      <lb ed="#C" n="112"/>tinet. postea describit potentiam actiuam et passiuam: 
+      <lb ed="#C" n="113"/>dicens quam potentia actiua est principium 
+      transmu<lb ed="#C" n="114" break="no"/>tandi alterum inquantum alterum. et potentia passiua est 
+      <lb ed="#C" n="115"/>principium transmutandi ab altero. postea scito 
+      bea<lb ed="#C" n="116" break="no"/>tus thomas in prima parte. q. 77. et. 15. tenet 
+      <lb ed="#C" n="117"/>generaliter quod potentia distinguitur ab anima et 
+      <lb ed="#C" n="118"/>est accidens: quarum quedam inherent anime tantum 
+      <lb ed="#C" n="119"/>vt potentie non organice: vt intellectus / 
+      volun<lb ed="#C" n="120" break="no"/>tas / et memoria sunt accidentia secundum eum.
+      <pb ed="#V" n="95-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>Prgani ce: quales sunt sensitiue: sunt accidentia 
+      <lb ed="#C" n="2"/>et inherent toti composito: hoc est: aggregato ex anima 
+      <lb ed="#C" n="3"/>et determinata portione carnis.
+   </p>
+            <p xml:id="jb2v19-d56522-d1e185">
+      ¶ his 
+      premis<lb ed="#C" n="4" break="no"/>sis pono conclusiones ad questionem responsiuas. 
+      <lb ed="#C" n="5"/>quarum prima est. aliqua potentia est accidens. 
+      proba<lb ed="#C" n="6" break="no"/>tur. omne illud quod potest aliquid agere est 
+      po<lb ed="#C" n="7" break="no"/>tentia actiua / saltem. aliquod accidens est 
+      huiusmo<lb ed="#C" n="8" break="no"/>modi. igitur. maior patet ex aristotele. 5. et nono 
+      <lb ed="#C" n="9"/>methaphisice. vt in notabili premisso declaraui 
+      <lb ed="#C" n="10"/>mus. minor patet de calore qui est potens 
+      calefa<lb ed="#C" n="11" break="no"/>ncere.
+   </p>
+            <p xml:id="jb2v19-d56522-d1e206">
+      ¶ Secunda conclusio. anima est sua potentia 
+      <lb ed="#C" n="12"/>principalis loquendo de potentia non organica. hoc 
+      <lb ed="#C" n="13"/>est: anima realiter est suus intellectus et voluntas 
+      <lb ed="#C" n="14"/>et memoria. probatur. da oppositum: intellectus 
+      <lb ed="#C" n="15"/>anime est accidens ab essentia anime distinctum et est 
+      <lb ed="#C" n="16"/>accidens absolutum cum est de secunda specie 
+      quali<lb ed="#C" n="17" break="no"/>tatis secundum eos. modo deus de potentia 
+      abso<lb ed="#C" n="18" break="no"/>luta potest destruere omne accidens (potissimum 
+      <lb ed="#C" n="19"/>absolutum) conseruando substantiam eius: cum 
+      substan<lb ed="#C" n="20" break="no"/>tia non dependeat ab accidente: mirabile est quod 
+      <lb ed="#C" n="21"/>deus non potest conseruare substantiam destruendo 
+      <lb ed="#C" n="22"/>accidens eius. et si hoc deus potest: dabitur anima 
+      <lb ed="#C" n="23"/>intellectiua nec habens intellectum nec voluntatem: 
+      <lb ed="#C" n="24"/>et istis seclusis anima potest adhuc intelligere vel 
+      <lb ed="#C" n="25"/>velle. Iohannes capriolus in tertia distinctione 
+      <lb ed="#C" n="26"/>primi dicit se daturum triplicem instantiam: quod in 
+      abso<lb ed="#C" n="27" break="no"/>lutis deus non potest semper serua re vnum 
+      distin<lb ed="#C" n="28" break="no"/>ctorum reliquum destruendo. primo quando vnum 
+      <lb ed="#C" n="29"/>est de ratione alterius vt diffinitum et diffinientia 
+      <lb ed="#C" n="30"/>secunda vbi vnum naturali sequela consequitur 
+      princi<lb ed="#C" n="31" break="no"/>pia alterius posita extra suam causam: vt 
+      subie<lb ed="#C" n="32" break="no"/>ctum et passio. tertia vbi vnum est reliquo essendi 
+      <lb ed="#C" n="33"/>ratio: vt essentia et esse. propterea infert: nec 
+      sub<lb ed="#C" n="34" break="no"/>iectum sine passione esse potest sine vel 
+      econuer<lb ed="#C" n="35" break="no"/>so. nec essenntia sine esse vel econuerso. proficiant 
+      <lb ed="#C" n="36"/>eis eorum instantie. nec nominalium vnus / nec 
+      scoti<lb ed="#C" n="37" break="no"/>starum aliquis existimat discrimen aliquod inter 
+      <lb ed="#C" n="38"/>esse et essentiam ex parte rei. quelibet essentia est 
+      <lb ed="#C" n="39"/>suum esse et econuerso. nec passio est accidens vt 
+      <lb ed="#C" n="40"/>ipsi ponunt vt alibi videri habet. apud me hec 
+      ma<lb ed="#C" n="41" break="no"/>xima est vtrobique admittenda. in quibuscumque 
+      re<lb ed="#C" n="42" break="no"/>bus creatis et distinctis quarum vna non est pars 
+      <lb ed="#C" n="43"/>alterius deus potest quamcumque illarum conseruare 
+      re<lb ed="#C" n="44" break="no"/>liqua corrupta siue sit accidens siue substantia. et 
+      <lb ed="#C" n="45"/>ita nominalium quilibet concedit.
+   </p>
+            <p xml:id="jb2v19-d56522-d1e282">
+      ¶ Secundo arguitur 
+      <lb ed="#C" n="46"/>ad idem. secundum aristotelem secundo de anima 
+      dif<lb ed="#C" n="47" break="no"/>finitio potentiarum couenit anime: in qua dicit quod 
+      <lb ed="#C" n="48"/>anima est qua viuimus / sentimus / et intelligimus. 
+      <lb ed="#C" n="49"/>modo hec diffinitio potentiis anie conuenit: quia 
+      poten<lb ed="#C" n="50" break="no"/>tia vegetatiua viuimus. potentia sensstiua 
+      senti<lb ed="#C" n="51" break="no"/>mus. potentia ntellectiua intelligimus: ergo 
+      il<lb ed="#C" n="52" break="no"/>le potentie non sunt distincte ab anima. 
+   </p>
+            <p xml:id="jb2v19-d56522-d1e300">
+               <lb ed="#C" n="53"/>¶ Tertio arguitur. omne illud quod est principium 
+      <lb ed="#C" n="54"/>principale actus nutritionis est potentia nutritiua. sed 
+      <lb ed="#C" n="55"/>sic est de anima. et eodem modo probari potest quod 
+      anima<lb ed="#C" n="56" break="no"/>est potentia principalis argumentatiua / motiua 
+      <lb ed="#C" n="57"/>localiter / sensitiua / et appetitiua.
+   </p>
+            <p xml:id="jb2v19-d56522-d1e313">
+      ¶ Probatur hec 
+      <lb ed="#C" n="58"/>conclusio auctoritate augustini / dicentis. 10. de 
+      tri<lb ed="#C" n="59" break="no"/>nitate. c. xi. hec tria: memoria intelligentia 
+      volun<lb ed="#C" n="60" break="no"/>tas / non sunt tres vite: sed vna vita nec tres men¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>tes: sed vna mens consequenter vtiquem. neu tres 
+      sub<lb ed="#C" n="62" break="no"/>stantie sunt: sed vna substantia. memoria 
+      quippe<lb ed="#C" n="63" break="no"/>quod vita mens et substantia dicitur ad seipsam dicitur. 
+      <lb ed="#C" n="64"/>quod vero memoria dicitur ad aliud dicitur. hoc de 
+      in<lb ed="#C" n="65" break="no"/>telligentia quoque et voluntate dixerim. Et 
+      intel<lb ed="#C" n="66" break="no"/>ligentia quippe et voluntas ad aliud dicitur. vita 
+      <lb ed="#C" n="67"/>autem vna queque ad seipsam et mens et essentia. quo 
+      <lb ed="#C" n="68"/>circa tria hec est vnum sunt quod vna vita vna mens 
+      <lb ed="#C" n="69"/>vna essentia et quicquid aliud ad se fingula 
+      dican<lb ed="#C" n="70" break="no"/>tur etiam simul singulariter non pluraliter 
+      dicun<lb ed="#C" n="71" break="no"/>tur. eo vero tria quo ad se inuicem referuntur. 
+      ec<lb ed="#C" n="72" break="no"/>ce aparte dicit menoriam intelligentiam / voluntatem non 
+      es<lb ed="#C" n="73" break="no"/>se tres substantias / sed vna. licet cum dicuntur respectie 
+      <lb ed="#C" n="74"/>i. exprimuntur vocabui respectu importantibus: dicam 
+      <lb ed="#C" n="75"/>tur tria idem tribus vocabulis non sinonimis ex 
+      <lb ed="#C" n="76"/>primitur. Item. xii de trinitate. c. 3. Sicut vita 
+      ca<lb ed="#C" n="77" break="no"/>ro est duorum in masculo et femina: sic 
+      intelle<lb ed="#C" n="78" break="no"/>ctum nostrum actionem vel consilium et executionem 
+      <lb ed="#C" n="79"/>et rationem et appetitum rationalem vel quo aliomo 
+      <lb ed="#C" n="80"/>do signifentius dici possunt vna mentis natura 
+      con<lb ed="#C" n="81" break="no"/>plectitur. et quemadmodum de illis dictum est. erunt 
+      <lb ed="#C" n="82"/>duo in carne vna. sed de his dici posset duo in 
+      men<lb ed="#C" n="83" break="no"/>te vna. et continuo sequitur. c. 4. Cum ergo disse 
+      <lb ed="#C" n="84"/>rimus de natura mentis humane de vna quadam 
+      <lb ed="#C" n="85"/>re disserimus. nec eam in hec duo que 
+      commemo<lb ed="#C" n="86" break="no"/>ramus nisi secundum officia geminamus. vnde 
+      cla<lb ed="#C" n="87" break="no"/>re trahitur quod est nunc: natura que diuersificatur secundum 
+      <lb ed="#C" n="88"/>officia.
+   </p>
+            <p xml:id="jb2v19-d56522-d1e385">
+      ¶ Tertia conclusio. intellectus est 
+      volun<lb ed="#C" n="89" break="no"/>tas. probatur. hec anima est intellectus. et hec anima 
+      <lb ed="#C" n="90"/>est voluntas. ergo voluntas est intellectus. et 
+      con<lb ed="#C" n="91" break="no"/>uertens illius conuerse est tertia conclusio. 
+      proba<lb ed="#C" n="92" break="no"/>tur maior. aliquid est intellectus. et non accidem 
+      <lb ed="#C" n="93"/>ex secunda conclusione. nec est alia substantia ab anima 
+      <lb ed="#C" n="94"/>qualibet alia seclusa anima potest intelligere. er 
+      <lb ed="#C" n="95"/>go est intellectus. sicut recte in li. de spiritu et anima 
+      <lb ed="#C" n="96"/>dicitur: quod anima est intellectus dum intelligit et 
+      <lb ed="#C" n="97"/>voluntas dum vult.
+   </p>
+            <p xml:id="jb2v19-d56522-d1e407">
+      ¶ Secundo arguitur ad idem 
+      <lb ed="#C" n="98"/>non est petenda pluralitas vbi paucitas sufficit. 
+      <lb ed="#C" n="99"/>sed omnia optime saluantur ponendo intellectum esse 
+      <lb ed="#C" n="100"/>substantiam anime. nec possunt ita bene faluari 
+      <lb ed="#C" n="101"/>res. multiplicando distinctas. igitur. eodemmodo 
+      <lb ed="#C" n="102"/>probatur minor. ex eodem fonte sequitur quod quelibet 
+      <lb ed="#C" n="103"/>potentia cognitiua est realiter suamet 
+      appetiti<lb ed="#C" n="104" break="no"/>ua.
+   </p>
+            <p xml:id="jb2v19-d56522-d1e426">
+      ¶ Quarta conclusio. potentie anime organt 
+      <lb ed="#C" n="105"/>ce tam sensitiue quam appetitiue realiter distinguun 
+      <lb ed="#C" n="106"/>tur ab anima. patet de sensu vel de vna potentia: 
+      <lb ed="#C" n="107"/>idem est iudicium in omnibus. sensus non est 
+      inter<lb ed="#C" n="108" break="no"/>lectus: et loquor de sensu hominis. igitur. 
+      assum<lb ed="#C" n="109" break="no"/>ptum patet. sensatto quelibet est extensa. 
+      intelle<lb ed="#C" n="110" break="no"/>ctio nulla est extensa. ergo habent varia subiecta quorum 
+      <lb ed="#C" n="111"/>vnum est diuisibile et extensum et aliud inextensum 
+      <lb ed="#C" n="112"/>Si sensatio sit non extensa: sequitur hec conclusio: 
+      <lb ed="#C" n="113"/>quod anima potest habere duas noticias intuitiuas 
+      <lb ed="#C" n="114"/>specie distinctas simul et semel de eodem obiecto 
+      <lb ed="#C" n="115"/>quod est inconueniens. patet. videat sortes a. albedinem 
+      <lb ed="#C" n="116"/>visi o albedinis est extensa: et habeo intentum. vel 
+      <lb ed="#C" n="117"/>est inextensa et anime ingeret. et cum erit vna alia 
+      <lb ed="#C" n="118"/>noticia intuitiua intellectiua: dabuntur due 
+      intuiti<lb ed="#C" n="119" break="no"/>ue specie distincte eiusdem obiecti. si sint eiusdem 
+      <lb ed="#C" n="120"/>speciei sese intendunt nec vna debet plus denomi
+      <pb ed="#V" n="96-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>nari sensitiua quam altera. propterea inconueniens 
+      <lb ed="#C" n="2"/>est quod dentur de eodem obiecto in eadem potentia 
+      due<lb ed="#C" n="3" break="no"/>intuitiue noticie specie distincte.
+   </p>
+            <p xml:id="jb2v19-d56522-d1e474">
+      ¶ Tertio 
+      ar<lb ed="#C" n="4" break="no"/>guitur ad idem. per te inheret intellectui tanquam suo 
+      <lb ed="#C" n="5"/>subiecto. ergo est noticia intellectiua. tenet 
+      conse<lb ed="#C" n="6" break="no"/>quentia omnis noticia intellectui inherens est 
+      intel<lb ed="#C" n="7" break="no"/>lectiua. patet. aliqua est talis. et equa est ratio in 
+      <lb ed="#C" n="8"/>omnibus. ergo omnis noticia intellectui 
+      inhe<lb ed="#C" n="9" break="no"/>rens est intellectiua. sed dicis. vna non potest 
+      <lb ed="#C" n="10"/>haberi nisi mediante organo corporeo: et illa est 
+      <lb ed="#C" n="11"/>sensitiua. alia sine organo potest acquiri: et illa 
+      <lb ed="#C" n="12"/>est intellectiua et non sensitiua. contra organum 
+      <lb ed="#C" n="13"/>nichil facit ad noticiam habendam. solum potentia et 
+      ob<lb ed="#C" n="14" break="no"/>iecta concurrunt cum speciebus inter causas 
+      secun<lb ed="#C" n="15" break="no"/>das. dicis. aliqua qualitas concurrit. contra. ergo 
+      <lb ed="#C" n="16"/>tunc noticia sensitiua erit intellectiua perfectior: 
+      <lb ed="#C" n="17"/>cum plures causas perfectiores requirat ad eius 
+      <lb ed="#C" n="18"/>productionem.
+   </p>
+            <p xml:id="jb2v19-d56522-d1e509">
+      ¶ Quarto arguitur. notitia 
+      sen<lb ed="#C" n="19" break="no"/>sitiua per te anime in tellectiue inheret. ergo 
+      no<lb ed="#C" n="20" break="no"/>titia sensitiua potest esse in anima separata. sed 
+      <lb ed="#C" n="21"/>dicis. in sensu diuiso notitia sensitiua potest esse 
+      <lb ed="#C" n="22"/>in anima separata. sed non est possibile quod 
+      no<lb ed="#C" n="23" break="no"/>ticia sensitiua sit in anima separata: si anima sit 
+      <lb ed="#C" n="24"/>separata illa qualitas non est amplius sensitiua. 
+   </p>
+            <p xml:id="jb2v19-d56522-d1e525">
+               <lb ed="#C" n="25"/>¶ Contra hoc arguitur. ipsa est adhuc anime 
+      no<lb ed="#C" n="26" break="no"/>ticia. quia per illa qualitatem anima vitaliter 
+      im<lb ed="#C" n="27" break="no"/>mutatur. sicut potest esse respectu anime 
+      sepa<lb ed="#C" n="28" break="no"/>rate vel angeli noticia. per eam cognoscit et non 
+      <lb ed="#C" n="29"/>est intellectiua quia sic eodem modo debebas 
+      an<lb ed="#C" n="30" break="no"/>te dicere quod illa noticia erat intellectiua: cuius 
+      <lb ed="#C" n="31"/>oppositum dicis. et tunc sic. hec qualitas (quocumque 
+      <lb ed="#C" n="32"/>nomtne vocetur) manet in anima separata: et anima 
+      <lb ed="#C" n="33"/>per eam potest cognoscere. ergo similem noticiam 
+      <lb ed="#C" n="34"/>in specie potest acquirere cum est separata. 
+   </p>
+            <p xml:id="jb2v19-d56522-d1e549">
+               <lb ed="#C" n="35"/>¶ Quinto arguitur. in appetitu sensitiuo sunt 
+      po<lb ed="#C" n="36" break="no"/>nende virtutes alterius rationis a virtutibus in 
+      <lb ed="#C" n="37"/>intellectu et in voluntate: vt in tertio dicetur. et 
+      <lb ed="#C" n="38"/>hoc non potest commode saluari ponendo duplices 
+      <lb ed="#C" n="39"/>in intellectu vel voluntate. ergo appetitus 
+      sensi<lb ed="#C" n="40" break="no"/>tiuus distinguitur ab appetitu intellectiuo. et si iste 
+      <lb ed="#C" n="41"/>rationes non demonstrent conclusionem hanc 
+      quar<lb ed="#C" n="42" break="no"/>tam: sicut tamen mihi probabiliores multo 
+      ra<lb ed="#C" n="43" break="no"/>tionibus ad oppositum quare cum antiquis teneo 
+      <lb ed="#C" n="44"/>illam conclusionem.
+   </p>
+            <p xml:id="jb2v19-d56522-d1e573">
+      ¶ Ex omnibus his sequitur quod 
+      <lb ed="#C" n="45"/>potentie non organice: vt intellectus / memoria / 
+      <lb ed="#C" n="46"/>et voluntas / non sunt accidentia. nec potentie 
+      <lb ed="#C" n="47"/>organice. sed quedam res extense. vt potentia 
+      <lb ed="#C" n="48"/>visiua est visus. et visus nihil aliud est quam determinata 
+      por<lb ed="#C" n="49" break="no"/>tio oculi: scilicet caro illa et anima carnem illam 
+      <lb ed="#C" n="50"/>informans. et sic de potentia auditiua. sed alia 
+      <lb ed="#C" n="51"/>sunt accidentia et qualitatiue dispositiones 
+      re<lb ed="#C" n="52" break="no"/>quisite ad audiendum quam ad videndum quare 
+      ocu<lb ed="#C" n="53" break="no"/>lus nihil potest audire sicut nec auditus videre. 
+   </p>
+            <p xml:id="jb2v19-d56522-d1e596">
+               <lb ed="#C" n="54"/>¶ Secundo sequitur quod falsum est dicere quod 
+      po<lb ed="#C" n="55" break="no"/>tentie anime intellectiue sunt partes eius. nec sunt 
+      <lb ed="#C" n="56"/>partes essentiales nec integrales anime 
+      intelle<lb ed="#C" n="57" break="no"/>ctiue cum anima est impartibilis: nullas habet 
+      <lb ed="#C" n="58"/>partes proprie dictas. Iam paucis contra 
+      conclu<lb ed="#C" n="59" break="no"/>siones obisciemus quatenus melius conclusionum 
+      <lb ed="#C" n="60"/>veritates cognoscantur. Contra primam conclusionem
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>non obiiciam de conclusionibus sequentibus. et de 
+      <lb ed="#C" n="62"/>istis duobus correlariis est disceptatio inter philsopos 
+   </p>
+            <p xml:id="jb2v19-d56522-d1e620">
+               <lb ed="#C" n="63"/>¶ Contra secundam conclusione arguitur rationibus. Primo 
+      <lb ed="#C" n="64"/>sic arguitur. actus et potentia pertinent ad idem 
+      <lb ed="#C" n="65"/>genus. sed actus istarum potentiarum: scilicet 
+      intel<lb ed="#C" n="66" break="no"/>ligere et velle: sunt accidentia anime. ergo et 
+      poten<lb ed="#C" n="67" break="no"/>tie.
+   </p>
+            <p xml:id="jb2v19-d56522-d1e633">
+      ¶ Secundo. si anima secundum suam essentiam 
+      <lb ed="#C" n="68"/>sit immediate principium operationis: cum semper 
+      <lb ed="#C" n="69"/>sit in actu: quia est actus: semper agit et operatur. 
+      <lb ed="#C" n="70"/>igitur semper habens eam intellexit. sicut habens 
+      <lb ed="#C" n="71"/>animam vel essentiam anime semper viuit.
+   </p>
+            <p xml:id="jb2v19-d56522-d1e644">
+      ¶ 
+      Ter<lb ed="#C" n="72" break="no"/>tio potentie: anime sunt in predicamento 
+      quali<lb ed="#C" n="73" break="no"/>tatis. ergo sunt accidentia
+   </p>
+            <p xml:id="jb2v19-d56522-d1e651">
+      ¶ Quarto arguitur 
+      au<lb ed="#C" n="74" break="no"/>ctoritate Augustini. 15 de trinitate. c. 7. 
+      volen<lb ed="#C" n="75" break="no"/>tis ostendere discrimen trinitatis quod in nobis 
+      <lb ed="#C" n="76"/>est: scilicet memorie / intelligentie / voluntatis / 
+      <lb ed="#C" n="77"/>ab ea que est in diuinis: ponit illa in nobis 
+      differ<lb ed="#C" n="78" break="no"/>re: in deo vero esse vnum: et idem. vnde sic 
+      ait<lb ed="#C" n="79" break="no"/>in homine inuenimus trinitatem id est mentem 
+      <lb ed="#C" n="80"/>et noticiam qua se nouit et dilectionem qua se 
+      <lb ed="#C" n="81"/>diligit: sed hec tria sunt in homine vt non 
+      ip<lb ed="#C" n="82" break="no"/>sa sint homo. Quod per hoc ostendit: quia homo 
+      <lb ed="#C" n="83"/>includit corpus. hec autem non sunt corpora. 
+      Con<lb ed="#C" n="84" break="no"/>sequenter ostendit quod non sunt anima: cum subdit 
+      <lb ed="#C" n="85"/>detracto etiam corpore si sola anima cogitetur 
+      ali<lb ed="#C" n="86" break="no"/>quid eius est mens tanquam caput vel oculus vel 
+      fa<lb ed="#C" n="87" break="no"/>cies: sed non hec vt corpora cogitanda sunt: non 
+      <lb ed="#C" n="88"/>igitur anima sed quod excellit in anima mens 
+      voca<lb ed="#C" n="89" break="no"/>tur. ecce clare dicit animam non esse mentem: sed aliquid 
+      <lb ed="#C" n="90"/>quod est in anima et excellens in ea mens est. hec ibi 
+      <lb ed="#C" n="91"/>Item infra eodem. c. post modicum: ait. Item quod in 
+      <lb ed="#C" n="92"/>hoc magna distantia est: scilicet inter trinitatem dei et 
+      <lb ed="#C" n="93"/>nostram: quod siue mentem dicamus in homine eiusque 
+      no<lb ed="#C" n="94" break="no"/>titiam et dilectionem siue memoriam intellectiuam 
+      <lb ed="#C" n="95"/>et voluntatem: nihil mente meminimus nisi per 
+      me<lb ed="#C" n="96" break="no"/>moriam: nec intelligimus nisi per intelligentiam 
+      <lb ed="#C" n="97"/>nec amamus nisi per voluntatem. At vero illa in 
+      <lb ed="#C" n="98"/>trinitate quis audeat dicere patrem nec seipsum nec 
+      <lb ed="#C" n="99"/>filium nec spitritum sanctum intelligere nisi 
+      per<lb ed="#C" n="100" break="no"/>filium: vel diligere nisi per sptum sanctum. per se 
+      au<lb ed="#C" n="101" break="no"/>tem meminisse tatomodo vel sui vel filii vel spiritus sancti 
+      <lb ed="#C" n="102"/>bum vbi vult dicere quod non memoramur per 
+      intelli<lb ed="#C" n="103" break="no"/>gentiam nec intelligimus per voluntatem nec 
+      volu<lb ed="#C" n="104" break="no"/>mus per mentem. ergo distinguitur: quia que sunt idem 
+      <lb ed="#C" n="105"/>quicquid conuenit vni conuenit et alteri. Et epilo 
+      <lb ed="#C" n="106"/>gans hoc idem. c. xvi. eiusdem dicit. Nec distant 
+      <lb ed="#C" n="107"/>in eis ista sicut in nobis aliud est memoria aliud 
+      <lb ed="#C" n="108"/>intelligentia aliud dilectio siue charitas. Item 
+      <lb ed="#C" n="109"/>beatus Augustinus / loquens de illis loquitur 
+      tan<lb ed="#C" n="110" break="no"/>quam de distinctis. vnde dicit ea trinitatem. trinitas 
+      <lb ed="#C" n="111"/>non est nisi distinctorum et dicit hec tria in aucto 
+      <lb ed="#C" n="112"/>ritate statim allegata: quae autem tria non sunt idem c. 
+      <lb ed="#C" n="113"/>xxix. sicut habemus in corpore membra et 
+      quin<lb ed="#C" n="114" break="no"/>que sensus singula ad suos vsus apta quibus 
+      qua<lb ed="#C" n="115" break="no"/>si instrumentis vtimur: ita et anima habet in se 
+      quas<lb ed="#C" n="116" break="no"/>dam vires quibus vtitur velut instrumentis ad 
+      <lb ed="#C" n="117"/>vsus congruos. Est namque ratio in anima qua 
+      si<lb ed="#C" n="118" break="no"/>cut in suo instrumento vtitur ad ratiocinandum. et 
+      <lb ed="#C" n="119"/>voluntas qua vtitur ad volendum. non est enim 
+      ra<lb ed="#C" n="120" break="no"/>tio et voluntas tota anima: sed est vna queque ali¬
+      <pb ed="#V" n="96-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>quid in anima. ecce aperte dicit voluntatem et 
+      ra<lb ed="#C" n="2" break="no"/>tionem esse instrumenta anime. instrumentum autem 
+      <lb ed="#C" n="3"/>distinguitur ab eo cuius est instrumentum. Item 
+      ma<lb ed="#C" n="4" break="no"/>gister distinc. 3 li. primo loquens de 
+      memoria<lb ed="#C" n="5" break="no"/>intelligenta et voluntate dicit: illa tria naturales 
+      <lb ed="#C" n="6"/>proptr. etates siue voces sunt ipsius mentis. et a 
+      <lb ed="#C" n="7"/>se inuicem differunt. quia meoria non est intelligentia 
+      <lb ed="#C" n="8"/>nec voluntas / nec intelligentia voluntas siue amor. 
+      <lb ed="#C" n="9"/>et premisit de illo verbo beati Augustini / qui dicit 
+      <lb ed="#C" n="10"/>illa tria esse vnum / vnam mentem / vnam essentiam 
+      <lb ed="#C" n="11"/>Quod vtique non videtur esse verum iuxta proprie 
+      <lb ed="#C" n="12"/>tatem sermonis.
+   </p>
+            <p xml:id="jb2v19-d56522-d1e786">
+      ¶ Ad primum istorum dicitur si sit 
+      <lb ed="#C" n="13"/>sermo de genere praedicamentali ponendo res in 
+      pre<lb ed="#C" n="14" break="no"/>dicamento more realium predicamenta 
+      distinguen<lb ed="#C" n="15" break="no"/>tium penes rerum multitudinem: auctoritas verum 
+      <lb ed="#C" n="16"/>habet de illo quod est in potentia obiectiua: puta 
+      <lb ed="#C" n="17"/>pro illo quod non est et potest esse. illud quod modo est in potentia 
+      po<lb ed="#C" n="18" break="no"/>stea actualiter est. si sit sermo de potentia que est 
+      <lb ed="#C" n="19"/>principium actus vitalis quem admodum debet 
+      ar<lb ed="#C" n="20" break="no"/>guens capere. et tunc assumptum est falsum. et 
+      pa<lb ed="#C" n="21" break="no"/>tet secundum arguentem. anima est principium 
+      po<lb ed="#C" n="22" break="no"/>tentie et tamen secundum eum potentia est 
+      acci<lb ed="#C" n="23" break="no"/>dens et anima substantia secundo dico ad illam 
+      <lb ed="#C" n="24"/>auctoritatem philosophi nono methaphisice: non 
+      <lb ed="#C" n="25"/>intelligitur auctoritas hec de genere logico: sed 
+      de<lb ed="#C" n="26" break="no"/>genere obiectiuali: ita quod potentia et actus 
+      versan<lb ed="#C" n="27" break="no"/>tur circa idem obiectum. dicimus vnum actum a 
+      to<lb ed="#C" n="28" break="no"/>to genere alium in bonitate excedere: hoc est ex 
+      <lb ed="#C" n="29"/>parte obiecti.
+   </p>
+            <p xml:id="jb2v19-d56522-d1e826">
+      ¶ Ad secundum dicitur quod ipsum 
+      pa<lb ed="#C" n="30" break="no"/>rum apparentie habet. quamdiu materiam informat 
+      <lb ed="#C" n="31"/>semper est in actu sicut forma est actus. non 
+      opor<lb ed="#C" n="32" break="no"/>tet quod si semper quamdiu informat sit in actu primo: quod sit 
+      <lb ed="#C" n="33"/>in actu secundo producendo actum.
+   </p>
+            <p xml:id="jb2v19-d56522-d1e837">
+      ¶ Ad 3. dicitur 
+      <lb ed="#C" n="34"/>proprie res non ponuntur in predicamenro: sed 
+      vo<lb ed="#C" n="35" break="no"/>cabula ratione modorum significandi absolute vel 
+      co<lb ed="#C" n="36" break="no"/>notatiue. non inconuenit aliquid poni in omnibus 
+      <lb ed="#C" n="37"/>predicamentis tamquam rem significata.
+   </p>
+            <p xml:id="jb2v19-d56522-d1e848">
+      ¶ Ad quartum 
+      <lb ed="#C" n="38"/>ad auctoritatem augustini: ostendimus in 
+      probatio<lb ed="#C" n="39" break="no"/>ne conclusionis augustini fuisse illius opinionis quod 
+      <lb ed="#C" n="40"/>intellectus / voluntas / et memoria realiter 
+      distin<lb ed="#C" n="41" break="no"/>guuntur. sed ad auctoritates: dicitur quod capit 
+      me<lb ed="#C" n="42" break="no"/>moriam intellectiuam et voluntatem vt includant actus 
+      <lb ed="#C" n="43"/>suos: scllicet noticiam et dilectionem. et ideo 
+      indiffe<lb ed="#C" n="44" break="no"/>renter nominat nomine potentiarum vel actuum. 
+      <lb ed="#C" n="45"/>et patet. quia in principio auctoritatis allegate 
+      po<lb ed="#C" n="46" break="no"/>nit mentem / noticiam / et dilectionem. vltima 
+      <lb ed="#C" n="47"/>duo vt liquet sunt nomina actuum. vnde cum 
+      <lb ed="#C" n="48"/>dicit non anima sed quod excellit in ea mens 
+      voca<lb ed="#C" n="49" break="no"/>tur: nichil aliud vult quam quod mens non nominat 
+      <lb ed="#C" n="50"/>animam absolute quantu ad essentiam: sed quantum ad 
+      <lb ed="#C" n="51"/>actus qui in eo excellentiores sunt: scllicet 
+      noti<lb ed="#C" n="52" break="no"/>cias et dilectiones. Similiter in eo quod subditur 
+      <lb ed="#C" n="53"/>accipit memoriam intellectum et voluntatem prout 
+      <lb ed="#C" n="54"/>includunt actus: quod cuilibet innotescit suum 
+      pro<lb ed="#C" n="55" break="no"/>cessum consideranti: quia ostendere elaborat 
+      dif<lb ed="#C" n="56" break="no"/>ferentiam trinitatis diuine a trinitate create 
+      ima<lb ed="#C" n="57" break="no"/>ginis per hoc pater non intelligit per filium nec 
+      <lb ed="#C" n="58"/>amat per spitritum sanctum: sed per propriam essentiam. 
+      <lb ed="#C" n="59"/>quia vna et indistincta est formaliter noticia et 
+      <lb ed="#C" n="60"/>amor: nos autem alio actu amamus: alio actu intel¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>ligimus. Et ita non intelligimus nisi per 
+      intelle<lb ed="#C" n="62" break="no"/>ctum: vt intellectus includat actum intelligendi. et 
+      <lb ed="#C" n="63"/>non amamur nisi per voluntatem: hoc est: actum 
+      vo<lb ed="#C" n="64" break="no"/>luntatis. non enim potentiis siue distinguantur si 
+      <lb ed="#C" n="65"/>ue non: intelligimus aut amamus: sed earum 
+      acti<lb ed="#C" n="66" break="no"/>bus elicitis. deus autem sua essentia formaliter in 
+      <lb ed="#C" n="67"/>telligit et amat nec habet actum distinctum ab essentia 
+      <lb ed="#C" n="68"/>et hoc vult Augustinus cum vna res distinctis 
+      <lb ed="#C" n="69"/>nominibus vocatur. loquimur de ea tanquam de pluri 
+      <lb ed="#C" n="70"/>bus. et potissimum in ea disputatione qua inquiritur 
+      <lb ed="#C" n="71"/>idemptitas vel distinctio rerum. et patet 
+      manife<lb ed="#C" n="72" break="no"/>ste in communi modo loquendi: dicimus hec tria 
+      sapien<lb ed="#C" n="73" break="no"/>tia / bonitas / et potentia / in deo idemptificantur. 
+      <lb ed="#C" n="74"/>duas dicimus portiones anime superiprem et 
+      in<lb ed="#C" n="75" break="no"/>feriorem: et est modus vulguatissimus. et tamen ille 
+      <lb ed="#C" n="76"/>due portiones sunt vna et eadem res: vt in 
+      distin<lb ed="#C" n="77" break="no"/>ctione vicesimaquarta patebit. ad Anselmum et 
+      ma<lb ed="#C" n="78" break="no"/>gistrum non respondeo. licet possunt glosari: videtur: 
+      <lb ed="#C" n="79"/>fuisse illius opinionis. nego eos et tenentes 
+      illan<lb ed="#C" n="80" break="no"/>viam. et nimirum. cum secundam conclusionem et 
+      conse<lb ed="#C" n="81" break="no"/>quenter reliquas tenet Augustinus. et communior 
+      <lb ed="#C" n="82"/>scola scolasticorum: et rationes pro parte opposita 
+      <lb ed="#C" n="83"/>nullins momenti sunt. sanctus Thomas in libris 
+      <lb ed="#C" n="84"/>de anima nititur opinionem modernorum refellere 
+      <lb ed="#C" n="85"/>que tennit potentias anime esse animam nunc autem 
+      <lb ed="#C" n="86"/>est opinio tam communis paris i vt alia non egreditur 
+      <lb ed="#C" n="87"/>septa conuentus predicatorum nisi quaetenus 
+      impugne<lb ed="#C" n="88" break="no"/>tur. non quod argumenta aliis silentium imponat: sed 
+      <lb ed="#C" n="89"/>nec neutris assensum praebeant qui vtriusque partis 
+      <lb ed="#C" n="90"/>rationes et auctoritates audiunt.
+   </p>
+            <p xml:id="jb2v19-d56522-d1e968">
+      ¶ Contra tertiam 
+      <lb ed="#C" n="91"/>conclufionem arguitur. ex ea sequitur quod intellectus 
+      <lb ed="#C" n="92"/>vult. similiter hec conclusio: sequitur quod voluntas irt 
+      <lb ed="#C" n="93"/>telligit: iste conclusiones sunt contra omnem modam 
+      <lb ed="#C" n="94"/>loquendi: et quod sequatur patet sic. hic intellectus 
+      in<lb ed="#C" n="95" break="no"/>telligit: hic intellectus est voluntas. ergo voluntas 
+      intel<lb ed="#C" n="96" break="no"/>ligit. expositorie in tertia figura. Alis conclusio 
+      pa<lb ed="#C" n="97" break="no"/>tet. hec voluntas vult. hec voluntas est intellectus. 
+      <lb ed="#C" n="98"/>ergo intellectus vult. consequentia tenet vt prius. 
+      <lb ed="#C" n="99"/>et premisse sunt vere secundum dicta: quia non pono 
+      distin<lb ed="#C" n="100" break="no"/>ctionem realem vel formalem more conterranei 
+      inter<lb ed="#C" n="101" break="no"/>voluntatem et intellectum.
+   </p>
+            <p xml:id="jb2v19-d56522-d1e994">
+      ¶ Respondetur: concedendo 
+      <lb ed="#C" n="102"/>conclusiones illatas. sed voluntas non intelligit 
+      vo<lb ed="#C" n="103" break="no"/>luntate. anima voluntate sintelligit: sed nons 
+      intelli<lb ed="#C" n="104" break="no"/>git voluntate. prior pars patet. anima hoc 
+      intel<lb ed="#C" n="105" break="no"/>lectu intelligit. hic intellectus est voluntas. igitur 
+      <lb ed="#C" n="106"/>secunda pars dicit quod voluntas est principium 
+      intelli<lb ed="#C" n="107" break="no"/>gendi. quod est falsum. ad illam distinctionem 
+      for<lb ed="#C" n="108" break="no"/>malem. nullam talem pono. omni modo 
+      intel<lb ed="#C" n="109" break="no"/>lectus est voluntas nec est distinctio vlla nisi 
+      ra<lb ed="#C" n="110" break="no"/>tionis et in connotatis. et non sunt termini sinoni 
+      <lb ed="#C" n="111"/>mi. intellectus actum intelligendi in obliquo 
+      im<lb ed="#C" n="112" break="no"/>portat. hoc non connotat volutas: sed aptitudinem 
+      <lb ed="#C" n="113"/>ad actum volendi. sunt tamen termini conuertibiles. nichil 
+      <lb ed="#C" n="114"/>de intellectu enunciatur quin illud idem de 
+      volun<lb ed="#C" n="115" break="no"/>tate enunciatursigtiue captis vocabulis. 
+   </p>
+            <p xml:id="jb2v19-d56522-d1e1027">
+               <lb ed="#C" n="116"/>¶ Ulterius sequitur intellectus libere habet actum. 
+      <lb ed="#C" n="117"/>probatur. hoc complexum / libere habens actum / 
+      <lb ed="#C" n="118"/>enunciatur de voluntate. et quicquid vere enunciatur 
+      <lb ed="#C" n="119"/>de voluntate idem vere de intellectu enunciatur. 
+      <lb ed="#C" n="120"/>hoc etiam expositorie deduci potest. similiter potest
+      <pb ed="#V" n="97-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>ostendi / voluntas libera naturaliter habet actum 
+      <lb ed="#C" n="2"/>patet. hic intellectus naturaliter habet actum. hic 
+      <lb ed="#C" n="3"/>intellectus est voluntas libera. igitur. sed 
+      volun<lb ed="#C" n="4" break="no"/>tas libera non vult naturaliter suum actum 
+      vo<lb ed="#C" n="5" break="no"/>luntatis. licet iste propositiones sint vere de 
+      vir<lb ed="#C" n="6" break="no"/>tute sermonis: non vtimur illo modo loquendi. et ratio quod 
+      <lb ed="#C" n="7"/>est. apud multos antiquos putabatur quod potentie 
+      <lb ed="#C" n="8"/>anime intellectiue non idemptificarentur. et multi eorum 
+      <lb ed="#C" n="9"/>modum loquendi imitantur. et talis est modus ad 
+      <lb ed="#C" n="10"/>huc loquendi nominalium: qui tamen in libris de 
+      <lb ed="#C" n="11"/>anima in artibus et theologia concederent millies has 
+      <lb ed="#C" n="12"/>propositiones et similes.
+   </p>
+            <p xml:id="jb2v19-d56522-d1e1072">
+      ¶ Secundo arguitur 
+      <lb ed="#C" n="13"/>tertio de anima intellectus et voluntas dicuntur 
+      <lb ed="#C" n="14"/>partes anime. sed pars non idemptificatur cum 
+      suo<lb ed="#C" n="15" break="no"/>toto. igitur.
+   </p>
+            <p xml:id="jb2v19-d56522-d1e1081">
+      ¶ Respondetur distinguendo quod sunt 
+      <lb ed="#C" n="16"/>p artes anime. vel partes essentiales vel 
+      integra<lb ed="#C" n="17" break="no"/>les. et sic negatur. tales partes non habet 
+      anima<lb ed="#C" n="18" break="no"/>sicut dicitur in de spiritu et anima. c. 8. Tota 
+      ani<lb ed="#C" n="19" break="no"/>me essentia in suis potentiis consistit: nec per 
+      par<lb ed="#C" n="20" break="no"/>tes diuiditur cum sit simplex et indiuidua. et si 
+      ali<lb ed="#C" n="21" break="no"/>quando partes habere dicatur: ratione potius 
+      <lb ed="#C" n="22"/>similitudinis quam veritate compositionis 
+      intelli<lb ed="#C" n="23" break="no"/>gendum est. simplex substantia est anima vel quod sunt 
+      <lb ed="#C" n="24"/>partes similitudinarie et quodammodo subiectiue 
+      <lb ed="#C" n="25"/>denominatione extrinseca et accidentali. et sic 
+      con<lb ed="#C" n="26" break="no"/>cedo. Aliqui termini in sua connontatione important 
+      <lb ed="#C" n="27"/>vnum officium anime / et aliqui aliud officium: de 
+      <lb ed="#C" n="28"/>quibus anima indirecte tanquam minus connotatiuum 
+      <lb ed="#C" n="29"/>denominatiue predicatur. Propterea res 
+      importa<lb ed="#C" n="30" break="no"/>te cum tota connotatione quodammodo dicuntur 
+      <lb ed="#C" n="31"/>partes anime. intellectus potentiam connotat ad 
+      <lb ed="#C" n="32"/>intelligendum ecce vnum officium anime. Uoluntas 
+      <lb ed="#C" n="33"/>habet aliam connotationem in qua aliud anime 
+      <lb ed="#C" n="34"/>officium connotatur. Memoria significat animam 
+      <lb ed="#C" n="35"/>potentem memorari. et sic de aliis. Terminus 
+      <lb ed="#C" n="36"/>anima non habet talem connotationem 
+      partia<lb ed="#C" n="37" break="no"/>lem. et sic quia isti termini important vnam 
+      par<lb ed="#C" n="38" break="no"/>tem significationis anime: dicuntur partes 
+      ani<lb ed="#C" n="39" break="no"/>me importare. quemadmodum diceres: ascendere 
+      <lb ed="#C" n="40"/>est solum pars motus angelici: quia non 
+      expri<lb ed="#C" n="41" break="no"/>mit totum ambitum motus eius. quia potest 
+      de<lb ed="#C" n="42" break="no"/>scendere et circuire.
+   </p>
+            <p xml:id="jb2v19-d56522-d1e1142">
+      ¶ Tertio arguitur. 
+      intelle<lb ed="#C" n="43" break="no"/>ctus possibilis et agens distinguuntur realiter. ergo 
+      <lb ed="#C" n="44"/>voluntas et anima nego antecedens. eadem res 
+      <lb ed="#C" n="45"/>numero est intellectus agens pro quanto 
+      concur<lb ed="#C" n="46" break="no"/>rit ad intellectionem: et possibilis pro quanto eam 
+      <lb ed="#C" n="47"/>recipit.
+   </p>
+            <p xml:id="jb2v19-d56522-d1e1155">
+      ¶ Contra conclusionem quartam 
+      argui<lb ed="#C" n="48" break="no"/>tur. visio est extensa. ergo non potest vllo modo 
+      <lb ed="#C" n="49"/>inherere animae.
+   </p>
+            <p xml:id="jb2v19-d56522-d1e1162">
+      ¶ Respondetur. consequentia nichil 
+      <lb ed="#C" n="50"/>valet / si intelligatur quod non potest ei inherere 
+      per<lb ed="#C" n="51" break="no"/>tialiter visio anime et organo inheret copulatim. 
+      <lb ed="#C" n="52"/>modo hoc totum est extensum. et ratione illius 
+      <lb ed="#C" n="53"/>visionis oculus dicitur videre.
+   </p>
+            <p xml:id="jb2v19-d56522-d1e1173">
+      ¶ Nunc videmus 
+      <lb ed="#C" n="54"/>quonam pacto intellectus / voluntas / et 
+      memo<lb ed="#C" n="55" break="no"/>ria: realiter cum anima intellectiua idemptificantur 
+      <lb ed="#C" n="56"/>et per consequens idemptificantur inter se. quicumque 
+      <lb ed="#C" n="57"/>idemptificantur vni tertio idemptificantur inter se. 
+      sen<lb ed="#C" n="58" break="no"/>sus tamen ab anima distinguuntur tanquam totum a 
+      <lb ed="#C" n="59"/>parte. et sensus inter se realiter distinguuntur. patet. 
+      <lb ed="#C" n="60"/>licet habeant eandem animam tamquam partem principalem: tamen
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>sunt alie partes et dispositiones requisite ad sidgulos 
+      <lb ed="#C" n="62"/>sensus sunt tamen homogenee essentialiter inter se. 
+      <lb ed="#C" n="63"/>etherogenee et alterius rationis accidentaliter. 
+      <lb ed="#C" n="64"/>et licet sensus entitatiue sit perfectior intellectu 
+      <lb ed="#C" n="65"/>quia intellectum continet et cum hoc aliquid aliud: 
+      tamen<lb ed="#C" n="66" break="no"/>intellectus est perfectior potentia quam sensus. quicquid 
+      <lb ed="#C" n="67"/>sensus sentire potest / id idem intellectus intelligere 
+      <lb ed="#C" n="68"/>potest. sensus solum sensibile sentire potest. omne tale 
+      <lb ed="#C" n="69"/>inteml lectus intelligit: et cum hoc imprtibilia que 
+      nul<lb ed="#C" n="70" break="no"/>lo modo sunt ob ecta sensus.
+   </p>
+            <p xml:id="jb2v19-d56522-d1e1216">
+      ¶ Insuper. tot sunt 
+      <lb ed="#C" n="71"/>potentie appetitiue quot cognitiue et cum eis 
+      iden<lb ed="#C" n="72" break="no"/>ptificate. patet. intellectus realiter est voluntas. ergo 
+      <lb ed="#C" n="73"/>eodem modo potentia visiua est sua appetitiua: et 
+      au<lb ed="#C" n="74" break="no"/>ditiua sua appetitiua. Amplius patet. licet aliqua 
+      <lb ed="#C" n="75"/>sunt potentie que non sunt anima. tamen potentie principa 
+      <lb ed="#C" n="76"/>les anime cum ea idemptificantur. Prior pars patet. 
+      quic<lb ed="#C" n="77" break="no"/>quid aliquid potest esse potentia: vt calor. res 
+      quae<lb ed="#C" n="78" break="no"/>libet mouet effectiue ad productionem create 
+      no<lb ed="#C" n="79" break="no"/>ticie que habetur de ea vel haberi potest. Secunda 
+      <lb ed="#C" n="80"/>pars patet ex dictis. et licet potentie anime cum ea 
+      <lb ed="#C" n="81"/>idemptificentur: actus illarum potentiarum 
+      di<lb ed="#C" n="82" break="no"/>stinguuntur specie tam ab anima quam a potentiis 
+      ip<lb ed="#C" n="83" break="no"/>sis et inter se. licet voluntas sit intellectus: 
+      volitio<lb ed="#C" n="84" break="no"/>tamen specie distinguitur ab intellectione: etiam 
+      <lb ed="#C" n="85"/>respectu eiusdem obiecti. et in famato modo 
+      lo<lb ed="#C" n="86" break="no"/>quendi dicimus voluntatem et intellectum esse 
+      vari<lb ed="#C" n="87" break="no"/>as anime potentias propter diuersa officia et 
+      a<lb ed="#C" n="88" break="no"/>ctuum diuersitatem. quomodo potentie 
+      distin<lb ed="#C" n="89" break="no"/>guuntur per actus patet ex questione 
+      preceden<lb ed="#C" n="90" break="no"/>ti: vbi dictum est ignis ascendit / desiccat / et 
+      cale<lb ed="#C" n="91" break="no"/>facit. et tamen est vnus paruus ignis mediantibus 
+      <lb ed="#C" n="92"/>diuersis instrumentis. licet potentie per actus 
+      di<lb ed="#C" n="93" break="no"/>stinguuntur: non sunt tot potentie quot actus. 
+      a<lb ed="#C" n="94" break="no"/>lioquin oporteret in abyssum multiplicare 
+      poten<lb ed="#C" n="95" break="no"/>tias contra omnem modum loquendi. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

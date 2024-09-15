@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 3</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 3</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="68-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d40822"><!-- l2d13q2 -->
+            <head xml:id="jb2v19-d40822-Hd1e101">Quaestio 3</head>
+            <head xml:id="jb2v19-d40822-Hd1e103" type="question-title">Utrum  lumen videatur</head>
+            <p xml:id="jb2v19-d40822-d1e106">
+               <lb ed="#C" n="64"/>TErtio circa hanc distinctionem 
+      <lb ed="#C" n="65"/>queritur an lumen videatur:
+   </p>
+            <p xml:id="jb2v19-d40822-d1e113">
+      ¶ Et 
+      <lb ed="#C" n="66"/>arguitur quod non. lumen est 
+      speci<lb ed="#C" n="67" break="no"/>es lucis et eius representatiua: si 
+      <lb ed="#C" n="68"/>cut species coloris colorem 
+      re<lb ed="#C" n="69" break="no"/>presentat. sed species coloris 
+      <lb ed="#C" n="70"/>non videtur. ergo nec lumen. 
+      mi<lb ed="#C" n="71" break="no"/>nor patet. species albedinis 
+      <lb ed="#C" n="72"/>non est albedo nec color. sed color est obsiem adequa 
+      <lb ed="#C" n="73"/>tum visus: secundo de anima.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e133">
+      ¶ In oppositum arguitur. 
+      lu<lb ed="#C" n="74" break="no"/>men solis resplendens in pariete obsieo / videtur. et 
+      lu<lb ed="#C" n="75" break="no"/>men solis est species lucis. ergo species lucis 
+      vi<lb ed="#C" n="76" break="no"/>detur.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e143">
+      ¶ Pro solutione quaestionis scito virum posse 
+      du<lb ed="#C" n="77" break="no"/>pliciter respondere: et ita faciunt varii. Uno modo quod 
+      nul<lb ed="#C" n="78" break="no"/>lius sensibilis species videtur. Alio modo quod aliqua 
+      vide<lb ed="#C" n="79" break="no"/>tur.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e152">
+      ¶ Sed pono hanc conclusionem. lumen videtur et per 
+      <lb ed="#C" n="80"/>consequens species lucis videtur. Probatur hec conclusio per 
+      argu<lb ed="#C" n="81" break="no"/>mentum post oppositum. Uisus non decipitur circa suum 
+      <lb ed="#C" n="82"/>proprium obsiectum optime applicatum sine obice in 
+      me<lb ed="#C" n="83" break="no"/>dio. sed per noticiam acceptam a sensu visus: in aere 
+      pro<lb ed="#C" n="84" break="no"/>pe parietem iudicamus esse lumen. ergo non est 
+      negan<lb ed="#C" n="85" break="no"/>dum illic esse lumen.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e168">
+      ¶ Secundo arguitur ad idem. 
+      <lb ed="#C" n="86"/>radius solis transiens per vitrum rubeum videtur 
+      termi<lb ed="#C" n="87" break="no"/>nari ad parietem album oppositum: et videtur illic 
+      rube<lb ed="#C" n="88" break="no"/>do. et tamen non est vera rubedo. suppono fantasiam 
+      ockan<lb ed="#C" n="89" break="no"/>negantis species pro nunc falsam et sine apparentia: 
+      <lb ed="#C" n="90"/>(sicut est de facto) allatam. illuc quod oculus sentit 
+      <lb ed="#C" n="91"/>est species solis. intensa rubedo non est in aere vel in 
+      <lb ed="#C" n="92"/>pariete cum albedine.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e186">
+      ¶ Tertio sic arguitur. 
+      vide<lb ed="#C" n="93" break="no"/>mus lumen in luna. alias non videremus luna. et tamen 
+      lumen<lb ed="#C" n="94" break="no"/>lune est species lucis a sole producta. quod patet. cum sper 
+      ha<lb ed="#C" n="95" break="no"/>beat cornua opposita soli: et in deliquio non 
+      ha<lb ed="#C" n="96" break="no"/>bet aliquid similis luminis. igitur
+   </p>
+            <p xml:id="jb2v19-d40822-d1e197">
+      ¶ Quarto arguitur 
+      <lb ed="#C" n="97"/>secundum Aristotelem in de sensu et sensato: fulgor emissus 
+      <lb ed="#C" n="98"/>ab oculo videtur in tenebris. et tamen est species lucis 
+      tam<lb ed="#C" n="99" break="no"/>tum. igitur.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e206">
+      ¶ Secunda conclusio. species coloris cadit 
+      sub<lb ed="#C" n="100" break="no"/>obsieo sensus. Probatur. species vitri rubei videtur in 
+      <lb ed="#C" n="101"/>medio: vt patet per secundam probationem conclusionis 
+      praeceden<lb ed="#C" n="102" break="no"/>tis.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e216">
+      ¶ Secundo arguitur ad idem. species solis in 
+      iride<lb ed="#C" n="103" break="no"/>videtur ab oclusio existentis in centro orizontis. igitur. 
+   </p>
+            <p xml:id="jb2v19-d40822-d1e221">
+               <lb ed="#C" n="104"/>¶ Tertio arguitur: dicit commentator in de sensu et 
+      <lb ed="#C" n="105"/>sensato / ca. primo. quando lumen reflectitur ad virides 
+      plan<lb ed="#C" n="106" break="no"/>tas colorantur parietes. Propterea si omnia 
+      foramina<lb ed="#C" n="107" break="no"/>camere tue in die clauseris quod sint tenebre sicut de 
+      <lb ed="#C" n="108"/>nocte: et fiat paruum foramen in fenestra in quo ingrediatur 
+      <lb ed="#C" n="109"/>radius solis non spissior digito: et dimittatur oblique 
+      <lb ed="#C" n="110"/>est incidere super speculum artificiale: ad aliam partem 
+      refle<lb ed="#C" n="111" break="no"/>ctetur radius. et si oculus illic ponatur ad septem pedes 
+      <lb ed="#C" n="112"/>distans: sic quod radius reflectatur ad oculum: species vi 
+      <lb ed="#C" n="113"/>debis sicut in iride.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e245">
+      ¶ his vtcumque probatis 
+      deue<lb ed="#C" n="114" break="no"/>nio ad argumentum ante oppositum introductum: cuius 
+      <lb ed="#C" n="115"/>minorem nego. et ad eius probationem concedo quod nullius 
+      <lb ed="#C" n="116"/>
+               <lb ed="#C" n="117"/>coloris species est color. sed eius species est altrius 
+      spe<lb ed="#C" n="118" break="no"/>ciei: sicu est lumen respectu lucis. et quando id probas 
+      per<lb ed="#C" n="119" break="no"/>Aristotelem dicentem / secundo de anima: color est 
+      ade<lb ed="#C" n="120" break="no"/>quatum obiectum visus. distinguo. vel proprie 
+      ca<lb ed="#C" n="121" break="no"/>piendo colorem pro quaelitate secunda producta ex
+      <pb ed="#V" n="69-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>commixtione quaelitatum primarum: sicut Aristoteles 
+      causa<lb ed="#C" n="2" break="no"/>pit in de sensu et sensato. et sic nego. lux videtur: et 
+      tamen<lb ed="#C" n="3" break="no"/>non est color. extendendo vocabulum color ad 
+      colo<lb ed="#C" n="4" break="no"/>rem proprie dietun lueem / lumen / et species colorum / sicut 
+      <lb ed="#C" n="5"/>Aristoteles capit. 3. Metheororum (dic et 
+      Aristo<lb ed="#C" n="6" break="no"/>teles lumen est color diaphani secundum actum) et ad 
+      sub<lb ed="#C" n="7" break="no"/>iecta istorum quae de per accidens videntur. sic concedo quod 
+      co<lb ed="#C" n="8" break="no"/>lor est proprium et adequatum obsiecum visus ad huc 
+      sen<lb ed="#C" n="9" break="no"/>sum: nichil videtur nisi quod includatur sub aliquo istorum 
+   </p>
+            <p xml:id="jb2v19-d40822-d1e289">
+               <lb ed="#C" n="10"/>¶ Et si dicas. non semper videmus species 
+      colo<lb ed="#C" n="11" break="no"/>ris in medio / nec lumen. verum est. solum videntur 
+      quan<lb ed="#C" n="12" break="no"/>do sunt fortes et terminantur ad opacum. 
+      Ali<lb ed="#C" n="13" break="no"/>as nullo modo perciperetur. si radius solaris in 
+      <lb ed="#C" n="14"/>grederetur per rimam pruam camere bene clause in die: 
+      <lb ed="#C" n="15"/>si esset foramen ei respondens in pariete opposito: non 
+      <lb ed="#C" n="16"/>videres lumen: et maneres illic in camera tenebro 
+      <lb ed="#C" n="17"/>sa. et tamen si non esset foramen in pariete opposito: 
+      <lb ed="#C" n="18"/>lumen videres: et camera tua ante obscura 
+      illumi<lb ed="#C" n="19" break="no"/>riaretur per reflexionem luminis ad aerem tuum. hic 
+      spe<lb ed="#C" n="20" break="no"/>cies solis videntur in nube rorida quodam modo 
+      opa<lb ed="#C" n="21" break="no"/>ca. quia reflectuntur species ad oculum tuum. et si non 
+      es<lb ed="#C" n="22" break="no"/>set illic nubes reflectens tales species: eas nullo 
+      <lb ed="#C" n="23"/>rnodo deprhenderes. et propterea lumen solis non vi 
+      <lb ed="#C" n="24"/>demus de nocte: esto quod stat supra nos. quia vmbra 
+      <lb ed="#C" n="25"/>terre finitur in mercurio. celum non terminat illas 
+      <lb ed="#C" n="26"/>species tanquam corpus opacum in omni parte. et tamen lumen 
+      <lb ed="#C" n="27"/>solis de nocte videmus in stellis in corpore denso 
+      <lb ed="#C" n="28"/>quodammodo opaco. et ita vtrobique videmus 
+      lumen<lb ed="#C" n="29" break="no"/>quod est species lucis: et species colorum quando 
+      termi<lb ed="#C" n="30" break="no"/>nantur in corpore denso: et sunt fortes. et non aliter.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e337">
+      ¶ Sed 
+      <lb ed="#C" n="31"/>contra illud arguitur. species intentionalis non sentitur: sed 
+      <lb ed="#C" n="32"/>est solum id per quad sentimus. quia sic intus existens 
+      prohibe<lb ed="#C" n="33" break="no"/>ret extraneum: et non perciperemus sensibilia 
+      sen<lb ed="#C" n="34" break="no"/>suum. sicut videns per rubeum vitrum deprehendit omnia 
+      <lb ed="#C" n="35"/>rubea. species soni: hoc est sonus intensionalis: non 
+      <lb ed="#C" n="36"/>auditur: sed est illud per quod sonum realem 
+      apprehendi<lb ed="#C" n="37" break="no"/>mus. et ita de aliis sensibus. sensibile reale 
+      po<lb ed="#C" n="38" break="no"/>situm super sensum non causat sensationem secundum 
+      Ari<lb ed="#C" n="39" break="no"/>stotelem secundo de anima
+   </p>
+            <p xml:id="jb2v19-d40822-d1e359">
+      ¶ Respondetur. Aliqa est 
+      spe<lb ed="#C" n="40" break="no"/>cies et intentio sentiendi: hoc est: medium per quod 
+      <lb ed="#C" n="41"/>aliquid sentitur: quod etiam sentitur. aliquod 
+      ve<lb ed="#C" n="42" break="no"/>ro non. concedo quod sonus realis non 
+      multiplica<lb ed="#C" n="43" break="no"/>tur ad organum auditus: sed solum species soni 
+      per<lb ed="#C" n="44" break="no"/>quam sonus realis percipitur ad exur. si timnitus ille qui est 
+      inte<lb ed="#C" n="45" break="no"/>dum ex ventositate genitus in aure / sit verus 
+      so<lb ed="#C" n="46" break="no"/>nus et realis: nichil est contra hoc. quia est in ori 
+      <lb ed="#C" n="47"/>ficio auris vel prope ipsum organum auditus in 
+      <lb ed="#C" n="48"/>terius in cerebro.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e382">
+      ¶ Secundo arguitur 
+      contra<lb ed="#C" n="49" break="no"/>conclusionem vtramque simul: quia eandem sapiunt 
+      <lb ed="#C" n="50"/>difficultatem. et hoc sic. intensa species etiam ad 
+      <lb ed="#C" n="51"/>opacum terminata non videtur. ergo solutio 
+      nul<lb ed="#C" n="52" break="no"/>la. antecedens patet. simulachrum quod putas 
+      <lb ed="#C" n="53"/>te videre in speculo non est ipsum speculum: nec 
+      <lb ed="#C" n="54"/>species obiecti visibilis: puta tui vel sortis et 
+      ter<lb ed="#C" n="55" break="no"/>go tuo. sed est realiter obiectum visibile: puta 
+      tu<lb ed="#C" n="56" break="no"/>ipse quem vides per lineam reflexam. ergo non vi 
+      <lb ed="#C" n="57"/>des lumen lune: sed solum solem cuius luna est 
+      spe<lb ed="#C" n="58" break="no"/>cie. quod species illa non sit simulachrum patet. vel ip 
+      <lb ed="#C" n="59"/>sum est in aere propinquo speculo: et hoc non. quod 
+      <lb ed="#C" n="60"/>probo. remoue aerem a speculo manu tua vel faciat
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>hoc ventus: adhuc remanet simula. hrum: et non 
+      <lb ed="#C" n="62"/>aer. et accidens non migrat de subiecto in 
+      subie<lb ed="#C" n="63" break="no"/>ctum. ergo idolum illud non est in aere 
+      speculo<lb ed="#C" n="64" break="no"/>vicino. nec est rationabile dicere quod est in 
+      specu<lb ed="#C" n="65" break="no"/>lo. quia tunc ad ptitionem speculi diuideretur 
+      simula<lb ed="#C" n="66" break="no"/>chrum: quod est falsum. si triprtiatur: tria erunt 
+      simula<lb ed="#C" n="67" break="no"/>chra. sed tenendo quod illud quod putas videre non est 
+      <lb ed="#C" n="68"/>idolum: hoc est species sed ipse sortes speciei 
+      pro<lb ed="#C" n="69" break="no"/>ductiuus: omnia optime saluantur: et nulla est 
+      difficul<lb ed="#C" n="70" break="no"/>tas.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e434">
+      ¶ Respondetur. hoc argumentum est replica quod an 
+      <lb ed="#C" n="71"/>modo contra solutionem datam. sed ipsum non concludit. 
+      di<lb ed="#C" n="72" break="no"/>con quod illud idolum quod video est realiter species 
+      mea<lb ed="#C" n="73" break="no"/>reflexa a speculo.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e443">
+      ¶ Pro cuius intelligentia note 
+      <lb ed="#C" n="74"/>tur illud commune ex perspectiua quod triplex est radi 
+      <lb ed="#C" n="75"/>us: scilicet rectus. et radius recte incidere dicitur quando 
+      <lb ed="#C" n="76"/>de corpore lucido vel colorato / radius incidit ad 
+      <lb ed="#C" n="77"/>visum secundum lineam rectam. dicitur autem incidere reflecte vel 
+      <lb ed="#C" n="78"/>refracte: quando de corpore lucido vel colorato incidit 
+      <lb ed="#C" n="79"/>ad oculum per lineas anguli vel angulus intermedio 
+      <lb ed="#C" n="80"/>facientes speculum opacum vel alterius diaphanci 
+      <lb ed="#C" n="81"/>tatis repercutiendo species angulum constituit. tunc 
+      <lb ed="#C" n="82"/>fit reflectio quando ab obiecto radius incipiens / et vel 
+      <lb ed="#C" n="83"/>terius procedere nitens / a speculo repercutitur: suam 
+      <lb ed="#C" n="84"/>primam causam productiua versus: nullatenus 
+      spe<lb ed="#C" n="85" break="no"/>culum ob eius densitatem potens pertransire. vt quando 
+      te<lb ed="#C" n="86" break="no"/>ipsum in oculo sociitui vides vel in speculo 
+      arti<lb ed="#C" n="87" break="no"/>ficiali: color tuus suum radium: hoc est species suas: 
+      <lb ed="#C" n="88"/>producit ad speculum. que cum pertransire non possunt: 
+      <lb ed="#C" n="89"/>reuerberantur a speculo te versus. quia agens natura 
+      <lb ed="#C" n="90"/>le non potens suas species producere omnes per 
+      <lb ed="#C" n="91"/>lineam rectam reflexe producit vel refracte 
+      ra<lb ed="#C" n="92" break="no"/>dius perpendicularis in seipsum reuertitur. lateralis in partem 
+      contra<lb ed="#C" n="93" break="no"/>riam. si fuerit perpendicularis in seipsum reflectitur. et si 
+      late<lb ed="#C" n="94" break="no"/>ralis fuerit flectitur in partem contriam. vt de pila contra parietem 
+      <lb ed="#C" n="95"/>proiecta contigit non quod sit penitus idem. quia eadem pila 
+      nu<lb ed="#C" n="96" break="no"/>mero ad parietem proiecta / resilit. non sic de radio 
+      <lb ed="#C" n="97"/>flexo. sed visibile radium ipsum producit rectum et reflexum. 
+      <lb ed="#C" n="98"/>vel radius rectus reflexum producit. et vna pars radii recti 
+      <lb ed="#C" n="99"/>alteram partem radii recti gignit. ergo in visione reflexa 
+      concur<lb ed="#C" n="100" break="no"/>runt duo radii: scilicet incidens: scilicet radius productus ab obsieo 
+      <lb ed="#C" n="101"/>ad speculum: et radius reflexus repercussus. et duo 
+      an<lb ed="#C" n="102" break="no"/>guli constituuntur: scilicet an gulus incidentie et angulus 
+      refle<lb ed="#C" n="103" break="no"/>xionis. Angulus incidentie est angulus a radio incidem 
+      <lb ed="#C" n="104"/>tie et superficie speculi reflectentis contentus. Angulus 
+      rea<lb ed="#C" n="105" break="no"/>flexionis est ille qui continetur a radio reflexionis et 
+      superfi<lb ed="#C" n="106" break="no"/>cie corporis reflectentis. Radius fractus siue radius 
+      re<lb ed="#C" n="107" break="no"/>fractus est radius qui in occursu medii alterius 
+      diaphan<lb ed="#C" n="108" break="no"/>neitatis non in directum multiplicat: sed perpendicularem 
+      <lb ed="#C" n="109"/>vrsus a puncto incidentie incedit: aut a perpendiculari 
+      re<lb ed="#C" n="110" break="no"/>cedit vt cum aliquid per aquam stantem videt. secundum illud Uer 
+      <lb ed="#C" n="111"/>gilianum in buccolicis. nuper me in littore vidi 
+      placi<lb ed="#C" n="112" break="no"/>dum dum staret mare ab aqua ergo est reflexio. video tamen 
+      la<lb ed="#C" n="113" break="no"/>pidem in fundo aquae non profunde. ergo radius transit per 
+      aquan<lb ed="#C" n="114" break="no"/>quia sine radio videre nequirem. sed radius a me vel 
+      <lb ed="#C" n="115"/>sole productus cadit super speculum. quod est 
+      su<lb ed="#C" n="116" break="no"/>perficies aque. radii laterales tendunt perpendicu 
+      <lb ed="#C" n="117"/>larem versum. totus radius ille est refractus 
+      il<lb ed="#C" n="118" break="no"/>le non est causa quare me video: sed radius 
+      refle<lb ed="#C" n="119" break="no"/>xus: est tamen causa quare video existentes in 
+      <lb ed="#C" n="120"/>fundo aque vel in ea existentes.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e547">
+      ¶ Ad formam dico.
+      <pb ed="#V" n="69-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>simulachrum illud est prope speculum inhesiue acri 
+      in<lb ed="#C" n="2" break="no"/>herens. et quando illud improbas: manet simulachrum 
+      <lb ed="#C" n="3"/>moto aere. potest dici quod est realiter in speculo. 
+      oppo<lb ed="#C" n="4" break="no"/>situm est etiam probabile. propterea dico generatur nouum 
+      <lb ed="#C" n="5"/>idolum a visibili. quemadmodum ad motum corporis 
+      lu<lb ed="#C" n="6" break="no"/>minosi generatur et corrumpitur radius medio. et hoc in 
+      spe<lb ed="#C" n="7" break="no"/>culis artificialibus experiri potes. in aqua 
+      turba<lb ed="#C" n="8" break="no"/>ta hoc non inuenies. quia si superficies aquae comota 
+      fue<lb ed="#C" n="9" break="no"/>rit: species reflex a non reflectitur sicut quando est stans 
+      <lb ed="#C" n="10"/>in aqua mota videtur sol et lux eius: non autem figura eius 
+      <lb ed="#C" n="11"/>variorum sensibilium species varium modum habent in 
+      sub<lb ed="#C" n="12" break="no"/>iecto. hoc ergo quod vides est visibile. et non est 
+      visi<lb ed="#C" n="13" break="no"/>bile quod illas species produxit. et species illa 
+      represen<lb ed="#C" n="14" break="no"/>tat visibile: sicut noticia sortem representat cuius est 
+      si<lb ed="#C" n="15" break="no"/>militudo. et sicut imago depicta herculis 
+      hercu<lb ed="#C" n="16" break="no"/>lem representat. sic species herculis vel noticia 
+      actu<lb ed="#C" n="17" break="no"/>alis eius proprius et naturalius herculem representat. 
+   </p>
+            <p xml:id="jb2v19-d40822-d1e591">
+               <lb ed="#C" n="18"/>¶ Tertio arguitur. in Iride apparet verus color. 
+      <lb ed="#C" n="19"/>ergo illic est verus color. quia sensus non decipitur 
+      cir<lb ed="#C" n="20" break="no"/>ca suum obsiectum: in genere potissimum.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e600">
+      ¶ Quarto arguitur 
+      <lb ed="#C" n="21"/>si esset species coloris in Iride: non appareret 
+      bi<lb ed="#C" n="22" break="no"/>color Iris: sed idem color: cum sint eedem species in 
+      me<lb ed="#C" n="23" break="no"/>dio.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e610">
+      ¶ Ad tertium concedo antecedens: et nego consequentiam. 
+      sen<lb ed="#C" n="24" break="no"/>sus illic decipitur. hoc est: iudicium sensus interioris 
+      <lb ed="#C" n="25"/>vel intellectus acceptum a solo sensu est erroneum. 
+      <lb ed="#C" n="26"/>non decipitur in genere: capiendo genus vt species et 
+      co<lb ed="#C" n="27" break="no"/>lorem proprie dictum includat. et hoc capiendo genus 
+      <lb ed="#C" n="28"/>bene altum. aliqua noticia intuitiua veri animalis propter 
+      <lb ed="#C" n="29"/>imperfectionem eius non producit iudicium in me quod sit animal 
+      <lb ed="#C" n="30"/>sed quod est substantia / ens / vel corpus. vt si equus tuus fuerit 
+      <lb ed="#C" n="31"/>a remotis inter monticulos sue magnitudinis: 
+      <lb ed="#C" n="32"/>et stas. nescis an sit animal. iudicas quod est corpus. vel 
+      <lb ed="#C" n="33"/>corpora sic in proposito et si ratio non ostenderit aliunde 
+      op<lb ed="#C" n="34" break="no"/>positum: intellectus deciperetur. cattus realiter credit illic 
+      <lb ed="#C" n="35"/>esse verum colorem: et se in speculo intuens / pede 
+      percu<lb ed="#C" n="36" break="no"/>tit realiter speculum: credens in speculo vel altera 
+      <lb ed="#C" n="37"/>parte speculi esse cattum cum quo colludere optat immo 
+      <lb ed="#C" n="38"/>Ockam diceret realiter illic esse colorem intrinsecum 
+      <lb ed="#C" n="39"/>in proposito volo dicere ratio castigat sensum: quae 
+      rationa<lb ed="#C" n="40" break="no"/>bilius extrahitur quod illic non est verus color sed species 
+      <lb ed="#C" n="41"/>coloris.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e652">
+      ¶ Ad quartum nego sequelam. dicimus in 
+      Iri<lb ed="#C" n="42" break="no"/>de non esse verum colorem. sed speciei lucis aliter et 
+      <lb ed="#C" n="43"/>aliter cadentes alium et alium faciunt apparere colorem 
+      <lb ed="#C" n="44"/>Patet. lux fortis cum multo opaco facit apparere 
+      <lb ed="#C" n="45"/>rubedinem. patet in carbone ignito. et ex commixtione 
+      for<lb ed="#C" n="46" break="no"/>tis lucis cum tenui opaco generatur albedo: hoc est: 
+      ap<lb ed="#C" n="47" break="no"/>paret albedo. et ex commixtione debilis lucis cum 
+      <lb ed="#C" n="48"/>multo opaco causatur nigredo. sic lux solis vel 
+      lu<lb ed="#C" n="49" break="no"/>men non ponit discrimen quo ad hoc. cadens super varias 
+      <lb ed="#C" n="50"/>partes opacas nubis facit alios apparere colores. 
+      <lb ed="#C" n="51"/>perspicua: quemadmodum sunt: aqua / aer / et vitrum: non sunt 
+      <lb ed="#C" n="52"/>colorata nisi multum remisse. ideo quando magna aqua et 
+      <lb ed="#C" n="53"/>profunda videtur: apparet nigra. quia magna densitas 
+      <lb ed="#C" n="54"/>et profunditas impediunt transitum lucis. si appareat 
+      <lb ed="#C" n="55"/>viridis (vt oceanum) hoc est propter lucis 
+      reflectio<lb ed="#C" n="56" break="no"/>nem / vel propter quedam alia corpora commixta. sic 
+      <lb ed="#C" n="57"/>aliqua pars nubis apparet nigra. aliqua pars non ita 
+      densa<lb ed="#C" n="58" break="no"/>non sic apparet nigra. quid mirum si lux solis super 
+      va<lb ed="#C" n="59" break="no"/>rias partes nubis cadens alium faciat apparere 
+      colo<lb ed="#C" n="60" break="no"/>rem: et cum hoc quartum propter iuxtapositionem trium colo¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>rum apparentium. hoc est: propter tres species realilter 
+      <lb ed="#C" n="62"/>quae apparent colores. sic est in collo columbi vel in 
+      cau<lb ed="#C" n="63" break="no"/>da pauonis: vel si ex filis trium colorum fiat pannus 
+      vi<lb ed="#C" n="64" break="no"/>debitur alius distinctus a coloribus filorum.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e707">
+      ¶ Quinto 
+      <lb ed="#C" n="65"/>arguitur. non vides currum distantem a te. 20. pedibus 
+      <lb ed="#C" n="66"/>in tenebris. ergo suas species non multiplicat. quia 
+      <lb ed="#C" n="67"/>si illas species haberes in oculo: videres currum. quia 
+      <lb ed="#C" n="68"/>species sunt res motiue potentie ad hoc quod videat 
+   </p>
+            <p xml:id="jb2v19-d40822-d1e718">
+               <lb ed="#C" n="69"/>¶ Sexto arguitur. stelle non multiplicant suas 
+      speci<lb ed="#C" n="70" break="no"/>es. et tamen interdum videntur: vt patet de nocte. quod suas 
+      spe<lb ed="#C" n="71" break="no"/>cies non multiplicent patet. tunc de die viderentur: quod est 
+      <lb ed="#C" n="72"/>contra experientiam.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e729">
+      ¶ Ad quantum dicitur. in primis: a multis 
+      <lb ed="#C" n="73"/>putatur quod color nichil aliud est quam lumen in superficie 
+      <lb ed="#C" n="74"/>corporis terminati. et quando non est lumen: non est 
+      co<lb ed="#C" n="75" break="no"/>lor. sicut tenet Auicenna sexto naturalium. lib. 3. c. 1. 
+      <lb ed="#C" n="76"/>sic dicit corpous cuius color solet videri cum non 
+      <lb ed="#C" n="77"/>fuerit illuminatum: fiet obscurum. et tunc non erit 
+      <lb ed="#C" n="78"/>in eo certissime color in effectu. quod autem 
+      putan<lb ed="#C" n="79" break="no"/>tur ibi esse colores / sed occulti: hoc nichil est. aer 
+      <lb ed="#C" n="80"/>enim non tegit eos quamuis obscurus: cum colores 
+      <lb ed="#C" n="81"/>fuerint in effectu. hanc viam Albertus magnus 
+      <lb ed="#C" n="82"/>multis experientiis colorare satagit. Sed hec 
+      <lb ed="#C" n="83"/>opinio est contra Aristotelem et varietatem 
+      mani<lb ed="#C" n="84" break="no"/>festam. dicit Aristoteles secundo de anima. quorumdam 
+      <lb ed="#C" n="85"/>videtur lux seu lumen in tenebris: et non videtur 
+      <lb ed="#C" n="86"/>eorum proprius color. et Commentator 2. de 
+      ani<lb ed="#C" n="87" break="no"/>ma. textu: commenti. 67. non potest aliquis 
+      dice<lb ed="#C" n="88" break="no"/>re quod color non inuenitur in actu nisi luce praesente. et 
+      <lb ed="#C" n="89"/>paulopost inquit. presentia lucis no est 
+      necessa<lb ed="#C" n="90" break="no"/>ria in essendo colorem sed in essendo visibile. 
+   </p>
+            <p xml:id="jb2v19-d40822-d1e771">
+               <lb ed="#C" n="91"/>¶ Sed dicis. Aristoteles dicit in de sensu et 
+      sen<lb ed="#C" n="92" break="no"/>sato. color est extremitas perspicui in corpore 
+      ter<lb ed="#C" n="93" break="no"/>minato. Aristoteles posuit hoc de colore qui 
+      vi<lb ed="#C" n="94" break="no"/>detur. color in profunditate corporis non videtur: 
+      <lb ed="#C" n="95"/>sed solum color in superficie exteriori. et oportet quod 
+      <lb ed="#C" n="96"/>ille color (si actu debeat videri) iungatur 
+      extremita<lb ed="#C" n="97" break="no"/>ti perspicui per quad suam speciem multiplicat: alias non 
+      <lb ed="#C" n="98"/>videbitur. ac si diceret. color in corpore terminato. a 
+      <lb ed="#C" n="99"/>visum terminante qui est coniunctus extremitati 
+      per<lb ed="#C" n="100" break="no"/>spicui videtur. quando marmor frangitur interius est color: 
+      <lb ed="#C" n="101"/>et vinum diuisum subito: interius habet colorem 
+      <lb ed="#C" n="102"/>qui prius actualiter erat illic. hoc tanquam certo 
+      sup<lb ed="#C" n="103" break="no"/>posito. aliud est etiam certum: quod solus color sine 
+      vllo<lb ed="#C" n="104" break="no"/>lumine non potest sufficientur immutare potentiam visiuam 
+      <lb ed="#C" n="105"/>ad videndum. sed non tantum constat an color suas 
+      <lb ed="#C" n="106"/>species per medium multiplicat: sed illa species non 
+      <lb ed="#C" n="107"/>sufficit immutare visum ad videndum. sed 
+      opi<lb ed="#C" n="108" break="no"/>nor quod nullo modo sine lumine multiplicat suas 
+      <lb ed="#C" n="109"/>species nec intensas nec remissas. quia opposito 
+      <lb ed="#C" n="110"/>dato sine vllo lumine videres intensum colorem. quia 
+      <lb ed="#C" n="111"/>si remissus color causaret remissas species visum 
+      <lb ed="#C" n="112"/>non potentes immutare: intensus color intensas 
+      <lb ed="#C" n="113"/>species causaret potentes immutare visum. 
+      so<lb ed="#C" n="114" break="no"/>lus ergo color nullas multiplicat species in 
+      me<lb ed="#C" n="115" break="no"/>dio non lucido. capio indifferenter (loquendo vt 
+      <lb ed="#C" n="116"/>plures) lumen pro luce: intelligens tamen discrimen 
+      <lb ed="#C" n="117"/>specificum inter hec duo: vt patet quando loquor in 
+      speci<lb ed="#C" n="118" break="no"/>ali de illa materia. lumen est causa concausans: 
+      <lb ed="#C" n="119"/>et de necessitate nature requisita / ad hoc quod 
+      co<lb ed="#C" n="120" break="no"/>lor suas species producat in medium. sicut semen
+      <pb ed="#V" n="70-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>maternum non est sufficiciens causa 
+      prolifi<lb ed="#C" n="2" break="no"/>ca fetus: tenendo quod efficientiam respectu fetus 
+      <lb ed="#C" n="3"/>habeat partialem. et licet sortes in tenebris 
+      vi<lb ed="#C" n="4" break="no"/>deat platonem prope candelam et non econuerso: 
+      <lb ed="#C" n="5"/>hoc non facit sine lumine. lumen remissum est 
+      pro<lb ed="#C" n="6" break="no"/>pe sortem: et etiam intensum lumen prope plato 
+      <lb ed="#C" n="7"/>nem quod multum iuuat multiplicare suas species 
+      <lb ed="#C" n="8"/>ad oculum sortis et non est lumen tale prope sortem 
+      <lb ed="#C" n="9"/>ad multiplicandum species sortis ad oculum 
+      plato<lb ed="#C" n="10" break="no"/>nis. propterea plato non videt sortem a quo 
+      vide<lb ed="#C" n="11" break="no"/>tur. quia sortes non habet causam adiutiuam 
+      <lb ed="#C" n="12"/>ad productionem specierum eius: scilicet lumen: 
+      si<lb ed="#C" n="13" break="no"/>cut plato. et licet regens per curiam incedens / ad lectionem 
+      <lb ed="#C" n="14"/>matutinam veniens cum lucerna / videat scolasticum: 
+      <lb ed="#C" n="15"/>et non econuerso: et tamen lumen est propinquius 
+      <lb ed="#C" n="16"/>regenti quam scolastico: hoc non impedit. Ratio: pars 
+      <lb ed="#C" n="17"/>lucerne prope regentem est opaca de denso ferro: 
+      <lb ed="#C" n="18"/>in cuius vmbra stat regens. et pars dyaphona 
+      scolasti<lb ed="#C" n="19" break="no"/>cum versus proiecta. et si squamas piscium vel cat 
+      <lb ed="#C" n="20"/>torum oculos de nocte in tenebris videas: hoc est 
+      <lb ed="#C" n="21"/>quia habent lucem innatam: que lumen per medium 
+      <lb ed="#C" n="22"/>multiplicat: et nix et corpora alba. equus albus 
+      <lb ed="#C" n="23"/>de nocte videtur quando equus alterius coloris 
+      <lb ed="#C" n="24"/>minime percipitur. hinc nocturni equites 
+      latro<lb ed="#C" n="25" break="no"/>nes in vtriusque regni britannie limitibus cauent 
+      <lb ed="#C" n="26"/>adducere equos albos.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e900">
+      ¶ Ad sextum nego quod 
+      stel<lb ed="#C" n="27" break="no"/>le non multiplicent suas species / immo actualiter 
+      <lb ed="#C" n="28"/>suas species multiplicant. videmus eas de nocte. 
+      <lb ed="#C" n="29"/>habent lumen a sole ab altera parte terre. vmbra 
+      <lb ed="#C" n="30"/>terre est piramidalis: et finitur diu ante celum stel 
+      <lb ed="#C" n="31"/>latum: ergo sol stellas illuminat sicut existens in 
+      vm<lb ed="#C" n="32" break="no"/>bra hostii obiecte candele vel tede non potest 
+      le<lb ed="#C" n="33" break="no"/>gere. et tamen remotior diametraliter post 
+      ostium<lb ed="#C" n="34" break="no"/>existens extra vmbram: legere potest. de die 
+      stelle<lb ed="#C" n="35" break="no"/>habent sufficientissimum lumen. ergo species suas 
+      <lb ed="#C" n="36"/>producunt. et patet hoc experimento. existens in 
+      <lb ed="#C" n="37"/>profundo puteo vel inter arbores longas et 
+      pro<lb ed="#C" n="38" break="no"/>pinquas: videt stellas de die. et species stellarum non 
+      <lb ed="#C" n="39"/>deueniunt ad eos in locis illis existentes 
+      ante<lb ed="#C" n="40" break="no"/>deuenere ad aerem bene illuminatum. maius 
+      lu<lb ed="#C" n="41" break="no"/>men in aere illuminato impedit ne oculus 
+      immu<lb ed="#C" n="42" break="no"/>tetur a speciebus stellarum sufficienter. de die sol 
+      <lb ed="#C" n="43"/>suum lumen in oculum producit: et ipsum sic actuat 
+      for<lb ed="#C" n="44" break="no"/>tiore specie ne immutari possit a minori in tanta 
+      <lb ed="#C" n="45"/>distantia a stella. sufficienter immutatur a ligno 
+      <lb ed="#C" n="46"/>vel sorte propinquo: esto quod speciebus solis prius 
+      <lb ed="#C" n="47"/>actuetur propter propinquitatem obiecti fortiter 
+      <lb ed="#C" n="48"/>imprimentis suam speciem. sicut luna de die videtur: 
+      <lb ed="#C" n="49"/>ob eius propinquitatem: et non stella maior ob eius 
+      <lb ed="#C" n="50"/>distantiam maiorem. et licet stella suam speciem 
+      pro<lb ed="#C" n="51" break="no"/>ducat in instanti: sic facit sol. et sic stella non 
+      vide<lb ed="#C" n="52" break="no"/>tur de die ab oculo communi. hoc dico propter 
+      acu<lb ed="#C" n="53" break="no"/>tissime videntem. si fuerit tamen aliqua stella 
+      mul<lb ed="#C" n="54" break="no"/>tum lumine radians: nonnunquam videtur post 
+      meri<lb ed="#C" n="55" break="no"/>diem vel ante meridiem a communiter videntibus: 
+      <lb ed="#C" n="56"/>vt interdum in collegio percipimus: que vix in 
+      me<lb ed="#C" n="57" break="no"/>ridie ob intensum lumen solis videtur. sicut 
+      ali<lb ed="#C" n="58" break="no"/>que stelle citius vesperi apparent quam alie: et diutius 
+      <lb ed="#C" n="59"/>potentiam immutant mane ante solis ortum. tales 
+      <lb ed="#C" n="60"/>multum luminis habent. et vigorose immutant. pro¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>prterea videtur: aliis non sic potentibus immutare non 
+      <lb ed="#C" n="62"/>visis.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e983">
+      ¶ Si dicas. si speculum in aqua immersum 
+      <lb ed="#C" n="63"/>fuerit et soli obiectum: stella videtur. verum est: 
+      ap<lb ed="#C" n="64" break="no"/>paret tibi quod videas stellam / sed illa non est stella 
+      <lb ed="#C" n="65"/>quam vides: sed secundarium solis idolum ex 
+      diuer<lb ed="#C" n="66" break="no"/>sitate specierum speculi et aque resplendentis in aliis 
+      <lb ed="#C" n="67"/>tamen lucidis hoc non experimur propter radio 
+      <lb ed="#C" n="68"/>rum debilitatem.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e999">
+      ¶ Septimo arguitur. si radius 
+      <lb ed="#C" n="69"/>visualis producat suas species visiuas: sequitur 
+      <lb ed="#C" n="70"/>vbicumque sint similes species / similiter poten- 
+      <lb ed="#C" n="71"/>tiam visiuam immutabunt consequens est falsum. 
+      igi<lb ed="#C" n="72" break="no"/>tur. falsitas consequentis patet. pone denarium in 
+      <lb ed="#C" n="73"/>fundum peluis et retrocedas quousque primo non 
+      po<lb ed="#C" n="74" break="no"/>teris videre denarium et maneas in eodem loco 
+      fa<lb ed="#C" n="75" break="no"/>ciendo replere peluem aqua: eundem denarium quem 
+      <lb ed="#C" n="76"/>ante videre non poteras nunc videbis. et 
+      tamen<lb ed="#C" n="77" break="no"/>idem radius et eadem potentia.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e1021">
+      ¶ Respondetur: 
+      an<lb ed="#C" n="78" break="no"/>te erat radius rectus per medium vniformis 
+      dia<lb ed="#C" n="79" break="no"/>phoneitatis nunc vero videtur per medium diuerse 
+      dia<lb ed="#C" n="80" break="no"/>prboneitatis: scilicet per aquam et aerem. propter est alius radius: 
+      <lb ed="#C" n="81"/>propter hec visio est refracta. hoc est: causatur hec vi 
+      <lb ed="#C" n="82"/>sio per radium refractum. et sic videtur sub maiori 
+      an<lb ed="#C" n="83" break="no"/>gulo et maior. et per consequens ad maiorem 
+      distan<lb ed="#C" n="84" break="no"/>tiam videbitur et sol cum tempus est madidum 
+      <lb ed="#C" n="85"/>et est futura pluuia citius videtur antequam ascendat 
+      <lb ed="#C" n="86"/>super orizontem communem. hoc modo littere 
+      appa<lb ed="#C" n="87" break="no"/>rent grossiores cum conspicilibus quam in aere. in 
+      <lb ed="#C" n="88"/>aere nescirent legere senes qui cum conspicilibus 
+      <lb ed="#C" n="89"/>optime legunt. et conspicilia possunt talia fieri 
+      <lb ed="#C" n="90"/>quod parum visus habentes possunt per illa legere: 
+      si<lb ed="#C" n="91" break="no"/>cut de quodam scolastico nostro in collegio fieri vi 
+      <lb ed="#C" n="92"/>di. respectu diuersarum potentiarum nullum esset 
+      in<lb ed="#C" n="93" break="no"/>conueniens qnod aliquis aliter videret quam alter. se 
+      <lb ed="#C" n="94"/>nex terrestres iam habens oculos cum 
+      conspici<lb ed="#C" n="95" break="no"/>libus optime videt: que tamen iuueni viuaces 
+      <lb ed="#C" n="96"/>oculos habenti essent impedimento. species visibi 
+      <lb ed="#C" n="97"/>les laterales transeuntes de medio rariori ad 
+      me<lb ed="#C" n="98" break="no"/>dium densius ad perpendiculum appropinquant 
+      <lb ed="#C" n="99"/>non quod rad ii laterales transeant de vno subiecto 
+      in<lb ed="#C" n="100" break="no"/>aliud. sed cum superficiem medii attingant: a visibi 
+      <lb ed="#C" n="101"/>li producuntur magis vnite circa perpendicularem 
+      <lb ed="#C" n="102"/>lineam: que inter ceteras est fortissima: et non est 
+      <lb ed="#C" n="103"/>maior ratio quod ad vnam partem tenderet quam ad aliam 
+      <lb ed="#C" n="104"/>via regia incedit. cui alii extremales sese apodiant. 
+      <lb ed="#C" n="105"/>hoc ex natura radii prouenit: et non ob resistentiam 
+      <lb ed="#C" n="106"/>vllam in medio. si a medio densiori ad rarius 
+      ra<lb ed="#C" n="107" break="no"/>dii veniant: expanduntur in medio rariori. 
+   </p>
+            <p xml:id="jb2v19-d40822-d1e1089">
+               <lb ed="#C" n="108"/>¶ Ex his dictis patet solutio argumenti: quod non 
+      <lb ed="#C" n="109"/>est idem radius quo videtur denarius in pelui in 
+      pu<lb ed="#C" n="110" break="no"/>ro aere / et in pelue repleta aqua. prior est rectus. 
+      <lb ed="#C" n="111"/>secundus est refractus. licet denarium in pelui 
+      vi<lb ed="#C" n="112" break="no"/>dere possim per duos radios: quorum vnus est 
+      re<lb ed="#C" n="113" break="no"/>fractus et alter reflexus. si peluim plenam 
+      aqua<lb ed="#C" n="114" break="no"/>ponas: et si sol radiat super eam per fenestram: 
+      <lb ed="#C" n="115"/>tunc sortes existens a latere in peluim aspiciens: 
+      <lb ed="#C" n="116"/>solem videbit et lucem eius per radios reflexos 
+      <lb ed="#C" n="117"/>a superficie aque ad oculos sortis. et tamen cum 
+      <lb ed="#C" n="118"/>hoc radius solis super superficiem aque cadens 
+      <lb ed="#C" n="119"/>in peluim se multiplicat ad fundum. aliter ille non 
+      <lb ed="#C" n="120"/>videret denarium in fundo vt diximus secundum
+      <pb ed="#V" n="70-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>argunentum soluendo. ergo hic est solis duplex 
+      ra<lb ed="#C" n="2" break="no"/>dius. vnus re Nlexus a superficie aquae. per quem videtur aqua 
+      <lb ed="#C" n="3"/>alter refractus: per quem denarius videtur in 
+      fun<lb ed="#C" n="4" break="no"/>do aque.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e1133">
+      ¶ Octano arguitur. si essent sic lumina in 
+      <lb ed="#C" n="5"/>medio sese intenderent. consequens est falsum. si duo 
+      <lb ed="#C" n="6"/>luminosa a mplicentur ad corpus opacum: faciunt duas 
+      <lb ed="#C" n="7"/>vmbras. ergo non intendunt seinuicem.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e1143">
+      ¶ Et 
+      com<lb ed="#C" n="8" break="no"/>firmatur hoc quod non sese intendunt dupliciter: vt fiant 
+      <lb ed="#C" n="9"/>nonum et decimum argumentum. tamenn primo. 
+      ca<lb ed="#C" n="10" break="no"/>lor productus ab .a. igne si fuerit in medio: si agens 
+      <lb ed="#C" n="11"/>potens precise similem calorem in gradum 
+      produce<lb ed="#C" n="12" break="no"/>ret nichl caloris producit. ergo si a. luminosum 
+      <lb ed="#C" n="13"/>potest solum quattuor gradus luminis producere: 
+      <lb ed="#C" n="14"/>b. superueniens nichil luminis producit.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e1161">
+      ¶ Tum 
+      <lb ed="#C" n="15"/>secundo. quia si sic: lumen reflexum et directum 
+      fa<lb ed="#C" n="16" break="no"/>cient vnam formam quando radius perpendicularis 
+      <lb ed="#C" n="17"/>reflectitur a seipso in speculum.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e1170">
+      ¶ Ad. 8. licet 
+      com<lb ed="#C" n="18" break="no"/>muniter hoc negetur: et dicunt accidentia eiusdem 
+      <lb ed="#C" n="19"/>speciei specialissime sese intendunt / intelligitur in 
+      <lb ed="#C" n="20"/>prure corporalibus: non autem in lumine. hoc non 
+      va<lb ed="#C" n="21" break="no"/>iet Tum primo. lumen est cormus extensum. Tum 
+      <lb ed="#C" n="22"/>secundo lumina eiusdem corporis faciunt aliquod vnum. 
+      <lb ed="#C" n="23"/>quia da oppositum: erunt infinite partens separate in 
+      <lb ed="#C" n="24"/>lumine. Tum. 3 das michi occasionem negandi quod 
+      <lb ed="#C" n="25"/>vnquam duo gradus scientie vel charitatis 
+      consti<lb ed="#C" n="26" break="no"/>tuant aliquod vnum. teneo vtrobique quod constituant 
+      <lb ed="#C" n="27"/>aliquod vnum. dato quod duas faciiit vmbras: 
+      sequi<lb ed="#C" n="28" break="no"/>tur oppositum.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e1196">
+      ¶ Ad nonum argumentum quod est 
+      pri<lb ed="#C" n="29" break="no"/>mum in consrmatione: concedo illud de calore 
+      <lb ed="#C" n="30"/>quod assumitur. non autem de luminibus et actibus 
+      <lb ed="#C" n="31"/>sua obiecta representantibus. et ratio est si sortes 
+      <lb ed="#C" n="32"/>sit in conspectu tuo: plato superueniens videbitur. 
+      <lb ed="#C" n="33"/>etgo accidentia eiusdem speciei representantia sua ob 
+      <lb ed="#C" n="34"/>inecta stabunt mutuo in medio. nec quaelibet pars 
+      il<lb ed="#C" n="35" break="no"/>lius luminis representabit obiectum vtrumque: sed 
+      so<lb ed="#C" n="36" break="no"/>lum su in causam. quem admodum noticia sorts et plato 
+      <lb ed="#C" n="37"/>nis in intellectu meo sese intendunt. et tamen non 
+      <lb ed="#C" n="38"/>queli bet pars illius totalis noticie 
+      representa<lb ed="#C" n="39" break="no"/>bit sortem. sed noticia sortis sortem solum 
+      representa<lb ed="#C" n="40" break="no"/>bit.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e1225">
+      ¶ Ad decimum argumentum concedo: quod radius 
+      <lb ed="#C" n="41"/>rectus et reflexus constituunt vnam formam
+   </p>
+            <p xml:id="jb2v19-d40822-d1e1230">
+      ¶ Sed 
+      <lb ed="#C" n="42"/>contra illud arguitur si intensius erit lumen per 
+      va<lb ed="#C" n="43" break="no"/>ria corpora luminosa sequitur hec conclusio. si a. 
+      lumi<lb ed="#C" n="44" break="no"/>nosum producat suum lumen vniformiter 
+      disfor<lb ed="#C" n="45" break="no"/>miter ad non gradum: et sortes fuerit prope finem 
+      il<lb ed="#C" n="46" break="no"/>lius luminis in quo non potest legere. et b. 
+      lumi<lb ed="#C" n="47" break="no"/>nosum tantum distet a sorte: producet tantum 
+      lumi<lb ed="#C" n="48" break="no"/>nis in medio in quo est sicut a. luminosum. et sic 
+      <lb ed="#C" n="49"/>erit duplex lumen. et applicentur c. et d. equaliter 
+      di<lb ed="#C" n="50" break="no"/>stantes a sorte sicut a. et b. sequitur quod sortes possit 
+      <lb ed="#C" n="51"/>legere. quia iam erit lumen sufficiens ad 
+      mouen<lb ed="#C" n="52" break="no"/>das litteras vt suas species producant ad 
+      immu<lb ed="#C" n="53" break="no"/>tandam potentiam sortis: sed non est simile omnino 
+      <lb ed="#C" n="54"/>de luminibus diuersorum luminosorum et de recto 
+      <lb ed="#C" n="55"/>et reflexo eiusdem 2. licet finaliter in casu possit 
+      <lb ed="#C" n="56"/>sortes legere. hoc non erit per intensius lumen forma 
+      <lb ed="#C" n="57"/>liter. sed vbi sortes esset in puncto terinatur non gradus: ec 
+      <lb ed="#C" n="58"/>circumferentialiter ponerentur alia luminosa: non legere 
+      <lb ed="#C" n="59"/>magis in fine quam in principio.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e1273">
+      ¶ Undecimo arguitur. 
+      se<lb ed="#C" n="60" break="no"/>quitur ex dictis quod tuvideres faciem tuam in pariet.
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>quocumque plano eonsequens est contra experientiam. 
+      <lb ed="#C" n="62"/>et quod sequatur patet: sit radius visualis a te 
+      produ<lb ed="#C" n="63" break="no"/>ctus ad parietem: ipsum non penetrat saltem totali 
+      <lb ed="#C" n="64"/>ter. patet de aquam. ergo radius reflectitur ad te. et 
+      <lb ed="#C" n="65"/>per consequens teipsum videbis: quod est 
+      proban<lb ed="#C" n="66" break="no"/>dum.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e1293">
+      ¶ Duodecimo arguitur: et est replica / si 
+      di<lb ed="#C" n="67" break="no"/>cas quod requiritur corpus politum ad species 
+      refle<lb ed="#C" n="68" break="no"/>ctendas. et hoc sic. aer species reflectit. ergo et 
+      <lb ed="#C" n="69"/>paries. antecedens patet per Antiphontem de quo 
+      <lb ed="#C" n="70"/>recitat aristoteles quod vidit se in aere. et Uitulio 
+      si<lb ed="#C" n="71" break="no"/>mile recitat in sua perspectiua de quodam qui habuit 
+      <lb ed="#C" n="72"/>quendam tota nocte equitantem prope se.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e1309">
+      ¶ Decimotertio 
+      <lb ed="#C" n="73"/>arguitur. apparet iris prope candelam dummodo 
+      <lb ed="#C" n="74"/>oculus non sit nimis propinquus vel distans: sed 
+      <lb ed="#C" n="75"/>prope ad duos passus: sicut quando candela 
+      har<lb ed="#C" n="76" break="no"/>bet paruam flammam: vt de candela parua cerea 
+      con<lb ed="#C" n="77" break="no"/>tingit. et hoc vocat aristonteles. 3. metheororum de 
+      <lb ed="#C" n="78"/>iride circa lucernas. Et Uitulio decimo sue 
+      perspe<lb ed="#C" n="79" break="no"/>ctiue in commento conclusionis. 20. dicit idem: 
+      maxi<lb ed="#C" n="80" break="no"/>me in hieme flante austro: et maxime visibus 
+      hu<lb ed="#C" n="81" break="no"/>midis. sic prope candelam est purus aer. ergo 
+      refle<lb ed="#C" n="82" break="no"/>xio fit a puro aere. et per consequens a pariere 
+   </p>
+            <p xml:id="jb2v19-d40822-d1e1333">
+               <lb ed="#C" n="83"/>¶ Ad vndecimum data est responsio. ad speculum 
+      re<lb ed="#C" n="84" break="no"/>flectere species requiritur quod ipsum politum sit et 
+      ter<lb ed="#C" n="85" break="no"/>sum. alioquin vnite non reflectuntur species ad 
+      im<lb ed="#C" n="86" break="no"/>mutandam potentiam visiuam.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e1344">
+      ¶ Ad duodecimum 
+      re<lb ed="#C" n="87" break="no"/>spondeo. in eo est difficultas. est magna 
+      apparen<lb ed="#C" n="88" break="no"/>tia quod in puro aere non est reflexio specierum 
+      suffi<lb ed="#C" n="89" break="no"/>ciens: nec debilitas visus sufficit ad hoc. patet 
+      ocu<lb ed="#C" n="90" break="no"/>lus bene dispositus citius debet immutari a 
+      spe<lb ed="#C" n="91" break="no"/>cie reflex a ab aere quam oculus debilis. sed bene vi 
+      <lb ed="#C" n="92"/>dens tale idolum non percipit: nec aliquis nunc 
+      vi<lb ed="#C" n="93" break="no"/>dens diceretur / aristoteles recitat dictum illius 
+      an<lb ed="#C" n="94" break="no"/>thiphontis: et ei adhesit vel bis que retulerunt. et 
+      <lb ed="#C" n="95"/>nichil ad philosophum. quam admodum michi vnum 
+      men<lb ed="#C" n="96" break="no"/>dacium de patria tua recitares: et hoc ego aliis 
+      re<lb ed="#C" n="97" break="no"/>citarem.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e1370">
+      ¶ Ad. 13. concedo quod illud nobis apparet 
+      <lb ed="#C" n="98"/>sed hoc est ab eis qui oculos humidos habent: qui 
+      <lb ed="#C" n="99"/>vapore aerem condensant in quibus est aeris 
+      con<lb ed="#C" n="100" break="no"/>densatio / et radius refractus cum fumo de 
+      bene<lb ed="#C" n="101" break="no"/>potentibus dicere solent: iudicant lucernas 
+      accede<lb ed="#C" n="102" break="no"/>re et decedere propter vapores decedentes et de 
+      <lb ed="#C" n="103"/>nouo genitos. nec sequitur quod oculus sanus istum 
+      <lb ed="#C" n="104"/>radium sic percipiet. cetera sunt imparia. prope 
+      ocu<lb ed="#C" n="105" break="no"/>lum debilis visus habet vapores quod non 
+      ha<lb ed="#C" n="106" break="no"/>bet alter. si oculus acutus esset in eodem medio cum 
+      <lb ed="#C" n="107"/>oculo debili: possit etiam hoc percipere. opposito 
+      <lb ed="#C" n="108"/>dato: quod acutus non possit videre hoc quod videt 
+      <lb ed="#C" n="109"/>debilis coniungendo suum oculum propinque 
+      ocu<lb ed="#C" n="110" break="no"/>lo alterius: dicere oportet / causa non est exterius 
+      <lb ed="#C" n="111"/>extra potentiam: sed est in sensu exteriore vel inte 
+      <lb ed="#C" n="112"/>riore. sicut de frenetico male disposito iudicante 
+      <lb ed="#C" n="113"/>de palea quod sit serpens et senex terrestreitatem in 
+      <lb ed="#C" n="114"/>oculo habens iudicat se videre continuo maculam 
+      <lb ed="#C" n="115"/>nigram: et tamen nulla est talis extra se. quis potest 
+      <lb ed="#C" n="116"/>quasdam probabilitates ex dictis illius solutionis 
+      <lb ed="#C" n="117"/>applicari antihphonti qui suum idolum contra 
+      con<lb ed="#C" n="118" break="no"/>spiciens vidit continuo in aere. ex illo nolo 
+      dice<lb ed="#C" n="119" break="no"/>re visionem fieri extra mittendo: sed suscipiendo 
+      spe<lb ed="#C" n="120" break="no"/>cies ab obiecto. sed tamen ad aliquam distantiam hu¬
+      <pb ed="#V" n="71-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>mores ab oculis immittuntur: vt in quarto de 
+      fa<lb ed="#C" n="2" break="no"/>scinatione dixi.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e1432">
+      ¶ Dubitatur vnde proueniunt iste 
+      <lb ed="#C" n="3"/>deceptiones in speculis.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e1437">
+      ¶ Respodetur: non est de 
+      <lb ed="#C" n="4"/>ceptio in sensu exteriori in visu. sed sensus 
+      inte<lb ed="#C" n="5" break="no"/>rior et noticia simplex intuitiua exterior causant 
+      <lb ed="#C" n="6"/>vnum iudicium crebriter erroneum. et si intellectus 
+      <lb ed="#C" n="7"/>non possit per rationem castigare sensum: etiam 
+      er<lb ed="#C" n="8" break="no"/>rat simile iudicium habendo. generale est quod res vt 
+      <lb ed="#C" n="9"/>sa per lineam reflexam non apparet esse in loco 
+      in<lb ed="#C" n="10" break="no"/>quo est: ymmo obiectum apparet esse vltra 
+      su<lb ed="#C" n="11" break="no"/>perficiem speculi: vbi linea reflexionis terminata 
+      <lb ed="#C" n="12"/>ad oculum pertingeret si protraheretur in rectum vltra 
+      <lb ed="#C" n="13"/>superficiem speculi in occursu catheci. hoc est: 
+      per<lb ed="#C" n="14" break="no"/>pendicularis cadentis ab obiecto. hinc quinto 
+      <lb ed="#C" n="15"/>obiectum realiter distat a speculo tanto 
+      simula<lb ed="#C" n="16" break="no"/>chrum distare videbitur. hinc cattus iudicat sine 
+      <lb ed="#C" n="17"/>vacillatione simulachro suo viso in speculo esse 
+      <lb ed="#C" n="18"/>ex altera parte sdeculi. et sic iudicaret homo: si 
+      <lb ed="#C" n="19"/>ratio sensus iudicium non castigaret. homo per 
+      sen<lb ed="#C" n="20" break="no"/>sum visus / tactus / et auditus / capit iudicium certum 
+      <lb ed="#C" n="21"/>quod homo est ex illa parte speculi vbi est de idolo 
+      vi<lb ed="#C" n="22" break="no"/>so tenebrosius est iudicare. quia sapientes in 
+      il<lb ed="#C" n="23" break="no"/>lo inter se disiunguntur. vnus (vt Ockam) 
+      dice<lb ed="#C" n="24" break="no"/>ret non est vlla species in medio: sed verus 
+      co<lb ed="#C" n="25" break="no"/>lor qui videtur communis tam perspectiuorum quam 
+      philosopho<lb ed="#C" n="26" break="no"/>rum scola rectius diceret hoc quod videtur 
+      nullomo<lb ed="#C" n="27" break="no"/>do est color. colores contrarii non sunt in eodem 
+      <lb ed="#C" n="28"/>medio: que tamen per idem medium videntur. ad 
+      <lb ed="#C" n="29"/>huc isti inter se non conuenirent. Diceret vnus 
+      <lb ed="#C" n="30"/>species sensibilis nullomodo videtur. species ille 
+      <lb ed="#C" n="31"/>reflexe non videntur realiter: sed obiectum per 
+      ra<lb ed="#C" n="32" break="no"/>dium reflexum. sic quod homo iudicat se videre 
+      si<lb ed="#C" n="33" break="no"/>mulachrum in speculo vel prope speculum. sed nullum 
+      <lb ed="#C" n="34"/>simulachrum videt: licet appareat simulachrum. sed 
+      <lb ed="#C" n="35"/>tenendo sicut tenuimus: realiter species 
+      vide<lb ed="#C" n="36" break="no"/>mus. Adhuc potest quis dicere simulachrum illud 
+      <lb ed="#C" n="37"/>est in vitro speculi / in pupilla oculi tui / in polito qua 
+      <lb ed="#C" n="38"/>calibe: et non in aere propinquo: licet species sint 
+      <lb ed="#C" n="39"/>tam in speculo quam in aere illud est probabile quod 
+      <lb ed="#C" n="40"/>tenet perspectiua cantuariensis libro secundo. 
+      mi<lb ed="#C" n="41" break="no"/>chi pro nunc vterque modus est probabilis. 
+      refle<lb ed="#C" n="42" break="no"/>ctio specierum fit a speculo. quando corpus 
+      transpa<lb ed="#C" n="43" break="no"/>rens iungitur opaco: tunc species pertransire non 
+      <lb ed="#C" n="44"/>possunt. vel si alique pertransierint: alique 
+      reper<lb ed="#C" n="45" break="no"/>cutiuntur propter plumbum quod vitro iungitur 
+      im<lb ed="#C" n="46" break="no"/>mediate. alioquin non esset reflexio. et terra 
+      opa<lb ed="#C" n="47" break="no"/>ca aque diaphane in oculo carbunculo / vel in 
+      po<lb ed="#C" n="48" break="no"/>litis lapidibus / nos videmus: licet ad aliquam 
+      dista<lb ed="#C" n="49" break="no"/>tiam species profundantur in eis. aliqua specula 
+      <lb ed="#C" n="50"/>semper iudicium erroneum prebent. specula 
+      concaua<lb ed="#C" n="51" break="no"/>rem maiorem: conuexa minorem. fac experimentum 
+      <lb ed="#C" n="52"/>tuipse in singulis partibus conclearis argentei politi. 
+      san<lb ed="#C" n="53" break="no"/>guis hominum nigrum et pallidum: oleum iuuenilem: gladius 
+      <lb ed="#C" n="54"/>latum aut oblongum et representat. in speculo multe 
+      <lb ed="#C" n="55"/>concauitatis pars superior apparet inferior et 
+      <lb ed="#C" n="56"/>econuerso: eo quod vna pars speciem supra aliam 
+      proii<lb ed="#C" n="57" break="no"/>ciat. nonnunquam in speculo res confuse apparet: et 
+      <lb ed="#C" n="58"/>non videtur figura rei / licet figura sit res 
+      figu<lb ed="#C" n="59" break="no"/>rata. stat per noticiam simplicem que habetur 
+      co<lb ed="#C" n="60" break="no"/>gnoscere iudicatiue de re vnum predicatum et aliud
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>sicut stat cognoscere coriscum et coriscum venientem 
+      <lb ed="#C" n="62"/>cognoscere et non cognoscere venientem coriscum 
+      <lb ed="#C" n="63"/>sic stat figuram cognoscere et non cognoscere 
+      figu<lb ed="#C" n="64" break="no"/>ram. mirabile est quod in speculis inuenitur: quod 
+      <lb ed="#C" n="65"/>Augustinus ad nebridium occultum dicit esse: sic 
+      in<lb ed="#C" n="66" break="no"/>quiens: quamuis specula ingentia sint: non reddunt 
+      maio<lb ed="#C" n="67" break="no"/>res quam sint corpora etiam breuissia obiecta. in paruis autem 
+      <lb ed="#C" n="68"/>speculis sicut pupillis oculorum / et si magna facies 
+      <lb ed="#C" n="69"/>sese apponat: breuissia tamen imago pro modo 
+      speculi<lb ed="#C" n="70" break="no"/>formatur.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e1587">
+      ¶ Dicis. quedam sunt specula in quibus 
+      <lb ed="#C" n="71"/>recte iudicamus rem sicuti est: vt stans clara aqua / 
+      <lb ed="#C" n="72"/>pupilla oculi / calibs / specula artificialia / 
+      plana<lb ed="#C" n="73" break="no"/>specula et vniformia. per alia multa sinstre 
+      iudi<lb ed="#C" n="74" break="no"/>camus: quomodo scimus quod illorum rectum 
+      <lb ed="#C" n="75"/>dat iudictum.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e1600">
+      ¶ Respondemus: hoc 
+      cognosci<lb ed="#C" n="76" break="no"/>mus per radium rectum. quero ab aliis qualis ego 
+      <lb ed="#C" n="77"/>sum qui me per radium directum vident qui 
+      opposi<lb ed="#C" n="78" break="no"/>tum prebet iudicium. et quia aliqua specula simile 
+      <lb ed="#C" n="79"/>dant iudicium: iudico illa recta. sicut quicquid 
+      ve<lb ed="#C" n="80" break="no"/>ro quadrat / est verum. quod discrepat / falsum. Re 
+      <lb ed="#C" n="81"/>liqua vero etheroclita. radius rectus est certior 
+      <lb ed="#C" n="82"/>inter omnes radios. reflexus debilis. et se 
+      re<lb ed="#C" n="83" break="no"/>flexe videns / crebro dicitur: et parum super hoc 
+      re<lb ed="#C" n="84" break="no"/>miniscitur: sicut dicit beatus Iacobus in canoni 
+      <lb ed="#C" n="85"/>ca. vir qui contemplatur faciem suam in speculo: et se 
+      auer<lb ed="#C" n="86" break="no"/>tens: statim qualis fuerit obliuiscitur. videt enim 
+      ho<lb ed="#C" n="87" break="no"/>mo faciem suam per radium a speculo reflexum. quam 
+      <lb ed="#C" n="88"/>do dicimus specula dare iudicium intelligitur 
+      vtro<lb ed="#C" n="89" break="no"/>bique: noticia intuitiua talis qualis habetur cum in 
+      <lb ed="#C" n="90"/>tellectu tale iudicium producit. sicut quando dicimus 
+      <lb ed="#C" n="91"/>species sensibilis representat rem ipsam: est 
+      me<lb ed="#C" n="92" break="no"/>dium per quod intellectus noticiam actualem rei 
+      for<lb ed="#C" n="93" break="no"/>mat.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e1642">
+      ¶ Dicis: radii sunt inutiles: cum crebritr per eos 
+      <lb ed="#C" n="94"/>fallimur. Respondetur. secundum eos non negantes sequitur. 
+      ne<lb ed="#C" n="95" break="no"/>gantes / etiam fallimur iudicando baculum cuius vna 
+      <lb ed="#C" n="96"/>medietas est in aqua et alia in aere fractum: qui 
+      ta<lb ed="#C" n="97" break="no"/>men non est. similiter lanceam ardentem iudicamus 
+      <lb ed="#C" n="98"/>de celo stellato cadere: et nubes esse celo vicienas. 
+      <lb ed="#C" n="99"/>et hoc est quod dicitur conclusione. 63. prime 
+      par<lb ed="#C" n="100" break="no"/>tis perspectiue sola distantia mediocris visui est 
+      <lb ed="#C" n="101"/>certificabilis et hoc per corpora interiacentia et 
+      <lb ed="#C" n="102"/>ordinata. et conclusione. 76. eiusdem dicitur. nulla 
+      <lb ed="#C" n="103"/>quantitas rei immoderate distantis estoculo 
+      cer<lb ed="#C" n="104" break="no"/>tificabilis. hoc experimur in terris. si 
+      promonto<lb ed="#C" n="105" break="no"/>ria multum inter se distent et vnum fuerit post aliud 
+      <lb ed="#C" n="106"/>in magna distantia ab vtroque iudicabis ea esse 
+      <lb ed="#C" n="107"/>vicina si alii possent dare meliorem causam quam 
+      spe<lb ed="#C" n="108" break="no"/>cies ponentes: pro se haberent apparentiam 
+      habe<lb ed="#C" n="109" break="no"/>mus remedia in inferioribus per alios sensus et 
+      <lb ed="#C" n="110"/>rationem: assensum causatum ex noticiis talibus ad 
+      <lb ed="#C" n="111"/>mittere vel recusare. multa commoda per has 
+      spe<lb ed="#C" n="112" break="no"/>ciebus habemus sine quibus nullum sensibile 
+      cogno<lb ed="#C" n="113" break="no"/>sceremus. quomodo nosipsos sine speculo et 
+      spe<lb ed="#C" n="114" break="no"/>sciebus contemplaremur: ait quomodo viderem 
+      ra<lb ed="#C" n="115" break="no"/>suram capitis vnum speculum ante faciem et 
+      <lb ed="#C" n="116"/>aliud oblique super coronam ponendo vt species 
+      <lb ed="#C" n="117"/>bone a speculo superiore ad speculum anterius et 
+      <lb ed="#C" n="118"/>inferius reflectantur. Etiam cum eadem candela 
+      per<lb ed="#C" n="119" break="no"/>variorum speculorum appositionem plures legere 
+      pos<lb ed="#C" n="120" break="no"/>sunt quam sine hac specierum reflexione. quomodo
+      <pb ed="#V" n="71-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>aliter simplex columbus in aqua potaturus 
+      acci<lb ed="#C" n="2" break="no"/>pitrem venientem deprehenderet: nisi quia species 
+      <lb ed="#C" n="3"/>visibiles accipitris reflecterentur ab aqua ex qui 
+      <lb ed="#C" n="4"/>bus elicit species inimicicie et aufugit. ergo 
+      spe<lb ed="#C" n="5" break="no"/>cies sunt et vtiles nobis ad multa et necessarie 
+      <lb ed="#C" n="6"/>ad sentiendum.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e1720">
+      ¶ Forte dicis. cum per duos 
+      ocu<lb ed="#C" n="7" break="no"/>los species suscipimus duas noticias sensitiuas 
+      ha<lb ed="#C" n="8" break="no"/>bebrmus et duo iudicia.
+   </p>
+            <p xml:id="jb2v19-d40822-d1e1728">
+      ¶ Respondeo quod non sequitur. quia 
+      <lb ed="#C" n="9"/>illi duo per quos spiritus visiuus diffunditur / et 
+      spe<lb ed="#C" n="10" break="no"/>cies visibilium deferuntur / sunt rami vnius nerui a 
+      <lb ed="#C" n="11"/>sensu communi progredientis: qui circa oculos 
+      duplica<lb ed="#C" n="12" break="no"/>tur. et partes ad similitudinem fistularum ampliantur 
+      <lb ed="#C" n="13"/>Ramus dexter oculum dextrum et sinistersinistrum 
+      <lb ed="#C" n="14"/>complectitur. locus autem bifurcationis (qui et neruus 
+      <lb ed="#C" n="15"/>obticus) dicitur in quo visio completur. hinc res 
+      duo<lb ed="#C" n="16" break="no"/>bus oculis conspecta non due sed vna videtur: nisi 
+      <lb ed="#C" n="17"/>alter vltra suum situm leuetur. tunc ratio 
+      conclu<lb ed="#C" n="18" break="no"/>det quod res vna due res iudicabitur. et licet altero 
+      <lb ed="#C" n="19"/>clauso melius videamus: vt videmus: vt patet 
+      <lb ed="#C" n="20"/>per balistarios alterum claudentes: quia virtus est 
+      <lb ed="#C" n="21"/>magis vnita: natura tamen duos ministrauit 
+      ocu<lb ed="#C" n="22" break="no"/>los vt vno ablato per alium videamus: et alterum 
+      <lb ed="#C" n="23"/>claudamus quando volumus. quia sensum visus 
+      <lb ed="#C" n="24"/>pre aliis sensibus diligimus: primo methaphisice. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

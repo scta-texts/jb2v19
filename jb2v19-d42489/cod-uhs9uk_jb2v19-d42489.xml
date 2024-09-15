@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="71-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d42489"><!-- l2d14q1 -->
+            <head xml:id="jb2v19-d42489-Hd1e101">Quaestio 1</head>
+            <head xml:id="jb2v19-d42489-Hd1e103" type="question-title">An sint plures caeli, et de ordine eorum</head>
+            <p xml:id="jb2v19-d42489-d1e106">
+               <lb ed="#C" n="25"/>IN hac. xiiii. distinctione (in qua 
+      <lb ed="#C" n="26"/>magister loquitur de celo) 
+      va<lb ed="#C" n="27" break="no"/>rias formabo questiones: que 
+      <lb ed="#C" n="28"/>suo ordine patebunt. Prinmo 
+      que<lb ed="#C" n="29" break="no"/>ram an sint plures celi et de 
+      <lb ed="#C" n="30"/>ordine eorum.
+   </p>
+            <p xml:id="jb2v19-d42489-d1e122">
+      ¶ Pro cuius 
+      so<lb ed="#C" n="31" break="no"/>lutione declarabo 
+      acceptio<lb ed="#C" n="32" break="no"/>nem termini celum: ne in 
+      equi<lb ed="#C" n="33" break="no"/>uoco fallamur: postea conclusiue ad questionis 
+      ti<lb ed="#C" n="34" break="no"/>phorice pro corpore diaphano cum celo vero 
+      con<lb ed="#C" n="35" break="no"/>tulum responsurus. Celum accipitur interdum 
+      metha<lb ed="#C" n="36" break="no"/>uenienti. et sic aer dicit celum. sic accipitur in 
+      hym<lb ed="#C" n="37" break="no"/>non puerorum: benedicite volucres celi domino. et 
+      lu<lb ed="#C" n="38" break="no"/>ce octauo volucres celi communederunt illud. nonnunquam 
+      <lb ed="#C" n="39"/>sancta trinitas in scriptura dicitur celum. Pet 
+      Esaye<lb ed="#C" n="40" break="no"/>decimo quarto. ascendam in celum i. equalitatem dei. 
+      <lb ed="#C" n="41"/>interdum spiritualia bona in quibus est sanctorum 
+      remu<lb ed="#C" n="42" break="no"/>neratio daunr celum: vt mathei quinto. merces 
+      ve<lb ed="#C" n="43" break="no"/>stra multa est in celis. exponit Augustinus 
+      quan<lb ed="#C" n="44" break="no"/>doque tria genera spiritualium visionum: scilicet corpora 
+      <lb ed="#C" n="45"/>lis / imaginaria / et intellectualis. tres celi 
+      nomi<lb ed="#C" n="46" break="no"/>nantur. de quibus Augustinus exponit paulus 
+      ra<lb ed="#C" n="47" break="no"/>ptus est ad tercium celum 2. corinthiorum. 12. in 
+      pro<lb ed="#C" n="48" break="no"/>posito capimus pro quinta essentia perpetua. et 
+      <lb ed="#C" n="49"/>nonnunquam capitur collectiue pro tota 
+      congregatio<lb ed="#C" n="50" break="no"/>ne celorum: nonnunquam pro vno celo quod est vnum 
+      <lb ed="#C" n="51"/>continuum. frequenter capitur pro omnibus 
+      requi<lb ed="#C" n="52" break="no"/>sitis ad motum vnius planete: et sic concentricus et 
+      <lb ed="#C" n="53"/>ecentricus et epiciclus dicuntur vnum celum. 
+      sermo<lb ed="#C" n="54" break="no"/>nes accipiendi sunt secundum materiam subiectam. 
+   </p>
+            <p xml:id="jb2v19-d42489-d1e177">
+               <lb ed="#C" n="55"/>¶ His praemissis pono conclusiones ad questionem 
+      <lb ed="#C" n="56"/>considera in qua significatione loqui intendimus. 
+      <lb ed="#C" n="57"/>quarum prima est. Plures sunt celi. probatur hec 
+      con<lb ed="#C" n="58" break="no"/>clusio per stellas.
+   </p>
+            <p xml:id="jb2v19-d42489-d1e189">
+      ¶ Sed dicis. non sunt 
+      ponen<lb ed="#C" n="59" break="no"/>de stelle. sed est vnum celum fulgidum et lucidum 
+      su<lb ed="#C" n="60" break="no"/>premum. et celum sub illo est aliquibus magnis fora¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>minibus aliquibus paruis repletum: ita quam est 
+      gros<lb ed="#C" n="62" break="no"/>sum foramen quod solem vocas. et hoc videmus 
+      <lb ed="#C" n="63"/>celum lucidum. et hoc quod mercurium vocas 
+      <lb ed="#C" n="64"/>paruum foramen per quod lucidum celum vides. 
+   </p>
+            <p xml:id="jb2v19-d42489-d1e207">
+               <lb ed="#C" n="65"/>¶ Contra: per hec foramina non possunt 
+      salua<lb ed="#C" n="66" break="no"/>ri apparentie in sublimioribus: vt pote de 
+      augmen<lb ed="#C" n="67" break="no"/>to et decremento lune de apparentibus coloribus 
+      <lb ed="#C" n="68"/>planetarum et stellarum cum eis in apparenti colore 
+      <lb ed="#C" n="69"/>conuenientium: nec inequalis inter planetas 
+      inter<lb ed="#C" n="70" break="no"/>capedo. relinquitur ergo quod realiter sunt stelle et plane 
+      <lb ed="#C" n="71"/>te sicut via communis dicit. hoc supposito si: 
+      argumen<lb ed="#C" n="72" break="no"/>tor. Alique stelle interdum sunt propinquiores non 
+      <lb ed="#C" n="73"/>nunquam remotiores inter se includo planetam 
+      sub<lb ed="#C" n="74" break="no"/>stella. sed stella non mouetur motu progressiuo: sed 
+      <lb ed="#C" n="75"/>est in suo orbe sicut clauus in rota. Probat hoc 
+      <lb ed="#C" n="76"/>aristoteles secundo de celo. tunc natura dedisset 
+      <lb ed="#C" n="77"/>ei instrumenta mouendi: cuius oppositum patet ad 
+      <lb ed="#C" n="78"/>sensum. hoc idem Probatur. quia si sic: celum 
+      conden<lb ed="#C" n="79" break="no"/>saretur: si stella more piscis in aqua moueretur vel 
+      <lb ed="#C" n="80"/>instar sagitte in aere. cum pars anterior aeris 
+      con<lb ed="#C" n="81" break="no"/>densatur et pars mobile sequens rarefit. 
+      inconue<lb ed="#C" n="82" break="no"/>niens est ponere celum condensari vel rarefieri: 
+      li<lb ed="#C" n="83" break="no"/>cet vna pars celi entitatiue sit spissior et densior 
+      <lb ed="#C" n="84"/>creata a principio. quod alique stelle sunt inter se 
+      pro<lb ed="#C" n="85" break="no"/>pinquiores / et nonnunquam remotiores. patet de plane 
+      <lb ed="#C" n="86"/>tis cum aliqua stella fixa et de planetis inter se quae 
+      interdum<lb ed="#C" n="87" break="no"/>sunt in trino aspectu / interdum in sextili / ien coniunctione / 
+      <lb ed="#C" n="88"/>vel oppositione non alias / stelle erratice 
+      dicun<lb ed="#C" n="89" break="no"/>tur. Insuper stelle fixe scintillant. et vna causa est: 
+      <lb ed="#C" n="90"/>stellarum fixarum distantia. erratice stelle non 
+      scin<lb ed="#C" n="91" break="no"/>tillat ob propinquitate. ergo sunt in variis celis 
+   </p>
+            <p xml:id="jb2v19-d42489-d1e268">
+               <lb ed="#C" n="92"/>¶ Correlarie sequitur quot sunt stelle nunc magis 
+      <lb ed="#C" n="93"/>distantes nunc minus distantes inter se: tot sunt 
+      <lb ed="#C" n="94"/>celi. hec ex predictis sequitur.
+   </p>
+            <p xml:id="jb2v19-d42489-d1e277">
+      ¶ Secunda 
+      conclu<lb ed="#C" n="95" break="no"/>sio: pro omnibus stellis fixis est precise vnum 
+      ce<lb ed="#C" n="96" break="no"/>lum. Probatur. si stelle ille essent in variis celis: 
+      <lb ed="#C" n="97"/>nonnumquam magis nonnumquam minus distarent sicut planete 
+      <lb ed="#C" n="98"/>illa probatio in proposito sufficit: licet non vinceret 
+      di<lb ed="#C" n="99" break="no"/>centem varios celos continentes stellas 
+      vniformi<lb ed="#C" n="100" break="no"/>ter moueri: et eque velociter ad vnam differentiam 
+      <lb ed="#C" n="101"/>positionis: quorum stelle semper equaliter distant in 
+      <lb ed="#C" n="102"/>ter se.
+   </p>
+            <p xml:id="jb2v19-d42489-d1e297">
+      ¶ Insuper arguitur ad idem. non alias celum 
+      <lb ed="#C" n="103"/>stellatum vocatur firmamentum cum continuo 
+      mo<lb ed="#C" n="104" break="no"/>ueatur. sed quia stelle sue semper equaliter distant 
+      <lb ed="#C" n="105"/>inter se. nota hodie drachono inter geminas 
+      vr<lb ed="#C" n="106" break="no"/>sas interceptum et earum inter se inter capedinem vel 
+      <lb ed="#C" n="107"/>inter quascumque stellas illius orbis volueris: 
+      sem<lb ed="#C" n="108" break="no"/>per equale interuallum inuenies.
+   </p>
+            <p xml:id="jb2v19-d42489-d1e313">
+      ¶ Tertia 
+      conclu<lb ed="#C" n="109" break="no"/>sio. pro planetis et celo stellato inuenti sunt octo 
+      <lb ed="#C" n="110"/>celi. Probatur. pro septem planetis nunc equaliter 
+      <lb ed="#C" n="111"/>nunc inequaliter distatibus inuentis sunt septem celi. 
+      <lb ed="#C" n="112"/>et celum stellatum est aliud ab eis. ergo inuenti sunt 
+      <lb ed="#C" n="113"/>octo celi. ad hos celos deuentum est in diebus 
+      ari<lb ed="#C" n="114" break="no"/>stotelis et non plures: saltem ab eo. propterea 
+      po<lb ed="#C" n="115" break="no"/>suit celum stellatum sapremum / in et de celo et mundo 
+   </p>
+            <p xml:id="jb2v19-d42489-d1e332">
+               <lb ed="#C" n="116"/>¶ Quarta conclusio. celum lune est celum nobis 
+      <lb ed="#C" n="117"/>propinquissimum. Probatio. corpus lune inter 
+      om<lb ed="#C" n="118" break="no"/>nes planetas et stellas est nobis propinquius. 
+      er<lb ed="#C" n="119" break="no"/>go celum lune consequentia est nota. probatur 
+      ante<lb ed="#C" n="120" break="no"/>tecedens. omne corpus / aliud eclipsans a nobis
+      <pb ed="#V" n="72-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>est nobis vicinius corpore quod eclipsat. corpus 
+      <lb ed="#C" n="2"/>lune reliquas stellas omnes eclipsat. ergo luna 
+      <lb ed="#C" n="3"/>est nobis propinquius. consequentia est nota. cum 
+      <lb ed="#C" n="4"/>maiore. et minore experientia nota est. et sic 
+      asce<lb ed="#C" n="5" break="no"/>dendo per ordinem per orbes planetarum secundum 
+      <lb ed="#C" n="6"/>carmen vulgare. Post sim sum sequitur vltima 
+      lu<lb ed="#C" n="7" break="no"/>na subest. per mutuam eclipsim supcrioreitas et in 
+      <lb ed="#C" n="8"/>ferioreitas est deprghensa: dempto sole. propterea 
+      <lb ed="#C" n="9"/>circa hoc est difficultas. Aristoteles putabat 
+      so<lb ed="#C" n="10" break="no"/>lem lune esse proximum in ascendendo: cum a 
+      nul<lb ed="#C" n="11" break="no"/>lo planeta alio a luna sol eclipsetur. et hec ratio est 
+      <lb ed="#C" n="12"/>apparens Albumasar solem / mercurium / et venerem in 
+      <lb ed="#C" n="13"/>eodem celo locauit: eo quod nunquam multum elongantur. 
+      <lb ed="#C" n="14"/>sed hanc paruam distantiam per magnum epiciclum 
+      sal<lb ed="#C" n="15" break="no"/>uauit. sed Ptholomeus in almagesti posuit 
+      mer<lb ed="#C" n="16" break="no"/>curium et venerem sub sole inter lunam et solem. cuius 
+      <lb ed="#C" n="17"/>opinionem: tum propter suasiones: tum propter 
+      <lb ed="#C" n="18"/>viri peritiam in astronomia: omnes sequuntur.
+   </p>
+            <p xml:id="jb2v19-d42489-d1e389">
+      ¶ Et tunc 
+      <lb ed="#C" n="19"/>ad rationem in oppositum luna solem eclipsat. venus 
+      <lb ed="#C" n="20"/>et mercurius non eclipsant solem. ergo non sunt 
+      po<lb ed="#C" n="21" break="no"/>nendi inter nos et solem. Respondetur: consequentia est 
+      <lb ed="#C" n="22"/>nulla. tum primo. sunt corpora non ita 
+      compa<lb ed="#C" n="23" break="no"/>cta sicut luna: sed sunt magis transparentia. Tum 
+      <lb ed="#C" n="24"/>secundo. sunt soli propinquiora. Unde dicit 
+      Alphra<lb ed="#C" n="25" break="no"/>ganus in libro suo triginta differentiarum: 
+      differen<lb ed="#C" n="26" break="no"/>tia quintadecima. venus ad plus a sole elongatur 
+      <lb ed="#C" n="27"/>ad. 48. gradus. nocte accedens a solem a 
+      vulga<lb ed="#C" n="28" break="no"/>ribus hesperus vocatur. cui alludit maro in bucco 
+      <lb ed="#C" n="29"/>licis Ite domum sature venit hesperus ite capelle 
+      <lb ed="#C" n="30"/>mane vocatur stella matutina quado solem 
+      prece<lb ed="#C" n="31" break="no"/>dit illa stella ante diem proximo futurum. et adhuc 
+      <lb ed="#C" n="32"/>mercurius minus distat: solum 26 gradibus ad 
+      <lb ed="#C" n="33"/>summum vt idem alphraganus in loco allegato 
+      di<lb ed="#C" n="34" break="no"/>cit. et per consequens nobis sunt remotiora: et sic 
+      <lb ed="#C" n="35"/>non eclipsant solem nobis sicut luna ipsum eclipsat 
+      <lb ed="#C" n="36"/>Exemplum. sit a. teda: et ponatur. b. opacum prope nos 
+      <lb ed="#C" n="37"/>inter nos et tedam. b. tedam eclipsabit nobis. et 
+      tamen<lb ed="#C" n="38" break="no"/>c. et d. opaca nobis remotiora non sic nobis 
+      te<lb ed="#C" n="39" break="no"/>dam eclipsabunt. sumus extra conum totius vmbre 
+      <lb ed="#C" n="40"/>c. et d. Ecce octo celorum spheras non 
+      distinguen<lb ed="#C" n="41" break="no"/>do inter spheram et orbem: licet in re differant. 
+      sphe<lb ed="#C" n="42" break="no"/>ra est corpus solidum vnica superficie contentum 
+      <lb ed="#C" n="43"/>in cuius medio ponitur punctum a quo omnes linee 
+      re<lb ed="#C" n="44" break="no"/>cte ducte ad circumferentia sunt equales. orbis 
+      ve<lb ed="#C" n="45" break="no"/>ro duas habet superficies exteriorem coucxam et 
+      <lb ed="#C" n="46"/>interiorem concauam. septem pro planetis siue stel 
+      <lb ed="#C" n="47"/>lis erraticis: vnum pro firmamento et stellis fixis 
+   </p>
+            <p xml:id="jb2v19-d42489-d1e454">
+               <lb ed="#C" n="48"/>¶ Sed de reliquorum celorum numero 
+      inqui<lb ed="#C" n="49" break="no"/>rendo ponitur hec quinta conclusio. Super hos 
+      <lb ed="#C" n="50"/>octo celos sunt duo alii celi moti. non possumus 
+      <lb ed="#C" n="51"/>per sensibilia vt pote per stellas hoc probare qua 
+      <lb ed="#C" n="52"/>rum motus tanquam quedam notiora multas celorum 
+      <lb ed="#C" n="53"/>passiones ostendunt: sicut principia conclusiones 
+      <lb ed="#C" n="54"/>ignotas detegunt. propterea in diebus 
+      Aristote<lb ed="#C" n="55" break="no"/>lis firmamentum putatum est primum mobile et solo 
+      <lb ed="#C" n="56"/>vnico motu moueri: vt patet secundo de celo et 
+      mun<lb ed="#C" n="57" break="no"/>do. Ptholomeus posterius superueniens inuenit 
+      <lb ed="#C" n="58"/>stellas a predecessoribus notatas mutatas esse 
+      in<lb ed="#C" n="59" break="no"/>centum annis vno gradu ab occidente in orientem. 
+      <lb ed="#C" n="60"/>et ita in triginta sex milibus annorum compleri: nec
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>aliud superius celum posuit. Adhuc posteriores vi 
+      <lb ed="#C" n="62"/>dentes pertholomeum hoc bene super maiores 
+      de<lb ed="#C" n="63" break="no"/>prehendisse: recentiores circa astronomiam 
+      vi<lb ed="#C" n="64" break="no"/>gilantes perceperunt celum stellatum tripliciter 
+      mo<lb ed="#C" n="65" break="no"/>ueri: ab oriente in occidentem motu diurno: et 
+      econ<lb ed="#C" n="66" break="no"/>trario secundum successionem signorum ad motum 
+      no<lb ed="#C" n="67" break="no"/>ue sphere in ducentis annis gradum vno et 28. 
+      minu<lb ed="#C" n="68" break="no"/>tis. et sic in. 4oNo0. annis totus perficitur: et motus 
+      <lb ed="#C" n="69"/>augium et stellarum fixarum dicitur. quo scilicet motu stelle 
+      <lb ed="#C" n="70"/>que sunt in firmamento variantur de signo in signum 
+      <lb ed="#C" n="71"/>respectu 3odiaci primi mobilis. hoc deprehendi 
+      <lb ed="#C" n="72"/>tur pleyades stelle fixe que sunt in capite tauri in 
+      <lb ed="#C" n="73"/>firmamento respectu 3odiaci superioris sunt in. xxii. 
+      <lb ed="#C" n="74"/>gradu tauri. Tertius est motus trepidationis vel 
+      <lb ed="#C" n="75"/>accessus et recessus: quo scilicet octaua sphera 
+      moue<lb ed="#C" n="76" break="no"/>tur super duobus circulis paruis quorum poli sunt 
+      <lb ed="#C" n="77"/>capita arietis et libre noue sphere. hi duo 
+      paru<lb ed="#C" n="78" break="no"/>circuli iu septem milibus annorum describunc 
+      <lb ed="#C" n="79"/>homo non tantu viuit: primus notat quant 
+      <lb ed="#C" n="80"/>transit in suo tempore: et scripto posteris 
+      relin<lb ed="#C" n="81" break="no"/>quit: et sic consequenter. habito quantum describat 
+      <lb ed="#C" n="82"/>in centum annis vel in alio tempore notabili: sciunt 
+      <lb ed="#C" n="83"/>quantum in magno tempore describit. his 
+      suppo<lb ed="#C" n="84" break="no"/>sitis quod celum stellatum triplici motu moueatur arguitur 
+      <lb ed="#C" n="85"/>sic. vnus istorum est firmamento proprius et a sua 
+      <lb ed="#C" n="86"/>intelligentia: non ab oriente in occidentem: hoc eni 
+      <lb ed="#C" n="87"/>conuenit motui raptus primi mobilis et mouetur 
+      <lb ed="#C" n="88"/>ab occidente ad orientem. Omnis motus conueniens 
+      <lb ed="#C" n="89"/>alicui preter naturam alicui conuenit secundum 
+      natu<lb ed="#C" n="90" break="no"/>ram. sed hoc non conuenit primo mobili: nec 
+      ha<lb ed="#C" n="91" break="no"/>bet illum motum ab aliquo celo inferiori. quia 
+      supe<lb ed="#C" n="92" break="no"/>rioris est suo influxu inferiorem mouere et non 
+      <lb ed="#C" n="93"/>econtrario. ergo est aliquod celum quod a sua 
+      na<lb ed="#C" n="94" break="no"/>tura habet motum ab occidente in orientem: quod 
+      tra<lb ed="#C" n="95" break="no"/>hit stellatum celum ad orientem. et illud est nouum 
+      mo<lb ed="#C" n="96" break="no"/>bile super quod est primum mobile solum vnico 
+      mo<lb ed="#C" n="97" break="no"/>tu motum a sua intelligentia regularissime circa 
+      ter<lb ed="#C" n="98" break="no"/>ram. ergo conclusio quinta vera.
+   </p>
+            <p xml:id="jb2v19-d42489-d1e569">
+      ¶ Sexta 
+      con<lb ed="#C" n="99" break="no"/>clusio. super hos dece celos continuo motos datur 
+      <lb ed="#C" n="100"/>vnum quiescens. Probatur de celo empireo. hoc 
+      po<lb ed="#C" n="101" break="no"/>basilus in 2. exameron. hoc beda et sancti tene se 
+      <lb ed="#C" n="102"/>Et probatur hoc idem ratione et congruentia. ratione 
+      <lb ed="#C" n="103"/>primo. aliqua animalia et res habentur in oriente 
+      quae<lb ed="#C" n="104" break="no"/>non habentur in occidente et econuerso: etiam 
+      sub<lb ed="#C" n="105" break="no"/>eodem paralello vt in aurea therroneso et in 
+      tapro<lb ed="#C" n="106" break="no"/>bana insula. Patet in cornubia britanica et non 
+      in<lb ed="#C" n="107" break="no"/>partibus vicinis. hybernia non nutrit serpentem 
+      <lb ed="#C" n="108"/>vllum: et partes propinque nutriunt. regios equos 
+      <lb ed="#C" n="109"/>et mollius multo incedentes nutrit quod portio 
+      hbibet<lb ed="#C" n="110" break="no"/>tannie sub eodem palello secum existes: vt patet de 
+      <lb ed="#C" n="111"/>his equis in gallia quos hobinos de anglia 
+      vo<lb ed="#C" n="112" break="no"/>cant: quos ab hibernitis angli habent equaliter 
+      <lb ed="#C" n="113"/>a polo distantes: vt experientia docet. et illud non 
+      <lb ed="#C" n="114"/>potest saluari per vllum celum motum. quod patet. cum 
+      <lb ed="#C" n="115"/>pars celi moti: quae causat aliquem effectum in hac 
+      par<lb ed="#C" n="116" break="no"/>te: mouetur ad alia partem occiduam: similem effectum 
+      <lb ed="#C" n="117"/>causabit. illud non prouenit ex parte terre que 
+      indis<lb ed="#C" n="118" break="no"/>ferens est ad hec omnia nisi hoc a celo haberet.
+   </p>
+            <p xml:id="jb2v19-d42489-d1e615">
+      ¶ In 
+      <lb ed="#C" n="119"/>super: difficile est aliter dare causam quare vna 
+      <lb ed="#C" n="120"/>plaga terre inhabitetur et non altere: sed gst cira
+      <pb ed="#V" n="72-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>cundata aquis. sed de hoc post hac futurus est 
+      ser<lb ed="#C" n="2" break="no"/>mo.
+   </p>
+            <p xml:id="jb2v19-d42489-d1e631">
+      ¶ Preterea: aliter non potest dari. ratio quare 
+      <lb ed="#C" n="3"/>terra non ita bene inhabitetur inter tropicum 
+      ca<lb ed="#C" n="4" break="no"/>pricorni et circulum antarticum sicut inter tropicum 
+      <lb ed="#C" n="5"/>cancri et circulum articum. sed hic dicis. sol est 
+      in<lb ed="#C" n="6" break="no"/>opposito augis in nostra hyeme quando est estas 
+      <lb ed="#C" n="7"/>illis ab altera parte equatoris. et sic sol eos 
+      com<lb ed="#C" n="8" break="no"/>burit: non autem nos in estate nostra: quia tunc sol 
+      <lb ed="#C" n="9"/>est nobis in auge. ratio prima sufficienter suadet 
+      <lb ed="#C" n="10"/>congruitas est. illud celmum est dei smmum 
+      habita<lb ed="#C" n="11" break="no"/>culum: non quad illic solum sit: sed illic magna 
+      mainfesta<lb ed="#C" n="12" break="no"/>gloria eius. est locus beatorum spitrituum qui 
+      eternali<lb ed="#C" n="13" break="no"/>ter in contemplatione dei insistunt: ferme ab 
+      orbe<lb ed="#C" n="14" break="no"/>condito: vt patet de angelis. ergo vndecimum celum 
+      <lb ed="#C" n="15"/>est quiescens. et loquor hic de totali celo.
+   </p>
+            <p xml:id="jb2v19-d42489-d1e663">
+      ¶ 
+      Con<lb ed="#C" n="16" break="no"/>tra sextam conclusionem arguitur. corpus motum est 
+      no<lb ed="#C" n="17" break="no"/>bilius corpore immoto. hinc terra corpus 
+      igno<lb ed="#C" n="18" break="no"/>bilissimum / ponitur corpus immotum.
+   </p>
+            <p xml:id="jb2v19-d42489-d1e672">
+      ¶ 
+      Respode<lb ed="#C" n="19" break="no"/>tur negando assumptum. post diem iudicii celum non 
+      <lb ed="#C" n="20"/>mouetur. Moueri non est conditio simpliciter 
+      me<lb ed="#C" n="21" break="no"/>lior quam non moueri. creauit deus celos motos 
+      pro<lb ed="#C" n="22" break="no"/>statu vie: quibus additio celi quiescentis est 
+      vtilis<lb ed="#C" n="23" break="no"/>sima propter aliquos effectus quos deus 
+      median<lb ed="#C" n="24" break="no"/>te illo in terra in vna plaga producit et non in alia. 
+      <lb ed="#C" n="25"/>illud celum vndecimum est metrum et mensura celorum 
+      <lb ed="#C" n="26"/>motorum. motus per quietem mensuratur. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

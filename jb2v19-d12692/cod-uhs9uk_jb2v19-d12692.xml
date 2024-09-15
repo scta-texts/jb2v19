@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 5</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 5</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="22-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d12692"><!-- l2d2q5 -->
+            <head xml:id="jb2v19-d12692-Hd1e101">Quaestio 5</head>
+            <head xml:id="jb2v19-d12692-Hd1e103" type="question-title">An locus sive aliud quodlibet continuum ex punctis confletur</head>
+            <p xml:id="jb2v19-d12692-d1e106">
+               <lb ed="#C" n="113"/>¶ Questio quinta. 
+      <lb ed="#C" n="114"/>dericux quinco qgin 
+      lo<lb ed="#C" n="115" break="no"/>cus siue aliud quodliem continuum ex 
+      pun<lb ed="#C" n="116" break="no"/>ctia confletur. hanc questionem in hac 
+      di<lb ed="#C" n="117" break="no"/>stictione inserere scriptores (modica oc 
+      <lb ed="#C" n="118"/>casione data) non erubuerunt: et primi theologie 
+      <lb ed="#C" n="119"/>limites transgresst sunt posterioribus tamen vtuncque
+      <pb ed="#V" n="22-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>oanda est venia. error communis (si quis sit facit sus. 
+      <lb ed="#C" n="2"/>propterea priuilegio eodem quo alii donatis sunt vti 
+      li<lb ed="#C" n="3" break="no"/>cebit.
+   </p>
+            <p xml:id="jb2v19-d12692-d1e135">
+      ¶ Circa questionis titulum: notissima est 
+      apon<lb ed="#C" n="4" break="no"/>Aristo. vi. Phisi. reprobatio Democriti asserentis 
+      <lb ed="#C" n="5"/>continuum ex punctio esse conflatum. et varil ex 
+      theo<lb ed="#C" n="6" break="no"/>logis nisi sunt rationibus quamplurimis eadem 
+      posi<lb ed="#C" n="7" break="no"/>tionem reprobare. tentabo rationibus eorum 
+      fortio<lb ed="#C" n="8" break="no"/>ribus obuiare: et rationes alias apponere et 
+      oce<lb ed="#C" n="9" break="no"/>eliminare.
+   </p>
+            <p xml:id="jb2v19-d12692-d1e151">
+      ¶ Propterea gratia scolastice disputa 
+      <lb ed="#C" n="10"/>tionis ponentur cres conclusiones: quarum prima est. 
+      <lb ed="#C" n="11"/>Contiuuum quodlibet componltur ex punctis. 
+      proba<lb ed="#C" n="12" break="no"/>tur hec conclusio. in omnem suam partem continuum potest 
+      <lb ed="#C" n="13"/>diuidi. modo possibili posito in esse nullum 
+      sequi<lb ed="#C" n="14" break="no"/>tur inconueniens primo priorum. ponatur ergo a / 
+      con<lb ed="#C" n="15" break="no"/>tinum in omnem sua partem esse diuisum: quia eadem est 
+      <lb ed="#C" n="16"/>ratio de vno continuo et de quolibet. assumptum 
+      pa<lb ed="#C" n="17" break="no"/>tet: in hanc suam partem a / continuum potest esse diuisum: 
+      <lb ed="#C" n="18"/>oemonstrando vnam tertiam: et sic de qualibet alia 
+      <lb ed="#C" n="19"/>parte ergo in omnem suam partem a / continuum potest esse 
+      <lb ed="#C" n="20"/>oiuisum consequentia est ascensus. et antecedene 
+      <lb ed="#C" n="21"/>est verum. ergo et consequens. quelet pars est possibi 
+      <lb ed="#C" n="22"/>lis: et alteri compossibilis: et quibuslibet aliis fini 
+      <lb ed="#C" n="23"/>tis vel infinitis copossibilis.
+   </p>
+            <p xml:id="jb2v19-d12692-d1e185">
+      ¶ Forte dices / sicut 
+      <lb ed="#C" n="24"/>dicit quidam doctor. licet quelibet cathegorica sit 
+      <lb ed="#C" n="25"/>vera: non tamen est compossibilis quibuscumque. 
+      quen<lb ed="#C" n="26" break="no"/>admodum sta est falsa / possibile est omnem lapidem 
+      po<lb ed="#C" n="27" break="no"/>tari ab isto: et nulla singularis illius in se est falsa 
+      <lb ed="#C" n="28"/>non quia aliqua singularis determinata sit alicui 
+      al<lb ed="#C" n="29" break="no"/>teri determinate incompossibilis: sed aliquibus 
+      de<lb ed="#C" n="30" break="no"/>terminatis est aliqua indeterminata 
+      incopossibi<lb ed="#C" n="31" break="no"/>lis. quotcumque em nouom singularia sunt 
+      compossi<lb ed="#C" n="32" break="no"/>lia: et decimum / indeterminate est incompossibile eis: 
+      <lb ed="#C" n="33"/>pcsito quod sint decem lapides equalis magnitudins: 
+      <lb ed="#C" n="34"/>quorum nouem potest portare sortes et non decem.
+   </p>
+            <p xml:id="jb2v19-d12692-d1e211">
+      ¶ 
+      Con<lb ed="#C" n="35" break="no"/>tra hoc arguitur. extraneum est in logica 
+      concede<lb ed="#C" n="36" break="no"/>re copulatiuam veram ex partibus 
+      incompossibilibi<lb ed="#C" n="37" break="no"/>compositam. modo quelibet illarum cathegoricaru: 
+      <lb ed="#C" n="38"/>in antecedente assumptarum est vera: immo 
+      necessa<lb ed="#C" n="39" break="no"/>ria: cum est propo de possibili de nullo extremo 
+      restri<lb ed="#C" n="40" break="no"/>cto possibilis. ergo antecedens est necessarium: cum 
+      <lb ed="#C" n="41"/>quelibet eius cathegorica est necessaria. ergo 
+      nul<lb ed="#C" n="42" break="no"/>la est incompossibilitas. si in reflexiuis polset esse 
+      <lb ed="#C" n="43"/>sophistica instantia: non curo: non autem in proposito 
+      <lb ed="#C" n="44"/>vllo modo. non valet illud quod assignatur pro simili. 
+      <lb ed="#C" n="45"/>possibile est omnem lapidem portari ab isto. illa enim 
+      <lb ed="#C" n="46"/>est modalis composita non probanda per ascensum 
+      sin<lb ed="#C" n="47" break="no"/>gularium: quemadmodum est hic: possibile est omne 
+      <lb ed="#C" n="48"/>astrum esse supra nos: quae est mere impessibilis per 
+      na<lb ed="#C" n="49" break="no"/>turam. et quelet singularis / sicut tu capis 
+      possibi<lb ed="#C" n="50" break="no"/>lis et vera. possibile est hoc astrum esse supra 
+      nos<lb ed="#C" n="51" break="no"/>quocumque demonstrato. omne astrum esse supra nos 
+      <lb ed="#C" n="52"/>stat materialiter pro proponne lei corresponente. 
+      <lb ed="#C" n="53"/>et quacunque tali singulari data: possibile 
+      conue<lb ed="#C" n="54" break="no"/>nit ei. propterea concedo hanc propositionem: in omnem 
+      <lb ed="#C" n="55"/>suam parrem continuum potest esse diuisum. cuius veri 
+      <lb ed="#C" n="56"/>tatem copulatiua composita ex necessitate 
+      con<lb ed="#C" n="57" break="no"/>stantie et singularium ostendit. Sed illa non venit 
+      <lb ed="#C" n="58"/>ponenda in esse per hanc vniuersalem: in omnem suam 
+      <lb ed="#C" n="59"/>partem continuum est diuisum. sed per plures 
+      singu<lb ed="#C" n="60" break="no"/>lares inconiunctim sumptas quarum quelibet est pos¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>sibilis. et hoc sufficit ad veritatem vniuersalis 
+      mo<lb ed="#C" n="62" break="no"/>dalis diuise. nosti hanc esse veram in lumine natura 
+      <lb ed="#C" n="63"/>li: quilet homo possibiliter non est animal: quilet 
+      ho<lb ed="#C" n="64" break="no"/>mo possibiliter est in bibliotheca mea. et tamen 
+      <lb ed="#C" n="65"/>vniuersales separato modo sunt impossibiles 
+      na<lb ed="#C" n="66" break="no"/>turaliter loquendo. illud dictum prioristicum: possibt 
+      <lb ed="#C" n="67"/>li posito in esse nullum sequitur inconuensiens: 
+      ha<lb ed="#C" n="68" break="no"/>bet verum in modalibus compositis capiendo 
+      to<lb ed="#C" n="69" break="no"/>tum quod remanet dempto modo pro de inesse. 
+      pro<lb ed="#C" n="70" break="no"/>pterea hec est falsa secundum onem viam de continuo: in 
+      <lb ed="#C" n="71"/>omnem suam partem continuum esse diuisum est 
+      pos<lb ed="#C" n="72" break="no"/>sibile: vel possibile est continuum esse diuisum in om 
+      <lb ed="#C" n="73"/>nem suam partem: vt patet per falsitatem de inesse: 
+      <lb ed="#C" n="74"/>scilicet: continuum est diuisum in omnem suam partem. 
+   </p>
+            <p xml:id="jb2v19-d12692-d1e302">
+               <lb ed="#C" n="75"/>¶ Contra hoc arguitur. ista est vera: a / continuum 
+      po<lb ed="#C" n="76" break="no"/>test esse diuisum in omnem suam partem in sensu 
+      di<lb ed="#C" n="77" break="no"/>uiso: vt patet ascendendo sub termino distributo 
+      <lb ed="#C" n="78"/>posito a parte praedicati. et tamen sua de inesse erit 
+      heci<lb ed="#C" n="79" break="no"/>a / continuum est diuisum in omnem suam partem. totum quod 
+      <lb ed="#C" n="80"/>ponitur a parte predicati in modali diuisa debet 
+      <lb ed="#C" n="81"/>poni in sua de inosse. alioquin iste non essent false: 
+      <lb ed="#C" n="82"/>sortes potest currere sine pedibus: terminus potest 
+      sup<lb ed="#C" n="83" break="no"/>ponere extra propositionem: quia falsitates istarum 
+      mo<lb ed="#C" n="84" break="no"/>dalium ostendunt earum de nesse.
+   </p>
+            <p xml:id="jb2v19-d12692-d1e326">
+      ¶ Respondetur: hoc 
+      <lb ed="#C" n="85"/>argumentum nichil concludit. nego vniuersaliter quico 
+      <lb ed="#C" n="86"/>quid ponitur a parte praedicati in modali diuisa de 
+      <lb ed="#C" n="87"/>beat pons in sua de inesse. quia si sic: tunc tales essent 
+      <lb ed="#C" n="88"/>negande Helens peperit decem filios: Tudoicus 
+      <lb ed="#C" n="89"/>fuit minor quam est: deus erit cras. Secundo dicitur: 
+      ascen<lb ed="#C" n="90" break="no"/>sus sub termino distributo non valet quando 
+      ter<lb ed="#C" n="91" break="no"/>minus ipse est determinat io accepta vnica 
+      acce<lb ed="#C" n="92" break="no"/>ptione cum suo deteminabili. quenmadmodum hic: a. 
+      <lb ed="#C" n="93"/>continuum potest esse doiuisum in omnem suam partem. 
+      Tertio<lb ed="#C" n="94" break="no"/>dicitur: quando ascenderetur et concederetur vera: 
+      con<lb ed="#C" n="95" break="no"/>sequenter negabitur quod poneretur per vnam de inesse 
+      <lb ed="#C" n="96"/>in propriis terminis. sed per pures de inesse 
+      incon<lb ed="#C" n="97" break="no"/>iunctim sumptas: quenaquimodum est quando est 
+      determi<lb ed="#C" n="98" break="no"/>natio accepta non vnica acceptione cum suo deter 
+      <lb ed="#C" n="99"/>minabili: vt in hac: in omnem suam partem continuum potest ess 
+      <lb ed="#C" n="100"/>oiuisum: vel a continum in omnem suam partem potest esse 
+      <lb ed="#C" n="101"/>diuisum. vides ergo hoc argumentum solum ex 
+      ne<lb ed="#C" n="102" break="no"/>xibus logicalibus dependet: et non concludit 
+      reali<lb ed="#C" n="103" break="no"/>ter.
+   </p>
+            <p xml:id="jb2v19-d12692-d1e370">
+      ¶ Propterea aliter arguitur: et secundo sic: a 
+      <lb ed="#C" n="104"/>continuum diuiditur in h anc partamet idem continuum 
+      <lb ed="#C" n="105"/>diuiditur in hanc partem: et sic de singulis. ergo 
+      con<lb ed="#C" n="106" break="no"/>tinuum diuiditur in ocem suam partem per ascensum. afces 
+      <lb ed="#C" n="107"/>est possibile nulla pars alteri repugnat. ergo tota 
+      <lb ed="#C" n="108"/>copulatiua est possibilis.
+   </p>
+            <p xml:id="jb2v19-d12692-d1e383">
+      ¶ Confi macur / possibi 
+      <lb ed="#C" n="109"/>litas illius copulatiue per dis unctiuam compositam ex 
+      <lb ed="#C" n="110"/>prtibus condicentibus: quae non est necestaria. crgo nec 
+      <lb ed="#C" n="111"/>illa copulatiua est impossibilis consequentia est 
+      cla<lb ed="#C" n="112" break="no"/>ra logicam intelligenti. Sed dices / quod tota 
+      copula<lb ed="#C" n="113" break="no"/>tiua est impossibilis licet quelibet cathegorica 
+      con<lb ed="#C" n="114" break="no"/>patiatur alias tres: et sic de quibuscunque finitis: 
+      <lb ed="#C" n="115"/>cum hoc vna cathegorca est incompossibilis 
+      infini<lb ed="#C" n="116" break="no"/>tis: hoc est illi particule sic de singulis. et per confis vna 
+      <lb ed="#C" n="117"/>pars est alteri incompossibilis eodem modo dicatur 
+      <lb ed="#C" n="118"/>de necessitate disiunctiue composite ex partibus 
+      con<lb ed="#C" n="119" break="no"/>tradicentibus huic copulatiue: quod illa disiunctiua 
+      <lb ed="#C" n="120"/>est necessaria nec composita ex. prtibus condictortis
+      <pb ed="#V" n="23-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>vel contrariis. sed ipsa disiunctlua participat natura 
+      <lb ed="#C" n="2"/>liter legem subcontrariarum: quemadmodum est de hac 
+      <lb ed="#C" n="3"/>disiunctiua necessaria / sortes non currit vel sortes 
+      <lb ed="#C" n="4"/>mouetur.
+   </p>
+            <p xml:id="jb2v19-d12692-d1e426">
+      ¶ Propterea tertio arguitur ad idem: et 
+      <lb ed="#C" n="5"/>hoc sic. dato vno corpore vitreo posito super corpus 
+      <lb ed="#C" n="6"/>solidum et planum: super quod ponatur graue infinite 
+      gra<lb ed="#C" n="7" break="no"/>uitatis vel finite cadens directe super corpus vitreum. 
+      <lb ed="#C" n="8"/>tunc sic: illud corpus diuidetur in omnem suam partem: 
+      <lb ed="#C" n="9"/>et est continuum: igitur consequentia tenet cum 
+      mino<lb ed="#C" n="10" break="no"/>re. et arguitur: naior in aliquas partes oiuidetur: 
+      com<lb ed="#C" n="11" break="no"/>probante experientia. et equalis est ratio de aliis. 
+      <lb ed="#C" n="12"/>ergo in omnem suam partem diuidetur.
+   </p>
+            <p xml:id="jb2v19-d12692-d1e446">
+      ¶ Et 
+      confirma<lb ed="#C" n="13" break="no"/>tur hec ratio: ab omi proportione inequalitatis 
+      ma<lb ed="#C" n="14" break="no"/>ioris fit actio: septimo Phisicorum. nulla pars 
+      corpo<lb ed="#C" n="15" break="no"/>ris vitrei potest sufficienter resistere illi corpori 
+      gra<lb ed="#C" n="16" break="no"/>ui ne diuidatur. magna pars magis resistit quod parua. 
+      <lb ed="#C" n="17"/>citius lapillus frangitur a graui cadenti super ipsum 
+      <lb ed="#C" n="18"/>quam existens in molari. et si corpus minus 
+      quantitati<lb ed="#C" n="19" break="no"/>e magis resistat: cum ponatur infinita grauitas in 
+      <lb ed="#C" n="20"/>finite actiuitatis: ipstum diuidetur. non iuat dicere 
+      <lb ed="#C" n="21"/>corpus planum erit porosum: et alique partes corporis 
+      <lb ed="#C" n="22"/>vitrei poros ingredientur vel partes immediate non 
+      <lb ed="#C" n="23"/>tangentur a corpore. hoc inquam non valet. ponimus 
+      de<lb ed="#C" n="24" break="no"/>potentia dei illud corpus esse solidum: et 
+      naturali<lb ed="#C" n="25" break="no"/>ter argumentum currit de partiali vitro posito super 
+      pla<lb ed="#C" n="26" break="no"/>num totaliter solidum. illud corpus planum non est 
+      <lb ed="#C" n="27"/>totaliter porosum: etiam mediatio partium non 
+      impe<lb ed="#C" n="28" break="no"/>dit. ensis craneum frangit tangendo duram matrem et 
+      <lb ed="#C" n="29"/>piam matrem: et non craneum immediate. Insuper: 
+      ar<lb ed="#C" n="30" break="no"/>gumentum currit de partibus superficialibus 
+      corpori<lb ed="#C" n="31" break="no"/>graui eque immediate applicatis. Rursus: pars 
+      su<lb ed="#C" n="32" break="no"/>perior fracta pellit mediatam partem. Si dicas: 
+      <lb ed="#C" n="33"/>argumentum debet concludere de corpore parue 
+      gra<lb ed="#C" n="34" break="no"/>uitatis cadente super corpus fragile: et equaliter 
+      mi<lb ed="#C" n="35" break="no"/>litaret contra me si non singula concludant. sic est si 
+      <lb ed="#C" n="36"/>omnia hec positionem colorent. Instare non est 
+      solue<lb ed="#C" n="37" break="no"/>re. sufficit nobis quod argumentum equaliter ducit ad 
+      <lb ed="#C" n="38"/>vtrumque. et potest applicari argumentum de leui 
+      ascen<lb ed="#C" n="39" break="no"/>dente in vacuo: quo ad omnem partem celi et spacii inter 
+      <lb ed="#C" n="40"/>medii ascendit. similiter potus aque in hyeme 
+      ple<lb ed="#C" n="41" break="no"/>nus vniformiter fortis diuidetur: alioquin aqua 
+      con<lb ed="#C" n="42" break="no"/>gelabitur. et sic minorem locum occupabit quam antea. 
+      <lb ed="#C" n="43"/>et sic dabitur vacuum: quod natura abhorret.
+   </p>
+            <p xml:id="jb2v19-d12692-d1e516">
+      ¶ 
+      Quar<lb ed="#C" n="44" break="no"/>to argultur: deus potest ponere partes sortis penetra 
+      <lb ed="#C" n="45"/>tiue in loco: sic multi existimant de corpore christi in 
+      sa<lb ed="#C" n="46" break="no"/>cramento eucharistie: saltem illud est deo possibile. 
+      <lb ed="#C" n="47"/>potest facere duo corpora se penetrare: vt patet de 
+      cor<lb ed="#C" n="48" break="no"/>pore christi ascendentis ad celos in die 
+      ascensio<lb ed="#C" n="49" break="no"/>nis. eodem modo potest facere ouas medietates 
+      eius<lb ed="#C" n="50" break="no"/>dem corporis se penetrare: et sic de tribus tertiis: 
+      <lb ed="#C" n="51"/>quattuor quartis: et de mille millesimis: et tunc sic: 
+      ali<lb ed="#C" n="52" break="no"/>quis potest trahere cultellum super illas partes: nec 
+      ille<lb ed="#C" n="53" break="no"/>partes infinite resistunt. et qualitercumque resistant: 
+      <lb ed="#C" n="54"/>ocus potest cum potentia sua cum illo diuidente 
+      concur<lb ed="#C" n="55" break="no"/>rere taliter quod erit aliqua diuisio. et oms ille partes 
+      <lb ed="#C" n="56"/>sunt in eodem loco. ergo sortes diuidetur in omnem 
+      su<lb ed="#C" n="57" break="no"/>am partem.
+   </p>
+            <p xml:id="jb2v19-d12692-d1e549">
+      ¶ Quinto arguitur. capiat deus corpus 
+      <lb ed="#C" n="58"/>quadrupedale: in prima parte proportionali vnius 
+      ho<lb ed="#C" n="59" break="no"/>re bdiuidat deus illud in quateuor pedalia: in secum 
+      <lb ed="#C" n="60"/>da parte proportionali illius hore quodiem illorum pe¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>dalium diuidat deus in quattuor equales: in 
+      ter<lb ed="#C" n="62" break="no"/>tia parte proportionali eiusdem hore quamlibet illarum 
+      <lb ed="#C" n="63"/>partium diuidat deus in quattuor partes equas. et ita 
+      <lb ed="#C" n="64"/>faciat deus per omnes partes proportionales illius 
+      hore<lb ed="#C" n="65" break="no"/>ita quod quodlibet integrum erit subquadruplum in 
+      se<lb ed="#C" n="66" break="no"/>cunda parte proportionali illius hore ad partem 
+      praeceden<lb ed="#C" n="67" break="no"/>tem: conseruando omnes illas partes in fine illius 
+      hore<lb ed="#C" n="68" break="no"/>tunc sic: in infinitum parua erit aliqua istarum partium 
+      <lb ed="#C" n="69"/>ante finem hore. et in instanti terminante horam 
+      quaeli<lb ed="#C" n="70" break="no"/>bet erit minor quam erat integrum in quacumque parte 
+      <lb ed="#C" n="71"/>proportionali illius horae. ergo infinita 
+      paruita<lb ed="#C" n="72" break="no"/>tis est quodlibet illorum quod remanet in fine illius ho. 
+      <lb ed="#C" n="73"/>re. ergo nullum tale est diuisibile: et est: ergo est in 
+      <lb ed="#C" n="74"/>diuisibile: quod restabat probandum.
+   </p>
+            <p xml:id="jb2v19-d12692-d1e591">
+      ¶ Septimo 
+      ar<lb ed="#C" n="75" break="no"/>guitur deus potest esse in loco punctali vt ita loquar: 
+      <lb ed="#C" n="76"/>et pertransire vnicam lineam semper manendo in 
+      loco<lb ed="#C" n="77" break="no"/>punctali. ergo talis linca componitur praecise ex punctis. 
+      <lb ed="#C" n="78"/>assumptum probo. corpus sphericum praet describere line 
+      <lb ed="#C" n="79"/>am in corpore plano: et semper tanget planum adequa 
+      <lb ed="#C" n="80"/>te in puncto. quia secundum ponentes puncta in continuo: 
+      cor<lb ed="#C" n="81" break="no"/>pus perfecte sphericum tangit corpus planum praecise in 
+      <lb ed="#C" n="82"/>puncto: nec praet planum corpus aliter tangi. sit angelus 
+      <lb ed="#C" n="83"/>sper in puncto contactus. tunc sic: corpus per fecte sphericum 
+      <lb ed="#C" n="84"/>partransibit vnam lineam in corpore plano: et semper 
+      tan<lb ed="#C" n="85" break="no"/>git planum in puncto. et in simili loco continuo est an 
+      <lb ed="#C" n="86"/>gelus. ergo angelus prtransit a. lineam semper 
+      manen<lb ed="#C" n="87" break="no"/>do in loco punctali: et quicquid est in a linea partransit. er 
+      <lb ed="#C" n="88"/>go a linea componitur praecise ex punctis: quod 
+      resta<lb ed="#C" n="89" break="no"/>bat probandum
+   </p>
+            <p xml:id="jb2v19-d12692-d1e626">
+      ¶ Octauo arguitur. deus praet facere 
+      <lb ed="#C" n="90"/>omne illud quod non includit contradictionem. sed praet 
+      defen<lb ed="#C" n="91" break="no"/>di quod possit corpus ex imprtibilibus componi. et si illud 
+      <lb ed="#C" n="92"/>praet defendi absque contradictione: eodem modo praet nunc 
+      <lb ed="#C" n="93"/>defendi.
+   </p>
+            <p xml:id="jb2v19-d12692-d1e638">
+      ¶ Nono arguitur. deus videt duas 
+      medie<lb ed="#C" n="94" break="no"/>tates a. quanti: tres tertias: quattuor quartas eius 
+      <lb ed="#C" n="95"/>dem quanti: et sic in infinitum paruas partes videt. nec 
+      <lb ed="#C" n="96"/>terminatur visus eius: hoc est noticia intuitiua eius: citra 
+      impe<lb ed="#C" n="97" break="no"/>tibilia. ergo in continuo sunt imprtibilia ex quibus continuum conflatur 
+   </p>
+            <p xml:id="jb2v19-d12692-d1e649">
+               <lb ed="#C" n="98"/>¶ Secunda conclusio continuum non componitur ex punctis 
+      fi<lb ed="#C" n="99" break="no"/>nitis. probatio: quia dato opposito: non quaelibet linea 
+      <lb ed="#C" n="100"/>praet diuidi in douas partes equas: quod est inconueniens. patet 
+      <lb ed="#C" n="101"/>de linea ex tribus punctis composita: vel ex aliquo 
+      <lb ed="#C" n="102"/>alio numero impari finito.
+   </p>
+            <p xml:id="jb2v19-d12692-d1e662">
+      ¶ Tertia conclusio. 
+      quod<lb ed="#C" n="103" break="no"/>libet continuum componitur ex infinitis. patet continuum 
+      con<lb ed="#C" n="104" break="no"/>ponltur ex punctis per primam conclusionem: et non ex fi 
+      <lb ed="#C" n="105"/>nitis per secundam. ergo ex infinitis.
+   </p>
+            <p xml:id="jb2v19-d12692-d1e671">
+      ¶ Contra primam 
+      con<lb ed="#C" n="106" break="no"/>clusionem quae est potissima in hac matcria arguitur 
+      <lb ed="#C" n="107"/>sic: ex ea cum tertia conclusione sequitur quod pars conti 
+      <lb ed="#C" n="108"/>nui est equalis suo toti consequens est falsum et 
+      con<lb ed="#C" n="109" break="no"/>tra vnam communem animi conceptionem primi elemento 
+      <lb ed="#C" n="110"/>rum. et quod sequatur probatur sic: totum continuum et sua 
+      <lb ed="#C" n="111"/>medietas habent partes equas. tot habet puncta 
+      me<lb ed="#C" n="112" break="no"/>dietas / sicut totum continuum  Respondetur 
+      negan<lb ed="#C" n="113" break="no"/>do sequelam. et conceditur quod medietas habet partes equas 
+      <lb ed="#C" n="114"/>sicut totum. hoc disiunctum equale vel inequale est 
+      <lb ed="#C" n="115"/>passio quantitatis. in praedicameno quantitatis dicit 
+      <lb ed="#C" n="116"/>philosophus: propum est quantitati secundum eam 
+      equa<lb ed="#C" n="117" break="no"/>le vel inequale dici. modo punctum non est quantum. 
+      <lb ed="#C" n="118"/>accipito analo giam in alia materia. tot sunt 
+      instan<lb ed="#C" n="119" break="no"/>tia in medietate hore sicut in tota. et secundum 
+      aduer<lb ed="#C" n="120" break="no"/>sarios non sunt plura instantia in tota hora quom in eius
+      <pb ed="#V" n="23-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>medietate. et secundum opinionem quorqundam (fortasse non 
+      <lb ed="#C" n="2"/>improbabile) in quolbet tpore acquisitionis forme 
+      acqui<lb ed="#C" n="3" break="no"/>runtur infiniti gradus nullus gradus in acquisitione 
+      pl<lb ed="#C" n="4" break="no"/>durat quam per instans. et tamen maior forma acquiritur 
+      <lb ed="#C" n="5"/>in illo toto tpore quod in parte. sic dicetur in proposito. et 
+      <lb ed="#C" n="6"/>non respiciendum est ad puncta quae integrant continuum 
+      <lb ed="#C" n="7"/>ad probandum magnitudinem vel puitatem continui: 
+      <lb ed="#C" n="8"/>sed penes partes quantas. illud continuum est alio 
+      ma<lb ed="#C" n="9" break="no"/>ius quod plures partes certe quantitatis habet.
+   </p>
+            <p xml:id="jb2v19-d12692-d1e730">
+      ¶ S 
+      <lb ed="#C" n="10"/>contra illud arguitur vel vnum punctum constituit quodtum. 
+      <lb ed="#C" n="11"/>et patet quod non sicut loquimur de puncto impresentiarum. 
+      <lb ed="#C" n="12"/>eodem modo nec duo puncta constituunt continuum: nec tria 
+      <lb ed="#C" n="13"/>puncta: nec quattuor: et sic sine statu. Sed dices: 
+      <lb ed="#C" n="14"/>et dicendum est consequenter: nulla finita constituere 
+      <lb ed="#C" n="15"/>continuum: sed infinita. Sed contra istud arguitur: ex 
+      il<lb ed="#C" n="16" break="no"/>lo sequitur quod aliquod nunc est continuum: et in 
+      nullo<lb ed="#C" n="17" break="no"/>instanti ante hoc fuit continuum: et nullum continuum in 
+      <lb ed="#C" n="18"/>hoc instanti producitur: immo nec aliquid. hoc corre 
+      <lb ed="#C" n="19"/>larium est absurdum. ergo et anfcedis. probo consequentiam. 
+      <lb ed="#C" n="20"/>ponamus quod deus in qualibet parte proportionali 
+      ho<lb ed="#C" n="21" break="no"/>re praecedentis produxisset vnum punctum: et nichil 
+      <lb ed="#C" n="22"/>producatur in hoc instanti terminante horam. Iam in 
+      <lb ed="#C" n="23"/>hoc instanti est vnum continuum: et in nullo instanti vel 
+      <lb ed="#C" n="24"/>parte proportionali hore ante hoc instans fuit 
+      con<lb ed="#C" n="25" break="no"/>tinuum productum. et nichil producitur in hoc instanti. 
+   </p>
+            <p xml:id="jb2v19-d12692-d1e767">
+               <lb ed="#C" n="26"/>¶ Respondetur concedendo conclusionem / sicut in. xliiii. 
+      <lb ed="#C" n="27"/>distinctione primi concedimus quod aliquid nunc est in 
+      <lb ed="#C" n="28"/>finitum et in nullo instanti ante hoc fuit ens 
+      infi<lb ed="#C" n="29" break="no"/>nitum: tamen nichil producitur nunc de nouo. simile 
+      <lb ed="#C" n="30"/>habetur ibidem distinctione. xvii. quaestione. xviii. 
+      <lb ed="#C" n="31"/>de corpore infinite remissionis quod nullius 
+      calidi<lb ed="#C" n="32" break="no"/>tatis est in quacumque parte proportion ali hore vel 
+      in<lb ed="#C" n="33" break="no"/>stanti: et tamen in instanti terminante horam corpus erit 
+      <lb ed="#C" n="34"/>calidum: vt quattuor vel vt octo vel vt centum vel 
+      <lb ed="#C" n="35"/>vt mille si volueris. et nulla caliditas additur de 
+      no<lb ed="#C" n="36" break="no"/>uo.
+   </p>
+            <p xml:id="jb2v19-d12692-d1e794">
+      ¶ Propterea secundo argumentator inquirendo 
+      de<lb ed="#C" n="37" break="no"/>istis punctis. si aliqua puncta possunt constituere 
+      ali<lb ed="#C" n="38" break="no"/>quod continuum: scquaeretur quod deus praet ex infinitis 
+      ani<lb ed="#C" n="39" break="no"/>mabus vel angelis creare continuum. consequens 
+      <lb ed="#C" n="40"/>non est admittendum: ergo nec antecens. et quod sequatur patet:¬ 
+      <lb ed="#C" n="41"/>aliqua indiuisibilia substantie componunt continuum 
+      <lb ed="#C" n="42"/>et non est maior ratio de aliquibus quom de aliis. 
+   </p>
+            <p xml:id="jb2v19-d12692-d1e810">
+               <lb ed="#C" n="43"/>¶ Respondetur refellendo illud argumentum. secundu 
+      do<lb ed="#C" n="44" break="no"/>minos reales puncta sunt accidentia habentia 
+      po<lb ed="#C" n="45" break="no"/>sitionem in continuo: queritur ab eis quare anime 
+      <lb ed="#C" n="46"/>vel angeli non habent positionem in eodem sicut sua 
+      <lb ed="#C" n="47"/>puncta. Respondebunt illud prouenire ex natura 
+      <lb ed="#C" n="48"/>rei. sic dicam eis. sunt alique substantie indiuisibiles 
+      <lb ed="#C" n="49"/>non potentes componere cotinuum: vt angeli et anie 
+      in<lb ed="#C" n="50" break="no"/>tellectiue. aliqua sunt indiuisibilia continuum 
+      conflan<lb ed="#C" n="51" break="no"/>tia. vbi ipsi dicunt positionem habentia in continuo: 
+      <lb ed="#C" n="52"/>continuum componunt.
+   </p>
+            <p xml:id="jb2v19-d12692-d1e834">
+      ¶ Sed contra istud arguitur. 
+      <lb ed="#C" n="53"/>vel omnia puncta sunt eiusdem speciei. et si sic: 
+      substan<lb ed="#C" n="54" break="no"/>tia et accemces componuntur ex partibus eiusdem rationis. et 
+      <lb ed="#C" n="55"/>si non: in eodem coposito dabuntur plura composita 
+      <lb ed="#C" n="56"/>specie distincta.
+   </p>
+            <p xml:id="jb2v19-d12692-d1e845">
+      ¶ Respondetur. non omnia sunt elusdem 
+      <lb ed="#C" n="57"/>speciei: aliqua sunt accidentia: vliqua substantia. illa 
+      <lb ed="#C" n="58"/>differunt genere: et inter substantias: aliqua 
+      pun<lb ed="#C" n="59" break="no"/>cta componunt materiam: et illa omnia sunt eiusdem 
+      spe<lb ed="#C" n="60" break="no"/>ciei specialissime. tenendo materiam celi esse eluse
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>speciei cum materia inferiorum. puncta formas 
+      compo<lb ed="#C" n="62" break="no"/>nentia differunt specie a punctis conflantibus materi 
+      <lb ed="#C" n="63"/>am. et quot sunt forme specifice distincte: tot sunt 
+      <lb ed="#C" n="64"/>puncta specifice distincta. et sic dicatur de punctis 
+      <lb ed="#C" n="65"/>componentibus albedinem et nigredinem quod specie 
+      dit<lb ed="#C" n="66" break="no"/>ferant.
+   </p>
+            <p xml:id="jb2v19-d12692-d1e871">
+      ¶ Tertio arguitur. si positio esset vera 
+      seque<lb ed="#C" n="67" break="no"/>retur quod continnum et punctum essent eiusdem speciei. hoc 
+      <lb ed="#C" n="68"/>est incoueniens: quod indiuisibile et diuisibile sunt eius 
+      <lb ed="#C" n="69"/>dem speciei. et quod sequatur patet. nichil est in 
+      con<lb ed="#C" n="70" break="no"/>tinuo nisi punctum vel puncta. ergo a. continuum non 
+      <lb ed="#C" n="71"/>est alterius speciei a. puncto vel punctis.
+   </p>
+            <p xml:id="jb2v19-d12692-d1e884">
+      ¶ 
+      Respon<lb ed="#C" n="72" break="no"/>detur concedendo sequelam. ouo puncta componentia 
+      <lb ed="#C" n="73"/>materiam vel eandem formam et vnum punctum sunt 
+      eius<lb ed="#C" n="74" break="no"/>dem speciei. et per idem tria puncta et duo: et sic sine 
+      <lb ed="#C" n="75"/>statu. non inconuenit aliquod punctum et aliquod conti 
+      <lb ed="#C" n="76"/>nuum esse eiusdem speciei. sed vnum falsum assumitur in 
+      <lb ed="#C" n="77"/>argumento: quod non est in continuo nisi punctum. cuiuslet 
+      <lb ed="#C" n="78"/>continui continuum est pars. modo nullum continuum est 
+      <lb ed="#C" n="79"/>punctum. sed asinus non est eiusdem speciei cum 
+      pun<lb ed="#C" n="80" break="no"/>ctis componentibus materiam bene aute cum duobus 
+      pun<lb ed="#C" n="81" break="no"/>ctis quorum vnum componit materiam et aliuod formam. 
+      di<lb ed="#C" n="82" break="no"/>catur punctum pars materie et non materia: et punctum 
+      <lb ed="#C" n="83"/>pars forme et non forma. si cuipiam placeat illam 
+      ad<lb ed="#C" n="84" break="no"/>mittere in recto: cum illo non contendimus: cum est 
+      ha<lb ed="#C" n="85" break="no"/>bendus solum sermo de nomine. quo fit: duo puncta 
+      <lb ed="#C" n="86"/>in asino sunt eiusdem speciei cum materia immo 
+      vnu<lb ed="#C" n="87" break="no"/>punctum in asino est eiusdem speciei cum forma asini. 
+      <lb ed="#C" n="88"/>sed nullum vnum punctum est asinus: nec omnia eiusdem 
+      <lb ed="#C" n="89"/>speciei cum asino sunt asinus: patet de puncto in 
+      ma<lb ed="#C" n="90" break="no"/>teria etde puncto de forma. sicut anima et materia 
+      se<lb ed="#C" n="91" break="no"/>parata sunt eiusdem speciei cum sorte: et tamen non sunt 
+      <lb ed="#C" n="92"/>sortes vel homo.
+   </p>
+            <p xml:id="jb2v19-d12692-d1e933">
+      ¶ Quarto arguitur. si dicta essent 
+      <lb ed="#C" n="93"/>vera sequeretur quod possent auferri infinita ab 
+      vno<lb ed="#C" n="94" break="no"/>pedali absque hoc quod ipsum esset minus: et loquor 
+      <lb ed="#C" n="95"/>de continuo finito. consequens est falsum. ergo et 
+      <lb ed="#C" n="96"/>antecedens consequentis falsitas probatur. illa infini 
+      <lb ed="#C" n="97"/>ta puncta sufficiunt constituere continuum: immo si 
+      <lb ed="#C" n="98"/>simul addantur continnum conflabitur: consequentiam 
+      ta<lb ed="#C" n="99" break="no"/>men probo. auferat deus a prima parte proportionali vnum 
+      <lb ed="#C" n="100"/>punctum. vnum punctum a secunda parte proportiooli eiusdem 
+      con<lb ed="#C" n="101" break="no"/>tinui. vnum punctum a tertia parte proportionali eiusdem. et 
+      <lb ed="#C" n="102"/>sic auferat vnum punctum a quelibet parte proportionali: vel 
+      <lb ed="#C" n="103"/>potius a qualibet parte proportionali auferat vnum 
+      pun<lb ed="#C" n="104" break="no"/>ctum. tunc erunt infinita puncra ablata. patet. prima 
+      <lb ed="#C" n="105"/>pars proportionalis eius manebit ita magna sicut 
+      <lb ed="#C" n="106"/>ante ablationem illius puncti. secunda pars 
+      proportiona<lb ed="#C" n="107" break="no"/>lis manebit eque magna puncto ablato sicut 
+      an<lb ed="#C" n="108" break="no"/>te eius substractionem: et sic de qualibet alia parte 
+      pro<lb ed="#C" n="109" break="no"/>portionali. et si omnes partes proportionales remane 
+      <lb ed="#C" n="110"/>bunt ita magne ficut prius: totum manebit ita 
+      ma<lb ed="#C" n="111" break="no"/>gnum sicut ante erat. Insuper: prima pars 
+      proportio<lb ed="#C" n="112" break="no"/>nalis manebit equaliter magna: quoniam 
+      semipe<lb ed="#C" n="113" break="no"/>dalis. ipsa est equalis aggregato ex omnibus 
+      sequen<lb ed="#C" n="114" break="no"/>tibus. ergo aggregatum sequentium est 
+      semipeda<lb ed="#C" n="115" break="no"/>le. ergo totum manebit pedale.
+   </p>
+            <p xml:id="jb2v19-d12692-d1e985">
+      ¶ Respondetur 
+      conce<lb ed="#C" n="116" break="no"/>dendo sequelam. nec hoc est inconueniens. immo si 
+      <lb ed="#C" n="117"/>adhuc auferrentur tria puncta: mille: de qualibet 
+      <lb ed="#C" n="118"/>parte proportionali: totum esset ita magnum sicut in 
+      <lb ed="#C" n="119"/>principio. et si auferrentur infinita interscalariter. 
+      <lb ed="#C" n="120"/>secus est si continue auferrent. et ne tibi illud omnino¬
+      <pb ed="#V" n="24-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>peregrinum videacur. sit tibi analogis: 
+      auferen<lb ed="#C" n="2" break="no"/>do infinitos aureos interschalariter a congerie 
+      <lb ed="#C" n="3"/>infinita aureorum: infiniti superant. vel auferendo 
+      <lb ed="#C" n="4"/>infinita pedalia equalia a linea infinita 
+      interscha<lb ed="#C" n="5" break="no"/>lariter: remanebit infinita multitudo vel sufficiens 
+      <lb ed="#C" n="6"/>ad tantam extensionem infinitatis sicut pus erat. et 
+      <lb ed="#C" n="7"/>est tota ratio: quia infinite erunt tales partes in linea 
+      <lb ed="#C" n="8"/>immo infinities infinite tales. sic est in continuo 
+      quam<lb ed="#C" n="9" break="no"/>tumcumque paruo: sunt infinita puncta: et infinities 
+      infi<lb ed="#C" n="10" break="no"/>nita.
+   </p>
+            <p xml:id="jb2v19-d12692-d1e1024">
+      ¶ Sed contra totum istud arguitur. sequeretur 
+      <lb ed="#C" n="11"/>quod ex corpore pedali posset fieri bipedale tripeda 
+      <lb ed="#C" n="12"/>le quadrupedale seclusa rarefactione vel quod idem 
+      <lb ed="#C" n="13"/>ponatur in variis locis. istud non est intelligibile. 
+      <lb ed="#C" n="14"/>ergo et fons de quo iste riuus procedit. quod sequatur 
+      <lb ed="#C" n="15"/>pater: separentur infinita puncta ab a / corpore 
+      pe<lb ed="#C" n="16" break="no"/>dali secundum imaginationem praefatam: tunc ex illis praet com 
+      <lb ed="#C" n="17"/>poni vnum. sit illud quantitatis quantumlibet parue 
+      vo<lb ed="#C" n="18" break="no"/>lueris inmnumere tales magnitudines a / pedali non 
+      <lb ed="#C" n="19"/>exhausto: immo nec diminuto: extrahi possunt: ex 
+      <lb ed="#C" n="20"/>quibus quadrupedale immo infinitum corpus 
+      compo<lb ed="#C" n="21" break="no"/>netur.
+   </p>
+            <p xml:id="jb2v19-d12692-d1e1050">
+      ¶ Respondetur concedendo sequelam: nec 
+      conse<lb ed="#C" n="22" break="no"/>quens est impossibile. modus auferendi multum 
+      fa<lb ed="#C" n="23" break="no"/>cit. istud non est situm in facultate creature. agens 
+      <lb ed="#C" n="24"/>naturale corrumpit ordinate et continue. et agens 
+      <lb ed="#C" n="25"/>creatum nescit ista puncta segregare a composito. sicut 
+      <lb ed="#C" n="26"/>deus ex corpore pedali praet facere lineam infinitam: et 
+      nul<lb ed="#C" n="27" break="no"/>la creatura. Ex isto sequitur cum adiunctione communiter 
+      <lb ed="#C" n="28"/>concessorum in philosphia: cum ignis corrumpit lignum 
+      <lb ed="#C" n="29"/>omnia puncta quae erant in forma ligni corrumpit: ita quod 
+      <lb ed="#C" n="30"/>nullum illorum manet in rerum natura. puncta materie 
+      <lb ed="#C" n="31"/>nullo modo corrumpit illa sunt ingenerabilia et 
+      incor<lb ed="#C" n="32" break="no"/>ruptibia naturaliter: sicut philosophi non abs re 
+      di<lb ed="#C" n="33" break="no"/>cunt. cum corruptis straminibus maneant cineres: 
+      <lb ed="#C" n="34"/>quos dererum natura tollere nequis / quin aliqua 
+      <lb ed="#C" n="35"/>materia succedat. Si petas quare agos 
+      naturale<lb ed="#C" n="36" break="no"/>non potest corrumpere vnum punctum nichil alind 
+      corrum<lb ed="#C" n="37" break="no"/>pendo. Respondetur per maximam phisicam. ome 
+      <lb ed="#C" n="38"/>agens equaliter agit in duo passa equaliter 
+      appro<lb ed="#C" n="39" break="no"/>ximata. modo nullum est vnum punctum sine duobus 
+      <lb ed="#C" n="40"/>et infinitis equaliter applicatis agenti.
+   </p>
+            <p xml:id="jb2v19-d12692-d1e1094">
+      ¶ 
+      Quin<lb ed="#C" n="41" break="no"/>to arguitur. si positio esset vera sequeretur quod 
+      pari<lb ed="#C" n="42" break="no"/>ratione forma intensibilis et diuisibilis 
+      copone<lb ed="#C" n="43" break="no"/>retur ex indiuisibilibus secundum intensionem. sed hoc est 
+      <lb ed="#C" n="44"/>inconueniens. ergo. quod sequatur patet. est eadem 
+      ra<lb ed="#C" n="45" break="no"/>tio. Similiter tpris coponeretur ex instantibus: et 
+      <lb ed="#C" n="46"/>motus ex mutatis esse
+   </p>
+            <p xml:id="jb2v19-d12692-d1e1110">
+      ¶ Respondetur concedendo 
+      <lb ed="#C" n="47"/>omnia illa assumpta forma accidens indiuisibile (vt 
+      <lb ed="#C" n="48"/>calor) inheret puncto substantie: et diuisibilis 
+      inten<lb ed="#C" n="49" break="no"/>siue inheret. et proportionabiliter est dicendum de 
+      <lb ed="#C" n="50"/>forma intensibili et remissibili ad quantum. Istud 
+      <lb ed="#C" n="51"/>non est omnino improbabile quod dicimus de forma: vt 
+      <lb ed="#C" n="52"/>patet per vnam solemnem opinionem inter antiquos rgo for 
+      <lb ed="#C" n="53"/>ma internsibilis non habet partes. quid mirum ergo si 
+      <lb ed="#C" n="54"/>nos dicamus (opinionem communem tenentes) quod aliqua 
+      <lb ed="#C" n="55"/>pars eius est indiiuisibilis. ex isto non sequitur quod 
+      ca<lb ed="#C" n="56" break="no"/>lor punctualis esset infinite remissionis. dicimus illud 
+      <lb ed="#C" n="57"/>non esse intensum. siue debeat dici pars caloris siue 
+      <lb ed="#C" n="58"/>non: est difficultas similis.
+   </p>
+            <p xml:id="jb2v19-d12692-d1e1140">
+      ¶ Sexto arguitur ex 
+      po<lb ed="#C" n="59" break="no"/>sitione predicta sequitur quod diamerer quadrati non 
+      <lb ed="#C" n="60"/>esset incommensurabilis coste ciusdem consequens est fal¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>sum: vtipatet ex quinta decimi Euclidis. dicit et 
+      <lb ed="#C" n="62"/>illa quinta quod quantitatum commensurabilium 
+      proportio<lb ed="#C" n="63" break="no"/>est adinuicem / sicut alicuius numeri ad aliquem 
+      nu<lb ed="#C" n="64" break="no"/>merum. et per septimam olusdem sequitur: si linee aliquae sint 
+      <lb ed="#C" n="65"/>commensurabiles quadrata illarum linearum se 
+      habe<lb ed="#C" n="66" break="no"/>bunt adinuicem sicut vnus numerus quadratus ad alium 
+      <lb ed="#C" n="67"/>numerum quadratum. quadratum autem diametri non se 
+      <lb ed="#C" n="68"/>habet ad quadratum coste sicut numerus aliquis qua 
+      <lb ed="#C" n="69"/>dratus ad alium numerum quadratum. igitur nec 
+      diame<lb ed="#C" n="70" break="no"/>ter erit commensurabilis coste. minor patet ex 
+      pe<lb ed="#C" n="71" break="no"/>nultima primi: eo quod quadratum diametri est 
+      duplum<lb ed="#C" n="72" break="no"/>ad quadratum coste: pro eo quod est equale quadrato 
+      <lb ed="#C" n="73"/>douarum costarum. et hoc intueri potes: in margine de 
+      <lb ed="#C" n="74"/>scribendo quadratum maius a / super cuius diametri 
+      me<lb ed="#C" n="75" break="no"/>dietatem confletur minus quadratum: cuius diameter erit 
+      <lb ed="#C" n="76"/>costa maioris nullus autem numerus quadratus est 
+      du<lb ed="#C" n="77" break="no"/>plus ad alium nunerum quadratum: vt patet de 
+      nouen<lb ed="#C" n="78" break="no"/>sexdecim vigintiquinque / et ita discurrendo per omec 
+      <lb ed="#C" n="79"/>quadratos ex quibuscumque radicibus in se ductis. 
+      com<lb ed="#C" n="80" break="no"/>sequentiam tamen probo sic. quia puncta omiametri sehabent 
+      <lb ed="#C" n="81"/>ad puncta coste in aliqua porportione 
+      numerali<lb ed="#C" n="82" break="no"/>Etiam aliter patet capiendo douo puncta lmediata 
+      <lb ed="#C" n="83"/>in costa: et alia duo opposita in alia costa: et ab 
+      <lb ed="#C" n="84"/>istis ad illa ducantur due linee recte eque distantes 
+      <lb ed="#C" n="85"/>ipsi basi. iste secabunt diametrum. et si in punctis 
+      imme<lb ed="#C" n="86" break="no"/>diatis: non erunt plura puncta in diametro quam in 
+      co<lb ed="#C" n="87" break="no"/>sta si inpunctis mediatis: tunc capio punctum mediu 
+      <lb ed="#C" n="88"/>in diametro a quo duco lineam rectam in 
+      conti<lb ed="#C" n="89" break="no"/>num et directum duas costas versus. illa cadit 
+      exa<lb ed="#C" n="90" break="no"/>tra vtramque lineam datam. alioquin concurrit cum lineis 
+      il<lb ed="#C" n="91" break="no"/>lis cum quibus ponitur eque distans: quod est contra diffini 
+      <lb ed="#C" n="92"/>tionem eque distantium
+   </p>
+            <p xml:id="jb2v19-d12692-d1e1218">
+      ¶ Respondetur concedendo 
+      quo<lb ed="#C" n="93" break="no"/>est proportio irrationalis inter diametrum quadrati 
+      <lb ed="#C" n="94"/>et sua costam. quia non est aliqua vna mensura: qua 
+      mensu<lb ed="#C" n="95" break="no"/>rari possint. Sed nego quod oppositum sequatur ex 
+      di<lb ed="#C" n="96" break="no"/>ctis. Continuum em non solum coponitur ex punctis: sed 
+      <lb ed="#C" n="97"/>ex quantis. maior est quantitas continua in 
+      diame<lb ed="#C" n="98" break="no"/>tro quam in costa: vt patet ad sensum. et nego casum 
+      <lb ed="#C" n="99"/>quod possint dari doue linee recte a duobus punctis 
+      in<lb ed="#C" n="100" break="no"/>mediatisfvnsus coste ad duo puncta immediata 
+      alte<lb ed="#C" n="101" break="no"/>rius coste. secundum reales inter quecumque duo puncta 
+      <lb ed="#C" n="102"/>continuatima mediat punctum et quantum. secundo: non pono line 
+      <lb ed="#C" n="103"/>as indiuisibiles quo ad latitudinem et profundita 
+      <lb ed="#C" n="104"/>tem. Tertio: casu admisso ad imaginationem: non 
+      se<lb ed="#C" n="105" break="no"/>cabunt diametrum in duobus punctis lmediatis: cum 
+      <lb ed="#C" n="106"/>doiameter sit costa longior nec erit possibile 
+      duce<lb ed="#C" n="107" break="no"/>re ab vno puncto medio diametri lineam equae 
+      distan<lb ed="#C" n="108" break="no"/>tem aliis duabus lineis: immo concurrit inter costas cum 
+      <lb ed="#C" n="109"/>aliis ouabus lineis. et sic non erit eis paralella. nec 
+      <lb ed="#C" n="110"/>mirum quod absonum sequatur ex dissono casu admissc. 
+   </p>
+            <p xml:id="jb2v19-d12692-d1e1260">
+               <lb ed="#C" n="111"/>¶ Septimo arguitur. ex dictis patet quod finita 
+      pun<lb ed="#C" n="112" break="no"/>cta non constituunt continuum: sed solum infinita. 
+      <lb ed="#C" n="113"/>quaero quante quantitatis erit illud continuum primo 
+      pro<lb ed="#C" n="114" break="no"/>ductum: posito quod deus in qualibet parte 
+      proportiona<lb ed="#C" n="115" break="no"/>li vnius hore producat vnum punctum in instanti 
+      ter<lb ed="#C" n="116" break="no"/>minante horam primo verum erit dicere illic est 
+      quan<lb ed="#C" n="117" break="no"/>tum: quaero quante quantitatis est: pedalis vel tripeda 
+      <lb ed="#C" n="118"/>lis. et respondere rationabiliter non potes. ergo 
+      po<lb ed="#C" n="119" break="no"/>sitio nulla.
+   </p>
+            <p xml:id="jb2v19-d12692-d1e1282">
+      ¶ Respondetur: hoc argumentum non nichil 
+      <lb ed="#C" n="120"/>coloris secum affert. Ad quod breuiter dico. sufficit
+      <pb ed="#V" n="24-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>mihis erit quantum: licet nesciam quante magnitudinis 
+      <lb ed="#C" n="2"/>precise erit.
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

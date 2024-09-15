@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 3</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 3</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="125-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d75011"><!-- l2d28q3 -->
+            <head xml:id="jb2v19-d75011-Hd1e101">Quaestio 3</head>
+            <head xml:id="jb2v19-d75011-Hd1e103" type="question-title">An homo  potest se immunem praeservare a peccato</head>
+            <p xml:id="jb2v19-d75011-d1e106">
+               <lb ed="#C" n="58"/>¶ Questio tertia. 
+      <lb ed="#C" n="59"/>Tertio circa hanc distinctionem queritur an 
+      <lb ed="#C" n="60"/>homo potest se immunem praeseruare a 
+      pec<lb ed="#C" n="61" break="no"/>cato:
+   </p>
+            <p xml:id="jb2v19-d75011-d1e117">
+      ¶ Respondetur per conclusiones: quarum pri¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="62"/>ma est. multa peccata homo de necessitate 
+      incur<lb ed="#C" n="63" break="no"/>rit si non iuetur a deo speciali dei ope. probati 
+      <lb ed="#C" n="64"/>homo tenetur ad multa praecepta que homo non 
+      po<lb ed="#C" n="65" break="no"/>test complere debite sine auxilio dei speciali. et 
+      li<lb ed="#C" n="66" break="no"/>cet homo non sit transgressor preceptorum multorum 
+      <lb ed="#C" n="67"/>faciendo actus moraliter bonos in mortali: tamen 
+      <lb ed="#C" n="68"/>requiritur actus moraliter bonus. alioquin 
+      pecca<lb ed="#C" n="69" break="no"/>tum incurritur.
+   </p>
+            <p xml:id="jb2v19-d75011-d1e139">
+      ¶ Insuper. occurrit crebro occasio 
+      <lb ed="#C" n="70"/>peccati quam homo non adiutus non potest 
+      vita<lb ed="#C" n="71" break="no"/>reet superare. igitur peccat nisi gratia dei 
+      pu<lb ed="#C" n="72" break="no"/>tus fuerit.
+   </p>
+            <p xml:id="jb2v19-d75011-d1e149">
+      ¶ Secunda conclusio. dato quod gratia 
+      <lb ed="#C" n="73"/>dei specialis preueniat verum potest peccare 
+      pro<lb ed="#C" n="74" break="no"/>batur. potest non vti beneficio dei cooperante et 
+      <lb ed="#C" n="75"/>preueniente voluntate ad bonum. ergo tunc peccat 
+   </p>
+            <p xml:id="jb2v19-d75011-d1e158">
+               <lb ed="#C" n="76"/>¶ Tertia conclusio. homo gratia dei communi adiutus 
+      <lb ed="#C" n="77"/>potest euitare diu mortale committendum beat 
+      <lb ed="#C" n="78"/>gratia gratis facientem. probatur. doctores 
+      faci<lb ed="#C" n="79" break="no"/>difficultatem in. 17. distinctione quarti de illo qui 
+      <lb ed="#C" n="80"/>mortaliter non peccat in toto anno: Ine is ad 
+      con<lb ed="#C" n="81" break="no"/>fessionem teneatur: et diuersimode respondent: vt 
+      <lb ed="#C" n="82"/>in loco allegato dixi. et istud non quererent nisi hoc 
+      <lb ed="#C" n="83"/>omnes supponerent et quodammodo ita in se esse 
+      <lb ed="#C" n="84"/>putarent.
+   </p>
+            <p xml:id="jb2v19-d75011-d1e180">
+      ¶ Preterea: onus christi est leue et 
+      iugi<lb ed="#C" n="85" break="no"/>eius suaue Mathei. xi. et hoc non esset nisi homo 
+      <lb ed="#C" n="86"/>posset diu euitare mortale. in priori parte 
+      conclu<lb ed="#C" n="87" break="no"/>sionis per gratiam dei auxilium speciale intelligo. quia 
+      <lb ed="#C" n="88"/>sic frequenter capio in hac distinctione.
+   </p>
+            <p xml:id="jb2v19-d75011-d1e191">
+      ¶ Preterea 
+      <lb ed="#C" n="89"/>prohibetur homini non peccare mortaliter sub 
+      pe<lb ed="#C" n="90" break="no"/>na dampnationis eterne. et tale non prohiberetur 
+      <lb ed="#C" n="91"/>a deo si homo non possit illud seruare. et iste 
+      ha<lb ed="#C" n="92" break="no"/>bet etiam gratiam dei que cooperatur ad bonum et 
+      ma<lb ed="#C" n="93" break="no"/>lo resistit.
+   </p>
+            <p xml:id="jb2v19-d75011-d1e204">
+      ¶ Quarta conclusio. existens in vno 
+      mor<lb ed="#C" n="94" break="no"/>tali gratia speciali dei adiutus potest diu 
+      cau<lb ed="#C" n="95" break="no"/>ne aliud mortale comittat. Probatur hec 
+      conclusio<lb ed="#C" n="96" break="no"/>per secundam probationem conclusionis precedentis: 
+      <lb ed="#C" n="97"/>est ei prohibitum non peccare nouo peccato et cusa 
+   </p>
+            <p xml:id="jb2v19-d75011-d1e215">
+               <lb ed="#C" n="98"/>¶ Secundo. habens gratiam cum auxilio dei hoc 
+      <lb ed="#C" n="99"/>potest seruare. sed gratia gratum faciens non 
+      infi<lb ed="#C" n="100" break="no"/>nite adiuuat. ergo liberum arbitrium bene se regens 
+      <lb ed="#C" n="101"/>fugiendo occasiones peccatorum / potest tantum 
+      iu<lb ed="#C" n="102" break="no"/>uare sicut concursus gratie ad cauendum a peccato 
+   </p>
+            <p xml:id="jb2v19-d75011-d1e229">
+               <lb ed="#C" n="103"/>¶ Quinta conclusio. homo gratia dei adiutus 
+      po<lb ed="#C" n="104" break="no"/>test cauere ne peccet vllo peccato veniali delil 
+      <lb ed="#C" n="105"/>rato: et etia ne peccet motum secundo. primo ad 
+      bre<lb ed="#C" n="106" break="no"/>tempus. probatur. prohibitum est viro peccare 
+      ve<lb ed="#C" n="107" break="no"/>niali aliquo vel aliquibus sub pena temporali. et 
+      ni<lb ed="#C" n="108" break="no"/>chil precipitur nisi rationabile. ergo homo potest 
+      <lb ed="#C" n="109"/>ab vno veniali et omnibus occurrentibus pro 
+      tempore<lb ed="#C" n="110" break="no"/>euitare.
+   </p>
+            <p xml:id="jb2v19-d75011-d1e249">
+      ¶ Sed dicis. si ab vno euitet: occurrit 
+      <lb ed="#C" n="111"/>materia alterius. et sic in aliquod veniale incidit 
+      <lb ed="#C" n="112"/>quemadmodum existens in naui multa foramina 
+      ha<lb ed="#C" n="113" break="no"/>bente. et aquam omnia foramina petente: quodlibet 
+      <lb ed="#C" n="114"/>foramen potest obstruere ne ingrediatur aqua: sed 
+      <lb ed="#C" n="115"/>non omnia. sic in proposito.
+   </p>
+            <p xml:id="jb2v19-d75011-d1e262">
+      ¶ Contra: non est 
+      simi<lb ed="#C" n="116" break="no"/>le. aqua ex omni parte naturaliter ingreditur: et 
+      sor<lb ed="#C" n="117" break="no"/>te vnum foramen obstruente in aliis foraminibus 
+      <lb ed="#C" n="118"/>ingreditur aqua. sed non est necesse materiam 
+      pecca<lb ed="#C" n="119" break="no"/>ti venialis occurrere: saltem tot materias simul. et 
+      <lb ed="#C" n="120"/>si occurrant: sortes potest conuertere se ad passionem 
+      <lb ed="#C" n="121"/>christi ad laudandum deum / vel ad aliam bonam theo 
+      <lb ed="#C" n="122"/>ricam profunde: sic scllicet: quod nullum actum malum ha¬
+      <pb ed="#V" n="126-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>bebit: et sic non peccabit.
+   </p>
+            <p xml:id="jb2v19-d75011-d1e286">
+      ¶ Sexta conclusio. est 
+      <lb ed="#C" n="2"/>valde difficile homini de lege communi eunitare 
+      <lb ed="#C" n="3"/>omnia peccata venialia in longo tempore 
+      quin<lb ed="#C" n="4" break="no"/>in aliquod incidat. de communi lege: scimus 
+      vir<lb ed="#C" n="5" break="no"/>ginem omnis peccati fuisse immunem. et baptizatus 
+      <lb ed="#C" n="6"/>primo veniens ad an nos discretionis potest 
+      pro<lb ed="#C" n="7" break="no"/>tempore dormire quam primum venit ad discretionem / 
+      <lb ed="#C" n="8"/>et postea esse demens sine sua culpa: et tunc non 
+      <lb ed="#C" n="9"/>peccabit. intelligo de vtente ratione. hec 
+      conclu<lb ed="#C" n="10" break="no"/>sio probatur quotidiana experientia. Uix 
+      labi<lb ed="#C" n="11" break="no"/>tur septimana vel dies naturalis quin committi 
+      <lb ed="#C" n="12"/>mus vel omittimus aliquid quod nobis displicet. 
+      <lb ed="#C" n="13"/>cum noctu recolligimus nostram vitam diei preteriti: 
+      <lb ed="#C" n="14"/>occurrit nobis / vel stulte et imprudenter locuti 
+      su<lb ed="#C" n="15" break="no"/>mus / nos laudando directe vel indirecte: vel 
+      mi<lb ed="#C" n="16" break="no"/>nus prudenter vel ociose loquutos fuisse: vel alios 
+      <lb ed="#C" n="17"/>subitos motus habemus. probatur hec eadem 
+      conclu<lb ed="#C" n="18" break="no"/>sio per illud quod scribitur prouerbiorum 24. Septies 
+      <lb ed="#C" n="19"/>e enim cadet iustus. vbi glosa. singulis diebus 
+      pe<lb ed="#C" n="20" break="no"/>necessitate vel fragilitatem carnis / vel nolentes vel 
+      <lb ed="#C" n="21"/>multi peccamus. Et grego. octa. moralium. quedam 
+      <lb ed="#C" n="22"/>sunt peccata que a iustis vitari possunt: et sunt non 
+      <lb ed="#C" n="23"/>nulla que ab eis vitari non possunt. exemplificauit 
+      <lb ed="#C" n="24"/>de peccato cogitationis. et idem (super illud mathei. 4. 
+      <lb ed="#C" n="25"/>ductus est iesus in desertum) ait. nos cum temptamur 
+      <lb ed="#C" n="26"/>plerumque in de lectationem et in consensum labimur: 
+      <lb ed="#C" n="27"/>quia de carnis peccato propagati in nobis etiam 
+      <lb ed="#C" n="28"/>ipsis gerimus vnde certamina tollemus. et 
+      Au<lb ed="#C" n="29" break="no"/>gustinus de bono virginitatis cum dicit se non 
+      conten<lb ed="#C" n="30" break="no"/>dere contra opinantes: contrarium istius conclusionis addit: 
+      <lb ed="#C" n="31"/>quod certum erat quod ipse nullum fuerat expertus adhuc. et 
+      <lb ed="#C" n="32"/>Bernardus de dispensatione et praecepto. fateor 
+      sa<lb ed="#C" n="33" break="no"/>ne impossibile cuiuis mortalium vel venialter inter 
+      <lb ed="#C" n="34"/>dum non delinquare et in perceptis non obedire.
+   </p>
+            <p xml:id="jb2v19-d75011-d1e360">
+      ¶ 
+      Con<lb ed="#C" n="35" break="no"/>tra quinta conclusionem arguitur. ho potest euitare vnum venia 
+      <lb ed="#C" n="36"/>le per breue tempus: et omnia venialia ex quarta conclusione 
+      <lb ed="#C" n="37"/>sit illud tempus duarum horarum gratia exempli. tunc 
+      resi<lb ed="#C" n="38" break="no"/>stendo ho erit fortior. ergo potest magis quam antea 
+      re<lb ed="#C" n="39" break="no"/>sistere per crementum gratiae et boni habitus.
+   </p>
+            <p xml:id="jb2v19-d75011-d1e373">
+      ¶ Secundo 
+      <lb ed="#C" n="40"/>arguitur. sortes potest euitare venialia omnia per tres 
+      ho<lb ed="#C" n="41" break="no"/>ras quibus studet profunde. et qua ratione istis tribus 
+      <lb ed="#C" n="42"/>eadem ratione aliis tribus horis / et aliis tribus. et sic 
+      <lb ed="#C" n="43"/>de centum mille horis: semper addendo tres horas. 
+   </p>
+            <p xml:id="jb2v19-d75011-d1e385">
+               <lb ed="#C" n="44"/>¶ Tertio arguitur. homo tenetur sub pena peccati 
+      venia<lb ed="#C" n="45" break="no"/>lis vel venialium euitare omnia venialia per totam vitam. 
+      <lb ed="#C" n="46"/>vel istud potest de communi lege implere vel no. Si primum 
+      <lb ed="#C" n="47"/>adimpleat: et tunc conclusio quinta est falsa. si non potest 
+      <lb ed="#C" n="48"/>ergo homo tenetur ad impossibile: quod est contra 
+      Hiero<lb ed="#C" n="49" break="no"/>nymum in explanatione fidei. ecce verba 
+      hieronymi<lb ed="#C" n="50" break="no"/>Execramus (inquit) eorum blasphemiam qui dicunt 
+      im<lb ed="#C" n="51" break="no"/>possibile aliquid homini a deo esse praeceptum: et 
+      man<lb ed="#C" n="52" break="no"/>data / non a singulis / sed ab omnibus pose in communi 
+      serua<lb ed="#C" n="53" break="no"/>ri. et paulo post. etiam illos errare bscimus qui cum 
+      ma<lb ed="#C" n="54" break="no"/>nicheo dicunt hominem peccatum vitare non posse quam illos 
+      <lb ed="#C" n="55"/>qui cum Iouiniano asserunt hominem non posse 
+      pecca<lb ed="#C" n="56" break="no"/>re.
+   </p>
+            <p xml:id="jb2v19-d75011-d1e416">
+      ¶ Quarto arguitur. Mattbei. xi. in probatione 
+      <lb ed="#C" n="57"/>diximus onus meum leue et iugum meum suaue.
+   </p>
+            <p xml:id="jb2v19-d75011-d1e421">
+      ¶ Ad 
+      <lb ed="#C" n="58"/>primum harum trium rationum et ad secundam simul dico non 
+      <lb ed="#C" n="59"/>esse idem in magno tempore et in paruo: licet homo sit fortior 
+      <lb ed="#C" n="60"/>quantum est ex parte eius. Ratio. stat plures peccatorum
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>impulsus et tecum luctatores occurrere in magno 
+      <lb ed="#C" n="62"/>tempore quam in paruo. et per consequens citius succumbes. patet in 
+      si<lb ed="#C" n="63" break="no"/>mili de luctante primo cum vno / postea cum nullo: 
+      <lb ed="#C" n="64"/>demum veniunt. 4. vel quinque simul tecum luctari. vnus 
+      <lb ed="#C" n="65"/>te prosternit. et patet simile de aqua velociter ruente 
+      <lb ed="#C" n="66"/>cuius impetum si vno loco pede vel cespite impedias: 
+      <lb ed="#C" n="67"/>in alio loco satis vicino suum cursum te inuito 
+      ca<lb ed="#C" n="68" break="no"/>pit. non quod sit omnino simile committere malum est liberum 
+      <lb ed="#C" n="69"/>sed ab omnibus malis cauere est nobis. difficillimum 
+      <lb ed="#C" n="70"/>nobis inquam in statu nature corrupte: vt 
+      experimur<lb ed="#C" n="71" break="no"/>Aliud erat in statu nature integre. Nonne vides 
+      <lb ed="#C" n="72"/>facilius est incedere: orare: studere: vel aliquid 
+      bo<lb ed="#C" n="73" break="no"/>ni facere per breue tempus quam per longum. et licet idem sit 
+      <lb ed="#C" n="74"/>ex parte vnius comparate ad aliam: vel trium horarum 
+      <lb ed="#C" n="75"/>ad alias tres comparatas. non est idem ex parte 
+      mul<lb ed="#C" n="76" break="no"/>tarum horarum. si essent. 20. tibi equales in 
+      fortitu<lb ed="#C" n="77" break="no"/>dine: si primus te non vincat: propter tuam 
+      debili<lb ed="#C" n="78" break="no"/>tationem tandem vinceris ab vno. stat in principio 
+      <lb ed="#C" n="79"/>bene ores vel cogites: tandem debilitaris et alicui 
+      <lb ed="#C" n="80"/>cogitationi perniciose vel suggestioni das aditum. 
+      <lb ed="#C" n="81"/>couertis te ad studium sanctum vel orationem quatenus 
+      <lb ed="#C" n="82"/>a peccatis te preserues: interim tibi occurit motus 
+      <lb ed="#C" n="83"/>subitus superbie circa materiam studii / vel 
+      deuo<lb ed="#C" n="84" break="no"/>tionem tuam: quia es alio melior et quando ita esset quod per vnam 
+      <lb ed="#C" n="85"/>horam vtendo ratione nullo modo peccares: stat 
+      <lb ed="#C" n="86"/>tamen in maiore tempue: vt in 24. horis: si ratione vtaris / 
+      <lb ed="#C" n="87"/>in illis in aliquo offendes. tempune sompni vel 
+      amen<lb ed="#C" n="88" break="no"/>tie non vteris actuali ratione: propterea de illo tempue 
+      lo<lb ed="#C" n="89" break="no"/>qui non oportet. propterea dicas experientia cum psalmi 
+      <lb ed="#C" n="90"/>sta. delicta quis intelligit: et rogens deum te 
+      preserua<lb ed="#C" n="91" break="no"/>re a peccatis immunem.
+   </p>
+            <p xml:id="jb2v19-d75011-d1e499">
+      ¶ Sed dicis: in Ioanne euange 
+      <lb ed="#C" n="92"/>lista est apparentia nullum erat veniale tempue quo 
+      dice<lb ed="#C" n="93" break="no"/>bat / si dixerimus quam peccatum non habemus 
+      nosmetip<lb ed="#C" n="94" break="no"/>sos seducimus et veritas in nobis non est. ergo 
+      po<lb ed="#C" n="95" break="no"/>terat se dicere esse omnis peccati expartem.
+   </p>
+            <p xml:id="jb2v19-d75011-d1e510">
+      ¶ Respondetur 
+      <lb ed="#C" n="96"/>consequentia est nulla. non licet viro dicere verum nisi certus si 
+      <lb ed="#C" n="97"/>de vero: ne mentiant. tateor etiam ho non det dicere 
+      <lb ed="#C" n="98"/>oppositum. Sciebat beatus ioannes hec simul 
+      sta<lb ed="#C" n="99" break="no"/>re. non sum in vllo pccato: et ego non possum licite 
+      di<lb ed="#C" n="100" break="no"/>cere ego non sum in peccato. simile est de apostoso: nichil 
+      <lb ed="#C" n="101"/>michi consciua sum sed in hoc non iustiticatus 
+      sum<lb ed="#C" n="102" break="no"/>ac si diceret: non habeo conscientiam de vllo pccato s3 
+      <lb ed="#C" n="103"/>non propterea sequitur ego sum totaliter purus. 
+   </p>
+            <p xml:id="jb2v19-d75011-d1e530">
+               <lb ed="#C" n="104"/>¶ Ad vltimum argumentum concedo quod ho tenetur 
+      <lb ed="#C" n="105"/>euitare omnia pccata in tota vita sua: et illud est 
+      possi<lb ed="#C" n="106" break="no"/>bile. non implicat contradictionem vt patuit in 
+      bea<lb ed="#C" n="107" break="no"/>ta virgine. sed est difficile seruatu. cum petrus ad 
+      <lb ed="#C" n="108"/>Galathas 2. secundum communiorem viam peccauit 
+      ve<lb ed="#C" n="109" break="no"/>nialiter: non mirabere si tibi illud seruare est 
+      diffi<lb ed="#C" n="110" break="no"/>cile. et sic concedo quod homo obligatur ad aliquid vel 
+      ali<lb ed="#C" n="111" break="no"/>qua que seruare est difficile. immo de communi lege 
+      im<lb ed="#C" n="112" break="no"/>possibile. hoc tet Aug. primo libro retractationum 
+      <lb ed="#C" n="113"/>dicens quaedam necessitate fieri ab homine quae mala sunt. sed 
+      <lb ed="#C" n="114"/>quia hieronymus videtur dicere oppositum: 
+      magi<lb ed="#C" n="115" break="no"/>ster distinctione 26 capitulo penultiuo ad concordi 
+      <lb ed="#C" n="116"/>am reducere elaborat asserens quam Aug. loquitur 
+      <lb ed="#C" n="117"/>de venialibus secundum statum huius miserie: ad quam peritio 
+      <lb ed="#C" n="118"/>net ignorantia et difficultas. Hieronymus loquitur 
+      <lb ed="#C" n="119"/>de mortali potissimum de homine secundum statum liberi 
+      ar<lb ed="#C" n="120" break="no"/>bitrii ante peccatum.
+   </p>
+            <p xml:id="jb2v19-d75011-d1e570">
+      ¶ Et tunc oportet respondere ad quartum quod
+      <pb ed="#V" n="126-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>est replica contra hanc difficultatem: ad quam dico. 
+      <lb ed="#C" n="2"/>interdum lex dei vocatur facilis: vt in auctoritate 
+      <lb ed="#C" n="3"/>allegata: et Deutero. 20. Mandatum quod ego 
+      praecepi<lb ed="#C" n="4" break="no"/>tibi non supra te est: interdum difficilis: vt Matthei 
+      <lb ed="#C" n="5"/>7. Intrate per angustam portam: quia lata porta est 
+      spaci<lb ed="#C" n="6" break="no"/>osa via quae ducit ad perditionem. et multi sunt 
+      vocati<lb ed="#C" n="7" break="no"/>pauci vero electi. Medium in quo residet virtus habet 
+      <lb ed="#C" n="8"/>artitudinem. extrema viciosa in infinitum protendum 
+      <lb ed="#C" n="9"/>tur vt Pitagorici tradunt. Et vno modo quis est 
+      <lb ed="#C" n="10"/>bonus multis modisque nephandas 2. Ethicorium. 
+   </p>
+            <p xml:id="jb2v19-d75011-d1e599">
+               <lb ed="#C" n="11"/>¶ Respondetur. diligentibus deum et cooperanti 
+      <lb ed="#C" n="12"/>bus et bene vtentibus naturalibus lex dei est facilis 
+      <lb ed="#C" n="13"/>Nv U ssecund istud psalmiste / quoddilcia faucibus meis eloqua 
+      <lb ed="#C" n="14"/>tua. pars 11. et dulciora ss iper mel et fauum. po. 18. 
+      ma<lb ed="#C" n="15" break="no"/>le viuentibus est difficilis. none vides iugum collegii 
+      <lb ed="#C" n="16"/>montis prob i et ingeniosis studentibus est facile im 
+      <lb ed="#C" n="17"/>probis defficile.
+   </p>
+            <p xml:id="jb2v19-d75011-d1e617">
+      ¶ Sed pro neruo argumenti 
+      fran<lb ed="#C" n="18" break="no"/>gendo replicare potes. etiam boni non possunt 
+      diu<lb ed="#C" n="19" break="no"/>euitare omnia peccata. ergo simpliciter lex dei est 
+      dif<lb ed="#C" n="20" break="no"/>ficilis: et non leuis.
+   </p>
+            <p xml:id="jb2v19-d75011-d1e626">
+      ¶ Dico: licet sit difficile cauere 
+      <lb ed="#C" n="21"/>ne homo peccet pro statu nature lapse / saltem veniali 
+      <lb ed="#C" n="22"/>N2. C x lx. vter: multiplex est remedium ad omnia mala purganda: 
+      <lb ed="#C" n="23"/>que quidam remedia sunt intra nos. sicut non 
+      la<lb ed="#C" n="24" break="no"/>bitur naturalis dies vel duio dies in quo sortes non 
+      <lb ed="#C" n="25"/>offendit in aliquo sic quolibet die qudo vadit cuber 
+      <lb ed="#C" n="26"/>tum potest purgare conscientiam suam detestando male 
+      <lb ed="#C" n="27"/>facta. et led peccata sicut onus graue grauata essent 
+      su<lb ed="#C" n="28" break="no"/>per eum / more psalmiste: potest cum eodem cum fletu 
+      ster<lb ed="#C" n="29" break="no"/>nere stratum suum et cum lachrymis ipsum rigare: et omnia 
+      <lb ed="#C" n="30"/>iniquitas (quecumque fuerit) abolebitur. et si non 
+      habe<lb ed="#C" n="31" break="no"/>at tam pulchra naturalia et habitum fiendi cum psal 
+      <lb ed="#C" n="32"/>mista: potest detestationem interiorem ad nutum 
+      prouo<lb ed="#C" n="33" break="no"/>care. licet detestatiorite circunstantionatata non 
+      po<lb ed="#C" n="34" break="no"/>test haberi sine auxilio dei speciali: experimur (cum 
+      <lb ed="#C" n="35"/>volumus / deus nobis in illa coassistit: et ita facit 
+      ni<lb ed="#C" n="36" break="no"/>ssi homo se extreme indignificet / vt Pharao:
+   </p>
+            <p xml:id="jb2v19-d75011-d1e663">
+      ¶ Nunc 
+      <lb ed="#C" n="37"/>vidimus: prudens potest se integro anno et amplius 
+      <lb ed="#C" n="38"/>a mortali preseruare: non exponendo se fluctibus 
+      se<lb ed="#C" n="39" break="no"/>culi / vt religiosus stans in cenobio (sicut piscis in 
+      <lb ed="#C" n="40"/>aqua) in quo seruaturritus patrum institutus / vir 
+      stu<lb ed="#C" n="41" break="no"/>4s diosus stans in suo studio lectura vel scriptura pe 
+      <lb ed="#C" n="42"/>bonus sacerdos / agricola vel viticola timorem 
+      do<lb ed="#C" n="43" break="no"/>mini habens / inter bonos viuens vicinos. diffic. le est 
+      <lb ed="#C" n="44"/>tamen per communem legem diu viuere vtendo ratione sine 
+      ve<lb ed="#C" n="45" break="no"/>niali. Aliqui minus aliqui vero magis non 
+      peccan<lb ed="#C" n="46" break="no"/>(tes venialiter viuunt secundum excessum bonitatis et 
+      <lb ed="#C" n="47"/>paucas occurrentes temptationes vel plures. 
+      pro<lb ed="#C" n="48" break="no"/>pterea non potest dari prefinitum tempus variis 
+      <lb ed="#C" n="49"/>nec eidem. cum in vno tempore est melius dispositus quam in 
+      <lb ed="#C" n="50"/>alio: et pauciores eidem occurrunt temptationes vel 
+      <lb ed="#C" n="51"/>plures. et licet difficile est cauere quin homo venialiter 
+      <lb ed="#C" n="52"/>peccet: facile est resurgere. et sic lex dei est seruatu 
+      <lb ed="#C" n="53"/>facilis: sic scilicet: quod habeatur finis legis / scllicet / 
+      cla<lb ed="#C" n="54" break="no"/>ritas et vita eterna. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

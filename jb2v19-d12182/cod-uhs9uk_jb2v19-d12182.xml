@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 4</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 4</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="21-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d12182"><!-- l2d2q4 -->
+            <head xml:id="jb2v19-d12182-Hd1e101">Quaestio 4</head>
+            <head xml:id="jb2v19-d12182-Hd1e103" type="question-title">Penes quid attenditur velocitas motus penes causam</head>
+            <p xml:id="jb2v19-d12182-d1e106">
+               <lb ed="#C" n="31"/>¶ Distinctionis secunde questio quarta. 
+      <lb ed="#C" n="32"/>axto quexitur: 
+      pe<lb ed="#C" n="33" break="no"/>nes quid attenditur velocitas 
+      <lb ed="#C" n="34"/>motus. penes causam.
+   </p>
+            <p xml:id="jb2v19-d12182-d1e117">
+      ¶ 
+      Re<lb ed="#C" n="35" break="no"/>spondetur. quod ipsa attenditur 
+      <lb ed="#C" n="36"/>penesproportionem 
+      proportio<lb ed="#C" n="37" break="no"/>inum (hoc est proportionem 
+      geo<lb ed="#C" n="38" break="no"/>metricam) potentiarum 
+      mo<lb ed="#C" n="39" break="no"/>uentium ad suas resistentias: ita quod ex equalibus 
+      pro<lb ed="#C" n="40" break="no"/>portionibus potentiarum mouentium ad suas 
+      resiste<lb ed="#C" n="41" break="no"/>tias prouenit equalis velocitas: ex inequalibus in 
+      <lb ed="#C" n="42"/>equalis scilicet ad duplam dupla velocitas: et ad 
+      sub<lb ed="#C" n="43" break="no"/>duplam subdupla velocitas. vt si a ad b est propor 
+      <lb ed="#C" n="44"/>tio quadrupla: et c. ad b. est proportio dupla. tunc 
+      <lb ed="#C" n="45"/>a. mouet. b. in duplo velocius quam c. d. eo quod propor 
+      <lb ed="#C" n="46"/>tio quadrupla est dupla duple. quia virtus mouens 
+      <lb ed="#C" n="47"/>a proportione quadrupla: in eadem proportione 
+      <lb ed="#C" n="48"/>velocius mouebit suam resistentiam qua 
+      quattu<lb ed="#C" n="49" break="no"/>or duo excedunt.
+   </p>
+            <p xml:id="jb2v19-d12182-d1e152">
+      ¶ Probatur conclusio sic. 
+      velo<lb ed="#C" n="50" break="no"/>citas motus penes causam attenditur penes 
+      ali<lb ed="#C" n="51" break="no"/>quid. et non penes proportionem potentiarum 
+      <lb ed="#C" n="52"/>mouentium inter se: quia tunc sic potentia esset 
+      du<lb ed="#C" n="53" break="no"/>pla ad b. sequitur quod quicquid potest mouere. a. il 
+      <lb ed="#C" n="54"/>lud potest mouere b. in duplo tardiua: et sic a proporti 
+      <lb ed="#C" n="55"/>one minoris inequalitatis potest fieri motus contra 
+      <lb ed="#C" n="56"/>Aristo telem septimo Phisicorum. Et per idem 
+      <lb ed="#C" n="57"/>probatur quod non attenditur penes proportionem 
+      <lb ed="#C" n="58"/>resistentiarum inter se nec etiam attenditur penes 
+      <lb ed="#C" n="59"/>proportionem excessuum. quia tunc sequitur quod in duplo ve¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="60"/>locus quattuor mouerent ouo quam douo vnum / quod 
+      <lb ed="#C" n="61"/>est contra Philosophum septimo Phisicorum 
+      te<lb ed="#C" n="62" break="no"/>xtu commenti tricesimoquinto. et consequentia 
+      pa<lb ed="#C" n="63" break="no"/>tet. quia excessus quartuor ad duo est duplus ad 
+      <lb ed="#C" n="64"/>excessum duorum ad vnum.
+   </p>
+            <p xml:id="jb2v19-d12182-d1e190">
+      ¶ Contra istam conclusionem 
+      <lb ed="#C" n="65"/>arguitur sic secundum Aristotelem secundo celi: motus natura 
+      <lb ed="#C" n="66"/>lis velocitatur in fine: et tamen continue est eadem 
+      proportio<lb ed="#C" n="67" break="no"/>agentis ad resistentiam ponendo vniformitatem medii. 
+   </p>
+            <p xml:id="jb2v19-d12182-d1e199">
+               <lb ed="#C" n="68"/>¶ Preterea arguitr sic. si aliqua potentia mouet 
+      a<lb ed="#C" n="69" break="no"/>liquod mobile eadem mouebit precise in duplo 
+      ve<lb ed="#C" n="70" break="no"/>locius medietatem eius: consequens est falsum / ergo 
+      <lb ed="#C" n="71"/>et antecedens. consequentia apparet. Probatur 
+      <lb ed="#C" n="72"/>falsitas consequentis: sit a potentia vt octo: et. suum 
+      <lb ed="#C" n="73"/>mobile resistentie vt duo: et sua medietas c 
+      resi<lb ed="#C" n="74" break="no"/>stens vt vnum: tunc ex quo velocitas in motu 
+      sequi<lb ed="#C" n="75" break="no"/>tur proportionem potentiarum mouentium ad suas 
+      resi<lb ed="#C" n="76" break="no"/>stentias. et proportio a / ad c est minor quam 
+      dupla<lb ed="#C" n="77" break="no"/>ad proportionem a / et b ergo. Nam inter a / et b / est 
+      <lb ed="#C" n="78"/>proportio quadrupla siue dupla duple: et non est 
+      du<lb ed="#C" n="79" break="no"/>pla proportio inter a / et clquae non est nisi octupla. 
+   </p>
+            <p xml:id="jb2v19-d12182-d1e228">
+               <lb ed="#C" n="80"/>¶ Ad primum dicitur / quod sicut maioratur 
+      veloci<lb ed="#C" n="81" break="no"/>tas: ita maioratur proportio potentie ad resistentiam 
+      <lb ed="#C" n="82"/>vltra grauitatem essentialem continue acquiritur 
+      graui<lb ed="#C" n="83" break="no"/>tas aceidentalis: scilicet impetus secundum coiter 
+      loquen<lb ed="#C" n="84" break="no"/>tes. Etiam minus de aere resistit in fine quam in 
+      princi<lb ed="#C" n="85" break="no"/>pio.
+   </p>
+            <p xml:id="jb2v19-d12182-d1e244">
+      ¶ Ad secundum nego consequentiam immo 
+      op<lb ed="#C" n="86" break="no"/>positum consequentis sequitur in casu: 
+      proportio<lb ed="#C" n="87" break="no"/>octupla que est inter octo et vnum non est in 
+      duplo<lb ed="#C" n="88" break="no"/>maior proportione quadrupla: proportio octo ad 
+      <lb ed="#C" n="89"/>duo est dupla duple: et octo ad vnum componitur 
+      <lb ed="#C" n="90"/>ex tribus duplis. Interdum aliqua potentia mouet 
+      <lb ed="#C" n="91"/>aliquod mobile et illa potentia plus quo in 
+      duplo<lb ed="#C" n="92" break="no"/>velocius mouet medietatem illius mobilis: patet. 
+      <lb ed="#C" n="93"/>sit a / potentia vt tria / et b mobile vt ii. et 
+      cme<lb ed="#C" n="94" break="no"/>dietas vt vnum: tunc proportio a. ad c est maior / 
+      <lb ed="#C" n="95"/>quam dupla proportione a / ad b s cum tripla est maior 
+      <lb ed="#C" n="96"/>douabus sequialteris.
+   </p>
+            <p xml:id="jb2v19-d12182-d1e270">
+      ¶ Pro cuius intelligentia te non 
+      <lb ed="#C" n="97"/>fugiat modus Euclidis: quinto elementorum 
+      dicen<lb ed="#C" n="98" break="no"/>tis. Si fuerint aliqui termini inuicem 
+      proportiona<lb ed="#C" n="99" break="no"/>les inter quos est medium vnum proportionale: 
+      pro<lb ed="#C" n="100" break="no"/>portio prima ad vltimum componitur ex proportione 
+      <lb ed="#C" n="101"/>primi ad secundum: et secundi ad tertium. Et si fuerint duo 
+      <lb ed="#C" n="102"/>media: proportio primi ad vltimum componitur ex 
+      <lb ed="#C" n="103"/>proportione primi ad secundum: et secundi ad tertium: 
+      <lb ed="#C" n="104"/>et tertii ad quartum. Exempli causa vt proportio 
+      tri<lb ed="#C" n="105" break="no"/>um ad vnum conflatur ex proportione trium ad 
+      <lb ed="#C" n="106"/>duo que est sesquialtera: et ex proportione duorum 
+      <lb ed="#C" n="107"/>ad vnum que est dupla: et sic proportio tripla 
+      com<lb ed="#C" n="108" break="no"/>ponitur ex dupla et sesquialtera. Similiter 
+      pro<lb ed="#C" n="109" break="no"/>portio quattuor ad vnum integratur ex 
+      proportio<lb ed="#C" n="110" break="no"/>ne quattuor ad tria quae est sesquialtera: et 
+      proportio<lb ed="#C" n="111" break="no"/>ne trium ad duo sesquialtera. et ex proportione 
+      di<lb ed="#C" n="112" break="no"/>orum ad vnum dupla: eam ob rem proportio 
+      quadru<lb ed="#C" n="113" break="no"/>pla ex vna dupla vna sesquitertia et vna sesquial 
+      <lb ed="#C" n="114"/>tera conflatur. Idem intelligas si inter primum 
+      <lb ed="#C" n="115"/>et vltimum terminum mediarent plures termini 
+      duo<lb ed="#C" n="116" break="no"/>bus: proportio octo ad quattuor ex proportione 
+      <lb ed="#C" n="117"/>octo ad sex / et sex ad quattuor componitur: et sic 
+      <lb ed="#C" n="118"/>ex proportione sesquitertia et fesquialtera resultat: 
+      <lb ed="#C" n="119"/>et non modo ex his resultat: sed in alia via confla
+      <pb ed="#V" n="22-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>tus ex proportione octo ad septem: septem ad sex. sex 
+      <lb ed="#C" n="2"/>ad quinque: quinque ad quattuor: hoc est ex propor 
+      <lb ed="#C" n="3"/>tione sesqufseptima sesquisexta / sesquiquinta / et 
+      <lb ed="#C" n="4"/>sesquiquarta. proportionem vnam ex aliis 
+      componi<lb ed="#C" n="5" break="no"/>more Euclidis / et communi: nihil aliud est quam inter 
+      <lb ed="#C" n="6"/>terminos illius proportionis reperiri adequate 
+      ta<lb ed="#C" n="7" break="no"/>les proportiones ex quibus dicimus illam 
+      com<lb ed="#C" n="8" break="no"/>poni: sic quod prima proportio ex qua dicitur 
+      compo<lb ed="#C" n="9" break="no"/>ni habeat pro termino maiori terminum maiorem 
+      illi<lb ed="#C" n="10" break="no"/>us proportionis et terminum medium pro termino 
+      mi<lb ed="#C" n="11" break="no"/>nori.
+   </p>
+            <p xml:id="jb2v19-d12182-d1e351">
+      ¶ Insuper secundum Euclidem illic. omnis 
+      proportio<lb ed="#C" n="12" break="no"/>composita ex proportione maloris et minoris est 
+      mi<lb ed="#C" n="13" break="no"/>nor quam dupla ad maiorem: et maior quam dupla ad 
+      mi<lb ed="#C" n="14" break="no"/>norem: et hoc est lucidum nam omne totum compositum 
+      <lb ed="#C" n="15"/>ex ouabus partibus inequalibnes / et minus quam 
+      du<lb ed="#C" n="16" break="no"/>plum parti maiori: et maius quam duplum parti 
+      mino<lb ed="#C" n="17" break="no"/>ri: eo quod est duplum precise ad medium inter illas 
+      par<lb ed="#C" n="18" break="no"/>tes. Et patet in terminis: tripedale est duplum 
+      pre<lb ed="#C" n="19" break="no"/>cise ad pedale cum semis: et plus quam duplum ad peda 
+      <lb ed="#C" n="20"/>le: et minus quam duplum ad bipedale. Sic in 
+      propor<lb ed="#C" n="21" break="no"/>tionibus: vt proportio trium ad vnum que est tripla: 
+      <lb ed="#C" n="22"/>est maior quam dupla sesquialtere: et minor quom 
+      dupla<lb ed="#C" n="23" break="no"/>duple.
+   </p>
+            <p xml:id="jb2v19-d12182-d1e381">
+      ¶ Quo fit omnis proportio composita ex 
+      ouabs<lb ed="#C" n="24" break="no"/>proportionibus equalibus: est precise dupla ad 
+      <lb ed="#C" n="25"/>quamlibet illarum: vt proportio quadrupla (vt quattu 
+      <lb ed="#C" n="26"/>or ad vnum) est dupla duple: quia ex ouabus duplis 
+      <lb ed="#C" n="27"/>resultat: quia quattuor ad duo: et duorum ad vnum: qua 
+      <lb ed="#C" n="28"/>rum quelibet est dupla: modo omnes duple sunt equa 
+      <lb ed="#C" n="29"/>les in proportione: licet vna dupla plus 
+      contine<lb ed="#C" n="30" break="no"/>at de quantitate quam altera.
+   </p>
+            <p xml:id="jb2v19-d12182-d1e399">
+      ¶ Preterea notabis quod 
+      <lb ed="#C" n="31"/>ad cognoscendum excessum vnius proportionis 
+      sup<lb ed="#C" n="32" break="no"/>aliam: oportet capere terminos illarum 
+      propor<lb ed="#C" n="33" break="no"/>tionum quicumque sint illi: et multiplicare extremum 
+      <lb ed="#C" n="34"/>minus vnius proportionis cum extremo maiori al 
+      <lb ed="#C" n="35"/>terius: et similiter extremum minus alterius 
+      pro<lb ed="#C" n="36" break="no"/>portionis cum extremo maiori alterius. Et si 
+      nume<lb ed="#C" n="37" break="no"/>ri resultantes ex illis duabus multiplicationib 
+      <lb ed="#C" n="38"/>sint equales: proportiones erunt equales. et 
+      per<lb ed="#C" n="39" break="no"/>consequens non erit excessus vnius super aliam. 
+      <lb ed="#C" n="40"/>Si vero fuerint inequales: proportiones erunt 
+      in<lb ed="#C" n="41" break="no"/>equales: et tantus erit excessus vnius super aliam: 
+      <lb ed="#C" n="42"/>quanta est proportio numeri maioris prouenien 
+      <lb ed="#C" n="43"/>tis ex multiplicatione numeri maioris alicuius 
+      il<lb ed="#C" n="44" break="no"/>larum per numerum minorem alterius: ad numerum 
+      <lb ed="#C" n="45"/>minorem prouenit ex multiplicatione alterius 
+      ter<lb ed="#C" n="46" break="no"/>mini maioris per minorem prime proportionis. 
+   </p>
+            <p xml:id="jb2v19-d12182-d1e436">
+               <lb ed="#C" n="47"/>¶ Exemplum primi vt captis istis proportionibus 
+      <lb ed="#C" n="48"/>octo ad quattuor duodecim ad sex: multiplicato 
+      <lb ed="#C" n="49"/>duodecim per quattuor resultant quadragintaocto. 
+      <lb ed="#C" n="50"/>Similiter multiplicato octo per sex: idem 
+      nume<lb ed="#C" n="51" break="no"/>rus resultat quadragintaocto. et per consequens 
+      il<lb ed="#C" n="52" break="no"/>le poportiones sunt equales.
+   </p>
+            <p xml:id="jb2v19-d12182-d1e452">
+      ¶ Exemplum 
+      secun<lb ed="#C" n="53" break="no"/>di vt captis istis proportionibus sex ad duo: et octo 
+      <lb ed="#C" n="54"/>ad quattuor: multiplicato. viii. qui est terminus 
+      ma<lb ed="#C" n="55" break="no"/>lorvnius proportonis per terminum minorem 
+      alte<lb ed="#C" n="56" break="no"/>rius proportionis scilicet duo: numerus resultans 
+      <lb ed="#C" n="57"/>est vt. xvi. multiplicato vero. vi. qui est numerus 
+      <lb ed="#C" n="58"/>maior alterius proportionis per quattuor qui est 
+      <lb ed="#C" n="59"/>numerus minor prime proportionis. numerus 
+      re<lb ed="#C" n="60" break="no"/>sultans est. xxiti. modo talis est excessus propor¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>tionis. vi. ad ii. que est tripla super proportionem 
+      <lb ed="#C" n="62"/>vili. ad iili quae est dupla qualis est proportio. xxiiii. 
+      <lb ed="#C" n="63"/>qui est numerus resultans ex termino maiori 
+      tri<lb ed="#C" n="64" break="no"/>ple proportionis: fnultiplicato per quattuor: qui 
+      <lb ed="#C" n="65"/>est numerus minor buple proportionis ad. xvi. qui 
+      <lb ed="#C" n="66"/>est numerus resultans ex termino maiori duple 
+      <lb ed="#C" n="67"/>proportionis scilicet. viii. multiplicato per ii. qui est 
+      nu<lb ed="#C" n="68" break="no"/>merus minor triple proportionis. Et quia. xxiii. ad sex 
+      <lb ed="#C" n="69"/>decim est proportio sesquialtera ion tripla propor 
+      <lb ed="#C" n="70"/>tio excedit duplam per sesquialteram: hoc est 
+      conti<lb ed="#C" n="71" break="no"/>net duplam et sesquialteram precise. Et hec sufficiant 
+      <lb ed="#C" n="72"/>pro solutione hutus argumenti / et stmilium.
+   </p>
+            <p xml:id="jb2v19-d12182-d1e500">
+      ¶ 
+      Se<lb ed="#C" n="73" break="no"/>cundo arguitur. ponendo vnam potentiam vt vili. et 
+      ae<lb ed="#C" n="74" break="no"/>rem resistentie vt. ilii. et aliam potentiam vt quattuor: 
+      <lb ed="#C" n="75"/>et aerem resistentie vt ii. subduple quantitatis ad 
+      ali<lb ed="#C" n="76" break="no"/>um aerem. Tunc equalis est proportio illarum 
+      potentia<lb ed="#C" n="77" break="no"/>rum ad suas resistentias: et tamen non est equalis 
+      ve<lb ed="#C" n="78" break="no"/>locitas: cum vnum partransit maius spacium inequa 
+      <lb ed="#C" n="79"/>litempore quom aliud.
+   </p>
+            <p xml:id="jb2v19-d12182-d1e518">
+      ¶ PRreterea arguitur. 
+      Aristote<lb ed="#C" n="80" break="no"/>les dicit. vti. Phisicorum textu commenti. xxxv. quod si 
+      <lb ed="#C" n="81"/>aliqua potentia moueat aliquod mobile: eadem 
+      poten<lb ed="#C" n="82" break="no"/>tia mouebit medietatem illius in duplo velocius. 
+   </p>
+            <p xml:id="jb2v19-d12182-d1e528">
+               <lb ed="#C" n="83"/>¶ Respondetur: velocitates erunt equales 
+      quali<lb ed="#C" n="84" break="no"/>tatiue: sed non quantitatiue: tunc em velocitates sunt 
+      <lb ed="#C" n="85"/>equales qualitatiue quando ab equalibus propor 
+      <lb ed="#C" n="86"/>tionibus proueniunt. Et resistentie tunc sunt equa 
+      <lb ed="#C" n="87"/>les qualitatiue equando qualem difficultatem 
+      faci<lb ed="#C" n="88" break="no"/>unt potentie agenti. Sed tunc sunt equales quanti 
+      <lb ed="#C" n="89"/>tatiue quando sunt equalis quantitatis.
+   </p>
+            <p xml:id="jb2v19-d12182-d1e546">
+      ¶ Ad aliud 
+      di<lb ed="#C" n="90" break="no"/>citur: quod philosophus capit potentiam pro 
+      propor<lb ed="#C" n="91" break="no"/>tione: et sic oportet quando duplatur potentia ouplare 
+      <lb ed="#C" n="92"/>proportionem semper loco potentie ponatur 
+      propor<lb ed="#C" n="93" break="no"/>cio.
+   </p>
+            <p xml:id="jb2v19-d12182-d1e557">
+      ¶ Tertio arguitur. magnes eque velocitur 
+      tra<lb ed="#C" n="94" break="no"/>hit ad se magnum rerrum et paruum: et tamen ipsa non habet 
+      <lb ed="#C" n="95"/>equales proportiones ad magnum ferrum et 
+      par<lb ed="#C" n="96" break="no"/>uum: igitur ab inequalibus proportionibus equa 
+      <lb ed="#C" n="97"/>les motus proueniunt: astumptum patet 
+      experien<lb ed="#C" n="98" break="no"/>tia.
+   </p>
+            <p xml:id="jb2v19-d12182-d1e570">
+      ¶ Ad hoc argumentum respondet commentator 
+      <lb ed="#C" n="99"/>vii. Phisicorum textu commenti quarti. negando quod 
+      <lb ed="#C" n="100"/>magnes ad se attrahat ferrum. Sed doicit ferrum 
+      exu<lb ed="#C" n="101" break="no"/>naturali inclinatione moueri ad ipsam magnetem 
+      <lb ed="#C" n="102"/>tanquod ad suum locu naturalem per quandam qualitatem 
+      <lb ed="#C" n="103"/>impressam ab ipsa magnete in ipso ferro.
+   </p>
+            <p xml:id="jb2v19-d12182-d1e583">
+      ¶ Quo 
+      <lb ed="#C" n="104"/>fit si sortes habeat in manu magnetem sufficientem 
+      <lb ed="#C" n="105"/>attrahere ferr hoc est quae sufficit lmprimere 
+      vir<lb ed="#C" n="106" break="no"/>tutem motiuam ferri non plus ponderabit ferrum 
+      <lb ed="#C" n="107"/>cum magnete quod sola magnes.
+   </p>
+            <p xml:id="jb2v19-d12182-d1e594">
+      ¶ Secundo sequitr 
+      si<lb ed="#C" n="108" break="no"/>in aliqua equi libra exvuo latere ponatur scutum 
+      <lb ed="#C" n="109"/>et ex alia parte ponatur pondus scuti factum ex 
+      ma<lb ed="#C" n="110" break="no"/>gnete: et addatur paruum ferrum ipsi magneti: totum 
+      <lb ed="#C" n="111"/>aggregatum non plus poderabit quam illud scutum. 
+      <lb ed="#C" n="112"/>Et ratio est quia statera non detinet serrum: sed magnes. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

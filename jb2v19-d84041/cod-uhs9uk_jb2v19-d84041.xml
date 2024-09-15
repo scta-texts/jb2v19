@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="140-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d84041"><!-- l2d36q2 -->
+            <head xml:id="jb2v19-d84041-Hd1e101">Quaestio 2</head>
+            <head xml:id="jb2v19-d84041-Hd1e103" type="question-title">Utrum omnis culpa sit peccati poena</head>
+            <p xml:id="jb2v19-d84041-d1e106">
+               <lb ed="#C" n="22"/>SEcundo quaeritur vtrum omnis cu pa sit 
+      <lb ed="#C" n="23"/>peccati pena.
+   </p>
+            <p xml:id="jb2v19-d84041-d1e113">
+      ¶ Respondetur per 
+      conclu<lb ed="#C" n="24" break="no"/>siones: quarum Prina est. osmse peccatum 
+      <lb ed="#C" n="25"/>est pena. probatio. secundum 
+      augusti<lb ed="#C" n="26" break="no"/>num prio confessionum: iussisti domine et 
+      <lb ed="#C" n="27"/>ita est vt pena sibi sit omnis inordi 
+      <lb ed="#C" n="28"/>natus animus. neque enim ad 
+      momen<lb ed="#C" n="29" break="no"/>tum est dedecus culpe sine decorem 
+      <lb ed="#C" n="30"/>lusticie. probatur hec conclso ratione. Nam voluntas puans 
+      <lb ed="#C" n="31"/>seipsam iusticia priuat se maximo bono sibi 
+      conue<lb ed="#C" n="32" break="no"/>nienti: cuius carentia peior est quam cuiuscunque 
+      com<lb ed="#C" n="33" break="no"/>modi hinti per culpam. ergo infert sibi penam. si ego 
+      <lb ed="#C" n="34"/>priuarem me mille scutis vt lucrarer liardum non 
+      herem<lb ed="#C" n="35" break="no"/>lucrum: sed damnum: et in rei veritate peccando nihil 
+      <lb ed="#C" n="36"/>lucror.
+   </p>
+            <p xml:id="jb2v19-d84041-d1e144">
+      ¶ Pro cuius intelligentia scito. est bonum 
+      <lb ed="#C" n="37"/>secundum affectionem iusticie. voluntas enim inquentum 
+      <lb ed="#C" n="38"/>est affectio iusticie / appetit ponum propter finem 
+      vlti<lb ed="#C" n="39" break="no"/>mum secundum recta rationo: quia sic es libera: et 
+      confor<lb ed="#C" n="40" break="no"/>miter operatur ad rationem. affectio commodi appeti 
+      <lb ed="#C" n="41"/>bonum propter seipsum. et bonum secundum affectionem 
+      <lb ed="#C" n="42"/>iusticie simpliciter est magis coueniens voluntati 
+      <lb ed="#C" n="43"/>quam bonum commodi: cuius ratio est: quanto perfectibi 
+      <lb ed="#C" n="44"/>le est perfectius tanto perfectio sibi respondens 
+      <lb ed="#C" n="45"/>est perfectior. et per consequens simpliciter conuenientior. et per 
+      opposi<lb ed="#C" n="46" break="no"/>tu: eius priuatio peior. voluntas inquantum est affectio 
+      iusti<lb ed="#C" n="47" break="no"/>cie est perfectior i. perfectiore modo se habet quam inquae tum est 
+      affec<lb ed="#C" n="48" break="no"/>tio comodi. quemadmodum dicimus voluntas est 
+      perfe<lb ed="#C" n="49" break="no"/>ctior intellectu. et per consequens bonum ei 
+      con<lb ed="#C" n="50" break="no"/>ueniens secundum affectionem iusticie est 
+      voluntati<lb ed="#C" n="51" break="no"/>simpliciter magis bonum quam bonum ei conueniens 
+      secun<lb ed="#C" n="52" break="no"/>dum affectionem commodi. et per consequens est voluntati pena 
+      <lb ed="#C" n="53"/>le priuari maiore bono perper minus bonum. tertio hoc 
+      ipsu<lb ed="#C" n="54" break="no"/>patet aucete augustini tertiode libero arbitrio dicetis 
+      <lb ed="#C" n="55"/>nullo interuallo tempuis ista diuiduntur: vt quaesi aliotempueno 
+      <lb ed="#C" n="56"/>faciat quod debet: et alio patiatur quod det ne vel 
+      pun<lb ed="#C" n="57" break="no"/>cto tempuis vniuersalis pulchritudo turpetur / vt sit 
+      in<lb ed="#C" n="58" break="no"/>ea paeccati dedecus sine decore vindicte. et paulo post 
+      di<lb ed="#C" n="59" break="no"/>cit / quod sicut qui non vigilat dormit sic: quisquis qui non 
+      <lb ed="#C" n="60"/>facit quod debet sine interuallo patitur
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>bet. quoniam tanta est beatitudo iusticie vt 
+      ne<lb ed="#C" n="62" break="no"/>mo ab ea nisi ad miseriam possit abscedere. 
+   </p>
+            <p xml:id="jb2v19-d84041-d1e206">
+               <lb ed="#C" n="63"/>¶ Secunda conclusio. non in quolibet peccato semper in 
+      <lb ed="#C" n="64"/>fligitur pena statim alia ab ipa culpa ipsi 
+      pecc<lb ed="#C" n="65" break="no"/>ti. probatur. interdum post culpa homo non tristatur: 
+      <lb ed="#C" n="66"/>sed aliqui mali gaudent se talia perpetrasse: vt 
+      percus<lb ed="#C" n="67" break="no"/>sisse vel occidisse secundum illud prouerbiorum secudo. 
+      <lb ed="#C" n="68"/>letantur cum malefecerunt et exultant in rebus 
+      per<lb ed="#C" n="69" break="no"/>simis. Insuper: deus est clemens: secundum illud psalmis 
+      <lb ed="#C" n="70"/>ste: miserationes eius super omnia opera eius. ergo 
+      <lb ed="#C" n="71"/>non statim punit sed dat viro tempus penitendi et 
+      <lb ed="#C" n="72"/>suum peccatum detestandum: secundum illud ecclesiastici. 5. 
+      <lb ed="#C" n="73"/>altissimus est patiens redditor.
+   </p>
+            <p xml:id="jb2v19-d84041-d1e232">
+      ¶ Tertia 
+      conclu<lb ed="#C" n="74" break="no"/>sio. in aliquibus peccatis protinus infligitur 
+      tristio<lb ed="#C" n="75" break="no"/>hec conclso patet experimento. si aliquem offendimus: ve 
+      illo<lb ed="#C" n="76" break="no"/>te de vicieno loquuti fuerimus: vel aliquod turpe 
+      con<lb ed="#C" n="77" break="no"/>misimus: naturaliter cum memoria illius occurrit / 
+      <lb ed="#C" n="78"/>nobis displicet. et multa homines faciunt / aut timore 
+      <lb ed="#C" n="79"/>mundano / aut amore conscientia stimulante in oppositum 
+      <lb ed="#C" n="80"/>ex cuius stimulo nascitur tristicia: sicut dolor etx 
+      <lb ed="#C" n="81"/>punctura sentis.
+   </p>
+            <p xml:id="jb2v19-d84041-d1e252">
+      ¶ Quarta conclusio non omnis 
+      cul<lb ed="#C" n="82" break="no"/>pa est pena alterius pccati. probatur de prima 
+      cul<lb ed="#C" n="83" break="no"/>commissa. illa culpa non es pena 
+      peccas<lb ed="#C" n="84" break="no"/>nullum percessit peccatum ex cau. nec est pena peccati 
+      sequn<lb ed="#C" n="85" break="no"/>tis: quia pena non percedit culpa. non enim deus prius 
+      <lb ed="#C" n="86"/>est vltor quod aliquis sit peccator.
+   </p>
+            <p xml:id="jb2v19-d84041-d1e265">
+      ¶ 
+      Quu<lb ed="#C" n="87" break="no"/>sicut quodiet peccatu a prio es praecedentis pena: ita 
+      <lb ed="#C" n="88"/>quodibet peccatum ab vltimo est occasio posterioris. 
+      <lb ed="#C" n="89"/>vtramque partem huius conclusionis probat magister in hac 
+      distin<lb ed="#C" n="90" break="no"/>ctione: et signanter primo capitulo authoritate 
+      au<lb ed="#C" n="91" break="no"/>gustini et gregorii. augus / super illo psalmi. 77. super 
+      <lb ed="#C" n="92"/>cecidit ignis superbie et concupiscentie et ire 
+      intel<lb ed="#C" n="93" break="no"/>uod ligitur. et sequatur inter primum peccatum apostasie et 
+      <lb ed="#C" n="94"/>vltimam penam ignis eterni. media que sut peccata sunt 
+      <lb ed="#C" n="95"/>et pene pccatu: et gregorius super ezechielem: peccatum enit 
+      <lb ed="#C" n="96"/>quod per penitentia citius non deletur aut peccatum es et 
+      causa<lb ed="#C" n="97" break="no"/>peccati: aut peccatum et pena pccatu secudum illud 
+      mo<lb ed="#C" n="98" break="no"/>non sunt completa peccata amorreorum. et psalmista 
+      appone<lb ed="#C" n="99" break="no"/>iniquitatem super iniquitatem eorum. et Ioannes in 
+      <lb ed="#C" n="100"/>apocalipsi / qui in sordibus est sordescat adhuc. et 
+      gre<lb ed="#C" n="101" break="no"/>go. in moralibus: peccatum quod per penitentiam 
+      <lb ed="#C" n="102"/>non diluitur suo pondere moru ad aliud trahit. 
+   </p>
+            <p xml:id="jb2v19-d84041-d1e302">
+               <lb ed="#C" n="103"/>¶ Contra predicta arguitur omnis pena est iusta et 
+      <lb ed="#C" n="104"/>recte volenda culpa non est recte volenda. ergo non est 
+      pe<lb ed="#C" n="105" break="no"/>na.
+   </p>
+            <p xml:id="jb2v19-d84041-d1e311">
+      ¶ Insuper: pena est reordinatiua culpe. 
+      pecca<lb ed="#C" n="106" break="no"/>tum ion est reordinatiuum culpe.
+   </p>
+            <p xml:id="jb2v19-d84041-d1e317">
+      ¶ Tertio: pena est 
+      <lb ed="#C" n="107"/>culpe punitiua. ergo non est culpa. tenet consequentia: nihil idem 
+      <lb ed="#C" n="108"/>punit se.
+   </p>
+            <p xml:id="jb2v19-d84041-d1e324">
+      ¶ Quarto: si ratione praecedentium peccato 
+      <lb ed="#C" n="109"/>homo magis peccat hoc esset quia esset a deo derelictus 
+      <lb ed="#C" n="110"/>ratione peccatorum. et per consequens necessitatur peccare et sicnon 
+      <lb ed="#C" n="111"/>imputaretur viro.
+   </p>
+            <p xml:id="jb2v19-d84041-d1e333">
+      ¶ Quinto: pena est a deo. culpa non 
+      <lb ed="#C" n="112"/>est a deo.
+   </p>
+            <p xml:id="jb2v19-d84041-d1e338">
+      ¶ Sexto arguitur. pene sunt medicine vt 
+      <lb ed="#C" n="113"/>us dicitur secundo ethicorum. dicit philosopus pene inuente 
+      su<lb ed="#C" n="114" break="no"/>ne per eas homines reducatur in bonum vtut. sed per 
+      pecca<lb ed="#C" n="115" break="no"/>tum non inducitur homo in bonum virtutis.
+   </p>
+            <p xml:id="jb2v19-d84041-d1e347">
+      ¶ Ad 
+      pri<lb ed="#C" n="116" break="no"/>mum dicitur quom illa maior intelligitur de pena distincta 
+      <lb ed="#C" n="117"/>a culpa. Siliter dicatur ad secundum
+   </p>
+            <p xml:id="jb2v19-d84041-d1e354">
+      ¶ Ad tertium 
+      con<lb ed="#C" n="118" break="no"/>cedo quod pena est punitiua culpe. sed nego 
+      conse<lb ed="#C" n="119" break="no"/>quentiam quod propterea sequatur quod culpa non sit 
+      pe<lb ed="#C" n="120" break="no"/>na. et quando dicis: nichil punit se: dico penitens
+      <pb ed="#V" n="141-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>pamit se applicando causas actiuas punitionis in 
+      se<lb ed="#C" n="2" break="no"/>ipso. secundo dico. pena est punitiua ipsius 
+      pec<lb ed="#C" n="3" break="no"/>cantis. sed quando dicimus culpam esse penam: non 
+      in<lb ed="#C" n="4" break="no"/>telligas aliquod discrimen a parte rei inter penam 
+      <lb ed="#C" n="5"/>et culpam. eadem res que est culpa est pena. alia 
+      <lb ed="#C" n="6"/>est ratio quare denominatur culpa: alia quare 
+      vo<lb ed="#C" n="7" break="no"/>catur pena frequenter ab eadem re accipiuntur 
+      <lb ed="#C" n="8"/>varia vocabula: interdum conuertibilia: interdum 
+      <lb ed="#C" n="9"/>vero non. pena est superius a culpa. omnis 
+      cul<lb ed="#C" n="10" break="no"/>pa est pena: sed non conuertitur. 
+   </p>
+            <p xml:id="jb2v19-d84041-d1e390">
+               <lb ed="#C" n="11"/>¶ Ad quartum argumentum primo dico vnum 
+      <lb ed="#C" n="12"/>peccatum est causa efficiens respectu alterius: et 
+      <lb ed="#C" n="13"/>dat ingressum ad aliud peccatum: et sic est 
+      occa<lb ed="#C" n="14" break="no"/>sis posterioris sicut superbus qui singulariter vult 
+      <lb ed="#C" n="15"/>excellere. facile ergo equalis vei parum 
+      iequa<lb ed="#C" n="16" break="no"/>lis inuidet: hoc est: habitus superbie vel eius actus 
+      <lb ed="#C" n="17"/>causat partialiter actum inuidie. Secundo dico. non 
+      <lb ed="#C" n="18"/>semper oportet dare talem naturalem sequelam 
+      <lb ed="#C" n="19"/>sed deus ratione peccatorum precedentium 
+      tol<lb ed="#C" n="20" break="no"/>lit auxilium speciale a peccatore quem permittit 
+      <lb ed="#C" n="21"/>labi ine vlteriora peccata. hec diximus in 28 
+      di<lb ed="#C" n="22" break="no"/>stinctione huius locupletius. quod expressissime 
+      <lb ed="#C" n="23"/>paulus ad romanos / tangens ait. propterea 
+      tra<lb ed="#C" n="24" break="no"/>didit deus eos in passiones ignomine vt 
+      imple<lb ed="#C" n="25" break="no"/>aut peccata sua semper.
+   </p>
+            <p xml:id="jb2v19-d84041-d1e425">
+      ¶ Ad quintum respondetur. pena 
+      <lb ed="#C" n="26"/>sub ratione pene est deo. sed nichil est sub ratione 
+      <lb ed="#C" n="27"/>culpe a deo ad sensum in distinctione sequenti 
+      de<lb ed="#C" n="28" break="no"/>clarandum.
+   </p>
+            <p xml:id="jb2v19-d84041-d1e434">
+      ¶ Ad sextum conceditur: quod pene sunt 
+      <lb ed="#C" n="29"/>medicine vel facienti vel multitudini. sic dicat 
+      <lb ed="#C" n="30"/>ad aliam auctoritatem. ad minorem argumenti 
+      <lb ed="#C" n="31"/>dicitur homo prudens sentiens incommodum quod 
+      <lb ed="#C" n="32"/>ex culpa consequitur ab ea cautius abstinet. scit 
+      <lb ed="#C" n="33"/>tali occasione data deliquit. cauet in posterum a si 
+      <lb ed="#C" n="34"/>mili occasione.
+   </p>
+            <p xml:id="jb2v19-d84041-d1e450">
+      ¶ Ex his patet: omnis culpa est 
+      pe<lb ed="#C" n="35" break="no"/>na: et per consequens aliqua pena est in nostra potestate. patet de 
+      <lb ed="#C" n="36"/>culpa. omnis culpa actualis est in nostra potestate. et 
+      <lb ed="#C" n="37"/>pena punitiua culpe est in nostra potestate: sed 
+      <lb ed="#C" n="38"/>capiendo penam pro quacunque afflictione vel 
+      cru<lb ed="#C" n="39" break="no"/>ciatu non omnis talis est in nostra potestate. 
+      ali<lb ed="#C" n="40" break="no"/>quis (sic capiendo penam) passus est penam qui nun 
+      <lb ed="#C" n="41"/>quod peccauit: patet de christo: qui pro nobis passus est 
+      <lb ed="#C" n="42"/>penas maximas et pro nostris culpis. 
+   </p>
+            <p xml:id="jb2v19-d84041-d1e470">
+               <lb ed="#C" n="43"/>¶ Dubitatur vtrum essentialius peccatum 
+      consi<lb ed="#C" n="44" break="no"/>stit in conuersione ad commutabile bonum vel ab 
+      a<lb ed="#C" n="45" break="no"/>uersione ab incommutabili bono
+   </p>
+            <p xml:id="jb2v19-d84041-d1e479">
+      ¶ Respondet m 
+      agi<lb ed="#C" n="46" break="no"/>ster in secundo. homo potest conuertere se ad creatu 
+      <lb ed="#C" n="47"/>ram multis modis licite. et plerumque est preceptum 
+      <lb ed="#C" n="48"/>ad hoc interdum licitum. sed cum relinquitur mandatum 
+      <lb ed="#C" n="49"/>dei tunc est auersio a deo: et non alias / quando homo non 
+      cogi<lb ed="#C" n="50" break="no"/>tat de do nec temetur: tunc nonauertitur a deo nec peccat 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

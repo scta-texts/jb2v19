@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 4 An sint ponendae species in medio repraesentative rerum quorum sunt species</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 4 An sint ponendae species in medio repraesentative rerum quorum sunt species</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="37-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d21695"><!-- l2d3q4 -->
+            <head xml:id="jb2v19-d21695-Hd1e101">Quaestio 4</head>
+            <head xml:id="jb2v19-d21695-Hd1e103" type="question-tilte">An sint ponendae species in medio repraesentative rerum quorum sunt species</head>
+            <p xml:id="jb2v19-d21695-d1e106">
+      ¶ Questio iii. 
+      <lb ed="#C" n="12"/>Excto quexitux: gn 
+      <lb ed="#C" n="13"/>sint ponende species in 
+      medio<lb ed="#C" n="14" break="no"/>representatie rerum quarum sunt speces: 
+   </p>
+            <p xml:id="jb2v19-d21695-d1e115">
+               <lb ed="#C" n="15"/>¶ Circa praesente quaestionem partita est 
+      <lb ed="#C" n="16"/>positio. vna partem negatiuam tet. 
+      <lb ed="#C" n="17"/>alia via et communior sicut vt rectior 
+      <lb ed="#C" n="18"/>prout opinor ponit species in 
+      me<lb ed="#C" n="19" break="no"/>dio et in sensu pariter et in intellectu. non capio 
+      spe<lb ed="#C" n="20" break="no"/>ciem pro omni forma que est aliquo modo ratio 
+      co<lb ed="#C" n="21" break="no"/>gnoscendi aliam rem: secundum quem modum ars et alii 
+      habi<lb ed="#C" n="22" break="no"/>tus cognitiui dicuntur species ab aristotele. vii. 
+      me<lb ed="#C" n="23" break="no"/>taphisice. sed capio speclem pro illo quod non est noticia 
+      <lb ed="#C" n="24"/>actualis: sed est medium propinquum et ratio 
+      cognoscen<lb ed="#C" n="25" break="no"/>di aliud.
+   </p>
+            <p xml:id="jb2v19-d21695-d1e141">
+      ¶ Pro solutione quaestionis pono duas 
+      con<lb ed="#C" n="26" break="no"/>clusiones: quarum prior est. ponende sunt species tam 
+      <lb ed="#C" n="27"/>in sensu interiori quam in intellectu: quae dicuntur species 
+      intel<lb ed="#C" n="28" break="no"/>ligibiles. hec conclusio patet ex questione precedenti. 
+   </p>
+            <p xml:id="jb2v19-d21695-d1e151">
+               <lb ed="#C" n="29"/>¶ Secunda conclusio. ponende lunt species in 
+      me<lb ed="#C" n="30" break="no"/>dio producte ab obiecto. Probatur hec conclusio. 
+      <lb ed="#C" n="31"/>lumen species lucis realiter est. similiter dantur 
+      spe<lb ed="#C" n="32" break="no"/>cies caloris et frigoris quae realiter producunt 
+      calo<lb ed="#C" n="33" break="no"/>rem et frigus: vt in materia de actione et 
+      reactio<lb ed="#C" n="34" break="no"/>ne declarari solet. quare ergo ponitur peluis vel 
+      <lb ed="#C" n="35"/>instrumentum concauum post caponem circumgiratum 
+      <lb ed="#C" n="36"/>in veru nisi vt fiat reflectio specierum caloris a 
+      pel<lb ed="#C" n="37" break="no"/>ui: que producent calorem. sed huic experientie 
+      di<lb ed="#C" n="38" break="no"/>cis: calor impeditur partransire et dilatare se per 
+      medi<lb ed="#C" n="39" break="no"/>um. et per consequens manet magis vnitus prope 
+      ve<lb ed="#C" n="40" break="no"/>ru. ergo pari modo sunt ponende species visibiles in 
+      <lb ed="#C" n="41"/>medio: et species audibiles.
+   </p>
+            <p xml:id="jb2v19-d21695-d1e182">
+      ¶ Secundo arguitur 
+      <lb ed="#C" n="42"/>ad idem albedo producit suam noticiam in visum 
+      di<lb ed="#C" n="43" break="no"/>stantem. sed nichil agit in remotum quin prius agat 
+      <lb ed="#C" n="44"/>in propinquum: si propinquum sit susceptiuum talis 
+      <lb ed="#C" n="45"/>actionis que producitur in remotum. Dicis: aer non 
+      <lb ed="#C" n="46"/>est susceptiuus visionis. etiam sol producit ranam in 
+      <lb ed="#C" n="47"/>aere: et non in medio. saltem requiritur aliqua 
+      pre<lb ed="#C" n="48" break="no"/>uia dispositio in medio. nec sol vnquam producet ranam 
+      <lb ed="#C" n="49"/>in aere nisi producat aliquas qualitatiuas 
+      dispo<lb ed="#C" n="50" break="no"/>sitiones previas alteratiuas aeris ad ranarum 
+      produ<lb ed="#C" n="51" break="no"/>ctionem.
+   </p>
+            <p xml:id="jb2v19-d21695-d1e206">
+      ¶ Tertio arguitur. video faciem mea in 
+      spe<lb ed="#C" n="52" break="no"/>culo intuitiue per lineam reflexam. et hoc non 
+      po<lb ed="#C" n="53" break="no"/>test saluari nisi quod facies mea tanquam visibile 
+      produ<lb ed="#C" n="54" break="no"/>cat suas species ad a speculum que reflectuntur (ad 
+      <lb ed="#C" n="55"/>sensum post hac declarandum in. xiii. distinctione 
+      <lb ed="#C" n="56"/>huius) ad oculum meum similiter video coronam 
+      <lb ed="#C" n="57"/>capitis me si sit bene rasa ponendo vnum speculum 
+      <lb ed="#C" n="58"/>oblique super coronam / et aliud ante me: sic 
+      scilli<lb ed="#C" n="59" break="no"/>cet quod corona capitis producat suas species ad spe¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="60"/>culum superius situatum et illud speculum reflectat illas 
+      <lb ed="#C" n="61"/>species ad aliud speculum quod in manu teneo. Ista 
+      <lb ed="#C" n="62"/>non possunt saluari negando species in medio. nec 
+      <lb ed="#C" n="63"/>loquendum est de radio reflexo refracto et directo. 
+      <lb ed="#C" n="64"/>et breuiter tota perspectiuorum sclentia stat in 
+      rui<lb ed="#C" n="65" break="no"/>nosa basi secundum hanc vium.
+   </p>
+            <p xml:id="jb2v19-d21695-d1e241">
+      ¶ Quarto arguitur. in iride 
+      <lb ed="#C" n="66"/>non sunt veri colores: sed species producte in medio. 
+      <lb ed="#C" n="67"/>igitur.
+   </p>
+            <p xml:id="jb2v19-d21695-d1e248">
+      ¶ Quinto arguitur. radius solaris transiens 
+      per<lb ed="#C" n="68" break="no"/>vitrum rubeum ad parietem oppositum directus est 
+      spe<lb ed="#C" n="69" break="no"/>cies visibilis in medio. sed vnus horum precipuus in 
+      <lb ed="#C" n="70"/>hac positione: scilicet Okam: dicit quod est verus color qui 
+      <lb ed="#C" n="71"/>est in medio.
+   </p>
+            <p xml:id="jb2v19-d21695-d1e259">
+      ¶ Contra hoc argumentor. talis color 
+      <lb ed="#C" n="72"/>non est in aere: quia si albedo producat veram albedinem in 
+      <lb ed="#C" n="73"/>acre: et nigredo nigredinem: dabuntur qualitates 
+      con<lb ed="#C" n="74" break="no"/>trarie in eadem parte medii saltem in gradibus remissis: 
+      <lb ed="#C" n="75"/>quod ipse negat. prosequor argumentum de illa 
+      rube<lb ed="#C" n="76" break="no"/>dine apparente. illa non est in pariete: quia simul esset 
+      <lb ed="#C" n="77"/>cum intensa albedine. Ulterius. color verus est 
+      parma<lb ed="#C" n="78" break="no"/>nens. illa rubedo apparens non est parmanens. igitur. 
+   </p>
+            <p xml:id="jb2v19-d21695-d1e278">
+               <lb ed="#C" n="79"/>¶ Contra secundam conclusionem arguitur. angelus non 
+      <lb ed="#C" n="80"/>producit suas species per medium: et tamen vnus angelus 
+      <lb ed="#C" n="81"/>intuetur alium angelum distantem a se. ergo ad hoc 
+      <lb ed="#C" n="82"/>quod aliquid cognoscatur intuitiue etiam non requiritur 
+      <lb ed="#C" n="83"/>species in medio.
+   </p>
+            <p xml:id="jb2v19-d21695-d1e291">
+      ¶ Secundo arguitur. dicitur es 
+      spe<lb ed="#C" n="84" break="no"/>cies visibilis. ergo species videtur consequens est 
+      fal<lb ed="#C" n="85" break="no"/>sum. ergo et antecens.
+   </p>
+            <p xml:id="jb2v19-d21695-d1e298">
+      ¶ Conceditur maior angelus non 
+      pro<lb ed="#C" n="86" break="no"/>ducit species sensibiles et extensas: quia est 
+      immate<lb ed="#C" n="87" break="no"/>rialis. et si immateriales producere potest: aer eat 
+      me<lb ed="#C" n="88" break="no"/>dium extensum non est susceptiuum talium specie 
+      <lb ed="#C" n="89"/>rum. non ergo producit species per medium. secus est de 
+      <lb ed="#C" n="90"/>visibili audibili et obiectis sensuum concedo quod 
+      ali<lb ed="#C" n="91" break="no"/>quid intuitiue cognoscitur sine productione specie 
+      <lb ed="#C" n="92"/>rum previa.
+   </p>
+            <p xml:id="jb2v19-d21695-d1e316">
+      ¶ Contra hoc arguitur. ex isto sequitur 
+      <lb ed="#C" n="93"/>quod aliquid agit in remotum nihil producendo in 
+      pro<lb ed="#C" n="94" break="no"/>pinquum. et per consequens secunda probatio est 
+      nul<lb ed="#C" n="95" break="no"/>la.
+   </p>
+            <p xml:id="jb2v19-d21695-d1e325">
+      ¶ Secundo sequitur: si angelus a potest videre 
+      an<lb ed="#C" n="96" break="no"/>gelum b distantem sine speciebus in medio sequitur 
+      <lb ed="#C" n="97"/>hec conclusio quod a / angelus in terra potest videre 
+      <lb ed="#C" n="98"/>b angelum vel animam in celo vel quantumcumque vl 
+      <lb ed="#C" n="99"/>terius distantem vel videre eum in vacuo vel in terra: 
+      <lb ed="#C" n="100"/>cum non ponatur species producta in medio ad hec 
+      <lb ed="#C" n="101"/>quod videatur. consequens est inconueniens. ergo et 
+      <lb ed="#C" n="102"/>ateces. coansequentiam tamen sic probo. nulla causa 
+      impe<lb ed="#C" n="103" break="no"/>dit nisi terminatio specieru.
+   </p>
+            <p xml:id="jb2v19-d21695-d1e345">
+      ¶ Respondetur. non 
+      <lb ed="#C" n="104"/>inconuenit quod aliquid agat in remotum nichil 
+      pro<lb ed="#C" n="105" break="no"/>ducendo in propinquum quando propinquum non est capax 
+      <lb ed="#C" n="106"/>actionis agentis. agens naturale tamen non potest agere 
+      <lb ed="#C" n="107"/>in remotum quin agat in propinquum si propinquum 
+      <lb ed="#C" n="108"/>sit capax actionis elusdem cum actione in 
+      termi<lb ed="#C" n="109" break="no"/>no. vt ignis non potest calefacere lignum distans quin 
+      ca<lb ed="#C" n="110" break="no"/>lefaciat acrem medium. nec aqua fcigefacer e 
+      ae<lb ed="#C" n="111" break="no"/>rem pedaliter distantem quin frigefaciat aere 
+      pro<lb ed="#C" n="112" break="no"/>pinquum interceptum. nonnum quam producit effectum 
+      <lb ed="#C" n="113"/>in remotum et alium alterius rationis in 
+      propin<lb ed="#C" n="114" break="no"/>quum. vt sol producit ranam in aere et influ entiam 
+      <lb ed="#C" n="115"/>in celum et in locis intermediis. Tertio modo 
+      an<lb ed="#C" n="116" break="no"/>gelus vel anima separata producit aliquid in 
+      re<lb ed="#C" n="117" break="no"/>motum: puta partialiter obiectiue noticiam: non 
+      pro<lb ed="#C" n="118" break="no"/>ducendo in propiquum. quod agelus prae videre agelum 
+      distan<lb ed="#C" n="119" break="no"/>tem / patet perienangelistam de anima diuitis epulonis que
+      <pb ed="#V" n="38-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>cognout animam lamari et anlmam abrahe inter 
+      <lb ed="#C" n="2"/>quas fuie magnum et firmatum chaos. 
+      Probatio<lb ed="#C" n="3" break="no"/>secunda fuit de corpore. et si probatio impediatur: 
+      <lb ed="#C" n="4"/>non omnes tolluntur.
+   </p>
+            <p xml:id="jb2v19-d21695-d1e396">
+      ¶ Ad secundum argumentum 
+      ne<lb ed="#C" n="5" break="no"/>go quod anzelus a. potest viderc angelm 
+      quantumcum<lb ed="#C" n="6" break="no"/>que distantem. b. angelus obiectiue concurrit ad 
+      pro<lb ed="#C" n="7" break="no"/>ductionem noticie quae habetur de b. et intellectus ipsius 
+      <lb ed="#C" n="8"/>a. etiam concurrit ad illam noticiam tanquam effectum 
+      con<lb ed="#C" n="9" break="no"/>munem. pro ducendum. modo actiones istarum 
+      creatu<lb ed="#C" n="10" break="no"/>rarum non sunt ad quamcumque distantiam: sed ad 
+      limita<lb ed="#C" n="11" break="no"/>tam sicut Augustinus vult in libro de cura 
+      pro<lb ed="#C" n="12" break="no"/>mortuis agenda anime dicit existentes in 
+      infer<lb ed="#C" n="13" break="no"/>non nichil possunt scire de his que actualiter sunt 
+      <lb ed="#C" n="14"/>in mnndo nisi discant relatione eorum qui hinc 
+      il<lb ed="#C" n="15" break="no"/>luc descendunt. per hunc modum dicit 
+      Abra<lb ed="#C" n="16" break="no"/>ham sciuisse qualis in mundo fuerat diues ille et 
+      <lb ed="#C" n="17"/>lazarus. visibile tamen non videtur vltra speciem 
+      pirami<lb ed="#C" n="18" break="no"/>dis eiu3 angelus tamen potest habere noticiam abstra 
+      <lb ed="#C" n="19"/>ctiuam de re quantumcumque distante illa potest haberi 
+      <lb ed="#C" n="20"/>de non existente. et concedo quod angelus a / potest 
+      <lb ed="#C" n="21"/>videre angelum b in vacuo vel in terra medium 
+      <lb ed="#C" n="22"/>densum non plus impedit quam medium 
+      transpa<lb ed="#C" n="23" break="no"/>rens: nisi impediendo prodactionem specierum 
+      <lb ed="#C" n="24"/>que sunt necessarie secundam legem communem 
+      <lb ed="#C" n="25"/>ad hoc quod visibile vel aliud obum sensibile sentiatur. 
+   </p>
+            <p xml:id="jb2v19-d21695-d1e444">
+               <lb ed="#C" n="26"/>¶ Ad secundum argu nentum principale dicitur. non 
+      dici<lb ed="#C" n="27" break="no"/>tur species visibilis eo quod videatur: sed eo quod est prin 
+      <lb ed="#C" n="28"/>cipium videndi / et medium per quod videtur. ad vistonem 
+      <lb ed="#C" n="29"/>requiritur lumen in quo albedo vel aliud obiectum 
+      <lb ed="#C" n="30"/>videtur. species visibilis tanquam medium per quod videtur. 
+      <lb ed="#C" n="31"/>An species visibiles aliquo modo videri possunt 
+      <lb ed="#C" n="32"/>patebit distinctione. xiii. huius.
+   </p>
+            <p xml:id="jb2v19-d21695-d1e462">
+      ¶ Tertio arguitur. 
+      <lb ed="#C" n="33"/>albedo in se immediate videtur. debite presens 
+      ob<lb ed="#C" n="34" break="no"/>lectiue applicatur. ergo nichi aliud requiritur a 
+      po<lb ed="#C" n="35" break="no"/>tentia bene disposita et bene applicata cum 
+      concur<lb ed="#C" n="36" break="no"/>su dei generali ad hoc quod videatur. ergo super flue 
+      po<lb ed="#C" n="37" break="no"/>nuntur he species in medio.
+   </p>
+            <p xml:id="jb2v19-d21695-d1e475">
+      ¶ Confirmatur hec 
+      ra<lb ed="#C" n="38" break="no"/>tio ponendo quod albedo maneat in prospectu tuo 
+      abs<lb ed="#C" n="39" break="no"/>que hoc quod producantur species in medio: puta quod deus non 
+      <lb ed="#C" n="40"/>concurrat ad productionem illarum specierum. 
+      <lb ed="#C" n="41"/>tunc sic. vel illo casu stante albedo videtur vel non 
+      <lb ed="#C" n="42"/>videtur. si primum: inanes sunt tue species si secundum: 
+      <lb ed="#C" n="43"/>sequitur hec conclusio. albedo est optime 
+      poten<lb ed="#C" n="44" break="no"/>tie visiue applicata: et ipsa non videtur.
+   </p>
+            <p xml:id="jb2v19-d21695-d1e493">
+      ¶ Quarto 
+      <lb ed="#C" n="45"/>arguitur. si visibile producat species in medio: vel 
+      eas<lb ed="#C" n="46" break="no"/>dem producit in qualibet parte medii. et sic idem 
+      <lb ed="#C" n="47"/>accidens naturaliter est in duobus subiectis 
+      loco<lb ed="#C" n="48" break="no"/>et situ distinctis: immo in duobus subicctis specie 
+      di<lb ed="#C" n="49" break="no"/>stinctis: quod est inconueniens. Si dicas. in vna parte 
+      <lb ed="#C" n="50"/>medii est vna species: et in alia parte medii est alia 
+      <lb ed="#C" n="51"/>species. Contra in quacumque parte medii oculus 
+      fue<lb ed="#C" n="52" break="no"/>rit videbitur idem visibile: et non nisi per eandem 
+      spe<lb ed="#C" n="53" break="no"/>ciem exist entem in medio.
+   </p>
+            <p xml:id="jb2v19-d21695-d1e515">
+      ¶ Ad tertium concedo 
+      <lb ed="#C" n="54"/>quod albedo immediate in se videtur: quia immediate 
+      ter<lb ed="#C" n="55" break="no"/>minat actum intuitiuum potentie visiue. et hoc est 
+      <lb ed="#C" n="56"/>im nediate in se videri. sed illa albedo non potest 
+      <lb ed="#C" n="57"/>videri naturaliter nisi per has species. et quando 
+      <lb ed="#C" n="58"/>bonis vltra legem quod deus non concurrat sua influctia 
+      ge<lb ed="#C" n="59" break="no"/>nerali ad productionem harum specierum. tunc 
+      dico<lb ed="#C" n="60" break="no"/>quo ipsa albedo non videtur: quia deficit requisit¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>tum ad videndum secundum legem communem: nisi deus 
+      supple<lb ed="#C" n="62" break="no"/>ret causalitatem specierum in medio ad productio 
+      <lb ed="#C" n="63"/>nem noticie habite. videtur quod species requiruntur 
+      <lb ed="#C" n="64"/>tanquam cause partiales effectiue respectu noticie. sed 
+      <lb ed="#C" n="65"/>hic possunt cadere varie imaginationes. quarum 
+      <lb ed="#C" n="66"/>vna diceret: albedo non concurrit ad 
+      productio<lb ed="#C" n="67" break="no"/>nem visionis que de ea habetur: sed solum concur 
+      <lb ed="#C" n="68"/>rit ad productionem speclerum: et species et potentia 
+      <lb ed="#C" n="69"/>producunt visionem: quam causalitatem deus potest 
+      <lb ed="#C" n="70"/>supplere. et tunc albedo sine concursu specierum vi 
+      <lb ed="#C" n="71"/>deretur. alia imaginatio doateretitam albedo praesens 
+      <lb ed="#C" n="72"/>quam species effectiue concurrunt ad productionem 
+      <lb ed="#C" n="73"/>noticie intuitiue in noticia abstractiua obiectum 
+      <lb ed="#C" n="74"/>non concurrit. Tertia imaginatio. species requiruntur 
+      <lb ed="#C" n="75"/>tanquam dispositio preuia ad hoc quod cognoscatur 
+      visi<lb ed="#C" n="76" break="no"/>bile: et nullam efficientiam habent respectu 
+      visio<lb ed="#C" n="77" break="no"/>nis.
+   </p>
+            <p xml:id="jb2v19-d21695-d1e573">
+      ¶ Ad quartum dicitur quod visibile non 
+      produ<lb ed="#C" n="78" break="no"/>cit easdem species numero in variis partibus 
+      me<lb ed="#C" n="79" break="no"/>dii. Inconueniens reputo ponere idem accidens 
+      nume<lb ed="#C" n="80" break="no"/>ro in variis subiectis naturaliter. visibile et queli 
+      <lb ed="#C" n="81"/>bet para superficialis eius producit aliquas species 
+      vi<lb ed="#C" n="82" break="no"/>sibiles in hanc partem medii: et alias similes in 
+      ali<lb ed="#C" n="83" break="no"/>am partem medii. propterea oculi varii in variis 
+      <lb ed="#C" n="84"/>sitibus medii vident eandem partem obiecti et 
+      <lb ed="#C" n="85"/>quia species representatiue illius sunt in variis 
+      siti<lb ed="#C" n="86" break="no"/>bus medii.
+   </p>
+            <p xml:id="jb2v19-d21695-d1e595">
+      ¶ Quinto arguitur. si species visibiles 
+      <lb ed="#C" n="87"/>sint medium per quod videtur visibile. ergo vbicumque 
+      <lb ed="#C" n="88"/>sunt ille species oculus prope eas existens potest visi 
+      <lb ed="#C" n="89"/>bile videre. consequens est contra experientiam. 
+      <lb ed="#C" n="90"/>patet de visibili a tergo meo posito: quod non video 
+      <lb ed="#C" n="91"/>sine speculo. et tamen a visibile a tergo meo 
+      pro<lb ed="#C" n="92" break="no"/>ducit suas species orbiculariter. ergo eas 
+      produ<lb ed="#C" n="93" break="no"/>cit ante me: et realiter sunt ante.
+   </p>
+            <p xml:id="jb2v19-d21695-d1e613">
+      ¶ Ad quintum 
+      ne<lb ed="#C" n="94" break="no"/>go consedauentiam. ad hoc quod visibile videatur non 
+      <lb ed="#C" n="95"/>sufficit presentia sperx in medio: sed cum hoc 
+      re<lb ed="#C" n="96" break="no"/>quiritur visibile in prospectu potentie visiue: vel 
+      <lb ed="#C" n="97"/>aliquid obiciens spes productas a visibili potentiam 
+      <lb ed="#C" n="98"/>visiuam versus: vt speculum quo video speculum 
+      <lb ed="#C" n="99"/>a tergo. de audibili illud non requiritur. species 
+      au<lb ed="#C" n="100" break="no"/>dibilis in medio sufficienter mouent potentiam 
+      <lb ed="#C" n="101"/>auditiuam ad hoc quod immutetur: siue a tergo siue a 
+      fron<lb ed="#C" n="102" break="no"/>te fuerit audibile. sic de speciebus sensum tactus vel 
+      <lb ed="#C" n="103"/>gustum immutautibus varia sensibilia varium habent 
+      mo<lb ed="#C" n="104" break="no"/>dum et situm immutandi suas potentias. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

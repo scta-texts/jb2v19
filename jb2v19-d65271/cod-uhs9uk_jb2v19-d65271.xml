@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="110-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d65271"><!-- l2d22q2 -->
+            <head xml:id="jb2v19-d65271-Hd1e101">Quaestio 2</head>
+            <head xml:id="jb2v19-d65271-Hd1e103" type="question-title">An ignorantia excusavit peccatum Adae et cuiuslibet alterius</head>
+            <p xml:id="jb2v19-d65271-d1e106">
+               <lb ed="#C" n="10"/>SEcundo circa hanc distinctionem 
+      <lb ed="#C" n="11"/>quaeritur: an ignorantia excusauit 
+      <lb ed="#C" n="12"/>peccatum ade et cuiuslibet alterius 
+   </p>
+            <p xml:id="jb2v19-d65271-d1e115">
+               <lb ed="#C" n="13"/>¶ Pro solutione quaestionis aliquas 
+      <lb ed="#C" n="14"/>ignorantie diuisiones signabimus 
+      <lb ed="#C" n="15"/>postea dabitur quid nomins. Postea 
+      <lb ed="#C" n="16"/>coclusiue respondebimus ad 
+      quaestio<lb ed="#C" n="17" break="no"/>nis titulum.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e128">
+      ¶ Duplex est ignoram 
+      <lb ed="#C" n="18"/>tia vt dicit aristoteles. 2. priorum quaedam praue 
+      disposi<lb ed="#C" n="19" break="no"/>onis: et nihil aliud est quam assensus falsi non significantis 
+      ta<lb ed="#C" n="20" break="no"/>liter esse quaeliter est vel dissensus veri. assensus huius hoc est 
+      <lb ed="#C" n="21"/>falsum non est error. pertranseamus tricas talium 
+      propositio<lb ed="#C" n="22" break="no"/>num: hec non significat sicu est hec significat aliter esse quam est 
+      <lb ed="#C" n="23"/>Alia est ignorantia pure negationis. ignorantia pure 
+      <lb ed="#C" n="24"/>negatiue capiendo capit dupliciter. vnomo pure 
+      <lb ed="#C" n="25"/>negatiue vt negationem infinitantem includat. et tantem 
+      va<lb ed="#C" n="26" break="no"/>let sicut non sciens. hoc modo lapis est ignorans communitur 
+      tamen<lb ed="#C" n="27" break="no"/>sic non capimus: sed priuatiue: vt non scientiam cum 
+      aptitu<lb ed="#C" n="28" break="no"/>dinem ad ponendum dicat. et sic ignorans est inscienc 
+      <lb ed="#C" n="29"/>aptus natus scire Ignorantia praue dispositionis ad 
+      <lb ed="#C" n="30"/>scire opponituer contrarie: sicut scientia et error / vel 
+      assensus<lb ed="#C" n="31" break="no"/>et dissensus 2. modo ignorantia contradictorie ad scire 
+      <lb ed="#C" n="32"/>opponitur. 3 modo priuatiue ignorantia quilibet istorum morum 
+      <lb ed="#C" n="33"/>fectiones patitur siue ex parte obiecti: hoc est rei quae 
+      igno<lb ed="#C" n="34" break="no"/>ratur: siue ex parte voluntatis.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e168">
+      ¶ Quedam est ignoratia 
+      iu<lb ed="#C" n="35" break="no"/>ri. alia est ignorantia sencti sicut iacob si prima nocte 
+      co<lb ed="#C" n="36" break="no"/>gnouerit lyam ignorauit vnum sanctum: an illa esset 
+      ra<lb ed="#C" n="37" break="no"/>chel in tenebris. sed non ignorauit ius: quod requiritur 
+      <lb ed="#C" n="38"/>mutuus consensus ad matrimonium. et iterum 
+      ignorantia<lb ed="#C" n="39" break="no"/>iuris est mltiplex Nam quaedam est ignorantia iuris nature 
+      <lb ed="#C" n="40"/>alia est ignorantia iurus positiui. vel sic. quaedam est ignoram 
+      <lb ed="#C" n="41"/>tia iuris nature: quaeda iuris diuinm: quaedam iuris huani 
+      <lb ed="#C" n="42"/>et hoc dupliciter. vel iuris pontificii cesarei / vel alteri 
+      <lb ed="#C" n="43"/>us hominis. non putes inter has acceptiones esse 
+      discre<lb ed="#C" n="44" break="no"/>pantiam realem: sed pluralitatem nominum multa membra 
+      ma<lb ed="#C" n="45" break="no"/>terialiter concidunt. sed loquentes vtuntur nunc vnomodo 
+      <lb ed="#C" n="46"/>loquendi: nunc alio.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e197">
+      ¶ Rursus: duplex est 
+      ignoran<lb ed="#C" n="47" break="no"/>tia quaedam inuincibilis: quam quis non tenetur scire.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e202">
+      ¶ Quo 
+      <lb ed="#C" n="48"/>fit omnis ignorantia quam quas non potest vincere e iuicibilis 
+      <lb ed="#C" n="49"/>patet. neo tenetur scire illud quod non potest vincere
+   </p>
+            <p xml:id="jb2v19-d65271-d1e209">
+      ¶ Secundo 
+      <lb ed="#C" n="50"/>sequitur: occidens in furia etiam culpabili praimissa est 
+      <lb ed="#C" n="51"/>in ignorantia inuincibili: et quicquid facit per ignorantiam 
+      <lb ed="#C" n="52"/>inuincibilem excusatur. patet. tunc non est in ptate eius 
+      sc<lb ed="#C" n="53" break="no"/>entiam habere. Item: nemo peccat in aliquo tempue qui 
+      <lb ed="#C" n="54"/>in eodem tempue est in eius partante non peccare: et per consequens quod 
+      <lb ed="#C" n="55"/>est mihi ignorantia vincibilis doctore praesenti: si doc 
+      <lb ed="#C" n="56"/>tor discedat: nec possum aliquem habenre: est mihi 
+      igno<lb ed="#C" n="57" break="no"/>rantia inuincibilis. et si requiratur vnus dies ad hoc quod 
+      sci<lb ed="#C" n="58" break="no"/>am aliquid: ante finem illius tempuis est mihi 
+      ignoran<lb ed="#C" n="59" break="no"/>tia inuincibilis.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e233">
+      ¶ Ulterius sequitur. aliqua est 
+      ignoran<lb ed="#C" n="60" break="no"/>tia inuincibilis quam quis potest vincere. patet: si quis fi¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>se sacerdotem qui ab aliis talis putatur: facio faleums 
+      <lb ed="#C" n="62"/>pro me celebrare diuina: illa ignorantia est mihi in 
+      <lb ed="#C" n="63"/>uincibilis: quam tamen poteram vincere: si seriose institissem 
+      <lb ed="#C" n="64"/>sed non tenebar. sic d laico eunte ad ecclesiam: et est 
+      vnun<lb ed="#C" n="65" break="no"/>ieiunium in ebdomada quod ignarus plebanus 
+      <lb ed="#C" n="66"/>non edicit. is laicus illo die carnes commedens non 
+      <lb ed="#C" n="67"/>peccat cum anim applicuerit scire quae a plebano dicuni 
+      <lb ed="#C" n="68"/>Feci sicut alii oculati viri: vel putati a prudenti 
+      <lb ed="#C" n="69"/>bus: non negligentur. et hoc ad ignorantiam inuincibilem 
+      <lb ed="#C" n="70"/>in omni materia sufficit.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e262">
+      ¶ Alia est ignorantia 
+      vinci<lb ed="#C" n="71" break="no"/>bilis. et est ignorantia quam quis vincere tenetur. et 
+      <lb ed="#C" n="72"/>tat est duper. quadam est ignorantia affectata: vt cum qui h7 
+      <lb ed="#C" n="73"/>habet nolle sciendi. sicut de quibusda dicit nolues 
+      <lb ed="#C" n="74"/>it intelligere vt bene agere. recede a nobis / scien 
+      <lb ed="#C" n="75"/>tam varum tuam nolumus 2. git ignorantia crals esn x c 
+      <lb ed="#C" n="76"/>pina quando ho diligentiam adhibet ad sciendum quae oret: 
+      <lb ed="#C" n="77"/>non tantam quanta tenetur. et dicitur transtatie ad 
+      similitu<lb ed="#C" n="78" break="no"/>dine hominis crassi: qui solet ess pigri. et supina: quia habet 
+      <lb ed="#C" n="79"/>oculos in terram: eternis postpositis.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e285">
+      ¶ Iterum: 
+      tri<lb ed="#C" n="80" break="no"/>plex est ignoratia. quadam actum praecedens. quedam 
+      ac<lb ed="#C" n="81" break="no"/>tum concomitans. quaedam actum sequens. precedens ac 
+      <lb ed="#C" n="82"/>tum est ignorantia quando si peccans sciret non 
+      pecca<lb ed="#C" n="83" break="no"/>ret. siue tali ignorantia peccatum: hoc est actus 
+      ip<lb ed="#C" n="84" break="no"/>se siue vocetur peccatum siue non nullomodo fie 
+      <lb ed="#C" n="85"/>ret. et hoc est agere per ignorantiam vt occido partrem 
+      <lb ed="#C" n="86"/>in bello inter hostes. si scirem non facerem: ista est 
+      igno<lb ed="#C" n="87" break="no"/>rantia inuincibilis. realiter. ignorantia actum conconitans 
+      <lb ed="#C" n="88"/>est dum quis peccando aliqua ignorat quae nec sunt 
+      cau<lb ed="#C" n="89" break="no"/>sa nec effectus peccati. vt si quis concederet in die 
+      <lb ed="#C" n="90"/>ieiunabili ignarus ieiunii: qui non minus faceret dato 
+      <lb ed="#C" n="91"/>quod sciret ieiunium. et hoc est agere ignorando: hoc est: 
+      <lb ed="#C" n="92"/>ignorantia se habet contingentur ad operationem: ita quod propter 
+      il<lb ed="#C" n="93" break="no"/>la ignorantiam nec agens agit nec ab operatione 
+      cessa<lb ed="#C" n="94" break="no"/>ret. ergo aliud est agere ex ignorantia et agere 
+      ignoran<lb ed="#C" n="95" break="no"/>do ignorantia attamen sequens est pena et effectus peccati vt 
+      <lb ed="#C" n="96"/>ignorantia quae temulentia consequitur vt in stupro loth ine 
+      <lb ed="#C" n="97"/>briato a filiabus.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e327">
+      ¶ his praemissis: respondendum est d 
+      igno<lb ed="#C" n="98" break="no"/>rantia excusante et non excusante in communi. postea de 
+      igno<lb ed="#C" n="99" break="no"/>rantia ade et eue: gratia cuius potissimum mota est quaestio¬ 
+   </p>
+            <p xml:id="jb2v19-d65271-d1e334">
+               <lb ed="#C" n="100"/>¶ Prima conclusio sit hec. ignorantia inuincibilis excu¬ C:. 
+      cr<lb ed="#C" n="101" break="no"/>sat a toto peccatum. excusar a toto etota maliciam 
+      cul<lb ed="#C" n="102" break="no"/>pe auferre. Probatur hec conclusio: nullus faciens omne illud 
+      <lb ed="#C" n="103"/>ad quod tenetur peccat in sic faciendo. sed omnis 
+      igno<lb ed="#C" n="104" break="no"/>rans inuincibilit est hmoni. igitur. tet consequentia in. 2. mo perme fi 
+      <lb ed="#C" n="105"/>gure: et prmisse ex dictis ciarent. hec ditur a legistis  . C6. 5. p. 
+      <lb ed="#C" n="106"/>gnorantia probabilis: quae in toto excusat errate. / 
+      <lb ed="#C" n="107"/>de iu. et facti ignorantia lerror. et conclusio intelligitur 
+      <lb ed="#C" n="108"/>tam de ignorantia pure negationis quam praue 
+      dis<lb ed="#C" n="109" break="no"/>positionis: siue sit nescientia siue error iuincibilis 
+      <lb ed="#C" n="110"/>sequitur quantumcumque homo dat operam rei licite et 
+      fa<lb ed="#C" n="111" break="no"/>cit diligentiam ad quam tenetur: non peccat quicquid 
+      <lb ed="#C" n="112"/>agit ex illa ignorantia.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e365">
+      ¶ Secunda conclusio: licet igno e 
+      <lb ed="#C" n="113"/>rantia crassa et supeina non excusat a toto: tamen 
+      excu<lb ed="#C" n="114" break="no"/>sat a tanto. excusare a tanto est excusare a parte L7r 
+      <lb ed="#C" n="115"/>peccati. prior pars huius conclusionis patet. quia sic 
+      <lb ed="#C" n="116"/>agens facit actum difformem contra legem pre  N us 
+      <lb ed="#C" n="117"/>cipientem inquirere que recta sunt. Eccle. sex 
+      <lb ed="#C" n="118"/>to. cogitatum habe inpreceptis dei et in manda 
+      <lb ed="#C" n="119"/>tis illius maxime esto assiduus. et ad 
+      Ephesi<lb ed="#C" n="120" break="no"/>os. quinto. Nolite fieri imprudentes / sed intelli¬
+      <pb ed="#V" n="110-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>gationis.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e391">
+      ¶ Quita conclusio. peccatum primorum parentum non 
+      pro<lb ed="#C" n="2" break="no"/>cessit ex ignorantia. patet. mulier sciebat viro minus 
+      <lb ed="#C" n="3"/>discreta. Gen. 3. serpenti dixit eua. praecepit nob deus 
+      <lb ed="#C" n="4"/>ne comederemus. ergo hoc verum non latuit.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e400">
+      ¶ Contra 
+      pri<lb ed="#C" n="5" break="no"/>mam conclusionem arguitur. ignorantia inuincibilis excusa 
+      <lb ed="#C" n="6"/>a peccatum a toto. ergo a / peccatum est. quia si a / peccatum non sit: 
+      <lb ed="#C" n="7"/>falsum est dicere quod ignorantia excusat a / peccatum. 
+   </p>
+            <p xml:id="jb2v19-d65271-d1e410">
+               <lb ed="#C" n="8"/>¶ Respondetur negado consequentiam theologice loquendo 
+      <lb ed="#C" n="9"/>excusare a peccatum est facere quod a / quod alias esset peccatum uo 
+      <lb ed="#C" n="10"/>non sit peccatum. non insisto in hoc: ignoratia inuincibilis 
+      ex<lb ed="#C" n="11" break="no"/>cusat ab a / peccatum / est vna affirmatiua cuius 
+      praedica<lb ed="#C" n="12" break="no"/>tum non supponit: cum pars eius non supponit vltra 
+      instan<lb ed="#C" n="13" break="no"/>tias communes. Turpe esset in theologia vel similes 
+      con<lb ed="#C" n="14" break="no"/>ditiones in quibus hec regla verum non habet afferre: vel 
+      <lb ed="#C" n="15"/>tali retile initi.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e430">
+      ¶ Secundo arguitur contra eandem conclusionem. si 
+      ali<lb ed="#C" n="16" break="no"/>quis infans esset positus in carcere ab omni perpltolio 
+      separa<lb ed="#C" n="17" break="no"/>tus tali est ignorantia inuincibilis scire fidem. Se 
+      <lb ed="#C" n="18"/>sine fide impossibile est placere deo: ad heb. xi. 
+      er<lb ed="#C" n="19" break="no"/>go ignoratia inuicibilis non excusat quemlibet habentem 
+   </p>
+            <p xml:id="jb2v19-d65271-d1e441">
+               <lb ed="#C" n="20"/>¶ Respondetur: casu admisso deus talem illumiabit: si bene 
+      na<lb ed="#C" n="21" break="no"/>turalibus vtatur. sicu non deest creaturis impotentibus 
+      effe<lb ed="#C" n="22" break="no"/>ctus producere quando corpus hominis in matrice est organi 
+      <lb ed="#C" n="23"/>satum: et nulla creatura potest animam intellectiuam 
+      produce<lb ed="#C" n="24" break="no"/>re: animam creat deus. sic indisposito subiecto antime / fidem 
+      <lb ed="#C" n="25"/>eorum quae sunt necia ad salutem producit: si doctor 
+      extrin<lb ed="#C" n="26" break="no"/>secus non assit: secundum illud I Io. 2. non habetis 
+      ne<lb ed="#C" n="27" break="no"/>cesse vt quis vos doceat: sed sicut vnctio docebit vos 
+      <lb ed="#C" n="28"/>de omnibus. et patet exemplaritr de Cornelio Centurione et 
+      <lb ed="#C" n="29"/>eunucho cadaci regie a petro Ahilippo istructis 
+      <lb ed="#C" n="30"/>vt lectio actuum docet et de bta barbara / et bta 
+      Cri<lb ed="#C" n="31" break="no"/>stina patet.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e470">
+      ¶ Arguitur con probationem secunde partis secunde 
+      conclusio<lb ed="#C" n="32" break="no"/>nis: probado quod non omne quod minuit cognitionem 
+      mi<lb ed="#C" n="33" break="no"/>nuit rationem voluntarii: et hoc sic. voluntas ex libertate 
+      <lb ed="#C" n="34"/>sua plus potest amare rem minus cognitam et magis 
+      cogni<lb ed="#C" n="35" break="no"/>tam minus velle. Res viles quanto magis cognoscuntur 
+      <lb ed="#C" n="36"/>tanto minus appetuntur. propterea si iacob cognouisse 
+      <lb ed="#C" n="37"/>quod fuisset lya: resiliisset: et actus non fuisset factus. sed 
+      a<lb ed="#C" n="38" break="no"/>ctus factus est et bonus. ergo est voluntarius.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e488">
+      ¶ Respondetur. nihil 
+      <lb ed="#C" n="39"/>est volitum nisi cognitum: licet aliquid potest esse magis 
+      cogni<lb ed="#C" n="40" break="no"/>tum et minus volitum: vt in dist. 25. dicemus. sed in proposito 
+      <lb ed="#C" n="41"/>actus est cognitus qui ad sbsuntiam: licet circunstantia sit ignota: 
+      quae<lb ed="#C" n="42" break="no"/>si esset cognita sbstantia actus non esset volita. vt posito quod 
+      <lb ed="#C" n="43"/>iacob lyam prima nocte cognouisset: quod est vosimile: 
+      co<lb ed="#C" n="44" break="no"/>gnouit subsntiam actus sui: sed ignorauit an esset lya. si illam 
+      <lb ed="#C" n="45"/>circumstantiam coguisset: non posuisset sbsantiam actus
+   </p>
+            <p xml:id="jb2v19-d65271-d1e506">
+      ¶ 
+      Se<lb ed="#C" n="46" break="no"/>cundo arguitur contra secundam conclusionem. igrantia est malum. ergo non 
+      mi<lb ed="#C" n="47" break="no"/>nuit peccatum. tet consequentia. malum additum malo non 
+      <lb ed="#C" n="48"/>minuit malum: sed maliciam auget.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e516">
+      ¶ Tertio. ebrio 
+      <lb ed="#C" n="49"/>debentur duplices increpationes. 3. Etho. ergo igrantia non 
+      <lb ed="#C" n="50"/>excusat.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e523">
+      ¶ Confirmatur hec auctas arist. ex glo. 
+      super<lb ed="#C" n="51" break="no"/>illud ad Rom. 2. igrans quaniam benignitas dei. et c. 
+      egrguis<lb ed="#C" n="52" break="no"/>sime peccas quia igras te contempnere. si guissime. 
+      <lb ed="#C" n="53"/>peccatum auget et non diminuit
+   </p>
+            <p xml:id="jb2v19-d65271-d1e532">
+      ¶ Ad secundum respondetur. aliqua 
+      <lb ed="#C" n="54"/>est igrantia quae est solum malum pene et non culpe. et istud 
+      ad<lb ed="#C" n="55" break="no"/>ditum malo non reddit ipsum peius.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e539">
+      ¶ Secundo dico. stat 
+      <lb ed="#C" n="56"/>quod vnum malum culpe sit causa remota minoris 
+      mali<lb ed="#C" n="57" break="no"/>culpe: quia tolliter illud quod est causa proptiqua peccati: vt ratio et 
+      volun<lb ed="#C" n="58" break="no"/>tas. si quis ex intemprantia in infirmitatem in fronte quaedragesi 
+      <lb ed="#C" n="59"/>me incidat: tal dobligatur a ieiunio quaedrages ine: sed 
+      de<lb ed="#C" n="60" break="no"/>bilitas est causa propinquae deobligationis ab illo ieiunio
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>gentes quae sit voluntas dei de tali ignorantia 
+      scri<lb ed="#C" n="62" break="no"/>bit apls ad Corinthios 1 4. Si quis ignorat 
+      igno<lb ed="#C" n="63" break="no"/>rabitur. Secunda pars patet. scientia auget peccatum: vt in 
+      quaesti<lb ed="#C" n="64" break="no"/>one praecedenti diximus de peccato ade. et Aug. 14. de 
+      <lb ed="#C" n="65"/>trinitate. c. 15. qui non videt quemadmodum viuendum 
+      <lb ed="#C" n="66"/>est excusabilius peccat quam qui videt quod non est 
+      trans<lb ed="#C" n="67" break="no"/>gressor legis incognite. et 2I libro contra Faustum 
+      <lb ed="#C" n="68"/>de Loth loquens: qui ebrius concubuit cum filiabus 
+      <lb ed="#C" n="69"/>suis: dicit quod culpandus est: non tamen quantum ille 
+      ince<lb ed="#C" n="70" break="no"/>stus: sed quantum illa meretur ebrietas. de hoc in. 17. 
+      di<lb ed="#C" n="71" break="no"/>stinctione quarti diximus.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e578">
+      ¶ Item Algazel. 5. 
+      Phi<lb ed="#C" n="72" break="no"/>sicorum. c. 4. ait. qui crescit in scientia et non crescit 
+      <lb ed="#C" n="73"/>in bona vita elongabitur a deo. et patet hec pars 
+      ra<lb ed="#C" n="74" break="no"/>tione. Omne peccatum est volutarium / vt dicit 
+      Au<lb ed="#C" n="75" break="no"/>gustinus prio libro retractu. c. 12. Nctum vsque adeo 
+      <lb ed="#C" n="76"/>volutarium malum est: vt nullo modo sit peccatum si non sit 
+      <lb ed="#C" n="77"/>voluntarium. ergo quod tollit de voluntario tollit de 
+      pec<lb ed="#C" n="78" break="no"/>cato. sed ignorantia tollit de voluntario. 3. Ethic. 
+      <lb ed="#C" n="79"/>et nichil est volitum nisi cognitum. igitur.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e598">
+      ¶ Insuper. 
+      <lb ed="#C" n="80"/>hoc patet per apostolum primne ad Thi. 2. Minam dei 
+      conse<lb ed="#C" n="81" break="no"/>cutus sum: quia ignorans feci in incredulitate. non 
+      vi<lb ed="#C" n="82" break="no"/>detur ante laborasse ignorantia inuincibili: nec 
+      igno<lb ed="#C" n="83" break="no"/>rantia affectata / notum est. igitur illa pars conclusiois vera. 
+      <lb ed="#C" n="84"/>et per consequens tota conclusio: siue sit sermo de ignorantia 
+      <lb ed="#C" n="85"/>pure negationis / siue de assensu erroneo.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e615">
+      ¶ 
+      Ter<lb ed="#C" n="86" break="no"/>tia conclusio. ignorantia affectata auget peccatum et 
+      imp<lb ed="#C" n="87" break="no"/>sum non diminuit. patet. ipsa nihil tollit de voluntario 
+      <lb ed="#C" n="88"/>ergo de peccato nihil diminuit.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e624">
+      ¶ Insuper. addit 
+      pec<lb ed="#C" n="89" break="no"/>catum pccato. vult talis peccare: et cum hoc tollere 
+      fre<lb ed="#C" n="90" break="no"/>num a peccato cohibitiuum: scilicet stimulum conscientie vt 
+      li<lb ed="#C" n="91" break="no"/>berius peccet. ergo anm fixum habet ad peccandum. et 
+      <lb ed="#C" n="92"/>per consequens cum magna libidine peccat contra tales 
+      im<lb ed="#C" n="93" break="no"/>precatur scriptura: noluit intelligere vt bene ageret 
+      <lb ed="#C" n="94"/>vt superius in hac quastione allegauimus.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e640">
+      ¶ Quarta 
+      con<lb ed="#C" n="95" break="no"/>clusio. ignorantia vincibilis non modo non excusat tota 
+      <lb ed="#C" n="96"/>liter peccatum: sed in se est peccatum Probatio. bene sequitur. ob 
+      <lb ed="#C" n="97"/>ligor hoc scire. ergo si habeo oppositum contrie vel 
+      contradi<lb ed="#C" n="98" break="no"/>ctorie libere: trasgredior praeceptum. consequentia tenet. quia 
+      <lb ed="#C" n="99"/>praecepto affirmatiuo qui praecipitur aliquid: prohibetur illius 
+      <lb ed="#C" n="100"/>oppositum. ergo si aliquid praecipitur sciri prohibetur etiam igno 
+      <lb ed="#C" n="101"/>rari. hec conclusio patet per probationes in secunda conclusione 
+      <lb ed="#C" n="102"/>adductas. et patet Esaye. 5. propterea captiuus ductus est 
+      <lb ed="#C" n="103"/>perpls meus quia non habuit sciam. et 3. Ethicorum: homines 
+      <lb ed="#C" n="104"/>vituperant propter ignorantiam. sed est discrimen 
+      de<lb ed="#C" n="105" break="no"/>ignorantia praue dispositionis et ignorantia 
+      praue<lb ed="#C" n="106" break="no"/>negationis. Ignorantia praue dispositionis 
+      vin<lb ed="#C" n="107" break="no"/>cibilis semper est peccatum. patet omnis actus contra praeceptum 
+      ne<lb ed="#C" n="108" break="no"/>gatiuum pro omni tempore qui libere elicitur est peccatum. sed talis 
+      igo<lb ed="#C" n="109" break="no"/>rantia est contra praeceptum negatiuum. nam bene sequitur. 
+      ha<lb ed="#C" n="110" break="no"/>beo praeceptum affirmatiuum de credendo hoc / deus est 
+      <lb ed="#C" n="111"/>trinus et vnus. ergo habeo prohibitionem de opposito 
+      contra<lb ed="#C" n="112" break="no"/>ri o omne affirmatiuum negatiuum includit. sicut perceptum 
+      <lb ed="#C" n="113"/>de dilectione dei includit prohibitionem odii eius. sed 
+      <lb ed="#C" n="114"/>ignorantia pure negationis eorum quae quis scire tenetur non 
+      <lb ed="#C" n="115"/>est pro quolibet tempore qui habetur peccatum habenti. Probatio. 
+      prece<lb ed="#C" n="116" break="no"/>ptum affirmatiuum semper obligat: sed non pro semper: sed 
+      so<lb ed="#C" n="117" break="no"/>lum aliquando. sed praeceptum de sciendo vel credendo est 
+      affir<lb ed="#C" n="118" break="no"/>matiuum. ergo non obligat pro semper. cum non obliget pro 
+      sem<lb ed="#C" n="119" break="no"/>per: dabile est vnu tempus in quo quis non obligatur illud 
+      sci<lb ed="#C" n="120" break="no"/>re. ergo tunc sine peccato ignorat istud ignorantia pure ne¬
+      <pb ed="#V" n="111-r"/>
+               <cb ed="#P" n="a"/>
+            </p>
+            <p xml:id="jb2v19-d65271-d1e703">
+               <lb ed="#C" n="1"/>¶ Ad tertium. illud dictum non est aristotelis: sed 
+      <lb ed="#C" n="2"/>cuiusdam legissatoris pitago. vt patet secundo politico 
+      <lb ed="#C" n="3"/>rum. ad auctoritatem glose dicitur: ipsa intelligitur 
+      po<lb ed="#C" n="4" break="no"/>tissimum de ignorantia affectata. in ignorantia 
+      cras<lb ed="#C" n="5" break="no"/>sa non est peccatum grauius: sed periculosius. quia 
+      <lb ed="#C" n="6"/>qui factum suum ignorat esse peccatum: non querit 
+      <lb ed="#C" n="7"/>remedium se emendandi.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e721">
+      ¶ Contra tertiam 
+      conclusio<lb ed="#C" n="8" break="no"/>nem arguitur. omnes homines natura scire 
+      desi<lb ed="#C" n="9" break="no"/>derant: primo methaphisice. ergo nulla est 
+      igno<lb ed="#C" n="10" break="no"/>rantia affectata. ergo conclusio presupponit 
+      fal<lb ed="#C" n="11" break="no"/>sum.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e732">
+      ¶ Secundo arguitur contra conclusionem: in 
+      se<lb ed="#C" n="12" break="no"/>habens ignorantiam inuincibilem faciens actum 
+      ma<lb ed="#C" n="13" break="no"/>lum: gratia exempli actum vsure non peccat 
+      sue<lb ed="#C" n="14" break="no"/>conscientie contraueniendo. et tamen habens 
+      con<lb ed="#C" n="15" break="no"/>scientiam remordentem in oppositum laborando scire 
+      <lb ed="#C" n="16"/>veritatem / peccat: et cum hoc faciendo actum malum 
+   </p>
+            <p xml:id="jb2v19-d65271-d1e746">
+               <lb ed="#C" n="17"/>¶ Ad primum dicitur: quod illa auctoritas 
+      intelli<lb ed="#C" n="18" break="no"/>gitur de appetitu et desiderio naturali: quod 
+      nul<lb ed="#C" n="19" break="no"/>lum actum elicitum ab appetitu distinctum ponit. 
+      ap<lb ed="#C" n="20" break="no"/>petitus liber habens actum elicitum appetitui 
+      natu<lb ed="#C" n="21" break="no"/>rali conformen dicitur naturalis aliquomodo. 
+      com<lb ed="#C" n="22" break="no"/>muniter homines habent elicitum ad scire quando 
+      <lb ed="#C" n="23"/>occurrit materia sciendi: non tamen efficaciter. quia 
+      <lb ed="#C" n="24"/>non quilibet apponit operam: sed multi torpent et 
+      <lb ed="#C" n="25"/>de per accidens scire nolunt.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e768">
+      ¶ Ad secundum 
+      argumen<lb ed="#C" n="26" break="no"/>tum dico: licet contraueniens conscientie sue magis 
+      pec<lb ed="#C" n="27" break="no"/>cat quod non contraueniens ceteris paribus: hic 
+      ce<lb ed="#C" n="28" break="no"/>tera sunt imparia. est vnum peccatum alteri additum: 
+      <lb ed="#C" n="29"/>puta nolle scire hoc totum faciendum facit hominnem 
+      ma<lb ed="#C" n="30" break="no"/>gis peccatorem propter duo peccata vel plura 
+      quae<lb ed="#C" n="31" break="no"/>est de illo. et hoc supposito quod nolitio sciendi sit 
+      pe<lb ed="#C" n="32" break="no"/>ior quam contra ire conscientie. Preterea intelligiimus conclusionem 
+      <lb ed="#C" n="33"/>in illo qui non habet conscientiam remurmurantem: sed 
+      ali<lb ed="#C" n="34" break="no"/>quam dil igentiam fecit ad sciendum: sed non tantam quantam 
+      te<lb ed="#C" n="35" break="no"/>netur ett ille scire nolens antecedenter sue conscientie contrhit 
+   </p>
+            <p xml:id="jb2v19-d65271-d1e792">
+               <lb ed="#C" n="36"/>¶ Contra istud arguitur: et potest esse tertium argumentum contra 
+      conclusio<lb ed="#C" n="37" break="no"/>ne: sign ando duos sortem et platonem: sortes non vadit 
+      <lb ed="#C" n="38"/>ad eccl iam: proptea ignorat ieiunium et festum: et vtrumque 
+      <lb ed="#C" n="39"/>negligit et dubitater peccat per conclusionem. sed probocui 
+      <lb ed="#C" n="40"/>no. pono quod plulsio iuerit ad ecclia et plebanus nichil 
+      <lb ed="#C" n="41"/>dixit nec de festo nec de ieiunio: plato non peccat 
+      <lb ed="#C" n="42"/>nec ieiunando nec festum non celebrando. quia non constat eius 
+      <lb ed="#C" n="43"/>de vno praecepto vel alio. ergo est ei ignoratia inuincibi 
+      <lb ed="#C" n="44"/>lis vtrumque praeceptum: cum non spectet ad istum agricolam 
+      <lb ed="#C" n="45"/>hec praecepta scire. sed si sortes venisset ad eccliam 
+      ni<lb ed="#C" n="46" break="no"/>chil audiuisset: sed excusatus fuisset. ergo modo sic excusa 
+      <lb ed="#C" n="47"/>tur.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e821">
+      ¶ Concedo quod sortes non excusatur: quia operam 
+      <lb ed="#C" n="48"/>non adhibuit sciendi. plato excusatur: quia operam (ad 
+      <lb ed="#C" n="49"/>quam tenebatur) ad sciendum apposuit
+   </p>
+            <p xml:id="jb2v19-d65271-d1e828">
+      ¶ Contra 
+      quar<lb ed="#C" n="50" break="no"/>tam conclusionem arguitur. Omne peccatum est in voluntate 
+      <lb ed="#C" n="51"/>iguorantia est in intellectu sicut suum oppositum: scilicet 
+      <lb ed="#C" n="52"/>scire. tam contrarie opposita quam priuatiue opposita 
+      ha<lb ed="#C" n="53" break="no"/>bent fieri circa idem.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e839">
+      ¶ Secundo arguitur. Si 
+      igno<lb ed="#C" n="54" break="no"/>rantia esset peccatum sequeretur hec conclusio. quod 
+      quamdiu<lb ed="#C" n="55" break="no"/>homo est ignorans: ita diu est in peccato. et sic 
+      sacer<lb ed="#C" n="56" break="no"/>dotium capiens in ignorantia: non possit suam 
+      ignoran<lb ed="#C" n="57" break="no"/>tiam culpabilem abolere.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e851">
+      ¶ Tertio arguitur. per 
+      il<lb ed="#C" n="58" break="no"/>lud quod scribitur: secundo ethicorum a philosopho. 
+      <lb ed="#C" n="59"/>ad virtutes scire parum aut nichil potest. scientia 
+      <lb ed="#C" n="60"/>ergo nec est virtus nec magna dispositio ad vir¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>tutem. ergo per contrarium ignorantia nec est 
+      pec<lb ed="#C" n="62" break="no"/>catum nec magna dispositio ad peccatum. 
+   </p>
+            <p xml:id="jb2v19-d65271-d1e867">
+               <lb ed="#C" n="63"/>¶ Ad primum concedo quod omne peccatum quo ad culpam 
+      <lb ed="#C" n="64"/>est in voluntate positiue vel priuatiue: per positionem 
+      <lb ed="#C" n="65"/>actus positiui vel priuationem actus ad quem quis 
+      <lb ed="#C" n="66"/>tenetur. licet actus alterius potentie a voluntate 
+      di<lb ed="#C" n="67" break="no"/>catur peccatum: non addit aliam maliciam imputabilem 
+      <lb ed="#C" n="68"/>actui voluntatis vel omissioni eius.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e883">
+      ¶ Ad secundum ar 
+      <lb ed="#C" n="69"/>gumentum nego sequelam. licet sacerdos ordines 
+      ca<lb ed="#C" n="70" break="no"/>piendo peccet. ordinibus tamen captis non potest 
+      ordi<lb ed="#C" n="71" break="no"/>nes a suis humeris exuere. adherent 
+      immobili<lb ed="#C" n="72" break="no"/>ter ossibus eius. sufficit et requiritur quod penitudine 
+      du<lb ed="#C" n="73" break="no"/>catur: et laboret scire ea que suo officio incumbunt 
+      <lb ed="#C" n="74"/>et sic emendat culpam ignorantie. et licet nesciat illa que 
+      <lb ed="#C" n="75"/>requiruntur ad simplicis sacerdotis ad duos 
+      an<lb ed="#C" n="76" break="no"/>nos futuros: dum modo interea laborat ea scire 
+      <lb ed="#C" n="77"/>que sufficiunt ad sacerdotem simplicem: non est 
+      ampli<lb ed="#C" n="78" break="no"/>us in peccato ignorantie: licet in ignorantia 
+      mane<lb ed="#C" n="79" break="no"/>at. secus esset si esset beneficium quo est indignus 
+      <lb ed="#C" n="80"/>potest illud a suis humeris exuere: et tenetur: vt 
+      <lb ed="#C" n="81"/>detur scienti facere illa que illi officio incumbunt 
+   </p>
+            <p xml:id="jb2v19-d65271-d1e914">
+               <lb ed="#C" n="82"/>¶ Ad philosophum dicitur: quod ad virtutes scire 
+      pa<lb ed="#C" n="83" break="no"/>rum aut nihil potest nisi ponatur executio. 
+      multi<lb ed="#C" n="84" break="no"/>multa sciunt et seipsos nesciunt. hoc est: non 
+      operan<lb ed="#C" n="85" break="no"/>tur et per consequens negligunt colere spiritualiter 
+      ani<lb ed="#C" n="86" break="no"/>mam.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e927">
+      ¶ Quarto arguitur. ignorantia iuris 
+      ne<lb ed="#C" n="87" break="no"/>minem excusat ergo quilibet tempore quo homo habet 
+      <lb ed="#C" n="88"/>ignorantiam iuris peccat.
+   </p>
+            <p xml:id="jb2v19-d65271-d1e934">
+      ¶ Distinguo quod igno¬ ¶2.  
+      xa<lb ed="#C" n="89" break="no"/>ratia iuris neminem excusat. vel iuris quod qus tenelue 
+      <lb ed="#C" n="90"/>scire: et sic concedo. vel iuris quod non tenetur soe 
+      <lb ed="#C" n="91"/>re: et sic negatur. Ex isto patet quod multipliciter igno Tr 
+      Nri<lb ed="#C" n="92" break="no"/>rantia iuris humani excusat: et etiam iuris 
+      diui<lb ed="#C" n="93" break="no"/>ni. quando non constat esse false: sed sunt opinio 
+      <lb ed="#C" n="94"/>nes probabiles / in quo sensu intelligitur: vt an 
+      de<lb ed="#C" n="95" break="no"/>us gratis reprobat vel propter demerita praemisa 
+      <lb ed="#C" n="96"/>tunc est ignorantia inuincibilis. similiter quod 
+      <lb ed="#C" n="97"/>vni est ignorantia inuincibilis alteri est 
+      ignoran<lb ed="#C" n="98" break="no"/>tia vincibilis: quia vnus tenetur plura scire quod alter 
+   </p>
+            <p xml:id="jb2v19-d65271-d1e959">
+               <lb ed="#C" n="99"/>¶ Dubium occurrit: est aliquis qui pritinet alienum excusatur 
+      <lb ed="#C" n="100"/>per ignorantiam inuincibilem ne peccet 
+      detinen<lb ed="#C" n="101" break="no"/>do alienum / si sciret / peccaret detinendo: an ego 
+      <lb ed="#C" n="102"/>debeo ei significare verum: Istud in ceon circa 
+      ma<lb ed="#C" n="103" break="no"/>teriam preceptorum enucleatum habes. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

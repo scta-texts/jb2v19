@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 9</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 9</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs9uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="165-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d99027"><!-- l2d42q9 -->
+            <head xml:id="jb2v19-d99027-Hd1e101">Quaestio 9</head>
+            <head xml:id="jb2v19-d99027-Hd1e103" type="question-title">An omnis gula sit mortifera</head>
+            <p xml:id="jb2v19-d99027-d1e106">
+               <lb ed="#C" n="82"/>IN huius distinctionis capite 
+      <lb ed="#C" n="83"/>octauo / magister diuisionem 
+      <lb ed="#C" n="84"/>septenariam peccatorum 
+      mor<lb ed="#C" n="85" break="no"/>talium tangit: gratia cuius 
+      pau<lb ed="#C" n="86" break="no"/>ca de eis impresentiarum 
+      tan<lb ed="#C" n="87" break="no"/>gere satagemus: inter libellum 
+      <lb ed="#C" n="88"/>et Epitoma medium tenentes 
+      <lb ed="#C" n="89"/>non nunquam exempla quae nostre 
+      ma<lb ed="#C" n="90" break="no"/>terie conducunt inmedium afferemus: quia illa 
+      <lb ed="#C" n="91"/>ad virtutes incendunt: et a viciis retrahunt 
+      audi<lb ed="#C" n="92" break="no"/>torem. a gula quae est nobis magis innata 
+      incipien<lb ed="#C" n="93" break="no"/>tes. Et queritur: an omnis gula sit mortifera: et 
+      <lb ed="#C" n="94"/>maxime exprobanda in primis rationem 
+      nomi<lb ed="#C" n="95" break="no"/>nis explicabimus Secundo conclusiue ad 
+      questi<lb ed="#C" n="96" break="no"/>onis titulum cum quibusdam obiectionibus. 
+      con<lb ed="#C" n="97" break="no"/>tra easdem respondebimus. 
+   </p>
+            <p xml:id="jb2v19-d99027-d1e143">
+               <lb ed="#C" n="98"/>¶ Gula potest diffiniri per habitum: vel per 
+      ac<lb ed="#C" n="99" break="no"/>tum eius: quia vterque est gula. sed facilior 
+      intelli<lb ed="#C" n="100" break="no"/>gentia habitus per actum cognoscitur quam 
+      contra<lb ed="#C" n="101" break="no"/>de actu loquendum est. Gula ergo est 
+      volitio<lb ed="#C" n="102" break="no"/>qua quis cibum vult capere: vel potum plus quae 
+      <lb ed="#C" n="103"/>ratio postulet. Oppouitur duabus speciebus 
+      tem<lb ed="#C" n="104" break="no"/>perantie cardinalis. Cemperantia secundum A 
+      <lb ed="#C" n="105"/>stotelem tertio Ethicorum. que in sensu tactus et 
+      gu<lb ed="#C" n="106" break="no"/>stus consistit. hoc est habtus eius est insultiuum 
+      <lb ed="#C" n="107"/>in his duobus sensibus insurgentium cohibitiuus 
+      <lb ed="#C" n="108"/>circa venerea habet castitatem: circa potum 
+      sobri<lb ed="#C" n="109" break="no"/>etatem cuius extremum in superhabundando est 
+      <lb ed="#C" n="110"/>ebrietas moralis circa cibum habet temperanti 
+      <lb ed="#C" n="111"/>am regularem abstinentiam: et ieiunium. 
+      Insen<lb ed="#C" n="112" break="no"/>sibilitas est extremum in deficiendo: circa 
+      tem<lb ed="#C" n="113" break="no"/>perantiam cardinalem virtutem. gula ebrietatem 
+      <lb ed="#C" n="114"/>tanquam speciem eius includit: cuius extremum 
+      op<lb ed="#C" n="115" break="no"/>positum est insensibilitas in cibo / et potu. Latitu 
+      <lb ed="#C" n="116"/>do temperantie in his tribus consistit: scilicet quod non 
+      <lb ed="#C" n="117"/>capiatur plus cibi vel potus quam corpori sufficiat. Ul sic 
+      <lb ed="#C" n="118"/>et melius non capiatur cibi vel potus exuberantur in 
+      cor<lb ed="#C" n="119" break="no"/>poris vel anime iacturam: sed tantum capiatur quantum 
+      <lb ed="#C" n="120"/>corporis incolumitati sufficiat. cum hoc habendo ocu¬
+      <pb ed="#V" n="165-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>lum ad animam: quia dato quod corpus maneat 
+      inco<lb ed="#C" n="2" break="no"/>lume: et petulanter lasciuiat contra sptum non est 
+      latitu<lb ed="#C" n="3" break="no"/>do temperantie.
+   </p>
+            <p xml:id="jb2v19-d99027-d1e206">
+      ¶ Ulterius oportet quod cancelos 
+      <lb ed="#C" n="4"/>diuitiarum eius homo non supergrediatur: et hoc 
+      <lb ed="#C" n="5"/>in fine. xi. capitis tangit philosophus inquiens. 
+      <lb ed="#C" n="6"/>Uirs autem temperans in his mediocriter sese habet: 
+      <lb ed="#C" n="7"/>nec enim iis gaudet quibus intemperans maxime 
+      <lb ed="#C" n="8"/>de lectatur sed potius moleste fert: nec iis omnino 
+      <lb ed="#C" n="9"/>quibus de lectari non decet: nec vehementer illis 
+      <lb ed="#C" n="10"/>rebus huiuscemodi de lectatur: neque si absint 
+      do<lb ed="#C" n="11" break="no"/>let neque cupit nisi mediocriter semper: nec 
+      ma<lb ed="#C" n="12" break="no"/>gis quam oportet: nec quando non oportet vlla res 
+      <lb ed="#C" n="13"/>omnino talis ipsum de lectat. Mediocriter autem 
+      <lb ed="#C" n="14"/>et vt oportet eas res appetit que voluptate 
+      qui<lb ed="#C" n="15" break="no"/>dem afficiunt ad sanitatem autem et bonam 
+      cor<lb ed="#C" n="16" break="no"/>poris habitudinem conferunt: et res ceteras 
+      volu<lb ed="#C" n="17" break="no"/>ptas effectrices identidem si nec impedimento sint 
+      <lb ed="#C" n="18"/>dictis habitibus corporis: nec honestatis 
+      causacel<lb ed="#C" n="19" break="no"/>los: nec facultatum metas egrediantur.
+   </p>
+            <p xml:id="jb2v19-d99027-d1e244">
+      ¶ Ex his 
+      <lb ed="#C" n="20"/>dictis aristotelis inferam aliquam correlaria. Primum 
+      <lb ed="#C" n="21"/>non est eadem latitudo temperantie Miloni et 
+      <lb ed="#C" n="22"/>vdvev vivt e vorv vs: d eum. evved. 
+      <lb ed="#C" n="23"/>re in die cibus Platoni sufficiens Miloni non 
+      sui<lb ed="#C" n="24" break="no"/>fecisset: et sic non mansisset bona habitudo 
+      corpo<lb ed="#C" n="25" break="no"/>ris: et anime. Secundo sequitur diues lautioribus 
+      <lb ed="#C" n="26"/>cibis vtendo quam pauper manet in latitudine tempe 
+      <lb ed="#C" n="27"/>rante vbi pauper ea egreditur saltem si de 
+      propri<lb ed="#C" n="28" break="no"/>is emat. Tertio sequitur. Nobilis et diues potest 
+      <lb ed="#C" n="29"/>splendidioribus cibis vti quam diues ignobilis. 
+      <lb ed="#C" n="30"/>Quarto sequitur. Infirmus potest multa plura 
+      <lb ed="#C" n="31"/>exponere in cibo quod ipse potest in sanitate: 
+      Pro<lb ed="#C" n="32" break="no"/>batio: recta ratio dictat quod debet corpori 
+      succur<lb ed="#C" n="33" break="no"/>rere caducis bonis fortune neglectis: et si neglige 
+      <lb ed="#C" n="34"/>ret delinqueret Quinto sequitur. Ubi corpous 
+      be<lb ed="#C" n="35" break="no"/>ne pastum et sanum bellum ciuile in toto homine 
+      <lb ed="#C" n="36"/>mouet et effrene ad illecebram tendit: ipsum est 
+      re<lb ed="#C" n="37" break="no"/>digendum in seruitute dato quod ho in infirmitatem 
+      corpo<lb ed="#C" n="38" break="no"/>ris labitur Probatur per verba Aristotelis 
+      allega<lb ed="#C" n="39" break="no"/>ta quia alioquin cancellos honestatis 
+      transgre<lb ed="#C" n="40" break="no"/>dietur. Ulterius sequitur Si quis carnibus 
+      hu<lb ed="#C" n="41" break="no"/>manis more Scytharum vescatur latitudinem 
+      tem<lb ed="#C" n="42" break="no"/>perantie egreditur. patet per verbum illud 
+      can<lb ed="#C" n="43" break="no"/>cellos honestatis. Ultimo sequitur. 
+      Temperan<lb ed="#C" n="44" break="no"/>tia violatur in praedicamento quaelitatis quantitatis et 
+      in<lb ed="#C" n="45" break="no"/>predicamento quando hoc est nimis delicate: 
+      ni<lb ed="#C" n="46" break="no"/>mis in quantitate vel extra tempus commedendo 
+      <lb ed="#C" n="47"/>cognita latitudine medii extremorum 
+      latitudi<lb ed="#C" n="48" break="no"/>nes cognite euadunt: quia oppositorum eadem est 
+      <lb ed="#C" n="49"/>disciplina. Istis notatis pono conclusiones. 
+   </p>
+            <p xml:id="jb2v19-d99027-d1e312">
+               <lb ed="#C" n="50"/>¶ Prima. Non omnis gula est peccatum 
+      morta<lb ed="#C" n="51" break="no"/>e: immo aliqua est venialis. Probatur. Aliquis 
+      <lb ed="#C" n="52"/>est paruus excessus extra latitudinem 
+      temperan<lb ed="#C" n="53" break="no"/>tie: ergo tal is non est peccatum mortale: 
+      conse<lb ed="#C" n="54" break="no"/>quentia tenet: quia illic non est notabilis iactura 
+      <lb ed="#C" n="55"/>corporis vel anime Confirmatur hec ratio. Si 
+      ali<lb ed="#C" n="56" break="no"/>quid obstaret maxime esset: quia gula inter 
+      pecca<lb ed="#C" n="57" break="no"/>ta mortalia reputatur: sed hoc non obstat: furtum 
+      <lb ed="#C" n="58"/>prohibetur vno precepto decalogi tamen aliquond 
+      fur<lb ed="#C" n="59" break="no"/>tum est veniale: quod patet sic de ablatione boni non 
+      <lb ed="#C" n="60"/>notabilis.
+   </p>
+            <p xml:id="jb2v19-d99027-d1e338">
+      ¶ Et iterum hoc confirmatur Omnis ac¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>tus deliberatus qui non est castitas. circa venerea 
+      <lb ed="#C" n="62"/>et luxuriam: sed aliqua talis est venialis: vt patet de 
+      <lb ed="#C" n="63"/>aliquo luxu inter virum et vxorem eius: et hoc 
+      ip<lb ed="#C" n="64" break="no"/>sum patuit in quarto.
+   </p>
+            <p xml:id="jb2v19-d99027-d1e351">
+      ¶ Secunda conclusio. 
+      <lb ed="#C" n="65"/>ctis et perfectis viris qui iam temperantiam 
+      vir<lb ed="#C" n="66" break="no"/>tutem secundum temperantie gradum attigerunt 
+      ne<lb ed="#C" n="67" break="no"/>cessitas non est regula sie scilicet quod ea 
+      pe<lb ed="#C" n="68" break="no"/>diens peccet.
+   </p>
+            <p xml:id="jb2v19-d99027-d1e362">
+      ¶ Pro istius conclusionis 
+      intelligen<lb ed="#C" n="69" break="no"/>tia supponimus quod necessitas bifariam accipitur Uno 
+      <lb ed="#C" n="70"/>modo secundum quod necessarium dicitur sine quo res non 
+      <lb ed="#C" n="71"/>potest esse aut consistere: qudo cibus dicitur 
+      neces<lb ed="#C" n="72" break="no"/>sarius enim qui est in extrema necessitate positus 
+      <lb ed="#C" n="73"/>et de hac necessitate non loquor. Secundo modo 
+      ca<lb ed="#C" n="74" break="no"/>pitur necessitas secundum quod dicitur necessarium illud 
+      <lb ed="#C" n="75"/>sine quo res non potest conuenienter esse: 
+      vo<lb ed="#C" n="76" break="no"/>lo dicere quod regula intemperantie non est 
+      mensu<lb ed="#C" n="77" break="no"/>randa secundum hanc necessitatem: sic scilicet quod omnis 
+      <lb ed="#C" n="78"/>ille peccet per intemperantiam qui cibo vtitur aut 
+      <lb ed="#C" n="79"/>potu pro tempore pro quo non est hac necessitate 
+      ne<lb ed="#C" n="80" break="no"/>cessarius Probatur hec conclusio: quelibet latitu 
+      <lb ed="#C" n="81"/>do medii in quacunque virtute etiam respectu 
+      cu<lb ed="#C" n="82" break="no"/>inslibet est diuisibilis: ergo quicumque manet in qua 
+      <lb ed="#C" n="83"/>cunque parte illius latitudinis manet in medio: er 
+      <lb ed="#C" n="84"/>go sic manendo non peccat: sed manendo in 
+      infe<lb ed="#C" n="85" break="no"/>riori parte illius medii homo capit illud quod 
+      sue<lb ed="#C" n="86" break="no"/>sustentationi sufficit: ergo capiendo aliquid in 
+      par<lb ed="#C" n="87" break="no"/>tibus superioribus medii capit aliquid vltra sine 
+      <lb ed="#C" n="88"/>quo homo bene poterat esse alitus: ergo et cetera. 
+   </p>
+            <p xml:id="jb2v19-d99027-d1e408">
+               <lb ed="#C" n="89"/>¶ Tertia conclusio. Aliqua gula est peccatum 
+      <lb ed="#C" n="90"/>mortale. Probat Omnis actus quo assumitur 
+      ali<lb ed="#C" n="91" break="no"/>quid quod est in notabilem iacturam corporis et 
+      ani<lb ed="#C" n="92" break="no"/>me est peccatum mortale: aliqua gula est huiusmo 
+      <lb ed="#C" n="93"/>di. ergo gula aliqua est peccatum mortale: 
+      proba<lb ed="#C" n="94" break="no"/>tio minoris multas infirmitates per gulant hom 
+      in<lb ed="#C" n="95" break="no"/>currit vt neprehesim morbum: arterialem: et cete 
+      <lb ed="#C" n="96"/>id genus secundum prouerbium cone: plures occidit 
+      gu<lb ed="#C" n="97" break="no"/>la quod giadius. calor naturalis a multitudine 
+      cibo<lb ed="#C" n="98" break="no"/>rum extinguitur: et humores putridi in membris 
+      <lb ed="#C" n="99"/>generantur: hinc hippocras. secunda particula Apieo 
+      <lb ed="#C" n="100"/>Aphorismo. xliiii. Crassi valde secundum 
+      na<lb ed="#C" n="101" break="no"/>turam citius moriuntur magis gracilibus. hoc ite 
+      <lb ed="#C" n="102"/>rum patet per ebrietatem que est in gula que int 
+      <lb ed="#C" n="103"/>nium obtundit: memoriam dissipat: neruos 
+      inspi<lb ed="#C" n="104" break="no"/>git: et totum corpous denique lacerat. 
+   </p>
+            <p xml:id="jb2v19-d99027-d1e446">
+               <lb ed="#C" n="105"/>¶ Et istud patet. per abbatem abdomine plenum 
+      <lb ed="#C" n="106"/>qui appetitum omnem amiserat. Propterea mon 
+      <lb ed="#C" n="107"/>tempessulanum pro remedio habendo adiuit: cui 
+      <lb ed="#C" n="108"/>obuiam factus quidam nobilis itinere opum 
+      in<lb ed="#C" n="109" break="no"/>digus mysterio cognito: dominum abbatem 
+      in<lb ed="#C" n="110" break="no"/>imo carcere inclusit egre ei panem et aquam ad 
+      sa<lb ed="#C" n="111" break="no"/>tietatem mediam subministrans: ita in breui 
+      tem<lb ed="#C" n="112" break="no"/>poris curriculo fecit vt pater abbas salsa sancti 
+      <lb ed="#C" n="113"/>bernardi vsus est: etiam post assumptum cibum eiula 
+      <lb ed="#C" n="114"/>voce clamitans si inedie sue nobilis non 
+      succurre<lb ed="#C" n="115" break="no"/>ret dira fame vitam in mortem commutaret: certe 
+      mul<lb ed="#C" n="116" break="no"/>to melius curabatur nostr abbas in portione egentis nobi 
+      <lb ed="#C" n="117"/>lis quam curatus fuisset in lauta mensa in 
+      montepessulano<lb ed="#C" n="118" break="no"/>inter physicos.
+   </p>
+            <p xml:id="jb2v19-d99027-d1e479">
+      ¶ Secundo. arguitur ad idem. Omne 
+      il<lb ed="#C" n="119" break="no"/>lud peccatum quod est multorum peccatorum origo est 
+      <lb ed="#C" n="120"/>peccatum mortale: sed gula est huiusmodi: igitur: conse¬
+      <pb ed="#V" n="166-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>quentia claret cum maiore: probatur minor. 
+      ince<lb ed="#C" n="2" break="no"/>tiuum de per se luxui subministrat: secundum illud 
+      co<lb ed="#C" n="3" break="no"/>mici. Sine cerere et baccho friget venus. et Pro 
+      <lb ed="#C" n="4"/>ucrbiorum. xx. Luxuriosa res est vinum. et. xxx. 
+      eius<lb ed="#C" n="5" break="no"/>dem Noli regibus dare vinum Propterea 
+      ecclesia<lb ed="#C" n="6" break="no"/>stes. 2. Cogitaui abstrahere a vino carnem meam. 
+      <lb ed="#C" n="7"/>Et ecclesiastici nono. Uinum et mulieres apostata 
+      <lb ed="#C" n="8"/>re faciunt sapientes: et istud potissimum in iuuene 
+      <lb ed="#C" n="9"/>vel ad illecebram inclinato: secundum illud hiero. Non 
+      <lb ed="#C" n="10"/>ethnei montes: non vulcani ignes: ita estuant sicut 
+      <lb ed="#C" n="11"/>iuueniles medule vino et dapibus inflammate 
+      <lb ed="#C" n="12"/>ex excessiuo vino homicidia adulteria rerum 
+      pu<lb ed="#C" n="13" break="no"/>blicarum proditiones et teterrima monstra prodeunt 
+      <lb ed="#C" n="14"/>Patet per alexandrum macedonem qui temulentia 
+      <lb ed="#C" n="15"/>charissimos quoscunque ad intentum duxit. 
+      Holo<lb ed="#C" n="16" break="no"/>fernes vino madidus occubuit. filius Thomeris 
+      <lb ed="#C" n="17"/>cum toto exercitu scytharum a Syro paremptus est 
+      <lb ed="#C" n="18"/>BRenedab rex Syre temulentus per pueros 
+      prin<lb ed="#C" n="19" break="no"/>cipium prouinciarum interiit. Diues epulo quotidie 
+      <lb ed="#C" n="20"/>epulabatur splendide et sepultus est in inferno. 
+      TLu<lb ed="#C" n="21" break="no"/>ce. xvi. Sedit populus comedere et bibere et 
+      sur<lb ed="#C" n="22" break="no"/>rexerunt ludere. Exodi. xxxii. hoc idem patet de 
+      <lb ed="#C" n="23"/>mure macro qui per angustam rimam dolium 
+      in<lb ed="#C" n="24" break="no"/>grediens ad triticum impinguatus ab ire nequibat. 
+      <lb ed="#C" n="25"/>Sardanapalum ad vestes muliebres capessendas 
+      <lb ed="#C" n="26"/>et ad nendum inter scorta impulit: et celebrare assy 
+      <lb ed="#C" n="27"/>riorum imperium in eo suffocauit. et quod amplius 
+      <lb ed="#C" n="28"/>est tanta nota infamie illitus euasit quam nulla 
+      ve<lb ed="#C" n="29" break="no"/>tustas abolere potest.
+   </p>
+            <p xml:id="jb2v19-d99027-d1e553">
+      ¶ Quarta conclusio. Licet 
+   </p>
+            <p xml:id="jb2v19-d99027-d1e555">
+               <lb ed="#C" n="30"/>¶ gula non sit grauissimum peccatu: tamen hominem 
+      <lb ed="#C" n="31"/>maxime dencit a statu hominis. Prior pars huius 
+      con<lb ed="#C" n="32" break="no"/>clusionis patet de iuidia / odio / blasphemia / 
+      ido<lb ed="#C" n="33" break="no"/>latria / que gulam malicia exuperant. Secunda pars 
+      <lb ed="#C" n="34"/>patet. Illud peceatum quod facit nos maxime 
+      coinci<lb ed="#C" n="35" break="no"/>dere cum peccatoribus est maxime infame: sed sic 
+      <lb ed="#C" n="36"/>est de intemperantia secundum Aristotelem. 3. ethicorum. 
+   </p>
+            <p xml:id="jb2v19-d99027-d1e573">
+               <lb ed="#C" n="37"/>¶ Insuper: illud peccatum quod more pisce reddit 
+      dia<lb ed="#C" n="38" break="no"/>culos maxime est exprobrabile: sed sic est de gula 
+      <lb ed="#C" n="39"/>ebrietate potissimum in sanguineis qui illa tempesta 
+      <lb ed="#C" n="40"/>te cantant:rident: et sine lege loquuntur. Colerici 
+      te<lb ed="#C" n="41" break="no"/>mulenti irascuntur. rixas et psaelia mouent. Flegmatici: 
+      <lb ed="#C" n="42"/>efficiuntur hebetes pigri: et somnolenti instar 
+      por<lb ed="#C" n="43" break="no"/>corum Melancolici fiunt tristes et desolati 
+      ploran<lb ed="#C" n="44" break="no"/>tes peccata sua: tunc de religione vesperi 
+      compu<lb ed="#C" n="45" break="no"/>tant: sed in crastina luce nihil soliditatis permanet: 
+      <lb ed="#C" n="46"/>et Tullius de senectute Nulla pestis capitalior 
+      <lb ed="#C" n="47"/>quam voluptas: et secudo ethicorum dicit philosophus 
+      <lb ed="#C" n="48"/>fugiendum esse a voluptate sicut senes trosanorum 
+      fu<lb ed="#C" n="49" break="no"/>gerunt ab helena. Et Cato. Induigere gule noli. 
+      <lb ed="#C" n="50"/>Antequam fedas labes ex hoc scelere emergentes 
+      <lb ed="#C" n="51"/>numerare posset me deficere dies
+   </p>
+            <p xml:id="jb2v19-d99027-d1e608">
+      ¶ Contra primam 
+      <lb ed="#C" n="52"/>conclusionem: arguitur sic per rationes Martini 
+      <lb ed="#C" n="53"/>quibus probat vel probare elaborat quod non omnis 
+      dis<lb ed="#C" n="54" break="no"/>cessus a medio est peccatum. ad hoc Aristotelem 
+      in<lb ed="#C" n="55" break="no"/>troducit secundo ethicorum. Sed hoc in quarto 
+      sufficien<lb ed="#C" n="56" break="no"/>ter reprobaui: nec vllum verbum inueniet Ari. pro se. 
+      <lb ed="#C" n="57"/>in secundo ethicorum. Aristo. in secundo Et alibi expresse 
+      <lb ed="#C" n="58"/>in oppositum monstraui. sed dicta repetere nolo. 
+      <lb ed="#C" n="59"/>Propterea aliter arguitur. stat quod vir comedat plus 
+      <lb ed="#C" n="60"/>quod parsit et tamen non peccat: patet: quia ipso comedente
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>appetitus est apertus: vt experimur.
+   </p>
+            <p xml:id="jb2v19-d99027-d1e635">
+      ¶ Preterea: 
+      gu<lb ed="#C" n="62" break="no"/>la est peccatum mortale. ibi est praedicatio generis de 
+      <lb ed="#C" n="63"/>specie: ergo omnis gula est peccatum mortal. quia 
+      ge<lb ed="#C" n="64" break="no"/>nus praedicatur vniuersaliter de sua specie. 
+      Respon<lb ed="#C" n="65" break="no"/>detur. sicut superius diximus: latitudo 
+      temperan<lb ed="#C" n="66" break="no"/>tie diuisibilis quando homo comedit tantum quantum 
+      <lb ed="#C" n="67"/>ei sufficit: potest vlterius comedere: manendo in 
+      <lb ed="#C" n="68"/>sua latitudine nec peccat. sed quando excedit 
+      per<lb ed="#C" n="69" break="no"/>ignorantiam inuincibilem adhuc non peccat: sed 
+      an<lb ed="#C" n="70" break="no"/>debeat dici temperantia vel intemperantia in parte 
+      <lb ed="#C" n="71"/>esset contendere de termino.
+   </p>
+            <p xml:id="jb2v19-d99027-d1e659">
+      ¶ Si dicamus quod est 
+      <lb ed="#C" n="72"/>intemperantia: et gula: non omnis gula erit 
+      pec<lb ed="#C" n="73" break="no"/>catum: quod non videtur admittendum / quo circa dicitur 
+      <lb ed="#C" n="74"/>quod est temperantia et cum omnibus que de temperantie 
+      la<lb ed="#C" n="75" break="no"/>titudine diximus addatur: vel inuincibiliter 
+      cre<lb ed="#C" n="76" break="no"/>ditur esse latitudo temperantie tempore quo homo 
+      <lb ed="#C" n="77"/>comedit quando venit primo in discretione vix 
+      <lb ed="#C" n="78"/>potest cognoscere. quantum ei sufficit. Et ratio est: 
+      <lb ed="#C" n="79"/>quia adhuc cibus non confortat membra: sed 
+      per<lb ed="#C" n="80" break="no"/>horam post commestionem hoc cognoscit: quia tunc 
+      ci<lb ed="#C" n="81" break="no"/>bus habet suam actionem: quia in magno tempore cibus 
+      <lb ed="#C" n="82"/>facit quod non potest in breui: et hoc experimur in 
+      <lb ed="#C" n="83"/>nobis. Similiter videat cum quibus cibis: et 
+      in<lb ed="#C" n="84" break="no"/>quanta quantitate bene se habet: et in qua 
+      quan<lb ed="#C" n="85" break="no"/>titate male se habet vel cum quibus cibis: et 
+      secun<lb ed="#C" n="86" break="no"/>dum hoc habet regulam a quae si deuiat non erit ei ignoram 
+      <lb ed="#C" n="87"/>tia inuincibilis quia futura ratiocinando per praeterita 
+      men<lb ed="#C" n="88" break="no"/>surat homo post pastillos: vel post splendidam 
+      ce<lb ed="#C" n="89" break="no"/>nam de nocte non dormit: sed terribilia patitur 
+      som<lb ed="#C" n="90" break="no"/>nia: vel incubo laborat. in die sequente potest 
+      con<lb ed="#C" n="91" break="no"/>iecturare vnde illud ortum habuit quia in mediocri 
+      <lb ed="#C" n="92"/>cena: vel in carthusiensium cena homo nunquam in 
+      <lb ed="#C" n="93"/>cubum patietur potissimum si in alterutro laterum 
+      <lb ed="#C" n="94"/>dormiat. Nunc introduca argumenta Martini: 
+      qui<lb ed="#C" n="95" break="no"/>bus nititur contradictoriam / quam falsam reputo 
+      pro<lb ed="#C" n="96" break="no"/>bare. Arguit sic. Sancti et perfecti pro regula 
+      ha<lb ed="#C" n="97" break="no"/>bent que alii non habent nisi pro cosilio: sed 
+      neces<lb ed="#C" n="98" break="no"/>sitas respectu imperfectorum est in concilio: ergo 
+      respe<lb ed="#C" n="99" break="no"/>ctu perfectorum videtur esse in regula. Secundo sic 
+      <lb ed="#C" n="100"/>arguit: quanto quis magis proficit in aliqua virtute 
+      tan<lb ed="#C" n="101" break="no"/>to magis nititur accedere ad verum: et indiuisibile 
+      me<lb ed="#C" n="102" break="no"/>dium et apud eum diminuitur latitudo medii 
+      co<lb ed="#C" n="103" break="no"/>lorat hoc non illepide in sagittantibus: quanto enim 
+      <lb ed="#C" n="104"/>magis exercitatus est: et perfectus vituperatur si 
+      re<lb ed="#C" n="105" break="no"/>gulariter non proximus accedat ad medium signi 
+      <lb ed="#C" n="106"/>quod minus exercitatus et perfectus: sed vir perfectus 
+      <lb ed="#C" n="107"/>in vsu delectabilium in eis est multum exercitatus. 
+      er<lb ed="#C" n="108" break="no"/>go continue debet magis: ac magis accedere ad 
+      <lb ed="#C" n="109"/>verum: et indiuisibile medium: et per consequens medium 
+      <lb ed="#C" n="110"/>apud eum debet esse strictius: et minoris 
+      latitudi<lb ed="#C" n="111" break="no"/>nis quam apud imperfectum: et in exercitatum.
+   </p>
+            <p xml:id="jb2v19-d99027-d1e748">
+      ¶ Ad 
+      pri<lb ed="#C" n="112" break="no"/>mum. licet sua maior sit vera non concludit 
+      proposi<lb ed="#C" n="113" break="no"/>tum. quia adhuc sua latitudo est diuisibilis. 
+      Po<lb ed="#C" n="114" break="no"/>natur. gratia exempli paruus panis subcinericius / 
+      <lb ed="#C" n="115"/>ad quantitatem pugni: quod ille sufficit in meridie cum 
+      <lb ed="#C" n="116"/>ceteris esculentis. Po natur. quod sit insensibilitas 
+      sub<lb ed="#C" n="117" break="no"/>vna medietate illius panis: sed reliqua pars cum 
+      <lb ed="#C" n="118"/>illa medietate includitur in latitudine medii: et 
+      per<lb ed="#C" n="119" break="no"/>consequens cum tribus quartis illius panis bene 
+      <lb ed="#C" n="120"/>se habebit quo ad corpus et animam: et tamen si ap¬
+      <pb ed="#V" n="166-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>ponat aliam quartam non male agit: sed male in 
+      la<lb ed="#C" n="2" break="no"/>titudine medii. Ponamus omnia ista fieri scienter. 
+   </p>
+            <p xml:id="jb2v19-d99027-d1e779">
+               <lb ed="#C" n="3"/>¶ Secundo non probat maiorem quod est aliis 
+      <lb ed="#C" n="4"/>de consilio est eis de precepto: supposito quod 
+      tan<lb ed="#C" n="5" break="no"/>tum possunt commedere sed sancti patres 
+      latitudi<lb ed="#C" n="6" break="no"/>nem medii diminuunt: et diuturnitate temporis illa 
+      <lb ed="#C" n="7"/>angusta latitudine vtuntur. quod si plus commederent 
+      <lb ed="#C" n="8"/>non bene se haberent: et sic non est eis medium in 
+      il<lb ed="#C" n="9" break="no"/>lo excessu: sed extremum quidem ll eremita vt 
+      intel<lb ed="#C" n="10" break="no"/>lexi prope parrhisium suam angustam latitudinem 
+      re<lb ed="#C" n="11" break="no"/>linquens male se habuit in corpore sed ex isto 
+      mem<lb ed="#C" n="12" break="no"/>bro non colligitur propositum: quia etiam hinc latitudo 
+      <lb ed="#C" n="13"/>medii est diuisibilis et semper habetur nostra 
+      con<lb ed="#C" n="14" break="no"/>clusio. Sed dicis vir perfectus diminuit latitudinem 
+      <lb ed="#C" n="15"/>sui medii et illa latitudo est finita. ergo tandem 
+      di<lb ed="#C" n="16" break="no"/>minuitur ad non gradum latitudinis: et sic viuit 
+      ni<lb ed="#C" n="17" break="no"/>hil comedendo. Respondetur non semper diminuit: sed 
+      <lb ed="#C" n="18"/>vsque ad aliquod certum tempus sue vite: et tunc 
+      opor<lb ed="#C" n="19" break="no"/>tet ob debilitatem virium naturalium vt vires 
+      refocil<lb ed="#C" n="20" break="no"/>lantur. Iterum augeri medium Ioannes baptista 
+      <lb ed="#C" n="21"/>(cui prebuit hyrtum tegimen camelus cui latex 
+      hau<lb ed="#C" n="22" break="no"/>stum sociata pastum mella locustis) in iuuentute 
+      <lb ed="#C" n="23"/>sine dei numine speciali non poterat sic viuere. in 
+      <lb ed="#C" n="24"/>frigida senecta. si herodes in nephario conuiuio eius 
+      <lb ed="#C" n="25"/>vitam reliquisset. Propterea aliqui in iuuentute a 
+      vi<lb ed="#C" n="26" break="no"/>no abstinent qui in senectute prudenter illo vtuntur. 
+      <lb ed="#C" n="27"/>sic vixerut daniet ananias et misael et azarias. 
+      <lb ed="#C" n="28"/>Daniel primo. Et tamen ipse daniel. propter 
+      cu<lb ed="#C" n="29" break="no"/>ras quas habuit et perfectam etatem in adulta etate 
+      <lb ed="#C" n="30"/>vino et carne vtebatur. quod conuincitur per 
+      locum<lb ed="#C" n="31" break="no"/>a contrario sensu: qui est satis efficax in proposito 
+      <lb ed="#C" n="32"/>Danie lis decimo. Ubi propheta dicit in diebus 
+      il<lb ed="#C" n="33" break="no"/>lis ego daniel lugebam trium hebdomadarum diebus 
+      <lb ed="#C" n="34"/>pane desiderabilem non commedi: et caro / et vinum non 
+      <lb ed="#C" n="35"/>introierunt in os meum. ad nullum propositum hoc 
+      di<lb ed="#C" n="36" break="no"/>xisset: si vino et carne tunc vsus non fuisset.
+   </p>
+            <p xml:id="jb2v19-d99027-d1e855">
+      ¶ Ad 
+      <lb ed="#C" n="37"/>secundum argumentum. quo dicit quanto quis magis 
+      <lb ed="#C" n="38"/>proficit in aliqua virtute tanto magis nititur 
+      acce<lb ed="#C" n="39" break="no"/>dere ad verum et indiuisibile medium si intelligat de 
+      <lb ed="#C" n="40"/>medio mathematico sui medii moralis hoc non 
+      <lb ed="#C" n="41"/>est verum. Immo stat quod descendat sub illo: et citra 
+      <lb ed="#C" n="42"/>punctum quod terminabat suum medium in deficiendo 
+      <lb ed="#C" n="43"/>tempore quo esus est temperantia regulari. et fabri 
+      <lb ed="#C" n="44"/>cat ei nouum medium. sed non sine statu vt diximus 
+      <lb ed="#C" n="45"/>in priori argumento. sed isto dato semper latitudo 
+      <lb ed="#C" n="46"/>medii erit ei diuisibilis. Secundo non apparet quod 
+      <lb ed="#C" n="47"/>peccat propter quancumque perfectionem immo non 
+      <lb ed="#C" n="48"/>peccat de facto dummodo manet in latitudine 
+      an<lb ed="#C" n="49" break="no"/>tiqua: si non cedat ei in iacturam corporis vel animae 
+      <lb ed="#C" n="50"/>isti est de consilio stare in angusta latitudine. 
+      Ex<lb ed="#C" n="51" break="no"/>emplum de sagittario non est ad propositum. non 
+      pec<lb ed="#C" n="52" break="no"/>cat siue propinque siue remote ad signum dirigat 
+      sa<lb ed="#C" n="53" break="no"/>gittam. sed assistentes dicerent quod non bene agit. 
+   </p>
+            <p xml:id="jb2v19-d99027-d1e894">
+               <lb ed="#C" n="54"/>¶ Secundo sagittarius apponit vires vt non 
+      pro<lb ed="#C" n="55" break="no"/>pinquissime sagittam dirigat. modo iste non esset 
+      <lb ed="#C" n="56"/>laudandus si non posset viuere in minori 
+      latitu<lb ed="#C" n="57" break="no"/>dine quam imperfectus: et tamen constat quod sic: sed non 
+      <lb ed="#C" n="58"/>est imponendum in iugum de praecepto perfectis quod solum 
+      <lb ed="#C" n="59"/>est de consilio.
+   </p>
+            <p xml:id="jb2v19-d99027-d1e911">
+      ¶ Tertio arguit auctoritate. 
+      Ber<lb ed="#C" n="60" break="no"/>nardi dicentis: quod invia morum non progredi retroce¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>dere est. ergo vir sanctus qui prius cum 
+      imperfe<lb ed="#C" n="62" break="no"/>ctus esset habuit medium temperantie multe latitu 
+      <lb ed="#C" n="63"/>dinis. si non continue magis accedat ad medium illius 
+      <lb ed="#C" n="64"/>medii: et faciat respectu sui medium illud 
+      latitudi<lb ed="#C" n="65" break="no"/>nis mi noris: si non procedit nec progreditur in via 
+      <lb ed="#C" n="66"/>morum ergo retrocedit: et peccat.
+   </p>
+            <p xml:id="jb2v19-d99027-d1e931">
+      ¶ Ad tertium 
+      dici<lb ed="#C" n="67" break="no"/>tur: illa auctoritas ad mentem arguentis accepta 
+      <lb ed="#C" n="68"/>concluderet: quod continuo diminuenda est latitudo 
+      tem<lb ed="#C" n="69" break="no"/>perantie in viro perfecto ad non quantum vsque. et 
+      na<lb ed="#C" n="70" break="no"/>turaliter viuet in aere sine cibo et potu: quod 
+      li<lb ed="#C" n="71" break="no"/>esse falsum. Aliomodo: illa auctoritas potest 
+      in<lb ed="#C" n="72" break="no"/>telligi: quod homo semper tenetur progredi invia 
+      amo<lb ed="#C" n="73" break="no"/>rum: et hoc non oportet. Patet in dormiente. ibi 
+      <lb ed="#C" n="74"/>non est maior sermo de perfecto quam imperfecto a 
+      <lb ed="#C" n="75"/>ctoritas intelligitur si homo non progrediatur quam 
+      <lb ed="#C" n="76"/>do tenetur peccat. Contra tertiam conclusione qua 
+      <lb ed="#C" n="77"/>guitur sic Mathei quintodecimo. Quod intrat 
+      <lb ed="#C" n="78"/>os non coinquinat hominem ergo assumptio cibi et 
+      <lb ed="#C" n="79"/>potus non coinquinat homine. Et a postolus. e 
+      <lb ed="#C" n="80"/>gnum dei non est cibus et potus. Ceterum. Aug. x. 
+      <lb ed="#C" n="81"/>confessionum. quis est domine qui aliquantulum extra 
+      me<lb ed="#C" n="82" break="no"/>tas necessitatis cibum non sumit:
+   </p>
+            <p xml:id="jb2v19-d99027-d1e968">
+      ¶ Ad primum 
+      di<lb ed="#C" n="83" break="no"/>citur licet assumptio cibi per suam natura non 
+      coin<lb ed="#C" n="84" break="no"/>quinat hominem: quia cibus potest bene sumi: tamen 
+      <lb ed="#C" n="85"/>inordinatus appetitus sumendi est peccatum. Et sic 
+      <lb ed="#C" n="86"/>de alia auctoritate dicatur. Auctoritas 
+      Augusti<lb ed="#C" n="87" break="no"/>ni est pro hoc quod in secunda conclusione dixi. Etiam 
+      <lb ed="#C" n="88"/>homo capit plus quam par sit per ignorantiam 
+      inuinci<lb ed="#C" n="89" break="no"/>bilem.
+   </p>
+            <p xml:id="jb2v19-d99027-d1e986">
+      ¶ Contra priorem partem quarte conclusionis 
+      <lb ed="#C" n="90"/>arguitur sic. Ex gula sequitur luxus / scisma in 
+      re<lb ed="#C" n="91" break="no"/>publica post fecudos calices homines sunt audacio 
+      <lb ed="#C" n="92"/>res et audacter loquuntur: vt patet Iudicum nono 
+      <lb ed="#C" n="93"/>contra abimelech. tunc temeraria vota super 
+      pa<lb ed="#C" n="94" break="no"/>uonem m lites effundere solent. et sic de aliis 
+      pec<lb ed="#C" n="95" break="no"/>catis magnis que ex gula sequuntur. Sed causa 
+      in<lb ed="#C" n="96" break="no"/>quolibet genere est potior causato.
+   </p>
+            <p xml:id="jb2v19-d99027-d1e1004">
+      ¶ Insuper: 
+      gu<lb ed="#C" n="97" break="no"/>la est maius peccatum quam homicidium. homicidium est vnum 
+      <lb ed="#C" n="98"/>de maximis peccatis saltem contra proximum: quod sit maius 
+      <lb ed="#C" n="99"/>homicidio patet sic quia homo tenetur plus se 
+      dili<lb ed="#C" n="100" break="no"/>gere quam proximum: ergo cum se occidit per gulam in 
+      <lb ed="#C" n="101"/>hoc maxime peccat.
+   </p>
+            <p xml:id="jb2v19-d99027-d1e1017">
+      ¶ Ad primum dicitur quod ista 
+      <lb ed="#C" n="102"/>alia peccata sunt contra gulam de per accidens: 
+      li<lb ed="#C" n="103" break="no"/>cet Cato dicat Conuiua raro. tamen antiqui post 
+      opi<lb ed="#C" n="104" break="no"/>pera conuiuia non peccant istis peccatis: sed qui 
+      no<lb ed="#C" n="105" break="no"/>uit se propensum ad vlteriora delicta perpetranda 
+      <lb ed="#C" n="106"/>post gulam talis multum peccat quia occasionem 
+      effi<lb ed="#C" n="107" break="no"/>cacem dat aliis delictis. Propterea gula in illo qui 
+      <lb ed="#C" n="108"/>habet carnem domitam non est tante im 
+      <lb ed="#C" n="109"/>tis sicut in illo qui carnem effrenem habet et 
+      maiua<lb ed="#C" n="110" break="no"/>peccatum est gula in colerico vel sanguineo quod in 
+      fleg<lb ed="#C" n="111" break="no"/>matico vel melancolico sicut de eorum temulentia 
+      <lb ed="#C" n="112"/>superius diximus.
+   </p>
+            <p xml:id="jb2v19-d99027-d1e1044">
+      ¶ Ad secundum argumentum 
+      <lb ed="#C" n="113"/>nego quod gula sit maius peccatum quam homicidium: 
+      cra<lb ed="#C" n="114" break="no"/>pulam incurrens non intendit occidere se. Nemo 
+      vn<lb ed="#C" n="115" break="no"/>quod carnem sua odio habuit sed intendit se laute 
+      refi<lb ed="#C" n="116" break="no"/>cere. preter intentionem eius est. ergo quod occidatur 
+      <lb ed="#C" n="117"/>etiam gula non protinus tollit verum de medio illud 
+      <lb ed="#C" n="118"/>Quintiliani in declamationibus. scelera nunquam de 
+      <lb ed="#C" n="119"/>fuit excusatio potissimum in gula habet veritatem 
+      <lb ed="#C" n="120"/>propter sensualitatem ad cibum et potum maxime
+      <pb ed="#V" n="167-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>inclinatam et rationem que creberrime illi 
+      condescen<lb ed="#C" n="2" break="no"/>dit. Contra posteri orem partem. Ex isto sequitur cum 
+      <lb ed="#C" n="3"/>his quae diximus quod homo nunquam deberet bibere vinum cum 
+      <lb ed="#C" n="4"/>ex eo tot mala sequantur: cuius oppositum est in 
+      pra<lb ed="#C" n="5" break="no"/>xi quicquid sit de theorica. Et confirmatur: si istud 
+      abo<lb ed="#C" n="6" break="no"/>minabiles mahometani hoc faciunt quam fortius 
+      de<lb ed="#C" n="7" break="no"/>berent christiani veram legem dei habentes hoc 
+      fa<lb ed="#C" n="8" break="no"/>cere: et istud potissimum de ecclesiasticis qui sunt in 
+      <lb ed="#C" n="9"/>sorte domini: quia dixit dominus ad aaron Leui. x. vinum puo 
+      <lb ed="#C" n="10"/>omne quo potes inebriari: non bibis tu: et filii 
+      tui<lb ed="#C" n="11" break="no"/>quado intrabis tabernaculum. Et Numeri 
+      sexto<lb ed="#C" n="12" break="no"/>quicumque votu fecerit domino a vino: et ouum quod 
+      ine<lb ed="#C" n="13" break="no"/>briare potest abstineat.
+   </p>
+            <p xml:id="jb2v19-d99027-d1e1096">
+      ¶ Ad primum nego 
+      seque<lb ed="#C" n="14" break="no"/>lam: vinum vt dicit ysaac de dietis li. 2. bonum 
+      nutri<lb ed="#C" n="15" break="no"/>mentum dat corpori lanitatem reddit et 
+      custodu<lb ed="#C" n="16" break="no"/>Nec vllus cibus nec potus inuenit adeo caloris 
+      <lb ed="#C" n="17"/>naturalis confortatiuus turbidum sanguinem 
+      clarifi<lb ed="#C" n="18" break="no"/>cat: epatis opilationem aufert: tenebrosam 
+      fumosi<lb ed="#C" n="19" break="no"/>tatem tristitie: generatiua a corde expellit. totiusque 
+      <lb ed="#C" n="20"/>corporis membra coroborat: et hoc si moderate 
+      <lb ed="#C" n="21"/>sumatur: quia vulgo dici solet. Uinum moderate 
+      <lb ed="#C" n="22"/>sumptum acuit ingenium. Propterea antiqui 
+      assi<lb ed="#C" n="23" break="no"/>milarunt vinum tyriace que in magna quantitate non 
+      <lb ed="#C" n="24"/>cet / in mediocri quatitate conducit: merorem a 
+      me<lb ed="#C" n="25" break="no"/>stis expellit. prouer. xxxiii. in eruditione qua mater 
+      <lb ed="#C" n="26"/>lamielis regis erudiuit eum dicebat date 
+      siceran<lb ed="#C" n="27" break="no"/>merentibus et vinum his qui amaro sunt animo: 
+      secun<lb ed="#C" n="28" break="no"/>dum illud horatianum. Sollicitis animis curam ex 
+      <lb ed="#C" n="29"/>cutit. In signum cuius damnati ad mortem vt 
+      equa<lb ed="#C" n="30" break="no"/>nimiter mortem perferant vt parrhisii videmus 
+      da<lb ed="#C" n="31" break="no"/>tur solum. eius excessus est prohibitus. Ad illud quod 
+      <lb ed="#C" n="32"/>tangitur de prseudo propheta mahometo dicitur: quod 
+      <lb ed="#C" n="33"/>vinum non vetuit temperantie gratia cum apud 
+      om<lb ed="#C" n="34" break="no"/>nes sapientes vt in lege veteri: et noua: et 
+      genti<lb ed="#C" n="35" break="no"/>les philosophos admittatur eius vsus 
+      modera<lb ed="#C" n="36" break="no"/>tus. Ipse aut es admisit aliquos actus 
+      intemperan<lb ed="#C" n="37" break="no"/>tie igne dignos innominados et licita interdixit 
+      <lb ed="#C" n="38"/>Sed quia morbum epilenticum passus est qui per vi 
+      <lb ed="#C" n="39"/>num augetur. vinum suis omnibus prohibuit vt suum 
+      mor<lb ed="#C" n="40" break="no"/>bum tegeret more Semiramidis babyloniorum 
+      <lb ed="#C" n="41"/>matrimonia admittentis in primo gradum consangui 
+      <lb ed="#C" n="42"/>nitatis: et linea collaterali vt palliaret de 
+      incestu<lb ed="#C" n="43" break="no"/>filii innominandum scelus. Nec difficile erat his / 
+      <lb ed="#C" n="44"/>bus fictam legem dedit hoc suscipere propter 
+      exces<lb ed="#C" n="45" break="no"/>siuum calorem patrii mecham in arabia felici illius 
+      <lb ed="#C" n="46"/>monstri altrix est longe vltra tropicum cancri. Ita 
+      <lb ed="#C" n="47"/>meridionalis sicut merone. Ad illud aliud leuitici. x. 
+      <lb ed="#C" n="48"/>dicitur quod neque sacerdotes cum celebraturi sunt in 
+      <lb ed="#C" n="49"/>lege gratie bibunt vinum: etiam illud est 
+      cerimonia<lb ed="#C" n="50" break="no"/>le. Tertia auctoritas loquitur de vino post votum 
+      <lb ed="#C" n="51"/>Iam arguitur quod vinum est sumendum esto quod propter 
+      <lb ed="#C" n="52"/>fumo sitatem cerebrum ledat: quia vinum iuuat 
+      stoma<lb ed="#C" n="53" break="no"/>chum ad digerendum vt medici experientia: et 
+      om<lb ed="#C" n="54" break="no"/>nes proclamant. Et apostolus ad Thimo. 
+      Modi<lb ed="#C" n="55" break="no"/>con virio propter stomachum vtere. et hoc 
+      hiero<lb ed="#C" n="56" break="no"/>nymus paula suadebat: ergo esto quod capiti noceat 
+      <lb ed="#C" n="57"/>pro confortatione stomachi capiendum est vinum etiam 
+      <lb ed="#C" n="58"/>bonum non aqua dilutum. Insuper: theologi diligunt 
+      <lb ed="#C" n="59"/>bonum vinum vt dicunt: quod patet per 
+      epitheton<lb ed="#C" n="60" break="no"/>boni vini dicimus hoc essevinu theologale. ergo
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>forte vinum est assumendum / licet cerebrum partim 
+      <lb ed="#C" n="62"/>ledat. Ulterius dediti litteris quicquid aliis 
+      predi<lb ed="#C" n="63" break="no"/>cent citius laborant podagra: et in ceteris morbis 
+      <lb ed="#C" n="64"/>quam hibuli. ergo iste morbus non prouenit ab 
+      exces<lb ed="#C" n="65" break="no"/>siuo vino. Ceterum auicenna in cautenis: et rasis in 
+      <lb ed="#C" n="66"/>almansoris dicant expedire semel in mense 
+      ebrie<lb ed="#C" n="67" break="no"/>tate incurrere ad malos expellendos humores. 
+      <lb ed="#C" n="68"/>Amplius secundum Aristotelem tertia particula 
+      pro<lb ed="#C" n="69" break="no"/>bleumatum: brassica fedat crapulam: et temulentiam 
+      <lb ed="#C" n="70"/>impedit. ergo medulla huius herbe vel succo eius 
+      <lb ed="#C" n="71"/>vtens potest quatulibet bibere irreprehensibile. 
+   </p>
+            <p xml:id="jb2v19-d99027-d1e1226">
+               <lb ed="#C" n="72"/>¶ Ad primum: oportet hominem considerare 
+      vtilita<lb ed="#C" n="73" break="no"/>tem refocillationis stomachi: et iacturam cerebri 
+      <lb ed="#C" n="74"/>per fumositatem et condescendere parti illi que totum 
+      <lb ed="#C" n="75"/>hominem magis relinquit dispositum: et vita non 
+      ab<lb ed="#C" n="76" break="no"/>breuiat. poteste est ita parua discrasio cerebri / et 
+      <lb ed="#C" n="77"/>vtilitatis in stomacho quod non est opus vino diluto 
+      <lb ed="#C" n="78"/>aqua: assuetus vinum bibere moderate nullam partur: 
+      <lb ed="#C" n="79"/>bationem capitis incurrit: sed vbi illud contingeret 
+      <lb ed="#C" n="80"/>conducit habere vitam breuiorem: et honestam quam 
+      longe<lb ed="#C" n="81" break="no"/>uam: et obscenam. Mater achillis (vt fingitur) citius 
+      <lb ed="#C" n="82"/>a diis filium habere voluit breuis vite: et celebris 
+      <lb ed="#C" n="83"/>fame quod longe vste cum ignominia vel sine fama. 
+      <lb ed="#C" n="84"/>Propterea apostolus temmperamentil adiecit 
+      in<lb ed="#C" n="85" break="no"/>quiens modico vino.
+   </p>
+            <p xml:id="jb2v19-d99027-d1e1259">
+      ¶ Ad aliud argumentum de 
+      <lb ed="#C" n="86"/>epitheto scilicet vino theologali forte hoc in 
+      lu<lb ed="#C" n="87" break="no"/>cem abiit per alios bonum vinum amantes qui 
+      osten<lb ed="#C" n="88" break="no"/>dunt illud esse honestum per theologos qui illud vi 
+      <lb ed="#C" n="89"/>num bibunt qui aliis predicant. Secundo. secundum 
+      ver<lb ed="#C" n="90" break="no"/>bum euangelicum religiosi capientes de his quae eis 
+      <lb ed="#C" n="91"/>apponuntur bibunt bonum: et malum indifferenter. In 
+      <lb ed="#C" n="92"/>multis partibus seculares non dant operam ver 
+      <lb ed="#C" n="93"/>bo diuino sed religiosi / in vniuersitatibus fit 
+      inc<lb ed="#C" n="94" break="no"/>sitio boni vini ab his qui conuiuium faciunt: et vinum 
+      <lb ed="#C" n="95"/>appositum theologi non abhorent secundum verbum 
+      <lb ed="#C" n="96"/>euangelicum edentes: et bibentes de his quae apud eos 
+      <lb ed="#C" n="97"/>sunt. Adde etiam. Nouerunt se posse sine iactura 
+      cor<lb ed="#C" n="98" break="no"/>poris vel anime tale vinum bibere.
+   </p>
+            <p xml:id="jb2v19-d99027-d1e1290">
+      ¶ Ad aliud 
+      di<lb ed="#C" n="99" break="no"/>citur: si qui tales sunt eos non excuso. suam carnem 
+      <lb ed="#C" n="100"/>domuit apostolus ne reprobus efficeretur his 
+      qui<lb ed="#C" n="101" break="no"/>bus euangelizauit. Secundo: litteris deditos 
+      ma<lb ed="#C" n="102" break="no"/>gis morbo affectos quam alios intemperantes 
+      vide<lb ed="#C" n="103" break="no"/>bis: sed gula et crapula non sunt in causa: sed statims 
+      <lb ed="#C" n="104"/>post refectionem assumptam conuertunt se ad 
+      contem<lb ed="#C" n="105" break="no"/>plationem vnde spiritus reuocatur ad interiora: et vi 
+      <lb ed="#C" n="106"/>res naturales impediuntur a sua actione naturali. 
+      <lb ed="#C" n="107"/>Ita quod in eis atrabilis cuiuscumque complexionis 
+      fue<lb ed="#C" n="108" break="no"/>rint originaliter admodum augetur nec 
+      exercita<lb ed="#C" n="109" break="no"/>tionem corporalem more aliorum habent: sed sufficit eis 
+      <lb ed="#C" n="110"/>in bibliotheca cum musis solatium querere: dato 
+      <lb ed="#C" n="111"/>quod pituitam incurrant. modo exercitatio corporis 
+      di<lb ed="#C" n="112" break="no"/>gestioni admodum conducit: vt videre est in agricolis 
+      <lb ed="#C" n="113"/>qui caules tempore prandii carnem bouinam: et ceteros 
+      <lb ed="#C" n="114"/>cibos digestioni ineptissimos comedentes 
+      opti<lb ed="#C" n="115" break="no"/>me se habent curam nullam spitritus prosequuntur: sed 
+      <lb ed="#C" n="116"/>cum suauitate cantus operam consumant de rebus 
+      sci<lb ed="#C" n="117" break="no"/>tu dignis docti si taceant syllogisant vel de 
+      tali<lb ed="#C" n="118" break="no"/>bus cum aliis colloquuntur in curarum multitudine 
+      <lb ed="#C" n="119"/>crebro ab aliis implicantur.
+   </p>
+            <p xml:id="jb2v19-d99027-d1e1338">
+      ¶ Ad illam auctoritatem 
+      <lb ed="#C" n="120"/>avicenne commentator dicit hoc esse erroneum.
+      <pb ed="#V" n="167-v"/>
+               <cb ed="#P" n="a"/>
+            </p>
+            <p xml:id="jb2v19-d99027-d1e1348">
+               <lb ed="#C" n="1"/>¶ Dubitatur: an intemperantia sit peior in 
+      sensibi<lb ed="#C" n="2" break="no"/>litate. Secundo dubitatur de filiabus gule.
+   </p>
+            <p xml:id="jb2v19-d99027-d1e1355">
+      ¶ Ad 
+      <lb ed="#C" n="3"/>primum dicitur secundum aristotelem. tertio Ethicorum 
+      <lb ed="#C" n="4"/>intemperantia est insensibilitate deterior
+   </p>
+            <p xml:id="jb2v19-d99027-d1e1362">
+      ¶ Ad 
+      se<lb ed="#C" n="5" break="no"/>cundum dicitur quod Gregorius. xxxi. moralium has filias 
+      <lb ed="#C" n="6"/>gule numerat ineptam leticia / scurrilitatem / 
+      immun<lb ed="#C" n="7" break="no"/>diciam / multiloquium / hebetudinem mentis 
+      circa<lb ed="#C" n="8" break="no"/>intelligentiam: non quod iste sint adequate filie gule 
+      plu<lb ed="#C" n="9" break="no"/>res bari possunt / et iste ab aliis matribus vel 
+      ea<lb ed="#C" n="10" break="no"/>rum alique originem capiunt. Insuper: ostendimus 
+      <lb ed="#C" n="11"/>non omnes ebrios multiloquos taciturnos in 
+      temu<lb ed="#C" n="12" break="no"/>lentia nec letos immo mestos.
+   </p>
+            <p xml:id="jb2v19-d99027-d1e1382">
+      ¶ Ad vltimum 
+      di<lb ed="#C" n="13" break="no"/>citur: licet hoc sit verum tamen sine ebrietate ex 
+      exa<lb ed="#C" n="14" break="no"/>cessiuo potu multa mala continguunt.
+   </p>
+            <p xml:id="jb2v19-d99027-d1e1389">
+      ¶ Dubitatur 
+      fi<lb ed="#C" n="15" break="no"/>naliter quare dicebam de ebrietate morali. 
+      Respon<lb ed="#C" n="16" break="no"/>sio: quia martinus termino abutitur sobrietatem 
+      po<lb ed="#C" n="17" break="no"/>nens in excessiuo potu dummodo bibens ratione vtitur: 
+      <lb ed="#C" n="18"/>sed illa non est sobrietas. Propterea ebrietas 
+      ca<lb ed="#C" n="19" break="no"/>pitur duobus modis. vnomodo pro quolibet ex 
+      <lb ed="#C" n="20"/>cessiuo potu culpabili: et illa est ebrietas moralis 
+      <lb ed="#C" n="21"/>quia sic moralis philosophus de ea loqui deberet. 
+      <lb ed="#C" n="22"/>alia est ebrietas vulgaris sic vulgus termino vti 
+      <lb ed="#C" n="23"/>tur quando homo priuatur ratione per excessiuum
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>
