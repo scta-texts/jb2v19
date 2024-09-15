@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 7</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 7</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="78-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d46451"><!-- l2d14q7 -->
+            <head xml:id="jb2v19-d46451-Hd1e101">Quaestio 7</head>
+            <head xml:id="jb2v19-d46451-Hd1e103" type="question-title">Utrum  sit aliqua influentia caelestis a luce, lumine et motu distincta, et an agat in haec inferiora</head>
+            <p xml:id="jb2v19-d46451-d1e106">
+               <lb ed="#C" n="74"/>SEptimo circa hanc distinctionem 
+      <lb ed="#C" n="75"/>queritur an sit aliqua influentia 
+      ce<lb ed="#C" n="76" break="no"/>lestis / a luce lumine / et motu / 
+      di<lb ed="#C" n="77" break="no"/>stincta: et an agat in hec 
+      inferio<lb ed="#C" n="78" break="no"/>tra. Et hic due sunt vie erronee: 
+      <lb ed="#C" n="79"/>quarum vna tenet errorem contra ex 
+      <lb ed="#C" n="80"/>perientia et lumen naturale nec est error 
+      periculo<lb ed="#C" n="81" break="no"/>sus. alia via aliquorum imprudentum astrologorum 
+      tan<lb ed="#C" n="82" break="no"/>tum causalitati celi datium vt libertatem voluntatis 
+      <lb ed="#C" n="83"/>plurimum ledant: et inique tam contra philosophiam 
+      <lb ed="#C" n="84"/>naturalem quam contra fidem lacerant. hec questio erit 
+      con<lb ed="#C" n="85" break="no"/>tra priorem illorum errorum 2. contra posteriorem. 
+   </p>
+            <p xml:id="jb2v19-d46451-d1e135">
+               <lb ed="#C" n="86"/>¶ Pro hac quaestione pono duas conclusiones. qua 
+      <lb ed="#C" n="87"/>rum prior est. Influentia est aliqua qualitas a 
+      lu<lb ed="#C" n="88" break="no"/>mine / luce et motu distincta 2. conclusio. illa 
+      in<lb ed="#C" n="89" break="no"/>fluentia: magnas trasmutationes facit in his in 
+      <lb ed="#C" n="90"/>ferioribus.
+   </p>
+            <p xml:id="jb2v19-d46451-d1e148">
+      ¶ Prior conclusio probatur. in 
+      visceri<lb ed="#C" n="91" break="no"/>bus terre multi effectus generantur: vt stamnum / 
+      plun<lb ed="#C" n="92" break="no"/>bum / ferrum / aurum / cuprum / argentum viuum / et 
+      argen<lb ed="#C" n="93" break="no"/>tum verum. super primum / saturnus habet dominium 
+      <lb ed="#C" n="94"/>vt volunt alchimiste. super 2. iuppiter. et sic descendem 
+      <lb ed="#C" n="95"/>do per planetas eo ordine quo hec metalla 
+      no<lb ed="#C" n="96" break="no"/>minata sunt. quod si eis non credas: quia in multis 
+      im<lb ed="#C" n="97" break="no"/>prudentes sunt et inutiliter crebriter laborant: non 
+      <lb ed="#C" n="98"/>minoratur intentio argumenti: sic ipsum ducendo. hec 
+      <lb ed="#C" n="99"/>metalla in visceribus terre generantur vt experiem 
+      <lb ed="#C" n="100"/>tia docet. et non a terra: immo varietates he in 
+      <lb ed="#C" n="101"/>terra non generantur a terra. nec est assignanda alia 
+      <lb ed="#C" n="102"/>causa nisi celi influentia. non sufficit dicere quod 
+      lu<lb ed="#C" n="103" break="no"/>men hoc facit. vides paruum corpus opacum 
+      impe<lb ed="#C" n="104" break="no"/>dit luminis generationem. quod non impedit 
+      in<lb ed="#C" n="105" break="no"/>fluentiam. sicut domus bene occulta et clausa 
+      im<lb ed="#C" n="106" break="no"/>pedit luminis ingressum in ea: et non soni.
+   </p>
+            <p xml:id="jb2v19-d46451-d1e186">
+      ¶ 
+      Pre<lb ed="#C" n="107" break="no"/>terea. piper frigidum formaliter et species 
+      aroma<lb ed="#C" n="108" break="no"/>tice multe calefaciunt. et non nisi a quadam 
+      qualita<lb ed="#C" n="109" break="no"/>te occulta et eis connaturali. non alia qualitate 
+      co<lb ed="#C" n="110" break="no"/>leram purgat reubarbarum: et saxiphraga vel radix 
+      <lb ed="#C" n="111"/>petrosilii renes. et ita de mille qualitatibus 
+      occul<lb ed="#C" n="112" break="no"/>tis herbarum in horto. quare ergo tales quaelitates 
+      <lb ed="#C" n="113"/>negabuntur a celo:
+   </p>
+            <p xml:id="jb2v19-d46451-d1e204">
+      ¶ Secunda conclusio probatur 
+      au<lb ed="#C" n="114" break="no"/>ctoritate philosophorum principis in lumine 
+      na<lb ed="#C" n="115" break="no"/>turali scitissime loquentis primo metheororum. 
+      ne<lb ed="#C" n="116" break="no"/>cesse est hunc mundum inferiorem lationibus 
+      supe<lb ed="#C" n="117" break="no"/>rioribus esse contiguum vt tota virtus eius 
+      inde<lb ed="#C" n="118" break="no"/>gubernetur. et illud experientiis patet tam circa 
+      <lb ed="#C" n="119"/>mixta quam elementa. cometa indicat quid celum 
+      fa<lb ed="#C" n="120" break="no"/>cit in aere ipsum circulariter mouendo: et a for¬
+      <pb ed="#V" n="78-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>tiore in igne ei propinquiore ipsum circa terram 
+      <lb ed="#C" n="2"/>mouendo. et fluxus et refluxus oceani quid celum in 
+      <lb ed="#C" n="3"/>aqua possit. vas plenum aqua in oppositionem 
+      lumi<lb ed="#C" n="4" break="no"/>narium: limites sui vasis in oppositione transcut 
+      <lb ed="#C" n="5"/>rit. et magna nauis in portum expectat 
+      oppositio<lb ed="#C" n="6" break="no"/>nem luminarium vt ad mare conscendat. 
+      generatio<lb ed="#C" n="7" break="no"/>metalli in terra: vt patet per aristo. 4. metheoro 
+      <lb ed="#C" n="8"/>rum. quod multum possit circa animata tam 
+      anima<lb ed="#C" n="9" break="no"/>vegetatiua quam sensitiua: patet. nam si arbores 
+      fa<lb ed="#C" n="10" break="no"/>cientes fructus plantaueris in plenilunio: non 
+      fru<lb ed="#C" n="11" break="no"/>ctificant: ex quo luna est mater humiditatum: in 
+      ple<lb ed="#C" n="12" break="no"/>nilunio humiditates augeni. quia sua influentia 
+      iu<lb ed="#C" n="13" break="no"/>uatur lumine vt diximus in quaestione precedenti. 
+      <lb ed="#C" n="14"/>et tanta erit arboris humiditas quam eius natura non 
+      <lb ed="#C" n="15"/>potest humiditatem regulare. et ion illud quod 
+      de<lb ed="#C" n="16" break="no"/>bet in fructus conuerti in ramos et folia conuertetur. 
+      <lb ed="#C" n="17"/>ideo hortulani hoc cogscentes: huiuscemoni 
+      arbo<lb ed="#C" n="18" break="no"/>res luna non existente plena plantant als arbores non 
+      <lb ed="#C" n="19"/>facientes fructus (quemadmodum sen salices et quercus) 
+      <lb ed="#C" n="20"/>plantant in plenilunio. hinc si putentur vites non existente 
+      <lb ed="#C" n="21"/>lumine lune: minores ramos germinant. sed aucto lumine 
+      <lb ed="#C" n="22"/>lune: oppositum contingit. hinc aliqui megraneam 
+      <lb ed="#C" n="23"/>capitis et multos alios morbos capitis in 
+      pleni<lb ed="#C" n="24" break="no"/>lunio patiuntur: quorum aliqui probrose dicuntur lunatici 
+      <lb ed="#C" n="25"/>conche et ostree / et cancri / et pisces testium / in 
+      for<lb ed="#C" n="26" break="no"/>titudine luminis lune valent: et a prudentibus solum 
+      <lb ed="#C" n="27"/>tunc emuntur. non als periti medici dies creticos 
+      no<lb ed="#C" n="28" break="no"/>tant non alias puer octauo mense genitus viuit 
+      <lb ed="#C" n="29"/>communiter extra egiptum in qua mulieres facile 
+      <lb ed="#C" n="30"/>pariunt: nisi quia saturnus (vt astronomi aiunt) 
+      pri<lb ed="#C" n="31" break="no"/>mo in puero operatur: et sua frigiditate sanguine 
+      men<lb ed="#C" n="32" break="no"/>struum et sperma in vnum contrahendo: et sic 
+      commi<lb ed="#C" n="33" break="no"/>scendo. postea reliqui sex planete suos menses 
+      ha<lb ed="#C" n="34" break="no"/>bent circa regimen pueri. et redeundo saturnus in 
+      <lb ed="#C" n="35"/>octauo mense. sed illa probatio est reliquis 
+      ineffi<lb ed="#C" n="36" break="no"/>cacior. vnus ad carima: vt naso. Quicquid 
+      conabar<lb ed="#C" n="37" break="no"/>dicere versus erat. alter ad prosam non ad cariva vt 
+      <lb ed="#C" n="38"/>tullius de quo iuuenalis. O fortunatam natam 
+      me<lb ed="#C" n="39" break="no"/>consule roma antho. gladios poterat contempne 
+      <lb ed="#C" n="40"/>re. sic omnia dixisset. nascuntur poete: fiunt 
+      orato<lb ed="#C" n="41" break="no"/>res secundum verbum comune. non alias variarum regionum 
+      <lb ed="#C" n="42"/>homines varias habent inclinationes et mores 
+      <lb ed="#C" n="43"/>vt afri astuti et vafri: meridionales prudentiores 
+      <lb ed="#C" n="44"/>septentrionalibus. ecouerso septentrionales 
+      robu<lb ed="#C" n="45" break="no"/>stiores et anio fortes: vt aristo. dicit. 14. particla 
+      <lb ed="#C" n="46"/>probleumatum probleumate. 1. et probleumate. 8. 
+      di<lb ed="#C" n="47" break="no"/>cit quod habitantes in locis calidis sunt timidi: et 
+      in<lb ed="#C" n="48" break="no"/>regionibus frigidis fortes et viriles. Simile 
+      ha<lb ed="#C" n="49" break="no"/>bet princeps capite vndecimo doctrine secunde 
+      <lb ed="#C" n="50"/>fen 2. primi. et causa est: propter frigus circunstans 
+      eo<lb ed="#C" n="51" break="no"/>vrum regiones: calor naturalis eorum conseruatur et 
+      <lb ed="#C" n="52"/>intenditur sicut secundum hipocratem ventres hyeme et 
+      <lb ed="#C" n="53"/>vere calidissimi sunt natura. quod galenus in 
+      commen<lb ed="#C" n="54" break="no"/>to aphorismi. 15. particula prime: calor inquit in 
+      <lb ed="#C" n="55"/>yeme interiora ingreditur et ibidem adunatur. in 
+      <lb ed="#C" n="56"/>estate autem sue similitudini gaudens et exteriora 
+      <lb ed="#C" n="57"/>petens dissoluitur et in corpore minoratur. hoc est. ad 
+      <lb ed="#C" n="58"/>ueniente frigore hyemis constringuntur pori nostri 
+      <lb ed="#C" n="59"/>corporis: et calor et spiritus intus retinentur et 
+      pro<lb ed="#C" n="60" break="no"/>hibentur exhalare. propter quod interius fortifice
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>praeterea. doctrina est philosophorum et eccle 
+      stasti<lb ed="#C" n="62" break="no"/>corum quod parentum mores transeunt in filios. patet 
+      pri<lb ed="#C" n="63" break="no"/>mo politicorum apud philosophum. et 
+      interdice<lb ed="#C" n="64" break="no"/>re sacerdotum filiis et illegitime natis promoueri 
+      <lb ed="#C" n="65"/>ad sacra: nisi cum eis dispesetur. ergo non est 
+      negan<lb ed="#C" n="66" break="no"/>dum a celo praeterea nunquid ab influentia celi vac 
+      <lb ed="#C" n="67"/>ce pro imbre futura relictis pascuis redeunt ad 
+      <lb ed="#C" n="68"/>presepe: et meota relinquit mare et petit campos. 
+      <lb ed="#C" n="69"/>ista pluuiam praenosticant vt videre est apud 
+      aristote<lb ed="#C" n="70" break="no"/>lem in methec et nec sententie aristotelis 
+      refraga<lb ed="#C" n="71" break="no"/>tur diuus augustinus theologus ex ercitatissimus. 
+      <lb ed="#C" n="72"/>libro. 3 de trinitate. c. 4. asserens corpora 
+      crassio<lb ed="#C" n="73" break="no"/>ra inferiora per subtiliora et potentiora ordine 
+      <lb ed="#C" n="74"/>quodam regi. et libro. 3 de ciuitate dei. c. 6 non 
+      vs<lb ed="#C" n="75" break="no"/>quequaque absurde dici potest ad solas corporum 
+      <lb ed="#C" n="76"/>differentias afflatus quosdam valere sidereos: sicut 
+      <lb ed="#C" n="77"/>in solaribus accessibus et decessibus. videmus etiam 
+      <lb ed="#C" n="78"/>ipsius ani tempora variari: et luminaribus crementis 
+      <lb ed="#C" n="79"/>augeri et minui quedam genera rerum: sicut echi nos 
+      <lb ed="#C" n="80"/>et conchas / et mirabiles estus oceaui: non autem 
+      ani<lb ed="#C" n="81" break="no"/>mi voluntates: positionibus siderum subdi. dicit 
+      ta<lb ed="#C" n="82" break="no"/>men corporum differentias non necessario esse a 
+      cele<lb ed="#C" n="83" break="no"/>sti influxu: cum simul concipi possunt gemini 
+      di<lb ed="#C" n="84" break="no"/>uersi sexus. quid autem inquit tam ad corpus 
+      per<lb ed="#C" n="85" break="no"/>tinens quam corporis sexus. fateor solum celum non 
+      suf<lb ed="#C" n="86" break="no"/>ficit ad sexum: sed causa seminis in caliditate et 
+      <lb ed="#C" n="87"/>frigiditate. sicut aristoteles docet quomodo 
+      pa<lb ed="#C" n="88" break="no"/>stores ligant testem sinistrum cum agnos masculons 
+      <lb ed="#C" n="89"/>querunt. et tempus ad generationem multum facit. 
+      pro<lb ed="#C" n="90" break="no"/>parterea in hyeme et flante borea citius quam austro 
+      <lb ed="#C" n="91"/>fieri debent matrimonia: vt 7. politicorum dicit 
+      <lb ed="#C" n="92"/>philosophus. et mulieres in egipto filios pariunt 
+      <lb ed="#C" n="93"/>qui viuunt raro in aliis partibus. ergo celum multum 
+      <lb ed="#C" n="94"/>facit ad partum. nec hoc negaret. b. augustinus.
+   </p>
+            <p xml:id="jb2v19-d46451-d1e432">
+      ¶ In 
+      <lb ed="#C" n="95"/>super argumentor per regulam inueniende 
+      causali<lb ed="#C" n="96" break="no"/>tatis (de qua in prima distinctione quaerti locuti sumus) 
+      <lb ed="#C" n="97"/>probabitur influentia celestis hos effectus dictos 
+      <lb ed="#C" n="98"/>et multo plures habere: sicut dicit aristo. 2. de 
+      <lb ed="#C" n="99"/>generatione sol in obliquo circulo est causa 
+      ge<lb ed="#C" n="100" break="no"/>nerationis. ergo non est neganda hec influentia a 
+      ce<lb ed="#C" n="101" break="no"/>lo per quam isti effectus suas causas reducuntur sine 
+      qui<lb ed="#C" n="102" break="no"/>bus nullam causam dare potes: viso quod omnibus his 
+      <lb ed="#C" n="103"/>positis non sequitur quod liberum arbitrium necessitetur 
+      <lb ed="#C" n="104"/>et ipsum a necessitate tenebimus ita immune sicut 
+      <lb ed="#C" n="105"/>tu qui hoc negas. non eo tendimus vt deliros 
+      mathe<lb ed="#C" n="106" break="no"/>maticos a beatorum deliriis excusemus: sed vt 
+      <lb ed="#C" n="107"/>ne veritas et experientia negetur. quibus negatis 
+      <lb ed="#C" n="108"/>putas imprudens non esse aliam viam. et per 
+      con<lb ed="#C" n="109" break="no"/>sequens multo facilius ei suadebitur tenere illa 
+      ma<lb ed="#C" n="110" break="no"/>thematicorum figmenta. nonne videmus vno tempore 
+      <lb ed="#C" n="111"/>nocet sanguinis diminutio: et modico vulnere 
+      <lb ed="#C" n="112"/>vno tempore homo moritur. et sic cum farmatia 
+      <lb ed="#C" n="113"/>applicata alio tempore non obest: sed prodest. 
+   </p>
+            <p xml:id="jb2v19-d46451-d1e476">
+               <lb ed="#C" n="114"/>¶ Contra has duas conclusiones sic argumentor: 
+      <lb ed="#C" n="115"/>Aliqui sunt bene complexionati. molles carne 
+      <lb ed="#C" n="116"/>sunt apti mente 2 de anima. talium lucidum 
+      inge<lb ed="#C" n="117" break="no"/>minum est reducendum in dispositionem corporis a 
+      <lb ed="#C" n="118"/>progenitoribus tractam.
+   </p>
+            <p xml:id="jb2v19-d46451-d1e489">
+      ¶ Secundo. aliqui sunt 
+      <lb ed="#C" n="119"/>meridionales ita audaces sicut iste vel ille borea 
+      <lb ed="#C" n="120"/>lis. pariter aliqui sunt bortales ita prestanti in¬
+      <pb ed="#V" n="79-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>genio sicut multi meridionales: ergo falsum est 
+      <lb ed="#C" n="2"/>quod influentia celi hoc faciat.
+   </p>
+            <p xml:id="jb2v19-d46451-d1e505">
+      ¶ Ad primum concedo: 
+      dis<lb ed="#C" n="3" break="no"/>positio corporis multum facit ad sublime ingenium 
+      <lb ed="#C" n="4"/>visis manuu palmis: statim iudicamus si quis habeat 
+      <lb ed="#C" n="5"/>sublime ingenitu per carnis teneritudinem / per puarum 
+      <lb ed="#C" n="6"/>rigarum mitipsicitatem. ad hoc tamen celum partialiter concurrit: 
+      <lb ed="#C" n="7"/>et etiam parentes influentia celestis est solum partialis 
+      causa<lb ed="#C" n="8" break="no"/>et remota ingenium nisi colatur: instar ferri contrahit 
+      <lb ed="#C" n="9"/>rub iginem et obtunditur. exercitatio ipsum coadunat 
+      <lb ed="#C" n="10"/>fabricando fabri fimus. cui alludit psalmista. 
+      in<lb ed="#C" n="11" break="no"/>tellectus bonus omnibus facientibus eum.
+   </p>
+            <p xml:id="jb2v19-d46451-d1e528">
+      ¶ Ad secundud 
+      <lb ed="#C" n="12"/>apparet illud coniter verum quod est assumptu quod 
+      me<lb ed="#C" n="13" break="no"/>ridionales plus valent mente quam boreales. ecouerso 
+      <lb ed="#C" n="14"/>alii plus animositate et corporis viribus. sed non sequitur 
+      <lb ed="#C" n="15"/>quod septentrionales alios vicerent sper. sepe compertum est 
+      <lb ed="#C" n="16"/>quod subtiles inuentiones in re militari equiparantur 
+      <lb ed="#C" n="17"/>viribus et animositati aliorum. Ptolomeus in secundo tracta 
+      <lb ed="#C" n="18"/>tu quadripartiti vbiuis gentium mores describens 
+      di<lb ed="#C" n="19" break="no"/>cit. Horum autem qui meridiei sunt proximiores: in 
+      maio<lb ed="#C" n="20" break="no"/>ri parte melioris sunt ingenii / et acutioris 
+      intel<lb ed="#C" n="21" break="no"/>lectus / et in scientia rerum secularium fortiores / propter 
+      cir<lb ed="#C" n="22" break="no"/>culi signorum et stellarum erraticarum loco zenith 
+      ca<lb ed="#C" n="23" break="no"/>pitum eorum propinquitatem: quod alia transtatio clarius 
+      pro<lb ed="#C" n="24" break="no"/>sequitur sic inquiens. et motus suorum intellectuum 
+      <lb ed="#C" n="25"/>conuenienter motui stellarum: et assimilantur eis inueni 
+      <lb ed="#C" n="26"/>endo res cito. suntque magni studii in quaedriuiales sci 
+      <lb ed="#C" n="27"/>entias leuitur perquirendo ad illos qui morantur in terris 
+      <lb ed="#C" n="28"/>quae temperate sunt inter frigus et calorem a parte meridiei 
+      <lb ed="#C" n="29"/>quod hali habenrodan / in commento exponens dicit. isti 
+      <lb ed="#C" n="30"/>sunt de. 3. 4. 5. climatibus: et generaliter de omnibus qui 
+      moram<lb ed="#C" n="31" break="no"/>tur inter latitudinem. 3 4. ereduum vsque ad latitudinem 
+      <lb ed="#C" n="32"/>44. Ptholomeus hic loquitur communiter et dicit in 
+      scien<lb ed="#C" n="33" break="no"/>tia quaedriuiali. licet isti qui ita scripserunt erant de partibus 
+      <lb ed="#C" n="34"/>his oriundi: forte est verum quod dicunt: et mihi 
+      vosimi<lb ed="#C" n="35" break="no"/>limum addo. non sper oportet habtre obtuitum ad latitudinem 
+      ce<lb ed="#C" n="36" break="no"/>li. boc est distantiam ab equetore. sed etiam ad longitudinem. sic 
+      <lb ed="#C" n="37"/>Ptholomeus dicit in quadripartito. Cum hece stat illud quod 
+      <lb ed="#C" n="38"/>argumentum quaerit: multos meridionales his vel 
+      il<lb ed="#C" n="39" break="no"/>lis septentr: onalibus dabis animosiores: et contra septentri 
+      <lb ed="#C" n="40"/>onales varios dabis qui his vel illis meridioalibus 
+      <lb ed="#C" n="41"/>prestant. bene dicebat Ptholomeus in quadriuiali 
+      <lb ed="#C" n="42"/>bus. hieronymus pannonus et multi litris vacantes 
+      <lb ed="#C" n="43"/>Parisius et in aliis vniuersitatibus germanie et 
+      bri<lb ed="#C" n="44" break="no"/>tamnie non inanitr tempus dilapidanit.
+   </p>
+            <p xml:id="jb2v19-d46451-d1e602">
+      ¶ Tertio arguitur 
+      <lb ed="#C" n="45"/>de his influentiis. vel sunt suobsane vel accestentia in quibus 
+      <lb ed="#C" n="46"/>subiectis sunt. et an sensibiles vel insensibiles. si 
+      <lb ed="#C" n="47"/>primum: quaere non sentimus aliqui sensu hamoni si insensibiles 
+      <lb ed="#C" n="48"/>non habemus causam eas ponendi.
+   </p>
+            <p xml:id="jb2v19-d46451-d1e613">
+      ¶ Quarto. vel sunt 
+      <lb ed="#C" n="49"/>accestentia indiuisibilia: et sic quo praesent inherere celo: 
+      <lb ed="#C" n="50"/>quod est extensum: secundum illud psal. qui extendis celum sicut 
+      pellen<lb ed="#C" n="51" break="no"/>si sunt qualitates extense videtur quod sint sensibiles. 
+      <lb ed="#C" n="52"/>et etiam quod impediri possint per obstaculum terre ne in eam 
+      <lb ed="#C" n="53"/>agant: sicut lumen impedire.
+   </p>
+            <p xml:id="jb2v19-d46451-d1e626">
+      ¶ Ad 3. dico quod sunt 
+      ac<lb ed="#C" n="54" break="no"/>cidentia et celo inherent ratione partis primo. vel totius 
+      pri<lb ed="#C" n="55" break="no"/>mo non refert quae multiplicantur ad nos sicut superius 
+      di<lb ed="#C" n="56" break="no"/>stinctione praecedenti de lumine diximus. et sunt insensibiles 
+      <lb ed="#C" n="57"/>ab omni sensu. sed non sequitur propterea quod non habeamus 
+      <lb ed="#C" n="58"/>causam eas ponendi. hoc tibi sic declaro. cum aliunde 
+      <lb ed="#C" n="59"/>sufficientur probare id possumus. nonne vides 
+      graue<lb ed="#C" n="60" break="no"/>sursum remoto prohibente descendere. ergo oportet dicere
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>quod aliquid mouet ipsum deorsum: vel guitas 
+      acce<lb ed="#C" n="62" break="no"/>dens: vel forma substantialis rei grauis. nunquid 
+      <lb ed="#C" n="63"/>motus iste quem percipis fae te deuetre in noticiam illius 
+      <lb ed="#C" n="64"/>quod aliquid est etia insensibile quod pellit illud corpus 
+      deor<lb ed="#C" n="65" break="no"/>sum. subsantia nulla (saltem ex te) pro hoc statu est sensibilis. non 
+      <lb ed="#C" n="66"/>obstante substantiam confiteris sicut in herbis et lapidibus 
+      contin<lb ed="#C" n="67" break="no"/>git. expatum est quod dialtea dolorem capitis mitigat si 
+      <lb ed="#C" n="68"/>militer succus papaueris cum oleo mixtus. quis per sensum 
+      lae<lb ed="#C" n="69" break="no"/>deprhenderet numquid pluries morbo per appositionem 
+      <lb ed="#C" n="70"/>talium curato: conclusum est hec his morbis mederi. 
+      <lb ed="#C" n="71"/>quemadmodum Galenus conclusit de corallo de 
+      dolo<lb ed="#C" n="72" break="no"/>re stomachi quod ipso remoto dolebat patiens. 
+      ipso<lb ed="#C" n="73" break="no"/>apposito minus dolebat: per regulam inueniende 
+      causalita<lb ed="#C" n="74" break="no"/>tis effectioe. alias non probas ignem calefactiuum et 
+      al<lb ed="#C" n="75" break="no"/>bedinem non albefactiua. iste vtutes sunt quaelitates 
+      <lb ed="#C" n="76"/>occulte: quia non cognite per sensum: sed per rationem et discursum 
+      <lb ed="#C" n="77"/>conuenientes herbis et lapidibus. et accesentia non 
+      pro<lb ed="#C" n="78" break="no"/>prie passiones. sed accesentia difficulter seperabilia a suis 
+      <lb ed="#C" n="79"/>sbsentis experimento quo scimus quod aliqua herba viridis vi 
+      <lb ed="#C" n="80"/>gorem habet: quoe desiccata parum aut nichil valet. 
+      <lb ed="#C" n="81"/>Aliqua valet et viridis et desiccata. virtus secunde 
+      <lb ed="#C" n="82"/>non ita cito remouetur a subiecto sicut virtus 
+      prio<lb ed="#C" n="83" break="no"/>ris. Aliqua non habet vigorem et robur nisi de 
+      <lb ed="#C" n="84"/>siccetur. aliqua nisi puluerisetur. virtutes he sunt 
+      <lb ed="#C" n="85"/>accidentia occulta herbis inherentia: quorum 
+      <lb ed="#C" n="86"/>aliqua requirunt alia accidentia ad hoc quod agant 
+      <lb ed="#C" n="87"/>fortiter / alia non requirunt. sicut superius 
+      dixi<lb ed="#C" n="88" break="no"/>mus de influentia lune que discoopertum 
+      diu<lb ed="#C" n="89" break="no"/>in radiis eius reddit paraliticum. Talis 
+      influen<lb ed="#C" n="90" break="no"/>tia ergo ad hoc quod talem habeat effectum 
+      requi<lb ed="#C" n="91" break="no"/>rit secum lumen. sic virtus occulta in herba vel 
+      <lb ed="#C" n="92"/>in lapide.
+   </p>
+            <p xml:id="jb2v19-d46451-d1e715">
+      ¶ Ad quartum dico. talia 
+      acci<lb ed="#C" n="93" break="no"/>dentia sunt extensa ad extensionem subiectorum 
+      <lb ed="#C" n="94"/>intensibilia et remissibilia. virtus influentie non 
+      <lb ed="#C" n="95"/>est infinita. tandem consumitur. ad certum limitem 
+      <lb ed="#C" n="96"/>protendere. sed non potest impedire per 
+      obsta<lb ed="#C" n="97" break="no"/>culum terre. voluit enim dominus deus ne 
+      ter<lb ed="#C" n="98" break="no"/>ra esset inanis sed nobis conduceret tam 
+      exteri<lb ed="#C" n="99" break="no"/>us quam interius. exterius fructus ferendo ad cibum et 
+      <lb ed="#C" n="100"/>potum. egemus auro argento ferro ad resistendum male 
+      <lb ed="#C" n="101"/>factoribus et inuadendos oppressores bonorum et rerum 
+      pu<lb ed="#C" n="102" break="no"/>blicarum partutbatores. aliis metall egemus vt videm est 
+      <lb ed="#C" n="103"/>in quotidiano hominum vsu. non omnes facile possumus bibere 
+      <lb ed="#C" n="104"/>aquam plicatis maibus more optimi diogenis. et quia 
+      <lb ed="#C" n="105"/>terra non potest ista producere seipsa: dedit dominus deus 
+      virtu<lb ed="#C" n="106" break="no"/>tem celo omnia talia procreandi. et si influentia non penetras 
+      <lb ed="#C" n="107"/>set terram plus quam lumen: nil in tra produxisset. dedit ergo 
+      eis<lb ed="#C" n="108" break="no"/>virtutem mltiplicande influentie vlterius per tram ad aliquem 
+      <lb ed="#C" n="109"/>limitem. dato quod influentia celi produceret influentiam totam 
+      <lb ed="#C" n="110"/>illam in medio in terra sine proc quod vna influentia aliam 
+      produce<lb ed="#C" n="111" break="no"/>ret in idem redit quo ad nostram difficltatem. sicut superius 
+      <lb ed="#C" n="112"/>diximus camera potest sic claudi quod lumen nilmlibet ingrediatur 
+      <lb ed="#C" n="113"/>eam: et tamen sonus audietur. ergo aliter sonus penetrat: aliter 
+      lumen<lb ed="#C" n="114" break="no"/>vltra hec omnia influentia penetrat. dominus Ioannes picus 
+      <lb ed="#C" n="115"/>mirandula li. 3 contra astronomos facit rationes contra 
+      <lb ed="#C" n="116"/>influentias celestes: quarum nullam adducere cura 
+      <lb ed="#C" n="117"/>bo tenet vir ille multis generibus linguarum et 
+      <lb ed="#C" n="118"/>plurima lectione virsatus fuerit rationes sue ex philsophia non 
+      <lb ed="#C" n="119"/>habent magnam vi: et potissime in hac man: propterea earum 
+      <lb ed="#C" n="120"/>nullam afferam. quia nullam podero: et liber est vulgaris
+      <pb ed="#V" n="79-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>quas videbis si voles. Ex omnibus perspicuum arbitror 
+      <lb ed="#C" n="2"/>celum non solum esse signum multorum effectuum in his 
+      inferi<lb ed="#C" n="3" break="no"/>oribus: sed etiam esse causam eorum.
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

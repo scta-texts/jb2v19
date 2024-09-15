@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 6</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 6</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="77-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d45966"><!-- l2d14q6 -->
+            <head xml:id="jb2v19-d45966-Hd1e101">Quaestio 6</head>
+            <head xml:id="jb2v19-d45966-Hd1e103" type="question-title">An in haec inferiora agat</head>
+            <p xml:id="jb2v19-d45966-d1e106">
+     Questio. vi.
+      <pb ed="#V" n="77-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>SExto: de celo queritur an in hec 
+      infe<lb ed="#C" n="2" break="no"/>riora agat. et quia dici solet quod motu 
+      <lb ed="#C" n="3"/>lumine et influentia in hunc globum 
+      <lb ed="#C" n="4"/>inferiorem agat celum. per motum 
+      calefa<lb ed="#C" n="5" break="no"/>cit. Probat hoc aristoteles primo metheororum et 
+      <lb ed="#C" n="6"/>prrimo de celo. si emittatur sagitta cuius sine est 
+      <lb ed="#C" n="7"/>plumbum: ipsa calefit. et non potest dari alia 
+      ca<lb ed="#C" n="8" break="no"/>nisi motus localis. Secunda experientia: tempoune tempestatio 
+      <lb ed="#C" n="9"/>interdum malum nauis agitatione incenditur. quando 
+      <lb ed="#C" n="10"/>ligna dura terebramus: ferrum videmus celefieri: 
+      <lb ed="#C" n="11"/>idem fit in axe moto continuo in ventriculo 
+      plau<lb ed="#C" n="12" break="no"/>stri. Propterea rustici pinguedinem apponunt ad 
+      <lb ed="#C" n="13"/>calorem impediendum: nec te moueat quod motus est 
+      <lb ed="#C" n="14"/>ens successiuum non potens producere calorem. ens 
+      per<lb ed="#C" n="15" break="no"/>manens. nec aliquod agens producit qualitatem 
+      <lb ed="#C" n="16"/>violentam sue forme in se. ergo lapis frigidus non 
+      <lb ed="#C" n="17"/>producit calorem in se. Primum non vincit propter 
+      <lb ed="#C" n="18"/>duo. sonus producit noticiam sui 2. dico motum non esse 
+      <lb ed="#C" n="19"/>accidens distinctum. et c. Ad 2. motiuum dicetur: ferrum 
+      <lb ed="#C" n="20"/>producit calorem in lapidem et contra vel motus 
+      ta<lb ed="#C" n="21" break="no"/>les. nonne vides lotrices in hyeme prope 
+      sequan<lb ed="#C" n="22" break="no"/>circunuoluere brachia et manus circa humeros 
+      <lb ed="#C" n="23"/>vt calefiant. videmus quod motus localis nisi sit 
+      <lb ed="#C" n="24"/>impedimentum calefaceret quando fit cum 
+      confrica<lb ed="#C" n="25" break="no"/>tione. alia pars mota cui nichil immediate 
+      adiun<lb ed="#C" n="26" break="no"/>gitur: ad confricationem non calefacit: vt patet de 
+      <lb ed="#C" n="27"/>parte interiori sagitte vel de parte interiore 
+      mo<lb ed="#C" n="28" break="no"/>laris moti. nec motus lapis in aqua calesit 
+      pro<lb ed="#C" n="29" break="no"/>pter frigus aque. quod aqua decurrens non tantum cale 
+      <lb ed="#C" n="30"/>fiat sicut aqua stagnalis: non est ex defectu motus: 
+      <lb ed="#C" n="31"/>sed quia non expectat actionem luminis continuo 
+      cale<lb ed="#C" n="32" break="no"/>facientis. sicut capus celeriter giratus circa 
+      ve<lb ed="#C" n="33" break="no"/>ru non sic calefit sicut capus continuo stans ad vnam 
+      <lb ed="#C" n="34"/>partem: etiam proportionabiliter capiendo tempus. 
+      <lb ed="#C" n="35"/>siue motus localis sit mobile siue ens successiuum: 
+      <lb ed="#C" n="36"/>idem est. hoc modo dici potest celum sua influentia 
+      <lb ed="#C" n="37"/>mouet localiter giratiue ignem et magnam partem 
+      <lb ed="#C" n="38"/>aeris circa terram. et ratione illius motus calefiunt. 
+      <lb ed="#C" n="39"/>similiter aliqua corpora hic inferius agitantur a 
+      ce<lb ed="#C" n="40" break="no"/>lo ratione cuius calefierent nisi esset obex: vel 
+      ea<lb ed="#C" n="41" break="no"/>lorem in summo haberent vt ignis prope lunam. sed quia 
+      <lb ed="#C" n="42"/>maior est actio influentie in hec inferiora quam 
+      mo<lb ed="#C" n="43" break="no"/>tus localis: motum localem missum facio: totaliter 
+      <lb ed="#C" n="44"/>ad influentiam aciem mentis conuerto.
+   </p>
+            <p xml:id="jb2v19-d45966-d1e208">
+      ¶ In primis 
+      <lb ed="#C" n="45"/>scito quod influentiam a lumine et motu distincta 
+      ne<lb ed="#C" n="46" break="no"/>gat dominus picus miraduia. super hoc erit specialis 
+      <lb ed="#C" n="47"/>questio. quod lumen producat et mediante illo 
+      ca<lb ed="#C" n="48" break="no"/>lorem: ab aliquibus in dubium reuocatum est. 
+      propte<lb ed="#C" n="49" break="no"/>rea circa hanc materiam tres speciales inquiram 
+      <lb ed="#C" n="50"/>questiones. prima earum (que est sexta in ordine) que 
+      <lb ed="#C" n="51"/>stionum huius distinctionis erit an lumen sit productiuum 
+      <lb ed="#C" n="52"/>caloris. Secunda quaestio et. 7. in ordine 
+      distinctio<lb ed="#C" n="53" break="no"/>nis erit an influentia celestis distinguatur a lumine 
+      <lb ed="#C" n="54"/>celi et motu. et an agat in hec inferiora. Tertia 
+      <lb ed="#C" n="55"/>erit an agat in liberum arbitrium. et illa erit octaua 
+      <lb ed="#C" n="56"/>questio huius distinctionis.
+   </p>
+            <p xml:id="jb2v19-d45966-d1e237">
+      ¶ Circa primam 
+      quaestio<lb ed="#C" n="57" break="no"/>nem commentator 2. methaphisice videtur tenere 
+      <lb ed="#C" n="58"/>partem negatiuam quod lumen non causat calorem. et dicit 
+      <lb ed="#C" n="59"/>aristotelem id voluisse scilibet quod motus orbis 
+      gene<lb ed="#C" n="60" break="no"/>rat calorem in corpore immediato sibi: et illud in
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>alio: et sic deinceps ad nos vsque. sol autem plus 
+      ca<lb ed="#C" n="62" break="no"/>loris dat quia maior est et spissior aliis stellis et 
+      pla<lb ed="#C" n="63" break="no"/>netis. et ideo fortius commouet corpus quod sub eo 
+      <lb ed="#C" n="64"/>est.
+   </p>
+            <p xml:id="jb2v19-d45966-d1e260">
+      ¶ Ponitur hec conclusio. lumen immed ate 
+      <lb ed="#C" n="65"/>causat calorem. Probatur. lumen solis in 
+      speculo<lb ed="#C" n="66" break="no"/>concauo stupa applicata successu temporis ne dum 
+      <lb ed="#C" n="67"/>stupam calefacit sed eam incinerat: sicut recte dicit 
+      <lb ed="#C" n="68"/>euclides theoreumate. 3I in suis specularibus. 
+      spe<lb ed="#C" n="69" break="no"/>culum non mouetur nec motus localis hoc facit. 
+      <lb ed="#C" n="70"/>Tum primo. tale accidens successiuum numquam 
+      produ<lb ed="#C" n="71" break="no"/>ceret ignem. Tum 2. sol non plus mouetur super 
+      spe<lb ed="#C" n="72" break="no"/>culum quam super alia corpora. Secundo arguitur. dato 
+      <lb ed="#C" n="73"/>opposito: non potest reddi causa quare est maior 
+      <lb ed="#C" n="74"/>calor in pariete opposito soli quam in alio loco. sed 
+      <lb ed="#C" n="75"/>illic est maior calor. igitur. Minor patet ad 
+      expe<lb ed="#C" n="76" break="no"/>rientiam. hinc quando sol in vere appropinquare 
+      no<lb ed="#C" n="77" break="no"/>bis incipit: mulieres rurales cum collis ad 
+      nen<lb ed="#C" n="78" break="no"/>dum ad parietes soli obiectos vadunt: et 
+      burre<lb ed="#C" n="79" break="no"/>tas dei loco burretarum venalium accipiunt. 
+      ponen<lb ed="#C" n="80" break="no"/>do lumen calefacere: omnia hec saluantur. illic est 
+      lu<lb ed="#C" n="81" break="no"/>men reflexum cum directo. et per consequens 
+      ma<lb ed="#C" n="82" break="no"/>ior calor quam in loco alio propinquiori soli. dando 
+      op<lb ed="#C" n="83" break="no"/>positum: non potest dari causa. Tertio arguitur. lumen 
+      <lb ed="#C" n="84"/>lune calefacit quod minus videtur quam de aliis 
+      lumi<lb ed="#C" n="85" break="no"/>nibus. patet. noctes sunt calidiores in plenilunio 
+      <lb ed="#C" n="86"/>quam in nouilunio vel quaedris: vt dicit aristoteles 
+      quin<lb ed="#C" n="87" break="no"/>to de partibus animalium. capitulo quinto. ergo 
+      <lb ed="#C" n="88"/>lumen calefacit. Quarto. oculi cattorum 
+      liquefa<lb ed="#C" n="89" break="no"/>ciunt niuem prope positam. et hoc non nisi per 
+      produ<lb ed="#C" n="90" break="no"/>ctione lumins plus quod animalia. igitur.
+   </p>
+            <p xml:id="jb2v19-d45966-d1e319">
+      ¶ Contra hanc 
+      <lb ed="#C" n="91"/>conclusionem arguitur sic. ex conclusione sequitur quod 
+      <lb ed="#C" n="92"/>ommia astra et planete sunt calefactiue. consequens 
+      <lb ed="#C" n="93"/>est falsum. saturnus est frigefactinus.
+   </p>
+            <p xml:id="jb2v19-d45966-d1e328">
+      ¶ 
+      Secun<lb ed="#C" n="94" break="no"/>do arguitur. antiqua et putrida quercus non calefa 
+      <lb ed="#C" n="95"/>cit: et tamen producit lumen. igitur.
+   </p>
+            <p xml:id="jb2v19-d45966-d1e335">
+      ¶ Respondetur: 
+      <lb ed="#C" n="96"/>concedo quod saturnus et planeta quilibet suo lumine est 
+      <lb ed="#C" n="97"/>calefactiuus: licet influentia occulta frigefaciat mediam 
+      <lb ed="#C" n="98"/>tibus variis instrumentis varias habet actiones 
+   </p>
+            <p xml:id="jb2v19-d45966-d1e344">
+               <lb ed="#C" n="99"/>¶ Contra hoc arguitur. quando noctes sunt pulcherrime 
+      <lb ed="#C" n="100"/>in hyeme et stelle lucet sunt magna frigora. 
+      er<lb ed="#C" n="101" break="no"/>go sequitur quod lumen non calefacit.
+   </p>
+            <p xml:id="jb2v19-d45966-d1e353">
+      ¶ Responsio. 
+      lumen<lb ed="#C" n="102" break="no"/>iuuat influentiam ad operandum: ergo frigefacit 
+      la<lb ed="#C" n="103" break="no"/>men est lima influentie frigefactiue sicut siccitas 
+      <lb ed="#C" n="104"/>est lima caloris. hinc dormiens discooperens in 
+      ra<lb ed="#C" n="105" break="no"/>diis lune: paraliticus efficitur. et sine lumine non 
+      effi<lb ed="#C" n="106" break="no"/>ceret paraliticus. Contra hoc arguitur. hac via das 
+      <lb ed="#C" n="107"/>michi occasionem tenendi quod lumen non calefacit: sed 
+      <lb ed="#C" n="108"/>est lima influentie calefactiue calorem producentis. 
+   </p>
+            <p xml:id="jb2v19-d45966-d1e372">
+               <lb ed="#C" n="109"/>¶ Respondetur non est idem. per regulam 
+      inuenien<lb ed="#C" n="110" break="no"/>de causalitatis actiue probabitur lume respectu 
+      ca<lb ed="#C" n="111" break="no"/>loris efficientiam habere.
+   </p>
+            <p xml:id="jb2v19-d45966-d1e381">
+      ¶ Ad 2 conceditur quod 
+      pu<lb ed="#C" n="112" break="no"/>tedra quercus non multum calefacit quia non habet 
+      <lb ed="#C" n="113"/>multum de calore.
+   </p>
+            <p xml:id="jb2v19-d45966-d1e388">
+      ¶ Tertio arguitur. ex dictis sequitur 
+      <lb ed="#C" n="114"/>quod calor non debet dici qualitas prima. cum sit 
+      ali<lb ed="#C" n="115" break="no"/>qua qualitas prior illa productiua caloris. 
+      conse<lb ed="#C" n="116" break="no"/>quens est contra aristotelem primo de generatione 
+   </p>
+            <p xml:id="jb2v19-d45966-d1e397">
+               <lb ed="#C" n="117"/>¶ Quarto arguitur. si lumen esset calefactiuum sequitur quod 
+      <lb ed="#C" n="118"/>alba essent nigris calidiora consequens est falsum. 
+      <lb ed="#C" n="119"/>mulieres sunt viris frigidiores: et tamen sunt 
+      al<lb ed="#C" n="120" break="no"/>biores hinc praelingunt nigre nutrices ante ali¬
+      <pb ed="#V" n="78-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>tanquam calidiores consequentia tamen patet. quia 
+      <lb ed="#C" n="2"/>albedo plus participat de iure quod nigredo. 
+   </p>
+            <p xml:id="jb2v19-d45966-d1e417">
+               <lb ed="#C" n="3"/>¶ Ad. 3. respondetur negando sequelam. non dicitur 
+      <lb ed="#C" n="4"/>prima in ordine ad qualitates celestes cuius est 
+      <lb ed="#C" n="5"/>lumen. Sed est prima in ordine ad qualitates 
+      <lb ed="#C" n="6"/>mixtorum et elementorum.
+   </p>
+            <p xml:id="jb2v19-d45966-d1e428">
+      ¶ Ad quartum respondetur 
+      <lb ed="#C" n="7"/>negando sequelam. non omnia alba sunt lucida. si sit 
+      <lb ed="#C" n="8"/>aliquod album habens lucem innatam de illo habes 
+      <lb ed="#C" n="9"/>colorem. albedo est qualitas distincta a luce. 
+      alba<lb ed="#C" n="10" break="no"/>dicuntur participare cum lucido et non nigra: quia 
+      <lb ed="#C" n="11"/>magis mouent potentiam visiuam ad videndum qua 
+      <lb ed="#C" n="12"/>nigra. nix magna in camera tenebrosa proiecta si 
+      <lb ed="#C" n="13"/>ne vlteriore luce vel lumine visum immutat: et 
+      <lb ed="#C" n="14"/>non nigrum vt experimur. et istud potest esse 
+      alte<lb ed="#C" n="15" break="no"/>ro istoram modorum: quod corpora multa alba habent 
+      <lb ed="#C" n="16"/>cum albedine luce in eodem subiecto: vel albedo 
+      <lb ed="#C" n="17"/>potest esse sic intensa quod ipsa sola potentiam 
+      immu<lb ed="#C" n="18" break="no"/>tabit sine luce vel lumine. et ad hanc viam 
+      conse<lb ed="#C" n="19" break="no"/>quenter dicendum est lumen non requiritur: propter 
+      <lb ed="#C" n="20"/>colorem in communi ad potentiam immutandam. quia 
+      al<lb ed="#C" n="21" break="no"/>bedo multum intensa siue ipsa potentiam immutat. 
+      <lb ed="#C" n="22"/>vtraque istarum viarum est probabilis: elige quam 
+      vo<lb ed="#C" n="23" break="no"/>lueris.
+   </p>
+            <p xml:id="jb2v19-d45966-d1e468">
+      ¶ Quinto arguitur. si lumen esset calefactiuum 
+      <lb ed="#C" n="24"/>sequitur quod vbi esset plus de lumine ibi esset plus de 
+      <lb ed="#C" n="25"/>calore. consequens est falsum. semper media regio 
+      <lb ed="#C" n="26"/>aeris est frigida i. metheororum et alti montes 
+      <lb ed="#C" n="27"/>vt yporborei et riphei perpetua niue cadent eo quod 
+      <lb ed="#C" n="28"/>habent vertices in media regione acris. dicit ala 
+      <lb ed="#C" n="29"/>ten in suo tractatu de crepusculis vapores ex 
+      qui<lb ed="#C" n="30" break="no"/>bus fiunt nubes possunt eleuari a terra per 
+      quin<lb ed="#C" n="31" break="no"/>quaginta duo miliaria. idem dicit vitulio 
+      conclu<lb ed="#C" n="32" break="no"/>sione. 58. decimi. et infima est calida. et tamen 
+      mi<lb ed="#C" n="33" break="no"/>nus de lumine inferius. cum omne agens 
+      natura<lb ed="#C" n="34" break="no"/>le fortius agit in propinquum quam distans.
+   </p>
+            <p xml:id="jb2v19-d45966-d1e494">
+      ¶ 
+      Respon<lb ed="#C" n="35" break="no"/>detur: concedendo vbi est plus de lumine plus est de 
+      <lb ed="#C" n="36"/>calore ceteris paribus. est lumen directum et reflexum 
+      <lb ed="#C" n="37"/>regione infima aeris: et sic maius quam in media in 
+      re<lb ed="#C" n="38" break="no"/>gione aeris ad quam refsexio luminis non partingit. 
+      <lb ed="#C" n="39"/>vbi est finis luminis reflexi ibi est status infime in 
+      <lb ed="#C" n="40"/>regionis aeris. sicut vbi cessat calor et motus 
+      cir<lb ed="#C" n="41" break="no"/>cularis in aere ab igne productus: illic cessat 
+      supre<lb ed="#C" n="42" break="no"/>ma regio aeris. Concedo quod lumen directum est 
+      ma<lb ed="#C" n="43" break="no"/>ius in media regione aeris quam in infima. sed illud 
+      <lb ed="#C" n="44"/>non sufficit illic producere calorem. passum est 
+      indispo<lb ed="#C" n="45" break="no"/>situm. vapores a planetis et astris eleuantur. cum 
+      <lb ed="#C" n="46"/>hic inferius erant calefacti: ad mediam regionem 
+      <lb ed="#C" n="47"/>aeris delati non habentes causam caloris 
+      conser<lb ed="#C" n="48" break="no"/>uatiuam suapte natura ad frigus redeunt. sicut 
+      re<lb ed="#C" n="49" break="no"/>moto calefaciente aqua frigefacit. et influentie 
+      <lb ed="#C" n="50"/>frigefactiue frigus fortiter imprimunt cum passum 
+      <lb ed="#C" n="51"/>est ad frigus dispositum. et illud frigus in 
+      medio<lb ed="#C" n="52" break="no"/>per antiperistasim fortificatur. sicut in lignis 
+      viri<lb ed="#C" n="53" break="no"/>dibus vides igni applicatis frigus cum suo subie 
+      <lb ed="#C" n="54"/>cto humiditati fugere ad extrema lignorum. et 
+      fu<lb ed="#C" n="55" break="no"/>mus in balneo aperto hostio in frigore: ad 
+      inte<lb ed="#C" n="56" break="no"/>riora redit. in calido tempore: egreditur. hinc 
+      cauee<lb ed="#C" n="57" break="no"/>et fontes profundi redduntur in estate frigidi et in 
+      <lb ed="#C" n="58"/>hyeme calidi. et hoc est quod ingeniose tangit 
+      me<lb ed="#C" n="59" break="no"/>dicorum princeps in verbis recitatis in commento 
+      <lb ed="#C" n="60"/>sue similitudini gaudens contrarium non penetrans
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>sed solum circunstans. hoc est: non notabiliter 
+      poten<lb ed="#C" n="62" break="no"/>tius suo contrario: non potens ipsum corrupere: 
+      re<lb ed="#C" n="63" break="no"/>dit in se. hoc est: facit suum subiectum condensari et 
+      per<lb ed="#C" n="64" break="no"/>species caloris calorem producit nonnunquam 
+      intensio<lb ed="#C" n="65" break="no"/>rem quod prius habuerat. appetit se permanere in esse. 
+      <lb ed="#C" n="66"/>sicut vides cattum dorsum constringere in 
+      presen<lb ed="#C" n="67" break="no"/>tia noui canis cameram tuam ingredientis: vt se 
+      <lb ed="#C" n="68"/>fortificet per virtutem ignitam. sicut in distinctione 
+      <lb ed="#C" n="69"/>precedenti diximus de radiis debilibus ad 
+      perpendi<lb ed="#C" n="70" break="no"/>culum tendentibus vt ab eo sustententur. ista fiunt qua 
+      <lb ed="#C" n="71"/>tenus rore et pluuia terra humectetur. pluit enim 
+      <lb ed="#C" n="72"/>propter frumenta terre 2. phisicorum Ex his 
+      pa<lb ed="#C" n="73" break="no"/>tet solutio ad argumentum. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

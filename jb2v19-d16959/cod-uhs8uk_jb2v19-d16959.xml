@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 10</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 10</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="29-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d16959"><!-- l2d2q10 -->
+            <head xml:id="jb2v19-d16959-Hd1e101">Quaestio 10</head>
+            <head xml:id="jb2v19-d16959-Hd1e103" type="question-title">An plures angeli possunt esse in eodem loco adaequato</head>
+            <p xml:id="jb2v19-d16959-d1e106">
+               <lb ed="#C" n="60"/>¶ Questio decima.
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>DEcimo queritur an 
+      plo<lb ed="#C" n="62" break="no"/>res angeli ptuet esse in eodem loco adequa 
+      <lb ed="#C" n="63"/>to: hic scias ess positiones oppositas 
+      en<lb ed="#C" n="64" break="no"/>oecceiciio iui 
+      <lb ed="#C" n="65"/>legem communem.
+   </p>
+            <p xml:id="jb2v19-d16959-d1e124">
+      ¶ Sed pro solutione questionis 
+      <lb ed="#C" n="66"/>pono conclusiones sequentes: quarum prima est. 
+      plu<lb ed="#C" n="67" break="no"/>res angeli de potentia dei absoluta possunt ese in 
+      <lb ed="#C" n="68"/>eodem loco adequato. probatur conclusio. duo 
+      cor<lb ed="#C" n="69" break="no"/>pora petet esse in eodem loco adequato. ex distin. xlix. 
+      <lb ed="#C" n="70"/>quarti. ergo et duo tres vel plures angeli. insut 
+      <lb ed="#C" n="71"/>hoc non implicat contradictionem. ergo hoc est deo 
+      <lb ed="#C" n="72"/>possibile.
+   </p>
+            <p xml:id="jb2v19-d16959-d1e142">
+      ¶ Secunda conclusio. duo angeli vel 
+      plu<lb ed="#C" n="73" break="no"/>res sibi relicticum influentia oei generali percit ee in 
+      <lb ed="#C" n="74"/>eodem loco adequato. hoc est: secundum comnem legem 
+      <lb ed="#C" n="75"/>duo angeli vel plures sunt in eou loco adequato / 
+      <lb ed="#C" n="76"/>probatur hec conclusio more icardi de scto 
+      Ui<lb ed="#C" n="77" break="no"/>ctore iiii de trinitate de legione demonum execete in 
+      <lb ed="#C" n="78"/>obsesso Luce. vili. et arci. v. Sed dicis: non sequi 
+      <lb ed="#C" n="79"/>tur. potest in qualibet parte proportionali cordis 
+      ese<lb ed="#C" n="80" break="no"/>se demon: et nunquam duo in eodem loco adequato 
+      <lb ed="#C" n="81"/>cum demon potest esse in loco quantumcunque puo. 
+      <lb ed="#C" n="82"/>Aliter. Secundo arguitur: deus est vbique. etgo demon 
+      <lb ed="#C" n="83"/>est simul cum deo in eodem adequato. ergo duo 
+      spi<lb ed="#C" n="84" break="no"/>ritus realiter distincti: scilicet creatus et increatus: sunt 
+      <lb ed="#C" n="85"/>in eodem loco adequato. et hoc secundum legem com 
+      <lb ed="#C" n="86"/>munem deum illabi angelo et creaturis non tollit 
+      <lb ed="#C" n="87"/>propositum qui duo spiritus possint esse in eodem 
+      lo<lb ed="#C" n="88" break="no"/>co adequato. siue vnus alteri illabatur vel non: hoc 
+      <lb ed="#C" n="89"/>est imprtinens. Tertio arguitur. demodo est pfeis 
+      reali<lb ed="#C" n="90" break="no"/>ter et intime in corpore quod anima intellectiua 
+      infor<lb ed="#C" n="91" break="no"/>mat. ergo anima et demon sunt in eodem loco 
+      a<lb ed="#C" n="92" break="no"/>dequato. dices: demon est in sanguine vel 
+      humo<lb ed="#C" n="93" break="no"/>re hominis: vel in parte non informata forma. 
+   </p>
+            <p xml:id="jb2v19-d16959-d1e191">
+               <lb ed="#C" n="94"/>¶ Contra: illud est irrationablle talia difsugia 
+      quae<lb ed="#C" n="95" break="no"/>rere: potissimum vbi tenuis est ratio vel nulla ad 
+      <lb ed="#C" n="96"/>oppositum.
+   </p>
+            <p xml:id="jb2v19-d16959-d1e200">
+      ¶ Quarto arguitur. quando angelus 
+      de<lb ed="#C" n="97" break="no"/>scendit de celo mouetur per celos. non est vero si 
+      <lb ed="#C" n="98"/>mile quod circueat locum adequatum in quo est 
+      ange<lb ed="#C" n="99" break="no"/>lus celum mouens. ergo potest se ponere in locum 
+      <lb ed="#C" n="100"/>adequatum cum alio angelo. Quinto anima et 
+      cor<lb ed="#C" n="101" break="no"/>pus sunt in eodem loco adequato. ergo due anine 
+      <lb ed="#C" n="102"/>possunt esse ineodem loco adequato. propter istas 
+      <lb ed="#C" n="103"/>rationes qualescumque teneo: conclusionem secundam 
+      ve<lb ed="#C" n="104" break="no"/>ram.
+   </p>
+            <p xml:id="jb2v19-d16959-d1e220">
+      ¶ Contra secundam conclusionem arguitur. 
+      oue<lb ed="#C" n="105" break="no"/>cause totales non possunt ess simul respectu eiuspi 
+      <lb ed="#C" n="106"/>effectus. angelus autem existens in loco est eotalis 
+      <lb ed="#C" n="107"/>causa respectu operationis in tali loco: propter quam 
+      <lb ed="#C" n="108"/>dicitur esse ibi. igitur non potest esse causa cum 
+      eo<lb ed="#C" n="109" break="no"/>alius angelus propter aliquam operationem 
+      illicex<lb ed="#C" n="110" break="no"/>ercitatam.
+   </p>
+            <p xml:id="jb2v19-d16959-d1e236">
+      ¶ Secundo argultur. agelus fortior potest 
+      impe<lb ed="#C" n="111" break="no"/>dire debiliorem ne locum suum introeat. similiter an 
+      <lb ed="#C" n="112"/>gelus potest alium eiuse speciei secum impedire 
+      ne<lb ed="#C" n="113" break="no"/>locum introeat. quemadmodum sortes equaliter 
+      for<lb ed="#C" n="114" break="no"/>tis cum Platone: non permittit eum intrere suum 
+      <lb ed="#C" n="115"/>locum: et eum propellere.
+   </p>
+            <p xml:id="jb2v19-d16959-d1e249">
+      ¶ Ad primum dicitur 
+      fal<lb ed="#C" n="116" break="no"/>sum est quod angelus non est in loco nisi per 
+      opatio<lb ed="#C" n="117" break="no"/>nem sicut superius diximus. Secundo quicquid sit ud 
+      <lb ed="#C" n="118"/>illo falso: duo angeli possunt operari in eodem 
+      pun<lb ed="#C" n="119" break="no"/>cto vel circa idem punctum: et quilibet habere pro¬
+      <pb ed="#V" n="30-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>priam operationem. an idem effectus numero 
+      de<lb ed="#C" n="2" break="no"/>pendere possit a pluribus causis alibi dictum est 
+   </p>
+            <p xml:id="jb2v19-d16959-d1e269">
+               <lb ed="#C" n="3"/>¶ Ad secundum argumentum concedo: quod angelus potest 
+      <lb ed="#C" n="4"/>alium impedire ne locum suum introeat per suam 
+      vir<lb ed="#C" n="5" break="no"/>tutem expulsiuam. sicut angelus potest mouere 
+      ani<lb ed="#C" n="6" break="no"/>mam intellectiuam et eam portare in sinum abrahe. 
+      <lb ed="#C" n="7"/>licet prima facie non est facile imaginari 
+      quomo<lb ed="#C" n="8" break="no"/>do vnus angelus alium moueret vel impedire posset 
+      ne<lb ed="#C" n="9" break="no"/>locum suum subintroeat. sed ex isto non concluditur 
+      <lb ed="#C" n="10"/>quod duo angeli non petet essesimul. nec concluditur qui 
+      <lb ed="#C" n="11"/>superior possit esse in loco inferioris. etiam 
+      inferi<lb ed="#C" n="12" break="no"/>ore nolente. et hoc ex parte angelorum. hoc dico. non 
+      <lb ed="#C" n="13"/>est hec contrarietas inter angelos btos. sed illud 
+      <lb ed="#C" n="14"/>prouenit aliunde a btintudine et eorum nobili statu. 
+      <lb ed="#C" n="15"/>possunt tamen velle contraria quando non constat 
+      <lb ed="#C" n="16"/>eis de voluntate dei: vt de angelo persarum et 
+      me<lb ed="#C" n="17" break="no"/>dorum Danielis decimo.
+   </p>
+            <p xml:id="jb2v19-d16959-d1e305">
+      ¶ Dubitatur. an 
+      ange<lb ed="#C" n="18" break="no"/>lus potest esse in pluribus locis totalibus: quia 
+      de<lb ed="#C" n="19" break="no"/>partibus sui maximi non est difficultas.
+   </p>
+            <p xml:id="jb2v19-d16959-d1e312">
+      ¶ 
+      Respon<lb ed="#C" n="20" break="no"/>detur affirmatiue de potentia dei. probatur. corpus 
+      <lb ed="#C" n="21"/>potest esse circumscriptiue in pluribus: ex decima 
+      quae<lb ed="#C" n="22" break="no"/>stione quarti. ergo et angelus. Insuper deus potest 
+      <lb ed="#C" n="23"/>facere angelum desinere esse in loco medio 
+      manen<lb ed="#C" n="24" break="no"/>do in extrenis. ergo pari ratione potest ponere an 
+      <lb ed="#C" n="25"/>gelum in duobus locis distantibus. sed naturaliter 
+      <lb ed="#C" n="26"/>in pluribus ess nequit.
+   </p>
+            <p xml:id="jb2v19-d16959-d1e330">
+      ¶ Sed contra hoc arguitur 
+      <lb ed="#C" n="27"/>per Aug. xi. super Gene. c. xxxvi. vbi vult quod eue in 
+      <lb ed="#C" n="28"/>serpente diabolus loquebatur: in muliere vero 
+      oc<lb ed="#C" n="29" break="no"/>culto instinctu adiuuabat interius: et exterius 
+      per<lb ed="#C" n="30" break="no"/>serpentem: vbi videtur velle quod diabolus simul erat 
+      <lb ed="#C" n="31"/>in serpente et eua.
+   </p>
+            <p xml:id="jb2v19-d16959-d1e343">
+      ¶ Rspondetur. dupliciter hoc 
+      fe<lb ed="#C" n="32" break="no"/>cit. Uno modo repente eundo uod vno ad alium. Alio 
+      mo<lb ed="#C" n="33" break="no"/>do tam serpens quam eua erant infra ambitum 
+      maxi<lb ed="#C" n="34" break="no"/>mi loci in quo demon poterat esse. et sic non erat 
+      <lb ed="#C" n="35"/>opus ire deloco ad locum. secundum est michi 
+      ra<lb ed="#C" n="36" break="no"/>tionabilius. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 3</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 3</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="48-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d28205"><!-- l2d5q3 -->
+            <head xml:id="jb2v19-d28205-Hd1e101">Quaestio 3</head>
+            <head xml:id="jb2v19-d28205-Hd1e103" type="question-title">An Deus poterat creare angelos beatos in primo instanti et malos miseros</head>
+            <p xml:id="jb2v19-d28205-d1e106">
+               <lb ed="#C" n="26"/>gExcio cixca 
+      egn<lb ed="#C" n="27" break="no"/>dem quintam distinctionem 
+      quae<lb ed="#C" n="28" break="no"/>ritur: an deus poterat creare 
+      <lb ed="#C" n="29"/>angelos beatos in primo 
+      in<lb ed="#C" n="30" break="no"/>stantis et malos miseros. 
+   </p>
+            <p xml:id="jb2v19-d28205-d1e119">
+               <lb ed="#C" n="31"/>¶ Pro solutione quaestionis 
+      po<lb ed="#C" n="32" break="no"/>ln no conclusiones: quarum 
+      prima<lb ed="#C" n="33" break="no"/>est. Angelus potuit fuisse beatus in primo 
+      instan<lb ed="#C" n="34" break="no"/>ti sui esse.
+   </p>
+            <p xml:id="jb2v19-d28205-d1e130">
+      ¶ Secunda conclusio. Aliqui angeli 
+      po<lb ed="#C" n="35" break="no"/>tuerunt fuisse miseri tam miseria pene quam culpe in 
+      <lb ed="#C" n="36"/>primo instantis sui esse.
+   </p>
+            <p xml:id="jb2v19-d28205-d1e138">
+      ¶ Tertia conclusio. cmo 
+      <lb ed="#C" n="37"/>nes non peccarunt in primo instanti sui esse. 
+   </p>
+            <p xml:id="jb2v19-d28205-d1e143">
+               <lb ed="#C" n="38"/>¶ Prima conclusio probatur. angelus poterat 
+      ha<lb ed="#C" n="39" break="no"/>bere noticiam intuitiuam dei et dilectionem elus 
+      <lb ed="#C" n="40"/>in primo instanti sui esse. et cetera omnia 
+      beatitudi<lb ed="#C" n="41" break="no"/>nis. ergo et beati esse.
+   </p>
+            <p xml:id="jb2v19-d28205-d1e154">
+      ¶ Preterea arguitur. anima 
+      <lb ed="#C" n="42"/>christi erat beata in primo instanti sui esse. ergo 
+      <lb ed="#C" n="43"/>angelus poterat esse beatus in primo instanti 
+      sui<lb ed="#C" n="44" break="no"/>esse.
+   </p>
+            <p xml:id="jb2v19-d28205-d1e163">
+      ¶ Tertio arguitur. quia si non possit: hoc est 
+      pro<lb ed="#C" n="45" break="no"/>pterea quod creatura non potest effectum producere in 
+      in<lb ed="#C" n="46" break="no"/>stanti. sed hoc non. prout alibi seriosius probauimus. 
+   </p>
+            <p xml:id="jb2v19-d28205-d1e170">
+               <lb ed="#C" n="47"/>¶ Secunda conclusio patet. angeli poterat peccare 
+      <lb ed="#C" n="48"/>in primo instanti sui esse. ergo esse in illo instanti 
+      <lb ed="#C" n="49"/>miseri miseria culpe. tenet consequentia ab equiua 
+      <lb ed="#C" n="50"/>lentibus nichil aliud est esse miserum miseria culpa 
+      <lb ed="#C" n="51"/>quom esse in peccato de miseria pene etiam ratione culpe 
+      com<lb ed="#C" n="52" break="no"/>milse patet. in quocumque instanti culpa est commissa in 
+      <lb ed="#C" n="53"/>lo oeus potest penamillius culpe punitluam 
+      inflige<lb ed="#C" n="54" break="no"/>re alioquin peccatum stabit per tempus vel instans in aliquo 
+      <lb ed="#C" n="55"/>in duo deas non potest ipsum punire: quod est 
+      incon<lb ed="#C" n="56" break="no"/>eniens. nec illud pugnat cum dictis in calce 
+      questio<lb ed="#C" n="57" break="no"/>is precedentis. quia in illa secundum legem dei ordinatam. 
+      <lb ed="#C" n="58"/>ic secundum potentiam eius absolutam loquimur.
+   </p>
+            <p xml:id="jb2v19-d28205-d1e199">
+      ¶ 
+      Se<lb ed="#C" n="59" break="no"/>ado arguitur ad idem. Augu. dicit. xi. de ciuitate
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="60"/>dei. c. xiii. qui dicunt angelos a principio fuisse 
+      ma<lb ed="#C" n="61" break="no"/>los non sentiunt cum manicheis: qui manichei ponebant 
+      <lb ed="#C" n="62"/>vnum deum malum immediate esse cam mali: et alterum 
+      bo<lb ed="#C" n="63" break="no"/>num immediatam causam boni. ergo Augustinus 
+      volu<lb ed="#C" n="64" break="no"/>it dicere: hec consequentia est nulla: angelus erat 
+      ma<lb ed="#C" n="65" break="no"/>lus in primo instanti sui esse: ergo erat creatus a 
+      <lb ed="#C" n="66"/>malo deo. quia stat oppositum consequentis cum 
+      antece<lb ed="#C" n="67" break="no"/>dente: scilicet: quod malicia illa erat a demone et essentia 
+      <lb ed="#C" n="68"/>angeli erat a deo bona.
+   </p>
+            <p xml:id="jb2v19-d28205-d1e226">
+      ¶ Sed dices: licet non sit 
+      he<lb ed="#C" n="69" break="no"/>resis manicheorum / est tamen alius error: puta quod 
+      bo<lb ed="#C" n="70" break="no"/>nus deus sit causa principalis actus peccati et impel 
+      <lb ed="#C" n="71"/>lit creaturam suam ad actum viciosum. hec em 
+      here<lb ed="#C" n="72" break="no"/>sis secunda differt a prima.
+   </p>
+            <p xml:id="jb2v19-d28205-d1e237">
+      ¶ Unde mens sancti 
+      <lb ed="#C" n="73"/>Thome in hoc stat: quod angelus nullo modo 
+      pote<lb ed="#C" n="74" break="no"/>rat peccate in primo instanti sui esse. ad hoc ponit 
+      <lb ed="#C" n="75"/>in variis locis rationes. Prima est in prima parte. qui. 
+      <lb ed="#C" n="76"/>lxvi. articulo. v. cuius sententia est hec. 
+      Operatio<lb ed="#C" n="77" break="no"/>quae simul esse incipit cum esse rei est eI ab agente a 
+      <lb ed="#C" n="78"/>quo habet esse: hoc est attribuitur agenti. Unde si 
+      <lb ed="#C" n="79"/>aliqua res habeat esse ab aliquo agente deficiente 
+      <lb ed="#C" n="80"/>quod possit esse causa defectiua actionis: poterit in 
+      <lb ed="#C" n="81"/>primo instanti in quo incipit habere defectiuam 
+      <lb ed="#C" n="82"/>operationem. sicut si tibia nascitur clauda ex 
+      de<lb ed="#C" n="83" break="no"/>bilitate seminis: stati incipit claudicare. si angelus 
+      <lb ed="#C" n="84"/>ergo in primo instanti sui esse peccasset: peccatum illud 
+      <lb ed="#C" n="85"/>fuisset attributum deo qui non potest esse actor 
+      pecca<lb ed="#C" n="86" break="no"/>ti. istud suppletur per doctorem sanctum: de malo. qu. xvi. 
+      <lb ed="#C" n="87"/>articulo iiii. illic dicit in conceptibus et affectioni 
+      <lb ed="#C" n="88"/>bus angelorum est quedam temporalis successio. non eiu 
+      <lb ed="#C" n="89"/>angeli omnia simul actu intelligunt. quia non omnia intelligit 
+      <lb ed="#C" n="90"/>vnus angelus per vnam speciem: sed diuersa diuersis 
+      <lb ed="#C" n="91"/>speciebus omnia illa quae angelus per vnam speciem 
+      cogno<lb ed="#C" n="92" break="no"/>scit praet simul cognoscere quae autem per diuersas species 
+      <lb ed="#C" n="93"/>cognoscit non praet sil cognoscers: sed successie: erg in his 
+      <lb ed="#C" n="94"/>quae per vnam speciem agelus coprehendere non potest necesse 
+      <lb ed="#C" n="95"/>est quod moueatur in diuersis instantibus sui temporis. 
+      <lb ed="#C" n="96"/>ea autem quae sunt supra naturam ad gratiam partinentia: cit 
+      <lb ed="#C" n="97"/>caquae fuit peccatum angeli magis distant a quibuscumque 
+      na<lb ed="#C" n="98" break="no"/>turaliter cognitis quom quaecumque naturaliter cognita ab 
+      <lb ed="#C" n="99"/>inuicem. Und si non omnia naturaliter cognita propter 
+      <lb ed="#C" n="100"/>eorum distantiam potest angelus apprehendere 
+      per<lb ed="#C" n="101" break="no"/>vnam speciem et simul: multo minus potest simul 
+      mo<lb ed="#C" n="102" break="no"/>ueri in naturaliter cognita et supernaturalia quae sunt 
+      <lb ed="#C" n="103"/>gratuita. motus angeli primo est in id quod est sibi 
+      <lb ed="#C" n="104"/>conmnaturale: quia per illud pertingit in id quod est 
+      supra<lb ed="#C" n="105" break="no"/>naturam. et ideo oportet quod angelus in primo 
+      instan<lb ed="#C" n="106" break="no"/>ti sue creationis conuerteretur ad naturalem sui 
+      cogni<lb ed="#C" n="107" break="no"/>tionem secundum quam non potuit peccare. postmo 
+      <lb ed="#C" n="108"/>dum vero potuit conuerti in id quod est supra naturam: 
+      <lb ed="#C" n="109"/>vel ab eo auerti. licet hanc determinationem 
+      quo<lb ed="#C" n="110" break="no"/>dammodo voluntariam reputem: et non sufficienter 
+      pro<lb ed="#C" n="111" break="no"/>batam: quod magis determinetur ad rectitudinem in 
+      <lb ed="#C" n="112"/>primo instanti quam in aliquo instanti sequenti: tamen hoc 
+      <lb ed="#C" n="113"/>non sufficit ad expugnandam positionem.
+   </p>
+            <p xml:id="jb2v19-d28205-d1e328">
+      ¶ Contra 
+      <lb ed="#C" n="114"/>hanc viam arguitur sic. Uoluntas est libera quo ad 
+      <lb ed="#C" n="115"/>exercitium actus secundum eos: et in hoc poterat 
+      me<lb ed="#C" n="116" break="no"/>reri eliciendo actum. ponatur quod deus precipiat 
+      pri<lb ed="#C" n="117" break="no"/>mo angelo in primo instantis sui esse oiligere se vel 
+      <lb ed="#C" n="118"/>ocum. preceptum est rationabile: quia primus 
+      ange<lb ed="#C" n="119" break="no"/>poterat hoc adimplere. in illo instanti poterat a¬
+      <pb ed="#V" n="48-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>gelus non elicere illum actum: quia fecluso precepto 
+      <lb ed="#C" n="2"/>potest actum non elicere: et si actum non eliciat: 
+      peccs<lb ed="#C" n="3" break="no"/>bit peccato omissionis. et tamen illa omissio non attribuitur 
+      <lb ed="#C" n="4"/>deo. ergo neque commissio. suppono quod est aliqua 
+      pura<lb ed="#C" n="5" break="no"/>omissio sine actu voluntatis.
+   </p>
+            <p xml:id="jb2v19-d28205-d1e359">
+      ¶ Preterea arguit 
+      <lb ed="#C" n="6"/>
+               <name xml:id="jb2v19-d28205-Nd1e363">petrus aureolus</name> contra sanctum Tho. sic. in quocumque 
+      <lb ed="#C" n="7"/>instanti sunt omnes cause productiue peccati in 
+      illo<lb ed="#C" n="8" break="no"/>instanti potest produci peccatm. sed in primo instanti sunt 
+      <lb ed="#C" n="9"/>hec omnia.
+   </p>
+            <p xml:id="jb2v19-d28205-d1e372">
+      ¶ <name xml:id="jb2v19-d28205-Nd1e374">Ioannes capriolus</name> negat maiorem: et 
+      in<lb ed="#C" n="10" break="no"/>stat de motu locali et generatione quae alterationem 
+      pre<lb ed="#C" n="11" break="no"/>supponit. hoc non soluit argumentum dummodo limitetur 
+      <lb ed="#C" n="12"/>maior ad intellectum argumenti. quia argumentum 
+      in<lb ed="#C" n="13" break="no"/>telligit de effectu subito producibili.
+   </p>
+            <p xml:id="jb2v19-d28205-d1e385">
+      ¶ Propterea: vi 
+      <lb ed="#C" n="14"/>dens Ioannes quod non sufficienter respodet ad 
+      inten<lb ed="#C" n="15" break="no"/>tionem argumenti addit inquiens. Dicitur vlterius quod 
+      <lb ed="#C" n="16"/>licet angelus in primo instanti sui esse haberet 
+      li<lb ed="#C" n="17" break="no"/>berum arbitrium et alias causas actus aut 
+      demeri<lb ed="#C" n="18" break="no"/>torii: tamen ipse angelus secundum suam naturalem 
+      poten<lb ed="#C" n="19" break="no"/>tiam non poterat moueri in actum meriti vel 
+      de<lb ed="#C" n="20" break="no"/>meri i nisi prius moueretur ad actum naturalem in quo 
+      <lb ed="#C" n="21"/>nec meritum nec demeritum proprie consistit. et de hoc 
+      <lb ed="#C" n="22"/>sanctus Tho de malo. qu. xvi. ar iiii. in solutione 
+      ter<lb ed="#C" n="23" break="no"/>tii sic dicit. Oportet quod angelus in prino instanti 
+      con<lb ed="#C" n="24" break="no"/>sideraret illud quod spectat ad suam naturam: et post 
+      <lb ed="#C" n="25"/>modum moueretur in supernaturalia per conuersionem 
+      <lb ed="#C" n="26"/>vel auersionem. et in solutione quinti dicit. voluntas 
+      ra<lb ed="#C" n="27" break="no"/>tionalis creature determinata est ad vnum 
+      natura<lb ed="#C" n="28" break="no"/>liter in quod mouetur: sicut omnis homo naturaliter vult 
+      <lb ed="#C" n="29"/>esse et viuere et beatitudinem habere. Et ista sunt 
+      <lb ed="#C" n="30"/>ad quae primo mouetur naturaliter creatura vel 
+      intelli<lb ed="#C" n="31" break="no"/>genda vel volenda. quia semper actio naturalis 
+      praesup<lb ed="#C" n="32" break="no"/>ponitur aliis actionibus. et ideo si angelus in 
+      pri<lb ed="#C" n="33" break="no"/>mo instanti sue creationis peccasset: videretur hoc 
+      <lb ed="#C" n="34"/>competere sue nature.
+   </p>
+            <p xml:id="jb2v19-d28205-d1e434">
+      ¶ Sed contra illud 
+      argui<lb ed="#C" n="35" break="no"/>tur. Angelus poterat habere actum liberum in 
+      pri<lb ed="#C" n="36" break="no"/>mo instanti: cum actu naturali. poterat mereri in 
+      <lb ed="#C" n="37"/>primo instanti: vt magister in. xviii. distin. tertii de 
+      <lb ed="#C" n="38"/>christo deducit. ergo in illo poterat habere actum 
+      <lb ed="#C" n="39"/>elicitiuum et liberum.
+   </p>
+            <p xml:id="jb2v19-d28205-d1e447">
+      ¶ Respondetur. Angelus in 
+      pri<lb ed="#C" n="40" break="no"/>mo instanti suo secundum naturalem eius potentiam non 
+      <lb ed="#C" n="41"/>poterat habere volltionem electiuam. quia oportet quod 
+      <lb ed="#C" n="42"/>primus actus cuiuslibet voluntatis sit naturalis 
+      <lb ed="#C" n="43"/>qui semper est bonus et rectus. non sunt simul ouo actus 
+      <lb ed="#C" n="44"/>in voluntate angeli nisi moueretur per gratiam a deo. 
+      <lb ed="#C" n="45"/>deus autem potest mouere animam quo voluerit 
+      <lb ed="#C" n="46"/>ad bonum. sed mens rationalis creature mouetur a 
+      <lb ed="#C" n="47"/>seipsa ad malum: quae non potest se mouere nisi secundum 
+      exi<lb ed="#C" n="48" break="no"/>gentiam naturalis ordinis. sic respondet 
+      articulo<lb ed="#C" n="49" break="no"/>prefato de malo ad vigesimum. et consequenter 
+      posi<lb ed="#C" n="50" break="no"/>tionem suam defendendo dicerem: angelus cum 
+      instin<lb ed="#C" n="51" break="no"/>ctu di¬ i et eius ope speciali in primo instanti potest 
+      ha<lb ed="#C" n="52" break="no"/>bere actum electiuum liberum: et non aliter. et cum deus non 
+      <lb ed="#C" n="53"/>potest specialiter concurrere ad peccatum: nec cum influ 
+      <lb ed="#C" n="54"/>entia dei generali potest creatura actum aliquem liberum 
+      <lb ed="#C" n="55"/>habere in primo instanti: per nullam potentiam potest 
+      <lb ed="#C" n="56"/>peccare in primo instanti sui ess. sed post hoc.
+   </p>
+            <p xml:id="jb2v19-d28205-d1e486">
+      ¶ 
+      Ec<lb ed="#C" n="57" break="no"/>ce quo vtcumque colorate quis potest tueri positionem 
+      <lb ed="#C" n="58"/>ooctoris sancti. non credo illam veram. non video 
+      il<lb ed="#C" n="59" break="no"/>lud aliquo modo probatum: vel quod minus est) suasum: 
+      <lb ed="#C" n="60"/>quod angelus vel homo adultus creatus sine pecca¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>to originali creatus sicut erat Adam: siue in 
+      pecca<lb ed="#C" n="62" break="no"/>to originali: non possit in primo instanti sui esse 
+      ha<lb ed="#C" n="63" break="no"/>bere actum elicitum liberu siue sine actu conformi ad 
+      ap<lb ed="#C" n="64" break="no"/>petitum naturalem siue oifformi. Peopterea teneo 
+      <lb ed="#C" n="65"/>cum comni opinione secundam conclusionem
+   </p>
+            <p xml:id="jb2v19-d28205-d1e510">
+      ¶ Tertia 
+      com<lb ed="#C" n="66" break="no"/>clusio sic probatur per illud quod scribitur Gen. primo. vi 
+      <lb ed="#C" n="67"/>dit deus cuncta quae tecerat et erant valde 
+      bo<lb ed="#C" n="68" break="no"/>ter illa erant demones.
+   </p>
+            <p xml:id="jb2v19-d28205-d1e519">
+      ¶ Item dicitur sub 
+      figu<lb ed="#C" n="69" break="no"/>ra principis babilonis de oyabolo. Esave. cxilli. 
+      <lb ed="#C" n="70"/>quo cecidisti lucifer qui mane oriebaris. et Eze. 
+      <lb ed="#C" n="71"/>xxix. In deliciis paradisi dei fuisti contra secundam 
+      con<lb ed="#C" n="72" break="no"/>clusionem non instabs: quia seriosius ea prosequutus 
+      <lb ed="#C" n="73"/>sum in. xvii. distinctione primi.
+   </p>
+            <p xml:id="jb2v19-d28205-d1e532">
+      ¶ Contra tertiam 
+      con<lb ed="#C" n="74" break="no"/>clustonem arguitur per illud quod scribitur Ioannis. vlii 
+      <lb ed="#C" n="75"/>de diabolo. ille homicida erat ab initio.
+   </p>
+            <p xml:id="jb2v19-d28205-d1e540">
+      ¶ Ad hoc 
+      <lb ed="#C" n="76"/>respondet beatus Aug. xi. de ciui. dei. cum dicitur: 
+      <lb ed="#C" n="77"/>quod domiabolus ab initio peccat: non ab nitio ex quo 
+      cre<lb ed="#C" n="78" break="no"/>atus est peccare putandus est: sed ab litio peccati: 
+      <lb ed="#C" n="79"/>scilicet: quia nuquod a peccato suo recessit.
+   </p>
+            <p xml:id="jb2v19-d28205-d1e551">
+      ¶ Fine huic 
+      distin<lb ed="#C" n="80" break="no"/>ction imponetes patet tempus vie in omnibus angelis 
+      <lb ed="#C" n="81"/>fuisse equale. et no erat solu ovnum instans: sed 
+      perds<lb ed="#C" n="82" break="no"/>tempus oetermiatum cui scriptura astipulatur 
+      Eze<lb ed="#C" n="83" break="no"/>xxviii. vbi scribitur de dyabolo sub figura regis 
+      <lb ed="#C" n="84"/>tiri sicut crebro est modus scripture. cum deyabolus 
+      <lb ed="#C" n="85"/>sit caput iniquorum de vno iniquo ad dyabolum et 
+      con<lb ed="#C" n="86" break="no"/>tra transit. vt Isiaye. xiiti. loquens de rege 
+      babi<lb ed="#C" n="87" break="no"/>lonis qui erat dyaboli membrum trausit ad lioquendum 
+      <lb ed="#C" n="88"/>de principe demonum: querens: quo cecidisti de 
+      celo<lb ed="#C" n="89" break="no"/>lucifer qui mane oriebaris. sic in proposito. dicit er 
+      <lb ed="#C" n="90"/>go Ezechiel: potius deus per os Ezechielis: 
+      posui<lb ed="#C" n="91" break="no"/>te in monte scto doe in medio lapidum ignitorum anm 
+      <lb ed="#C" n="92"/>bulasti perfectus in vlis tuis a die conditiois tue donec 
+      <lb ed="#C" n="93"/>est inuenta iniquitas in te. ambulare motu et tos 
+      in<lb ed="#C" n="94" break="no"/>portat. et cum lilo es rationabilius vt seruet tepus tam 
+      <lb ed="#C" n="95"/>ad merendum quam ad demerendum: nec rationes alicuius 
+      <lb ed="#C" n="96"/>momenti oppositum tenentes adduc unt: hoc tenen 
+      <lb ed="#C" n="97"/>dum est. Insuper: peccatum luciferi fuit aliis 
+      occasio<lb ed="#C" n="98" break="no"/>peccandi. non est verosimile quod solum naturaliter 
+      pre<lb ed="#C" n="99" break="no"/>cessit aliorum peccatam. sed tempore vel instanti. 
+      magni<lb ed="#C" n="100" break="no"/>tudo pene eorum colligitur ex demeritorum 
+      multi<lb ed="#C" n="101" break="no"/>tudine. patet. boni multum meruerunt in breui 
+      tem<lb ed="#C" n="102" break="no"/>pore: et rationem super hoc dedimus in quaestione 
+      prece<lb ed="#C" n="103" break="no"/>denti. sed bonis actibus mali sunt oppositi: et 
+      opti<lb ed="#C" n="104" break="no"/>mis actibus pessimi. Preterea. ingratitudo multum 
+      <lb ed="#C" n="105"/>facit ad demeritum: cum eos in pulcherrimis natura 
+      <lb ed="#C" n="106"/>libus creauerit in optimo loco: gratuita conferens: 
+      <lb ed="#C" n="107"/>tam gratiam gratis datam quod gratiam gratum faciente 
+      quae<lb ed="#C" n="108" break="no"/>rerum noticias. Numquid erat ingratissimi non deum 
+      <lb ed="#C" n="109"/>laudare: et eius imperio parere. ceciderunt ab 
+      altis<lb ed="#C" n="110" break="no"/>sima sede per eorum culpas varias / et intensissimas / et 
+      <lb ed="#C" n="111"/>ex parte obiecti maximas: quid nirum si grandi 
+      sut<lb ed="#C" n="112" break="no"/>plicio torqueantur.
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="16-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d09047"><!-- l2d2q1 -->
+            <head xml:id="jb2v19-d09047-Hd1e101">Quaestio 1</head>
+            <head xml:id="jb2v19-d09047-Hd1e103" type="question-title">Utrum motus localis sit res successiva ab omni re permanente et permanentibus distincta</head>
+            <p xml:id="jb2v19-d09047-d1e106">
+               <lb ed="#C" n="92"/>N bac lectnoa 
+      di<lb ed="#C" n="93" break="no"/>stinctione magister loquitur de 
+      <lb ed="#C" n="94"/>loco in quo ageli creatis sunt: et 
+      <lb ed="#C" n="95"/>oe tempore in quo creatis sunt. Cir 
+      <lb ed="#C" n="96"/>ca quam materiam multi 
+      scriben<lb ed="#C" n="97" break="no"/>tes de loco et tpore scribunt: et 
+      <lb ed="#C" n="98"/>aliqui prolixe et indigeste: et 
+      con<lb ed="#C" n="99" break="no"/>traria inter se tenent. Circa hanc 
+      <lb ed="#C" n="100"/>materiam aliquas formabo questiones. Prima erit 
+      <lb ed="#C" n="101"/>Utrum motus localis sit res successiua ab omni 
+      re<lb ed="#C" n="102" break="no"/>permanente et permanentibus distincta. Secunda erit 
+      <lb ed="#C" n="103"/>doe motu alterationis an sit sola forma que 
+      partibi<lb ed="#C" n="104" break="no"/>liter acquiritur vel fluxus superadditus tali forme 
+      <lb ed="#C" n="105"/>Tertia questio erit. de motus localis velocitate 
+      <lb ed="#C" n="106"/>penes effectum. et quia tenere intendimus angelum 
+      <lb ed="#C" n="107"/>posse subito moueri vel mutari: quia nulla est 
+      resi<lb ed="#C" n="108" break="no"/>stentia medii ad angeli potentiam motiuam. Quarto 
+      <lb ed="#C" n="109"/>queremus de motus localis velocitate penes 
+      cau<lb ed="#C" n="110" break="no"/>sam. et quia quesituri sumus: an detur minimus 
+      lo<lb ed="#C" n="111" break="no"/>cus in quo angelus potest esse: aliquas priemittemus 
+      <lb ed="#C" n="112"/>questiones de minimo. Quita in ordine erit: an 
+      con<lb ed="#C" n="113" break="no"/>tinuum ex pictis confletur. Sexta: an det minimum 
+      <lb ed="#C" n="114"/>simpliciter: vel minima pars proportionalis 
+      con<lb ed="#C" n="115" break="no"/>tinui. Septima: an detur minmum naturaleOctaua 
+      <lb ed="#C" n="116"/>an erit de essentia loci et angelussit in loco. Nona: an 
+      <lb ed="#C" n="117"/>angelus determinet sibi locum quo ad magnitudi 
+      <lb ed="#C" n="118"/>nem vel paruitatem. Decima an plures angeli pestuet 
+      <lb ed="#C" n="119"/>simul esse in eodem loco adequato. Undecima: an an
+      <pb ed="#V" n="16-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>gelus potest se mouere localiter. Duodecimo. an 
+      an<lb ed="#C" n="2" break="no"/>gelus potest se subito et successiue mouere per medium 
+      <lb ed="#C" n="3"/>ob has duas questiones: alias praiemissimus: vel vt alii 
+      <lb ed="#C" n="4"/>forte dicent: propter has orta est hec tempestas. 
+      De<lb ed="#C" n="5" break="no"/>cimotertio de tpore loquemur. licet multe istarum 
+      quae<lb ed="#C" n="6" break="no"/>stionum alias artes sapere videantur: excusatus 
+      vi<lb ed="#C" n="7" break="no"/>debor propte r predecessores qui in hac distinctione 
+      <lb ed="#C" n="8"/>similes questiones inserere non erubuerunt. si error 
+      <lb ed="#C" n="9"/>sit: error communis facit ius.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e193">
+      ¶ Primam questionem 
+      aggre<lb ed="#C" n="10" break="no"/>diendo de motu locali. scito. Circa hanc materiam 
+      <lb ed="#C" n="11"/>duplex est positio. vna et satis communis tenet partem 
+      <lb ed="#C" n="12"/>affirmatiua: quod motus localis est res successiua sic 
+      <lb ed="#C" n="13"/>se habens quod per nulla duo instantia maneant eedem 
+      <lb ed="#C" n="14"/>partes: sed partes fluunt. posteriores prioribus 
+      de<lb ed="#C" n="15" break="no"/>cedentibus succedunt. ita quod suum fieri est suum esse. et 
+      <lb ed="#C" n="16"/>licet non oportet quod habeat plures partes secundum 
+      di<lb ed="#C" n="17" break="no"/>uisionem mobilis quod mouetur: quia in subiecto 
+      di<lb ed="#C" n="18" break="no"/>uisibili est accidens indiuisibile:tamen habet plures 
+      p<lb ed="#C" n="19" break="no"/>tes. Tertiam diuisionem tporis. sicut quantum permanens 
+      <lb ed="#C" n="20"/>est in loco extensum: sic quantiras successiua habet 
+      <lb ed="#C" n="21"/>vnam partem sui in vna parte tporis et aliam in alia: 
+      <lb ed="#C" n="22"/>sicut quantum extensum habet vnam partem eius in vna 
+      <lb ed="#C" n="23"/>parte loci: et aliam partem in alia parte loci.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e226">
+      ¶ 
+      Con<lb ed="#C" n="24" break="no"/>tra hanc viam capiam aliquas rationes quas iudi 
+      <lb ed="#C" n="25"/>co apparentiores: et videbimus si bene solui pestuet 
+      <lb ed="#C" n="26"/>Primo sic: quod fit non est oimo periarmenias. 
+      ergo<lb ed="#C" n="27" break="no"/>fieri rei successiue non est suum esse.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e238">
+      ¶ Secundo ant 
+      <lb ed="#C" n="28"/>guitur implicat aliquod totum esse nisi omnes 
+      sue<lb ed="#C" n="29" break="no"/>partes sint.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e245">
+      ¶ Ad primum respondetur quod illud 
+      intel<lb ed="#C" n="30" break="no"/>ligitur in permanentibus quo ad esse. tempore 
+      acc<lb ed="#C" n="31" break="no"/>sitionis caloris: vt quartuor qui est successiuus quo ad 
+      <lb ed="#C" n="32"/>fileri solum: calor vt quattuor est in fieri etnon est. et 
+      <lb ed="#C" n="33"/>sic de domo et aliis rebus partibiliter genitis.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e256">
+      ¶ Ad 
+      <lb ed="#C" n="34"/>secundum dicitur hac ratione: et multis aliis 
+      rationi<lb ed="#C" n="35" break="no"/>bus quas viri faciunt equaliter concludunt quod sonus 
+      <lb ed="#C" n="36"/>non est accidens successiuum in aere: cuius tamen 
+      op<lb ed="#C" n="37" break="no"/>positum isti arguentes dicunt. aliqui solent dicere 
+      <lb ed="#C" n="38"/>res permanens habet omnes suas partes 
+      simul<lb ed="#C" n="39" break="no"/>non autem res successiua. Contra hoc arguitur: quando 
+      <lb ed="#C" n="40"/>ille motus est quelibet pars eius est: quod 
+      probo<lb ed="#C" n="41" break="no"/>hec pars eius est: et illa pars eius est: et nulla est 
+      <lb ed="#C" n="42"/>pars eius que non sit. ergo quelibet pars eius est 
+      <lb ed="#C" n="43"/>si non est: non est pars eius. a propositione de 
+      se<lb ed="#C" n="44" break="no"/>cundo adiacente negatiue ad est tertium sine 
+      erro<lb ed="#C" n="45" break="no"/>re. hec ratio sufficienter concludit quod tam in 
+      parma<lb ed="#C" n="46" break="no"/>nentibus / quam in successiuis si aliquid totum est 
+      quaeli<lb ed="#C" n="47" break="no"/>bet pars eius est: scilicet quando partes eius sunt / est 
+      <lb ed="#C" n="48"/>difficultas an in hoc instanti motus est demonstram 
+      <lb ed="#C" n="49"/>do instans quo mobile mouetur. in primis hec est 
+      <lb ed="#C" n="50"/>falsa: motus est in hoc instanti: non est motus in in 
+      <lb ed="#C" n="51"/>stanti. Secundo dico hec est falsa: in hoc instanti est 
+      <lb ed="#C" n="52"/>motus: predicatum supponit pro motu: et subiectum 
+      <lb ed="#C" n="53"/>est: hoc totum ens existens in hoc instanti: modo ex 
+      <lb ed="#C" n="54"/>trema istius affirmatiue non supponuut pro eodem 
+      <lb ed="#C" n="55"/>vltra omnes instantias quas regula illa patitur. 
+      <lb ed="#C" n="56"/>ergo est falia: sed in hoc instanti verum est dicere 
+      mo<lb ed="#C" n="57" break="no"/>tus est. et potest dici quod solus ille motus est cuius 
+      <lb ed="#C" n="58"/>mutatum esse verum vel imaginarium est: sicut 
+      dice<lb ed="#C" n="59" break="no"/>mus post hac de tempore. et sic totus iste motus est 
+      <lb ed="#C" n="60"/>oemonstrando a. partem preteritam. et. b. partem futuram
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>copulatim: quia mutatum esse continuatiuum partium 
+      <lb ed="#C" n="62"/>illius motus est. et per consequens. a. et. b. sunt 
+      <lb ed="#C" n="63"/>et. a. non est: nec. b. est. ergo. a. et. b. sunt aliquid et a. 
+      <lb ed="#C" n="64"/>nichil est similiter. b. non est nec inconuenit in 
+      suc<lb ed="#C" n="65" break="no"/>cessiuis totum copulatum pro aliquo supponere et 
+      nul<lb ed="#C" n="66" break="no"/>la pars copulati supponit. et sic aliquid quod non 
+      <lb ed="#C" n="67"/>est: et aliquid quod non est sunt ens. sed loquendo 
+      <lb ed="#C" n="68"/>ac si pars esset terminus ampliatiuus (quod non est 
+      <lb ed="#C" n="69"/>verum) vel de parte que fuit ad sensum bonum 
+      in<lb ed="#C" n="70" break="no"/>telligendo. ad hoc quod res successiua sit non 
+      opor<lb ed="#C" n="71" break="no"/>tet quamlibet partem esus esse: secus est in 
+      permanen<lb ed="#C" n="72" break="no"/>tibus quo ad esse et fieri. Alio modo dicitur. sicut 
+      <lb ed="#C" n="73"/>pedale est in hoc toto loco: ita totusille motus 
+      lo<lb ed="#C" n="74" break="no"/>calis est in hoc toto tempore demonstrando totum 
+      <lb ed="#C" n="75"/>tempus in quo est: et vtimur illo tempore pro 
+      presen<lb ed="#C" n="76" break="no"/>ti. et licet prior medietas sit preterita respectiue et 
+      <lb ed="#C" n="77"/>comparatiue ad futurum: non tamen simpliciter. 
+   </p>
+            <p xml:id="jb2v19-d09047-d1e356">
+               <lb ed="#C" n="78"/>¶ Tertio arguitur. pono quod deus ponat. a. 
+      mobi<lb ed="#C" n="79" break="no"/>le de. b. loco ponendo. a. in. c. locum. et ducendo. 
+      <lb ed="#C" n="80"/>a. mobile per medium non producendo motum 
+      lo<lb ed="#C" n="81" break="no"/>calem: vel non concurrendo ad productionem 
+      mo<lb ed="#C" n="82" break="no"/>tus localis. cum motus localis est accidens: potest 
+      <lb ed="#C" n="83"/>mobile esse sine illo. et mobili manente sine illo: 
+      <lb ed="#C" n="84"/>non videtur implicatio qui deus potest producere 
+      <lb ed="#C" n="85"/>mobile in hunc locum in quo prlus non erat non 
+      pro<lb ed="#C" n="86" break="no"/>ducendo motum.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e378">
+      ¶ Ad tertium dicitur. deus non 
+      <lb ed="#C" n="87"/>potest ponere. a. mobile de loco in locum sinemo 
+      <lb ed="#C" n="88"/>tu locali. potest facere mobile tamen inotu locali: et 
+      <lb ed="#C" n="89"/>motum sine mobili: sicut albedinem sine subiecto 
+      cui<lb ed="#C" n="90" break="no"/>inhereat. sed nichil potest esse motum sine motur 
+      <lb ed="#C" n="91"/>locali: sicut nichil potest esse album sine albedine 
+      il<lb ed="#C" n="92" break="no"/>lud est positionis fundamentum. sicut nemo potest 
+      lo<lb ed="#C" n="93" break="no"/>qui nisi sonus producatur. potest tamen deus 
+      produ<lb ed="#C" n="94" break="no"/>cere hoc mobile in hunc locum sine motu locali. 
+      <lb ed="#C" n="95"/>patet: quando aliquid generatur. primo vcrum est dicere nunc 
+      <lb ed="#C" n="96"/>hoc mobile est in hoc loco / et non prius fuit in hoc 
+      <lb ed="#C" n="97"/>loco: et tamen non mouetur localiter ad motum 
+      <lb ed="#C" n="98"/>localem requiritur quod mobile prius fuerit: et non 
+      <lb ed="#C" n="99"/>in hoc loco. et nunc est in isto loco: loco quiescenti: 
+      <lb ed="#C" n="100"/>tunc mouetur.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e411">
+      ¶ Quarto arguitur. ad hoc quod 
+      mo<lb ed="#C" n="101" break="no"/>bile moueatur / requiritur talis qualitas 
+      successi<lb ed="#C" n="102" break="no"/>ua que dicatur. a. ipsm. a. mouetur / quia motis non 
+      <lb ed="#C" n="103"/>bis mouentur omnia que in nobis sunt. quarto 
+      phi<lb ed="#C" n="104" break="no"/>sicorum. sed. a. mouetur. ergo mediante alio 
+      fluxu<lb ed="#C" n="105" break="no"/>dicatur. b. et iterum. b. mouetur. ergo mediante. c. 
+      <lb ed="#C" n="106"/>motu. et sic in abissum. quod est inconuensens. 
+   </p>
+            <p xml:id="jb2v19-d09047-d1e428">
+               <lb ed="#C" n="107"/>¶ Respondetur. quando aliquid est tale mediante 
+      <lb ed="#C" n="108"/>aliquo formaliter standum est in illo tali: vt sortes 
+      <lb ed="#C" n="109"/>est albus mediante albedine standum est in illa. vel 
+      <lb ed="#C" n="110"/>sic. motus lecalis inherens substantie mobilis. et 
+      <lb ed="#C" n="111"/>non accidenti eius: mouet subiectum et omnia que 
+      <lb ed="#C" n="112"/>cum subiecto sunt inhesiue vel penetratiue. patet 
+      <lb ed="#C" n="113"/>de grauitate. si loquaris de descensu albedinis in 
+      <lb ed="#C" n="114"/>sacramento eucharistie: non concludis. Ron. idem 
+      ar<lb ed="#C" n="115" break="no"/>gumentum est de grauitate et de motu locali qui in 
+      <lb ed="#C" n="116"/>heret quantitati secundum vnam positionem vel ei 
+      coexi<lb ed="#C" n="117" break="no"/>stit et totum mouet. sed de hoc locuti sumus in iiii 
+      <lb ed="#C" n="118"/>in materia eucharistie. locus ille erit tibi hic 
+      scha<lb ed="#C" n="119" break="no"/>la intelligendi secundum hanc vlam. licet mobile sit 
+      mo<lb ed="#C" n="120" break="no"/>tum concretiue. non tamen est motus localis in ab¬
+      <pb ed="#V" n="17-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>tracto.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e467">
+      ¶ Hhis rationibus non improbabiliter 
+      eua<lb ed="#C" n="2" break="no"/>cuatis: positionem hanc censeo probabiliter 
+      tenen<lb ed="#C" n="3" break="no"/>dam. pro qua sunt rationes et autoritates apparentes 
+      <lb ed="#C" n="4"/>quas contra tertiam conclusionem formabo.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e476">
+      ¶ Secunda 
+      <lb ed="#C" n="5"/>conclusio. motus localis non est spacium circa quod 
+      <lb ed="#C" n="6"/>mobile mouctur. probatur hec conclusio. opposito 
+      <lb ed="#C" n="7"/>dato: sequitur quod terra erit motus localis celi: sed 
+      <lb ed="#C" n="8"/>hoc est inconueniens: quod patet. motus localis 
+      celi<lb ed="#C" n="9" break="no"/>est causa generationis et corruptionis in istis 
+      inferio<lb ed="#C" n="10" break="no"/>ribus: sed terra non est causa generationis et corrupti 
+      <lb ed="#C" n="11"/>onis in istis inferioribus. Insuper. sequitur quod motus 
+      <lb ed="#C" n="12"/>localis est quies vel quiescit: patet conclusio. hec 
+      ter<lb ed="#C" n="13" break="no"/>ra est quies vel quiescit. hec terra est motus 
+      loca<lb ed="#C" n="14" break="no"/>lis celi. ergo motus localis celi est quies vel quie 
+      <lb ed="#C" n="15"/>scit.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e502">
+      ¶ Tertia conclusio. probabile est quod motus 
+      lo<lb ed="#C" n="16" break="no"/>calis nichil aliud est quam mobile quod mouetur. proba 
+      <lb ed="#C" n="17"/>tur hec conclusio per rationes contra primam 
+      opinio<lb ed="#C" n="18" break="no"/>nem siue conclusionem adductas: que licet sint 
+      pro<lb ed="#C" n="19" break="no"/>babiliter euacuate ad tenendam probabilitatem: etiam 
+      <lb ed="#C" n="20"/>probabiliter non sint solute. et rationes omes contra 
+      <lb ed="#C" n="21"/>hanc coclusionem solui ptuet / et non est petenda 
+      plurali<lb ed="#C" n="22" break="no"/>tas sine necessitate. ergo conclusio vera: vel 
+      pro<lb ed="#C" n="23" break="no"/>babiliter vera: quod pretendimus.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e522">
+      ¶ Contra hac 
+      con<lb ed="#C" n="24" break="no"/>clusionem arguitur. motus localis est successiuus. 
+      mo<lb ed="#C" n="25" break="no"/>bile non est res successina: sed permanens.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e529">
+      ¶ Secundo 
+      <lb ed="#C" n="26"/>sonus est res successiua aeri inherens. ergo eodem 
+      <lb ed="#C" n="27"/>modo motus localis
+   </p>
+            <p xml:id="jb2v19-d09047-d1e537">
+      ¶ Tertio motus localis 
+      de<lb ed="#C" n="28" break="no"/>sinit esse dum mobile incipit quiescere. et tamen 
+      mo<lb ed="#C" n="29" break="no"/>bile non desinit esse. ergo motus localis non est 
+      <lb ed="#C" n="30"/>mooile.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e546">
+      ¶ Ad primum negatur quod motus localis sit 
+      <lb ed="#C" n="31"/>res successina mob i inherens: sicut dixit prima 
+      <lb ed="#C" n="32"/>et conclusio. sed motus est successiuus ad hunc sensum: 
+      <lb ed="#C" n="33"/>oum mobile mouetur successiue vehitur.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e555">
+      ¶ Ad secundum 
+      <lb ed="#C" n="34"/>potest probabiliter defendi quod sonus est aer vel que 
+      <lb ed="#C" n="35"/>oinisa. ectiam multi negarent consequentiam: dicentes 
+      es<lb ed="#C" n="36" break="no"/>rationes ad probandum vnum que aliud non probant 
+   </p>
+            <p xml:id="jb2v19-d09047-d1e564">
+               <lb ed="#C" n="37"/>¶ Ad tertium negatur. quod maior motuslocalis 
+      desi<lb ed="#C" n="38" break="no"/>nat esse: sed desinit esse motus quando mobile incipit 
+      <lb ed="#C" n="39"/>quiescere: et non sequitur. mobile desinit esse motus 
+      <lb ed="#C" n="40"/>ergo mobile desinitesse ens.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e575">
+      ¶ Quarto arguitur 
+      <lb ed="#C" n="41"/>partibus motus repugnat esse simul. ergo motus 
+      <lb ed="#C" n="42"/>non est mobile.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e582">
+      ¶ Quinto arguitur: motus est 
+      sub<lb ed="#C" n="43" break="no"/>iectiue in mobili. secundum Aristo iti. Phisicorum. mob in 
+      <lb ed="#C" n="44"/>le non est subiectiue in mobili. ergo motus localis 
+      <lb ed="#C" n="45"/>non est mobile.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e592">
+      ¶ Sexto arguitur. ex conclusione 
+      <lb ed="#C" n="46"/>sequitur quod motus rectus esset motus circularis / 
+      <lb ed="#C" n="47"/>et motus vniformis esset diformis: et motus 
+      ve<lb ed="#C" n="48" break="no"/>lox esset tardus. ista sunt inconuententia: et uod 
+      scquon<lb ed="#C" n="49" break="no"/>tur. patet sic: ponendo. a. corpus sphericum / quod 
+      descen<lb ed="#C" n="50" break="no"/>dat: et descendendo circa contrum suum voluatur: addendo 
+      <lb ed="#C" n="51"/>quod velociter et vniformiter descendat: sed tarde et 
+      <lb ed="#C" n="52"/>difformitur voluatur circa centrum suum. hoc 
+      supposi<lb ed="#C" n="53" break="no"/>to sic arguitur: hoc mobile est motus rectus. hoc 
+      <lb ed="#C" n="54"/>mobile est motus circularis. ergo motus circularis 
+      <lb ed="#C" n="55"/>est motus rectus. eodem modo pobare potes cete 
+      <lb ed="#C" n="56"/>ras conclusiones illatas.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e618">
+      ¶ Ad quartum distinguitur 
+      <lb ed="#C" n="57"/>maior. vel quod partibus illius ret quae est motus 
+      repu<lb ed="#C" n="58" break="no"/>gnet esse simul. et hoc est falsum et negandum. ve l 
+      <lb ed="#C" n="59"/>quod repugnet quod mobile moueatur per omnes 
+      partesspa<lb ed="#C" n="60" break="no"/>cii simui: et sic conceditur.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e629">
+      ¶ Ad quintum de motu al
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>terationis hoc est verum: de quo post hac loquendum 
+      <lb ed="#C" n="62"/>erit. de motu locali dicitur quod esse in non capitur 
+      pr<lb ed="#C" n="63" break="no"/>me intentionaliter: sed secunde. pro quanto accidendaliter 
+      <lb ed="#C" n="64"/>motus mobili conuenit: et ipsum denominat motum. sicut 
+      <lb ed="#C" n="65"/>crinium hitudo adinuicem que nichil aliud est quam ipsi 
+      <lb ed="#C" n="66"/>crines denominat ipsos crispos.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e647">
+      ¶ Ad sextum 
+      conce<lb ed="#C" n="67" break="no"/>do illata in argumento.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e652">
+      ¶ Septimo arguitur. sequitur / 
+      <lb ed="#C" n="68"/>non ante omnem motum fuit motus contra 
+      Aristotelen<lb ed="#C" n="69" break="no"/>sexto Phisicorum consequentia probatur. an hoc celum non 
+      <lb ed="#C" n="70"/>fuit motus. et hoc celum est vel fuit aliquis motus. 
+      igi<lb ed="#C" n="71" break="no"/>tur.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e663">
+      ¶ Octauo arguitur. nullus motus potest esse in 
+      <lb ed="#C" n="72"/>instanti. mobile potest esse in instanti. ergo 
+      mobi<lb ed="#C" n="73" break="no"/>le non est motus.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e671">
+      ¶ Nono argultur. motus terre 
+      <lb ed="#C" n="74"/>sursum est violentus. sed terra non est terre 
+      violen<lb ed="#C" n="75" break="no"/>ta. igitur.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e678">
+      ¶ Ad septimum concedo illatum: sed ante omnem 
+      <lb ed="#C" n="76"/>motum fuit moueri. hoc est: quocumque instanti da 
+      <lb ed="#C" n="77"/>to in quo verum est doatre motus est in hoc tpore: in 
+      ali<lb ed="#C" n="78" break="no"/>quo instanti prlus verum erat dicere in hoc 
+      tempo<lb ed="#C" n="79" break="no"/>re motus est.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e689">
+      ¶ Ad octauum dicitur: nullus motus 
+      <lb ed="#C" n="80"/>potest esse motus in instanti: mobile non mouetur 
+      <lb ed="#C" n="81"/>in instanti: nec quiescit in instanti. quia in illo non est 
+      ap<lb ed="#C" n="82" break="no"/>tum natum moueri.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e698">
+      ¶ Ad nonum dicitur motus terre 
+      <lb ed="#C" n="83"/>sursum est violentus motus terre. etiam terra est 
+      <lb ed="#C" n="84"/>violentus motus sursum ipsi.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e705">
+      ¶ Decimo arguitur. 
+      so<lb ed="#C" n="85" break="no"/>ni habetur noticia intuitiua permanens. ergo sonus 
+      <lb ed="#C" n="86"/>manet: vel noticia intuitiua erit de re non pesequente 
+      na<lb ed="#C" n="87" break="no"/>turaliter. secundum est inconueniens. ergo primum dandum est 
+   </p>
+            <p xml:id="jb2v19-d09047-d1e714">
+               <lb ed="#C" n="88"/>¶ Dicis (sicut dicendum est) sicut sonus successiue 
+      <lb ed="#C" n="89"/>fit: et nulle due eedem partes eius manent in duobus 
+      <lb ed="#C" n="90"/>instantibus: sic nec noticia ei espondens.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e724">
+      ¶ Contra: illa non 
+      <lb ed="#C" n="91"/>ticia est qualitas et intensibilis. ergo habet 
+      plu<lb ed="#C" n="92" break="no"/>res partes simul. similiter noticia abstractiua soni 
+      <lb ed="#C" n="93"/>est qualitas permanens. ergo et noticia intuitiua 
+   </p>
+            <p xml:id="jb2v19-d09047-d1e733">
+               <lb ed="#C" n="94"/>¶ Rspnondetur sufficienter intur arguendum: noticia intuie 
+      <lb ed="#C" n="95"/>tiua soni est res successiua sicut obiectum eius a quo 
+      <lb ed="#C" n="96"/>dependet: secus est de noticia abstractina quae non 
+      <lb ed="#C" n="97"/>dependet naturaliter a sono. noticia soni 
+      intuiti<lb ed="#C" n="98" break="no"/>ua non est intensa: nec intensibilis quemadmodum 
+      <lb ed="#C" n="99"/>ipse sonus. sed potest esse vnus conceptus soni perte 
+      <lb ed="#C" n="100"/>ctior alio: non ab intensione actus: sed a perfecti 
+      <lb ed="#C" n="101"/>one cause: quia vnus sonus est perfectior et magis 
+      in<lb ed="#C" n="102" break="no"/>mutat potentiam quam alter. vt angelus per similem 
+      <lb ed="#C" n="103"/>conceptum in gradu perfectius cognoscit creaturam 
+      <lb ed="#C" n="104"/>quam homo.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e759">
+      ¶ Undecimo. si motus localis esset ipsem 
+      <lb ed="#C" n="105"/>mobile. sequeretur quod non essent quinque sensibilia 
+      co<lb ed="#C" n="106" break="no"/>munia: contra Aristo. secundo de anima. mobile non est 
+      sen<lb ed="#C" n="107" break="no"/>sibile commune.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e768">
+      ¶ huodecimo arguitur. Si ponatur quod duo 
+      <lb ed="#C" n="108"/>homines moueant ad diuersas positonnum differentias: 
+      <lb ed="#C" n="109"/>tunc isti duo motus sunt contrarii: hec mobilia non 
+      <lb ed="#C" n="110"/>sunt contraria. igitur.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e777">
+      ¶ Deciotertio arguitr: motus 
+      loca<lb ed="#C" n="111" break="no"/>lis est calefactiuus. hoc frigidum ferrum non est 
+      cale<lb ed="#C" n="112" break="no"/>factiuum. ergo hoc srigidum ferrum non est motus 
+      lo<lb ed="#C" n="113" break="no"/>calis: in baroco.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e786">
+      ¶ Ad vndecimum dicitur. non osncer 
+      <lb ed="#C" n="114"/>sensibilia communia per hoc quod distinguuntur a proprlis. sed 
+      <lb ed="#C" n="115"/>quia a pluribus sensibus percipi possunt. tactu com 
+      perci<lb ed="#C" n="116" break="no"/>pimus / similiter visu: si. a. moueatur.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e796">
+      ¶ Ad 
+      duo<lb ed="#C" n="117" break="no"/>decimum dicitur: illi duo homines sunt motus contrarii 
+   </p>
+            <p xml:id="jb2v19-d09047-d1e801">
+               <lb ed="#C" n="118"/>¶ Ad decimuntertium dter: si in minore dicas hoc 
+      fri<lb ed="#C" n="119" break="no"/>gicum ferrum non est motus calefactiuus. tunc 
+      conse<lb ed="#C" n="120" break="no"/>quentia est in baroco. sed ipsa non compatitur ma¬
+      <pb ed="#V" n="17-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>iorem in veritate secum. cale factio prouenit a 
+      ferro<lb ed="#C" n="2" break="no"/>inquantm est motus vel mouetur / et non a forma 
+      <lb ed="#C" n="3"/>subali vel connaturali ferri. ex hac positione sequitur 
+      <lb ed="#C" n="4"/>quod motus erit quies: sed motus numquod est quies. nec 
+      <lb ed="#C" n="5"/>quies est motus nominaliter. motus sursum erit 
+      mo<lb ed="#C" n="6" break="no"/>tus deorsum: motus incepit in instanti: sed nichil 
+      <lb ed="#C" n="7"/>incepit esse motus in instanti. quando loquimur de 
+      inc<lb ed="#C" n="8" break="no"/>ptione et desitione motus localis extra hanc 
+      ma<lb ed="#C" n="9" break="no"/>teriam: loquimur secundum materiam subiectam de 
+      motu<lb ed="#C" n="10" break="no"/>ratione qua est motus: et non ratione qua est 
+      mo<lb ed="#C" n="11" break="no"/>bile: dicentes quod motus localis incipit per vltimum 
+      <lb ed="#C" n="12"/>instans non esse: et non per primum instans esse. Ultius 
+      <lb ed="#C" n="13"/>patet: idem calefacit se. patet: equuscurrens se 
+      ca<lb ed="#C" n="14" break="no"/>lefacit cursu et cursus nihil aliud est / quam equus 
+      cur<lb ed="#C" n="15" break="no"/>rens. et licet equus sit suus cursus: dicimus in consueto 
+      <lb ed="#C" n="16"/>modo loquendi iste equus cursu se calefacit eat 
+      mo<lb ed="#C" n="17" break="no"/>tu. non autem ipso equo se calefacit. sicut anima 
+      intelli<lb ed="#C" n="18" break="no"/>git mediante intellectu: et non voluntate: licet sint vna 
+      <lb ed="#C" n="19"/>et eadem res. sed bene verum est quod non quilibet 
+      mo<lb ed="#C" n="20" break="no"/>tus localis sufficit ad hoc quod dicatur equus currens 
+      <lb ed="#C" n="21"/>licet cursnesit motus localis: motus localis est 
+      su<lb ed="#C" n="22" break="no"/>perior cursu. requiritur certa velocitas motus ad 
+      <lb ed="#C" n="23"/>hoc quod equus dicatur currens. opet dare mimam 
+      ve<lb ed="#C" n="24" break="no"/>locitatem que sufficit ad cursum: vel maximum motum 
+      <lb ed="#C" n="25"/>qui non sufficit ad cursum huiusequi: postquod aliquis 
+      <lb ed="#C" n="26"/>motus sufficit: et aliquis motus non sufficit. et melius 
+      <lb ed="#C" n="27"/>est dare maximum motum qui non sufficit ad cursum 
+      <lb ed="#C" n="28"/>hnius equi: puta quattuor gradus motus gratia 
+      ex<lb ed="#C" n="29" break="no"/>empli non fufficit: sed quilibet maior gradus 
+      suffi<lb ed="#C" n="30" break="no"/>cit. si daretur minimus motus qui sufficit ad 
+      cur<lb ed="#C" n="31" break="no"/>sum: tunc per vnum solum instans equus curreret: 
+      <lb ed="#C" n="32"/>quod non videtur dicendum. patet sequela: ponendo 
+      <lb ed="#C" n="33"/>quod. a. equus motum suum intendat. a. non gradu ad 
+      il<lb ed="#C" n="34" break="no"/>lum gradum qui sufficit: et in hora sequenti remit. 
+      <lb ed="#C" n="35"/>tat motum suum ab illo gradum ad non gradum vsque et oportet 
+      <lb ed="#C" n="36"/>considerare motum in ordine ad mobile: minor motus 
+      suf<lb ed="#C" n="37" break="no"/>ficit denominare bouenm vel porcum currere quam equum: 
+      <lb ed="#C" n="38"/>et paruum vrum quam og.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e897">
+      ¶ Potest fieri argumentum contra 
+      <lb ed="#C" n="39"/>hanc positionem quoassuetus currere bene currit per 
+      ha<lb ed="#C" n="40" break="no"/>bitum in membris genitum et nunquam generatur hitus 
+      <lb ed="#C" n="41"/>in aliquo nisi mediante actu praieuio. ergo motus est 
+      <lb ed="#C" n="42"/>actus realiter a mobili distinctus. Ad hoc 
+      argu<lb ed="#C" n="43" break="no"/>mentum in quarta distinctione quarti sniarum 
+      respon<lb ed="#C" n="44" break="no"/>dimus: et fortasse in tertio faciemus si memores 
+      si<lb ed="#C" n="45" break="no"/>mus.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e915">
+      ¶ Decimotertio arguitur contra vtramque positi 
+      <lb ed="#C" n="46"/>onem / et contra suppositum quod non est possibilis 
+      mo<lb ed="#C" n="47" break="no"/>tus localis nullum spacium potest ess pertransitum. ergo 
+      <lb ed="#C" n="48"/>motus local is non est possibilis. da oppositum: 
+      <lb ed="#C" n="49"/>sortes partransiuit a spacium: vel est in instanti 
+      termi<lb ed="#C" n="50" break="no"/>nante motum vel ante illud instans. non ante. bene 
+      <lb ed="#C" n="51"/>sequitur sortes pertransiuit totum a spacium. ergo totum 
+      <lb ed="#C" n="52"/>a. spacium est pertransitum a sorte. nec in instanti 
+      <lb ed="#C" n="53"/>terminante motum. patet prius partransibat. a. spacium 
+      <lb ed="#C" n="54"/>quia hrius fuit partransiens a spacium. et idem est 
+      di<lb ed="#C" n="55" break="no"/>ctu sortes pertransihar. a. spacium / et sortes 
+      partran<lb ed="#C" n="56" break="no"/>siuit. a. spacium.
+   </p>
+            <p xml:id="jb2v19-d09047-d1e941">
+      ¶ Rspondetur negando. quod sit idem 
+      di<lb ed="#C" n="57" break="no"/>ctu sortes pertransibat. a. spacium / et sortes 
+      partransi<lb ed="#C" n="58" break="no"/>uit. a. spacium: tempore quo erat motus super. a. spaci 
+      <lb ed="#C" n="59"/>um illa de praeterito imperfecto fuit vera. similiter 
+      il<lb ed="#C" n="60" break="no"/>la sortes fuit partransiens. a. spacium. sicut illa sortes
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>edificabat domum: sortes sult edificans doomum. 
+      pro<lb ed="#C" n="62" break="no"/>pterea recte dicitur: preteritum imperfectum: quia non 
+      <lb ed="#C" n="63"/>denotat perfectionem operis. sed hec non est vera 
+      an<lb ed="#C" n="64" break="no"/>te complementum operis sortes edificauit domum 
+      sor<lb ed="#C" n="65" break="no"/>tes pertransiuit. a. spacium. et in instanti 
+      terminan<lb ed="#C" n="66" break="no"/>te opus primo. illa de plusquam preterito adhuc non est 
+      <lb ed="#C" n="67"/>vera. sed immediate post hoc erit vera si formetur. pro 
+      <lb ed="#C" n="68"/>pterea terminus hoc importat plusquam preteritum. 
+      <lb ed="#C" n="69"/>ista se habent per ordinem. primo ista est vera sortes 
+      <lb ed="#C" n="70"/>fuit edificansdomum. secundo hec. sortes edificauit 
+      do<lb ed="#C" n="71" break="no"/>mum. tertio hec sortes edificauerat domum. 
+      Ui<lb ed="#C" n="72" break="no"/>des hinc inde probabilitates quod merito in hac 
+      ma<lb ed="#C" n="73" break="no"/>teria problemiatisauimus. et per consequens tenendo primam 
+      con<lb ed="#C" n="74" break="no"/>clusionem non ponimus pluralitatem sine necessitate: cum 
+      <lb ed="#C" n="75"/>multe sint apparentie et auctoritates phi. et 
+      commenta<lb ed="#C" n="76" break="no"/>toris pro hac parte motus est actus in potentia 
+      se<lb ed="#C" n="77" break="no"/>cundum quod in potentia: licet hoc possit exponi uod 
+      mo<lb ed="#C" n="78" break="no"/>bili. et in distinctione precedentis introduximus 
+      con<lb ed="#C" n="79" break="no"/>mentatorem dicentem motum celi productum ab 
+      eter<lb ed="#C" n="80" break="no"/>non ab intelligentia mouente. sed quia potest esse 
+      obie<lb ed="#C" n="81" break="no"/>ctio de motu alterationis augmentationis et dimino 
+      <lb ed="#C" n="82"/>tionis: propterea hoc in questione sequenti inquiram. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

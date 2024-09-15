@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="137-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d82195"><!-- l2d32q2 -->
+            <head xml:id="jb2v19-d82195-Hd1e101">Quaestio 2</head>
+            <head xml:id="jb2v19-d82195-Hd1e103" type="question-title">Utrum omnes animae humanae sunt aequales</head>
+            <p xml:id="jb2v19-d82195-d1e106">
+               <lb ed="#C" n="36"/>SEcundo circa hanc distinctionem 
+      <lb ed="#C" n="37"/>quero: vtrum omnes anime humane 
+      <lb ed="#C" n="38"/>sunt equales.
+   </p>
+            <p xml:id="jb2v19-d82195-d1e115">
+      ¶ Pro solutione quie 
+      <lb ed="#C" n="39"/>stionis pono conclusiones: quarum 
+      <lb ed="#C" n="40"/>prima est. Aliqui homines in 
+      natu<lb ed="#C" n="41" break="no"/>ralibus longe alios anteessent. 
+      <lb ed="#C" n="42"/>patet tam in potentia vegetatiua quam sensitiua. vnus 
+      <lb ed="#C" n="43"/>melius videt / audit / vel olfacit / quam alter: vt ad 
+      ocu<lb ed="#C" n="44" break="no"/>elum quolibet die videmus.
+   </p>
+            <p xml:id="jb2v19-d82195-d1e131">
+      ¶ Secunda 
+      conclusio<lb ed="#C" n="45" break="no"/>intellectus vnius in naturalibus intellectum 
+      alte<lb ed="#C" n="46" break="no"/>rius in intelligentia precedit. probatur. videmus vnum 
+      <lb ed="#C" n="47"/>statim intelligere multum difficilia ei proposita que 
+      <lb ed="#C" n="48"/>alter rudis non potest invita capere. probatur eadem 
+      <lb ed="#C" n="49"/>conclusio. anima vnius vtitur aptiori instrumento ad 
+      <lb ed="#C" n="50"/>exeundum in actum intelligendi quam anima alterius. ergo 
+      <lb ed="#C" n="51"/>facilius et promptius exit in actum intelligendi. 
+      te<lb ed="#C" n="52" break="no"/>net consequentia. vtrobique habens instrumentum 
+      me<lb ed="#C" n="53" break="no"/>lius operatur melius ceteris paribus. et propterea 
+      <lb ed="#C" n="54"/>primo de anima dicit philosophus. si senex haberet 
+      <lb ed="#C" n="55"/>oculum iuuenis videret vt iuuenis. et secundo de anima 
+      <lb ed="#C" n="56"/>molles carne sunt apti mente. videmus enim 
+      ali<lb ed="#C" n="57" break="no"/>quos habere manuu volas delicatissimas 
+      multi<lb ed="#C" n="58" break="no"/>tudine pororum et multitudine paruarum rigarum perditi¬s 
+      <lb ed="#C" n="59"/>totam volam ductarum. hos scimus ingeniosos. 
+      <lb ed="#C" n="60"/>alios videmus carnem in manus vola habere ru¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>dem cum vna vel duabus lineis grossis et 
+      brevi<lb ed="#C" n="62" break="no"/>bus digitis: quem rude protinus deprehen¬ 
+   </p>
+            <p xml:id="jb2v19-d82195-d1e176">
+               <lb ed="#C" n="63"/>¶ Tertia conclusio. appetitus intellectiuus vnius 
+      <lb ed="#C" n="64"/>in naturalibus praecedit appetitum intellectiuum 
+      alte<lb ed="#C" n="65" break="no"/>rius. probat. aliqui sunt bene nati: sexto ethicorum: 
+      <lb ed="#C" n="66"/>aliqui vo male nati: proptea aliquos mites castos et 
+      hu<lb ed="#C" n="67" break="no"/>manos suapte natura videmns: aliquos vero 
+      in<lb ed="#C" n="68" break="no"/>humanos et truculentos: vt hannibal / tambanus: 
+      <lb ed="#C" n="69"/>igitur.
+   </p>
+            <p xml:id="jb2v19-d82195-d1e194">
+      ¶ Secundo arguitur ad idem. aliqui habent 
+      me<lb ed="#C" n="70" break="no"/>liorem dispositionem in corpore quam alii. sed appetitus 
+      <lb ed="#C" n="71"/>intellectiuus corpori immersus dependet 
+      quodan<lb ed="#C" n="72" break="no"/>modo (licet non necessitetur) a corpore. igitur. 
+      ecce<lb ed="#C" n="73" break="no"/>conclusiones ex parte sensuum et anime pro quanto 
+      cor<lb ed="#C" n="74" break="no"/>pus informat: potissimum corruptibile. et potest 
+      ita<lb ed="#C" n="75" break="no"/>esse in corpore in corruptibili in beatis.
+   </p>
+            <p xml:id="jb2v19-d82195-d1e210">
+      ¶ Quarta 
+      <lb ed="#C" n="76"/>conclusio. ex parte animae intellectiue quantum est ex 
+      pen<lb ed="#C" n="77" break="no"/>te eius / non habendo respectum ad corpus quod 
+      infi<lb ed="#C" n="78" break="no"/>mat: sed loquendo de anima separata vel ac si esset 
+      se<lb ed="#C" n="79" break="no"/>parata: hoc est: loquendo de his que animae conueniunt 
+      <lb ed="#C" n="80"/>ad quae corpus minime deseruit: sit conclusio hec. vna anima 
+      <lb ed="#C" n="81"/>est alia perfectior in donis gratuitis. probat. 
+      dor<lb ed="#C" n="82" break="no"/>gratuita liberaliter conferunt a donate: vt a deo. sed 
+      <lb ed="#C" n="83"/>deus dat vni et non alteri ex sua liberalitate. sicut 
+      <lb ed="#C" n="84"/>rex dat vni a. donum et non simili in specie equale 
+      <lb ed="#C" n="85"/>donum. preterea. hoc nihil aliud ponit nisi 
+      dona<lb ed="#C" n="86" break="no"/>accidentalia. sed non inconuenit duo subiecta eiusdem 
+      <lb ed="#C" n="87"/>speciei specialissime esse aliter qualificata. igitur 
+      <lb ed="#C" n="88"/>tertio: ade iusticia originalis connicata est et non 
+      po<lb ed="#C" n="89" break="no"/>sterioritati. animae christi beatitudo gratis secundum 
+      <lb ed="#C" n="90"/>communem viam et infinita gratia intensiue (vt 
+      oppi<lb ed="#C" n="91" break="no"/>nor) similia non sunt communicata alicui alteri.
+   </p>
+            <p xml:id="jb2v19-d82195-d1e247">
+      ¶ Quin 
+      <lb ed="#C" n="92"/>ta conclusio. vna anima intellectiua non est perfectior 
+      <lb ed="#C" n="93"/>alia entitatiue. patet. omnes atme sunt eiusdem 
+      spe<lb ed="#C" n="94" break="no"/>ciei specialissime. ergo implicnit vnam esse alia 
+      ps<lb ed="#C" n="95" break="no"/>ctiorem entitatiue. si enim vna esset alia perfectior 
+      en<lb ed="#C" n="96" break="no"/>ltitatiue. non essent eiusdem speciei specialissime. 
+      spe<lb ed="#C" n="97" break="no"/>cies se habent vt numeri. 8 methaphisice. et ex 
+      pro<lb ed="#C" n="98" break="no"/>prietatibus substantie / substantia non suscipit magis 
+      <lb ed="#C" n="99"/>neque minus. ergo vna anima non est perfectior alia 
+      sub<lb ed="#C" n="100" break="no"/>stantialiter et entitatiue.
+   </p>
+            <p xml:id="jb2v19-d82195-d1e269">
+      ¶ Sexta conclusio. 
+      proba<lb ed="#C" n="101" break="no"/>bile est quod vna anima separata naturalius melius quod 
+      <lb ed="#C" n="102"/>pit quod alia. probatur. vnus homo melius capit naturaliter quam al 
+      <lb ed="#C" n="103"/>ter. ergo vna anima naturaliter melius intelligit quam alia. sed 
+      <lb ed="#C" n="104"/>dicis consequentia nihil valet. est alia dispositio subiecti 
+      <lb ed="#C" n="105"/>in vno homine quam in alio. hoc non contingeret in 
+      <lb ed="#C" n="106"/>duobus homimbus equaliter in corpore dispositis: 
+      <lb ed="#C" n="107"/>nee in animabus. quia non videtur vnde ista diuersitas ex 
+      <lb ed="#C" n="108"/>parte subiecti debeat intelligi.
+   </p>
+            <p xml:id="jb2v19-d82195-d1e289">
+      ¶ Secundo argui 
+      <lb ed="#C" n="109"/>tur ad idem. demon non intelligit ita bene sicut 
+      an<lb ed="#C" n="110" break="no"/>gelus eiusdem speciei essentialis secum. suppono 
+      <lb ed="#C" n="111"/>plura indiuidua angelorum eiusdem speciei quorum 
+      <lb ed="#C" n="112"/>vnum cecidit et non reliquum: ita potest esse de 
+      pos<lb ed="#C" n="113" break="no"/>sibili. tunc sic. demon non capit eandem 
+      difficulta<lb ed="#C" n="114" break="no"/>tem ita bene sicut angelus eiusdem speciei secum. sed 
+      <lb ed="#C" n="115"/>hic dicis. demon habet malos habitus: et 
+      intelle<lb ed="#C" n="116" break="no"/>ctum ad multa mala conuersum. et sic non potest 
+      ita<lb ed="#C" n="117" break="no"/>attente animaduertere ad difficultatem propositam 
+      <lb ed="#C" n="118"/>sicut bonus angelus. modo animo multum intento 
+      cir<lb ed="#C" n="119" break="no"/>ca vnam materia: non ita applicatur circa aliam. sed 
+      <lb ed="#C" n="120"/>propterea non sequitur quod naturaliter melius intelli¬
+      <pb ed="#V" n="138-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>gat quam alter ceteris paribus.
+   </p>
+            <p xml:id="jb2v19-d82195-d1e325">
+      ¶ Tertio arguitur. 
+      <lb ed="#C" n="2"/>deus a principio potest in aliqua anima vel angelo 
+      <lb ed="#C" n="3"/>producere bonos habitus per quos promptius 
+      <lb ed="#C" n="4"/>difficultatem cognoscet vna anima quod alia. et cum 
+      ta<lb ed="#C" n="5" break="no"/>les a principio habet ex puris naturalibus habet. 
+      <lb ed="#C" n="6"/>sed dicis. hoc est ex dono gratis dato.
+   </p>
+            <p xml:id="jb2v19-d82195-d1e338">
+      ¶ Quarto ar 
+      <lb ed="#C" n="7"/>guitur per articulum parisiensem qui sic iacet capite. 8 
+      <lb ed="#C" n="8"/>inconueniens est ponere alios intellectus 
+      nobi<lb ed="#C" n="9" break="no"/>liores aliis. quia cum ista diuersitas non potest esse 
+      <lb ed="#C" n="10"/>ex parte corporum oportet quod sit ex parte 
+      intelligen<lb ed="#C" n="11" break="no"/>tiarum: et sic animae nobiles et ignobiles essent 
+      ne<lb ed="#C" n="12" break="no"/>cessario diuersarum specierum sicut intelligentie / 
+      er<lb ed="#C" n="13" break="no"/>ror. quia sic anima christi non esset nobilior anima 
+      iude<lb ed="#C" n="14" break="no"/>articulus ille non intelligit ex parte donorum 
+      gra<lb ed="#C" n="15" break="no"/>tuitorum: sed ex puris naturalibus: sic scllicet: quod in 
+      <lb ed="#C" n="16"/>eadem specie possunt dari due anime corporum 
+      exper<lb ed="#C" n="17" break="no"/>tes quarum vna melius intelligit quam alia. hoc idem 
+      <lb ed="#C" n="18"/>tenet magister in ca. vltimo huius distinctionis 
+      <lb ed="#C" n="19"/>inquiens. Illud quoque non incongrue queri solet: 
+      <lb ed="#C" n="20"/>vtrum omnes anime ex creatione sint equales an alie 
+      <lb ed="#C" n="21"/>aliis excellentiores. pluribus non irrationabiliter 
+      <lb ed="#C" n="22"/>vtur quod ex ipsa creatione alie aliis excellant in naturali 
+      <lb ed="#C" n="23"/>bus donis: vt in essentia. alia aliis sit subtilior: et ad 
+      <lb ed="#C" n="24"/>intelligendum / menorandum / habilior: vt pote acutiore 
+      <lb ed="#C" n="25"/>ingenio et perspicatiori intellectu praedita: quod non 
+      improba<lb ed="#C" n="26" break="no"/>biliter dicitur: cum in angelis ita fuisse constet. si 
+      lo<lb ed="#C" n="27" break="no"/>quatur de angelis eiusdem speciei: vix constat. si 
+      indif<lb ed="#C" n="28" break="no"/>ferentibus specie: de hoc non reuocatur in dubium. 
+      propte<lb ed="#C" n="29" break="no"/>rea dico / probatio magistri nichil valet. tamen 
+      opi<lb ed="#C" n="30" break="no"/>natus est hanc conclusionem sextam veram.
+   </p>
+            <p xml:id="jb2v19-d82195-d1e393">
+      ¶ Contra 
+      <lb ed="#C" n="31"/>quintam conclusionem arguitur. vnus homo est magis 
+      <lb ed="#C" n="32"/>rationalis quam alter. ergo substantia suscipit magis 
+      <lb ed="#C" n="33"/>et minus.
+   </p>
+            <p xml:id="jb2v19-d82195-d1e402">
+      ¶ Secundo: albedo vt 4. est perfectior al 
+      <lb ed="#C" n="34"/>bedine vt duo. et tamen sunt eiusdem species specia 
+      <lb ed="#C" n="35"/>lissime entitatiue. ergo non inconuenit indiuiduum vnum 
+      <lb ed="#C" n="36"/>alteri praestare in eadem specie: et pari ratione in 
+      sub<lb ed="#C" n="37" break="no"/>stantia et animabus.
+   </p>
+            <p xml:id="jb2v19-d82195-d1e413">
+      ¶ Et confirmatur hec ratio: quicquid perfectio 
+      <lb ed="#C" n="38"/>nis est in duobus ergedibus orizonis hoc est in. 4. et vna alia 
+      <lb ed="#C" n="39"/>orizo equelis perfectionis priori. ergo orizo vt 4. orizo 
+      <lb ed="#C" n="40"/>nem vt 2. transcendit in nobilitate.
+   </p>
+            <p xml:id="jb2v19-d82195-d1e422">
+      ¶ Ad 
+      pri<lb ed="#C" n="41" break="no"/>mum nego quod vnus homo sit magis rationalis quam 
+      <lb ed="#C" n="42"/>alter: capiendo rationale vt est differentia hominis 
+      si<lb ed="#C" n="43" break="no"/>cut proprie capitur: cum non habeat plus animam 
+      ra<lb ed="#C" n="44" break="no"/>tionalem quod alter. oene vnus homo plus vtitu 
+      recta<lb ed="#C" n="45" break="no"/>ratione quod alter: sed hoc non arguit eum esse magis 
+      ro<lb ed="#C" n="46" break="no"/>nalem. quemadmodum licet zoroastes plus rideat. 
+      <lb ed="#C" n="47"/>quam crassus: non tamen est magis risibilis.
+   </p>
+            <p xml:id="jb2v19-d82195-d1e441">
+      ¶ 
+      Secun<lb ed="#C" n="48" break="no"/>dum argumentum cum confirmatione solum probat vnam 
+      <lb ed="#C" n="49"/>forma intensibilem esse alia perfectiorem gradualiter 
+      <lb ed="#C" n="50"/>et indiuidualiter. quemadmodum argumentari 
+      po<lb ed="#C" n="51" break="no"/>tes de quanto ad eius medietatem in extensione. sed 
+      <lb ed="#C" n="52"/>non est perfectior specifice et entitatiue.
+   </p>
+            <p xml:id="jb2v19-d82195-d1e454">
+      ¶ Contra 
+      <lb ed="#C" n="53"/>sextam conclusionem. difficultas est eadem vtrique 
+      intelle<lb ed="#C" n="54" break="no"/>ctui proposita. ergo idem est obiectum. idem est subiectum 
+      <lb ed="#C" n="55"/>in specie et ita bene dispositum: quia nulla 
+      indisposi<lb ed="#C" n="56" break="no"/>tio est in vno. et non requiritur aliud instrumentum ab 
+      <lb ed="#C" n="57"/>intellectu ad intelligendum. ergo non est perfectio ex 
+      <lb ed="#C" n="58"/>parte subiecti principalis. nec requiritur aliqua alia 
+      <lb ed="#C" n="59"/>dispositio. et non videtur penes quid attendi potest 
+      <lb ed="#C" n="60"/>quomodo vnus intellectus naturaliter melius in¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>telligit quam alter.
+   </p>
+            <p xml:id="jb2v19-d82195-d1e478">
+      ¶ Confirmatur hec ratio:. imposni 
+      <lb ed="#C" n="62"/>bile est quod duo oculi equaliter dispositi equaliter 
+      <lb ed="#C" n="63"/>applicati eidem visibili et equaliter attenti et cete 
+      <lb ed="#C" n="64"/>ris omnibus paribus que faciunt ad bonam visionem et quod 
+      <lb ed="#C" n="65"/>vnus melius videat visibile quam alter. inequaelis visio non 
+      <lb ed="#C" n="66"/>prouenit ab obiecto: quoniam est idem. et suppono 
+      auxi<lb ed="#C" n="67" break="no"/>lium dei equale et omnia extrinseca. oculi sunt equa 
+      <lb ed="#C" n="68"/>les quantum est ex parte eorum ergo equelis erit visio: quia in equelita 
+      <lb ed="#C" n="69"/>tis nescis dare rationem.
+   </p>
+            <p xml:id="jb2v19-d82195-d1e498">
+      ¶ Et confirmatur hec ratio cum 
+      <lb ed="#C" n="70"/>precedenti: duo ignes equales eque applicati duo 
+      <lb ed="#C" n="71"/>bus combustibilibus equalibus ceteris omnibus 
+      pari<lb ed="#C" n="72" break="no"/>bus que promouent actionem eque calefaciunt. 
+      <lb ed="#C" n="73"/>ergo duo oculi equaliter vident. ergo duo 
+      intelle<lb ed="#C" n="74" break="no"/>ctus equales equaliter intelligunt. tenet consequentia. 
+      <lb ed="#C" n="75"/>vtrobique est actio naturalis ab equalibus causis. 
+      <lb ed="#C" n="76"/>ergo equalis erit actio. Qui voluerit dictam 
+      conclu<lb ed="#C" n="77" break="no"/>sionem sustinere: faciliter poterit istas rationes 
+      <lb ed="#C" n="78"/>euacuare per hoc quod vni couenit naturaliter talis 
+      <lb ed="#C" n="79"/>conditio aut proprietas indiuidualis quae non conuenit 
+      <lb ed="#C" n="80"/>alteri: licet cetera sint paria quantum ad essentias 
+      re<lb ed="#C" n="81" break="no"/>rum. et extrinseca. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

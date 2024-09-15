@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 3</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 3</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="156-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d93685"><!-- l2d42q3 -->
+            <head xml:id="jb2v19-d93685-Hd1e101">Quaestio 3</head>
+            <head xml:id="jb2v19-d93685-Hd1e103" type="question-title">An sit aliqua pura omissio: hoc est quaerere an aliquis peccet nullum actum voluntatis habendo</head>
+            <p xml:id="jb2v19-d93685-d1e106">
+               <lb ed="#C" n="47"/>QUia in ista quadragesima 
+      secun<lb ed="#C" n="48" break="no"/>da distinctione: capite 
+      sexto<lb ed="#C" n="49" break="no"/>Magister ponit vna diuisionem 
+      <lb ed="#C" n="50"/>peccatorum: Quero tertio 
+      cir<lb ed="#C" n="51" break="no"/>ca illud: an sit aliqua pura 
+      omis<lb ed="#C" n="52" break="no"/>sio: hoc est quarere an aliquas 
+      pec<lb ed="#C" n="53" break="no"/>cet nullum actu volutatis 
+      haben<lb ed="#C" n="54" break="no"/>ado: Placet aliquibus dicere quod 
+      <lb ed="#C" n="55"/>nullus omittit vel peccat nullum actum voluntatis 
+      <lb ed="#C" n="56"/>habendo semper habet nolle impletiuum praecepti vel 
+      <lb ed="#C" n="57"/>velle facere aliquod incompossibile illi precepto. 
+   </p>
+            <p xml:id="jb2v19-d93685-d1e132">
+               <lb ed="#C" n="58"/>¶ Sed contra hoc arguitur. signo sortem omnis culpe 
+      <lb ed="#C" n="59"/>expertem: et pono materiam praecepti affirmatiui in hac 
+      <lb ed="#C" n="60"/>hora vel in eius medietate: puta dilectione dei vel
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>honore parentum vel de extrahendo boue vel equo 
+      <lb ed="#C" n="62"/>sui proximi de puteo: volo quod pro toto illo tempore 
+      <lb ed="#C" n="63"/>sortes nullum actum eliceat non suffragando 
+      extrahe<lb ed="#C" n="64" break="no"/>re bouem de puteo: non pono quod habeat nolle 
+      scili<lb ed="#C" n="65" break="no"/>cet quod nollit extrahere. sed casus ponit quod neque 
+      ve<lb ed="#C" n="66" break="no"/>lit neque nolit: cum voluntas est libera potest pro 
+      bre<lb ed="#C" n="67" break="no"/>ui mora quemlibet actum voluntatis spotaneum remo 
+      <lb ed="#C" n="68"/>uere. Dicere quod habet interpretatiue actum positiuum 
+      <lb ed="#C" n="69"/>est ponere pura omissionem et solum verbaliter 
+      dif<lb ed="#C" n="70" break="no"/>fugere.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e165">
+      ¶ Secundo arguitur ad idem: ponendo quod quis 
+      <lb ed="#C" n="71"/>habeat iudicium rationis: hoc est conscientiam quod 
+      ali<lb ed="#C" n="72" break="no"/>quis actus voluntatis est eliciendus et nullum elice 
+      <lb ed="#C" n="73"/>at: talis peccat cum sue conscientie dictante quod tenetur 
+      <lb ed="#C" n="74"/>sub pena peccati mortalis actum elicere (sicut 
+      sup<lb ed="#C" n="75" break="no"/>ponimus) contrauenit. Sed dices de necessitate 
+      <lb ed="#C" n="76"/>habet velle vel nolle in sensu composito sed non in 
+      sensu<lb ed="#C" n="77" break="no"/>diuiso.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e184">
+      ¶ Contra hoc arguitur: quemlibet actum 
+      volun<lb ed="#C" n="78" break="no"/>tatis secludere potest voluntas: ergo potest se facere 
+      <lb ed="#C" n="79"/>sine actu. Forte dicis: quolibet actu voluntatis 
+      vo<lb ed="#C" n="80" break="no"/>luntas potest carere: et quolibet actu voluntatis 
+      <lb ed="#C" n="81"/>sine potest voluntas esse: sed voluntas non potest 
+      es<lb ed="#C" n="82" break="no"/>se sine actu voluntatis: in vna est deter minatio 
+      ac<lb ed="#C" n="83" break="no"/>cepta vnica acceptione cum suo determinabili 
+      sub<lb ed="#C" n="84" break="no"/>qua non licebat ascendere copulatiue: dato quod 
+      distri<lb ed="#C" n="85" break="no"/>buatur: sed potius disiunctim: secus est aute in alia 
+      <lb ed="#C" n="86"/>vbi determinatio non accipitur vnica acceptione cum 
+      <lb ed="#C" n="87"/>suo determinabili: et sic exvna propositione vel 
+      ascen<lb ed="#C" n="88" break="no"/>dente ad illam non concluditur alia.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e210">
+      ¶ Sed contra hoc 
+      <lb ed="#C" n="89"/>arguitur: quia tunc nihil interesset inter agens natura 
+      <lb ed="#C" n="90"/>le et agens a proposito: quod est falsum vt patet 
+      se<lb ed="#C" n="91" break="no"/>cundo Physicorum et contra omnem scholam. Et 
+      conse<lb ed="#C" n="92" break="no"/>quentia patet: quia sicut ignis non potest non 
+      cau<lb ed="#C" n="93" break="no"/>sare calorem in passum applicatum et non impeditum: sic 
+      vo<lb ed="#C" n="94" break="no"/>luntas de necessitate cat vnum actum et sper causabit actum 
+      <lb ed="#C" n="95"/>potissimum in vigilia: quod est contra experientiam et 
+      om<lb ed="#C" n="96" break="no"/>nem philosophiam. Forte dicet proteruus: ignis 
+      <lb ed="#C" n="97"/>passo applicato non potest non causare hunc 
+      calo<lb ed="#C" n="98" break="no"/>rem quem nunc causat: secus est de voluntate. actum 
+      <lb ed="#C" n="99"/>quem potest nunc causare potest non causare: vel 
+      ac<lb ed="#C" n="100" break="no"/>tum quem nunc non causat potest causare. Et sic 
+      sal<lb ed="#C" n="101" break="no"/>uatur quod voluntas per istos actus meretur: et est 
+      libe<lb ed="#C" n="102" break="no"/>ra respectu istius vel illius. et respectu cuiuslibet est 
+      libe<lb ed="#C" n="103" break="no"/>ra et tamen non potest carere actu. Contra hoc sic 
+      <lb ed="#C" n="104"/>argumentor. probo quod hoc mihi det aditum ad 
+      prin<lb ed="#C" n="105" break="no"/>cipale cum sortes debet extrahere equum vicini sui 
+      <lb ed="#C" n="106"/>de cauerna: pono quod non habeat istum actum nolo ex 
+      <lb ed="#C" n="107"/>trahere equum habendo alios actus circa 
+      mate<lb ed="#C" n="108" break="no"/>rias impertinentes et non extrahat equum. Isto 
+      ca<lb ed="#C" n="109" break="no"/>su vltra omnem actum positiuum datur vna pura 
+      omis<lb ed="#C" n="110" break="no"/>sio quod praetendimus.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e260">
+      ¶ Ulterius sequitur quod habendo 
+      <lb ed="#C" n="111"/>hoc disiunctum in voluntate volo vel nolo non mere 
+      <lb ed="#C" n="112"/>bor: cum de necessitate habeo velle vel nolle: et 
+      ac<lb ed="#C" n="113" break="no"/>tus meritorius debebit esse liber. Ista ratio non 
+      <lb ed="#C" n="114"/>valet. mox dicerent non est necesse habere istos actus 
+      <lb ed="#C" n="115"/>quia licet velle vel nolle voluntas semper habet ex 
+      <lb ed="#C" n="116"/>tra somnum: tamen non oportet quod velit nolle vel 
+      <lb ed="#C" n="117"/>velle. Secundo diceretur quod esto quod haberet illud 
+      dis<lb ed="#C" n="118" break="no"/>iunctum de necessitate: hoc est vnam partem vel aliam: 
+      <lb ed="#C" n="119"/>tamen per vtramque illarum meretur. et sic per totum 
+      ra<lb ed="#C" n="120" break="no"/>tione partium. Tertio dicitur. licet necesse sit habe¬
+      <pb ed="#V" n="157-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>re disiunctum in aliquo gradu: tamen voluntas sua 
+      <lb ed="#C" n="2"/>sponte elicit actum in hoc gradum vel in illo. licet 
+      <lb ed="#C" n="3"/>ista ratio non concludat prior tamen propositum 
+      suf<lb ed="#C" n="4" break="no"/>ficienter ostendere videtur.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e297">
+      ¶ Tertio arguitur sic 
+      <lb ed="#C" n="5"/>bene sequitur: sortes tenetur conteri de a mortali 
+      <lb ed="#C" n="6"/>hodie et non conteritur. ergo peccat. sed quicquid 
+      <lb ed="#C" n="7"/>stat cum antecedente stat cum consequente: omittere culpabiliter 
+      <lb ed="#C" n="8"/>stat cum antecente: ergo stat cum consequente: et istud intelligo in 
+      <lb ed="#C" n="9"/>vigilante et habente vsum rationis: etiam aduertente. 
+      <lb ed="#C" n="10"/>Istud argumentum et primum ad hoc deducunt sic. 
+      <lb ed="#C" n="11"/>Propterea dubium nullum debet esse quin detur 
+      ali<lb ed="#C" n="12" break="no"/>qua pura omissio ad culpam imputabilis nullum 
+      <lb ed="#C" n="13"/>actum habendo pro tempore et loco quo homo tenetur 
+      <lb ed="#C" n="14"/>habere. et miror quo halensis et Adam 
+      vvodhan<lb ed="#C" n="15" break="no"/>noster vicinus illam partem tueri satagebant: viso quod 
+      cla<lb ed="#C" n="16" break="no"/>riore erant ingenio: aliis doctorellis danda est 
+      ve<lb ed="#C" n="17" break="no"/>nia in talibus deliriis.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e328">
+      ¶ Contra istam conclusio 
+      <lb ed="#C" n="18"/>nem multiplici argumento instabimus: vt veritas 
+      <lb ed="#C" n="19"/>amplius patefiat. Et primum argumentum erit ve 
+      <lb ed="#C" n="20"/>nando entitatem omissionis: talis est modus 
+      theo<lb ed="#C" n="21" break="no"/>logi in philosophia educati potissimum apud 
+      re<lb ed="#C" n="22" break="no"/>centiores. Et sic argumentor nichil est peccatum 
+      <lb ed="#C" n="23"/>omissionis. ergo nulla est pura omissio: consequentia ista est 
+      <lb ed="#C" n="24"/>clara viso quod priuationes more aliorum renuo et 
+      <lb ed="#C" n="25"/>capio nihil contra ens vel entia. hoc illud 
+      disiun<lb ed="#C" n="26" break="no"/>ctum infinitando vnica infinitatione. antecedens patet 
+      que<lb ed="#C" n="27" break="no"/>rendo de ista omissione: vel iste homo omittens 
+      <lb ed="#C" n="28"/>vel anima: et sic erit homo ratione partis vel 
+      ali<lb ed="#C" n="29" break="no"/>quid aliud: nullum aliud dari potest: nec quod homo sit 
+      <lb ed="#C" n="30"/>omissio patet sic: ex hoc sequuntur he 
+      conclusio<lb ed="#C" n="31" break="no"/>nes.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e361">
+      ¶ Prima: peccatum omissionis habet vxorem et 
+      <lb ed="#C" n="32"/>liberos.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e367">
+      ¶ Secundam: heccatum omissionis 
+      contra<lb ed="#C" n="33" break="no"/>hit matrimonium cum peccato omissionis. 
+   </p>
+            <p xml:id="jb2v19-d93685-d1e372">
+               <lb ed="#C" n="34"/>¶ Tertia propositio. peccatum omissionis scribit 
+      <lb ed="#C" n="35"/>vel studet tempore quo audienda est res diuina. 
+      Due<lb ed="#C" n="36" break="no"/>prime propositiones clarant ex dictis. 
+   </p>
+            <p xml:id="jb2v19-d93685-d1e381">
+               <lb ed="#C" n="37"/>¶ Respondetur. quod peccatum omissionis est homo omittens: sed 
+      <lb ed="#C" n="38"/>hoc complexum peccatum omissionis non 
+      suppo<lb ed="#C" n="39" break="no"/>nit absolute pro homine: sed connotat quod omittat 
+      <lb ed="#C" n="40"/>facere quod tenetur: et tunc homo est peccatum 
+      omis<lb ed="#C" n="41" break="no"/>sionis. Ex isto patet. quod propositiones illate sunt veri 
+      <lb ed="#C" n="42"/>tati consone quas concedo.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e397">
+      ¶ Quarta 
+      propositio<lb ed="#C" n="43" break="no"/>peccatum omissionis erit in celo: patet. quia hic ho erit in 
+      celo<lb ed="#C" n="44" break="no"/>hic ho es vel erit peccatum omissionis. ergo peccatu omisa 
+      <lb ed="#C" n="45"/>sionis erit in celo. Cum hac stant iste due 
+      propositio<lb ed="#C" n="46" break="no"/>nes: nihil erit peccatum omissionis in celo / nullum 
+      <lb ed="#C" n="47"/>peccatum commissionis proprie capiendo terminum 
+      pro<lb ed="#C" n="48" break="no"/>actu illicito. hoc dico propter membra imperata ab 
+      ac<lb ed="#C" n="49" break="no"/>tu interiore.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e415">
+      ¶ Quinta propositio patet: quia 
+      antequa<lb ed="#C" n="50" break="no"/>quis erit in celo auferetur illa omissio. Non dico 
+      <lb ed="#C" n="51"/>quod hec commissio auferetur quia non est consequens ad aliam 
+      <lb ed="#C" n="52"/>ob variam appellationem.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e424">
+      ¶ Alia propositio: datis 
+      <lb ed="#C" n="53"/>duobus: scilicet magno et paruo equaliter culpabiliter 
+      <lb ed="#C" n="54"/>omittentibus omissio maioris est res maior: sed 
+      <lb ed="#C" n="55"/>non est maior omissio: sed equalis omissio.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e434">
+      ¶ Alia 
+      <lb ed="#C" n="56"/>propositio. Stat dare duas omissiones equalis 
+      ma<lb ed="#C" n="57" break="no"/>gnitudinis: et tamen erunt inequales omissiones. hoc 
+      <lb ed="#C" n="58"/>est stat quod vnus grauius omittatquam alter Nec hec consequentia 
+      <lb ed="#C" n="59"/>est vlla sortes est maior omissio quam Plato. ergo est 
+      <lb ed="#C" n="60"/>res maior: na arguitur ab inferiori ad superius respe¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>ctu totius extremi: et variatu appellatio.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e452">
+      ¶ Secundo 
+      <lb ed="#C" n="62"/>arguitur. sortes non potest habere actum quae tecumque 
+      in<lb ed="#C" n="63" break="no"/>tentionis nec quaentecumque remissionis. ergo voluntas non 
+      <lb ed="#C" n="64"/>est libera in productione suorum actuum. ergo 
+      probatio<lb ed="#C" n="65" break="no"/>erat nulla.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e463">
+      ¶ Tertio arguitur. sequitur quod 
+      ambu<lb ed="#C" n="66" break="no"/>lans potest simpliciter voluntatem suspendere ab 
+      ac<lb ed="#C" n="67" break="no"/>tu: et tamen continuo ambulabit consequens est falsum.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e470">
+      ¶ Ad 
+      <lb ed="#C" n="68"/>secundum conceditur: capacitas actiua sua es fini 
+      <lb ed="#C" n="69"/>ta et terminatur in maximo actu quem potest habere 
+      <lb ed="#C" n="70"/>licet potentia portatiua sortis in minimum pondus quod 
+      <lb ed="#C" n="71"/>non potest portare terminetur: secus est de de isto 
+      ac<lb ed="#C" n="72" break="no"/>tu animam informante quod aliud extremum negetur actus 
+      <lb ed="#C" n="73"/>esse remississimus.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e486">
+      ¶ Ad tertium argumentum 
+      conce<lb ed="#C" n="74" break="no"/>ditur: quod homo frequenter incedit non habendo actum 
+      vo<lb ed="#C" n="75" break="no"/>luntatis per impetum causatum in membris qui substantum mouet secundum 
+      lo<lb ed="#C" n="76" break="no"/>quentes in philosophia. et hoc potest esse ex 
+      ima<lb ed="#C" n="77" break="no"/>ginatione: sed non diu incedet homo sine actu 
+      volun<lb ed="#C" n="78" break="no"/>tatis: nec diu sine illo manemus vigilantes. 
+   </p>
+            <p xml:id="jb2v19-d93685-d1e499">
+               <lb ed="#C" n="79"/>¶ Quarto arguitur. si esset aliqua pura omissio se 
+      <lb ed="#C" n="80"/>queretur quod aliquis peccaret pro tempore qui est 
+      impos<lb ed="#C" n="81" break="no"/>sibile ei implere preceptum consequens est falsum. Ad 
+      impos<lb ed="#C" n="82" break="no"/>sibile neno obligatur. ff. de re. iu Il. Impossibilium. et 
+      <lb ed="#C" n="83"/>ff. de ver. ob l. Si stipuler consequentia patet ponendo quod 
+      ali<lb ed="#C" n="84" break="no"/>quis dormiat ea hora qua surgendum est ad matuti 
+      <lb ed="#C" n="85"/>nas: puta sortes religiosus tunc talis omittit non 
+      <lb ed="#C" n="86"/>surgendo ad horas
+   </p>
+            <p xml:id="jb2v19-d93685-d1e520">
+      ¶ Forte dicis: tenebatur posuit 
+      <lb ed="#C" n="87"/>se sollicitudinem antequam iuit dormitum: et sic hora 
+      de<lb ed="#C" n="88" break="no"/>bita surrexisset
+   </p>
+            <p xml:id="jb2v19-d93685-d1e527">
+      ¶ Contra. illa sollicitudine data 
+      po<lb ed="#C" n="89" break="no"/>terat dormire: vt patet de clerico qui am isit 
+      be<lb ed="#C" n="90" break="no"/>neficium ob galli silentium cuius ante femur leserat 
+      <lb ed="#C" n="91"/>et licet hec fictio fuerit tamen hoc quod pretendimus 
+      <lb ed="#C" n="92"/>per eam est verum.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e538">
+      ¶ Respondetur. consequentia est nulla 
+      po<lb ed="#C" n="93" break="no"/>nens se ad dormiendum de nocte etiam 
+      religio<lb ed="#C" n="94" break="no"/>sus vel quicunque alter dormiens tempore 
+      matutina<lb ed="#C" n="95" break="no"/>rum non omittit culpabiliter. Probatio: quando 
+      <lb ed="#C" n="96"/>iuit dormitum dedit operam rei licite: scilicet somno 
+      <lb ed="#C" n="97"/>in quo eius ratio ligatur. ergo tunc non peccat: quia 
+      <lb ed="#C" n="98"/>poterat ex lassitudine itineris: ex comestione 
+      pa<lb ed="#C" n="99" break="no"/>paueris: et multarum aliarum herbarum: vel ex 
+      <lb ed="#C" n="100"/>splendidiori cena solito diutius dormire 
+   </p>
+            <p xml:id="jb2v19-d93685-d1e558">
+               <lb ed="#C" n="101"/>¶ Secunda propositio. Si quis dementiam vel 
+      <lb ed="#C" n="102"/>ebrietatem sine culpa incurrit illo tempore non 
+      <lb ed="#C" n="103"/>culpabiliter omittit: patet. quia tunc non est capax 
+      <lb ed="#C" n="104"/>rationis: nec incapacitatem ex culpa sua incurrebat 
+   </p>
+            <p xml:id="jb2v19-d93685-d1e569">
+               <lb ed="#C" n="105"/>¶ Tertia propositio. Si quis huiusmodi 
+      impedi<lb ed="#C" n="106" break="no"/>menta ex culpa prima puta temulentiam vel som 
+      <lb ed="#C" n="107"/>num incurrebat. illo tempore non omittit. hec 
+      con<lb ed="#C" n="108" break="no"/>clusio probata est in. 17. distinctione quarti de 
+      <lb ed="#C" n="109"/>ebrietate. ergo a fortiori ita erit de impedimento 
+      <lb ed="#C" n="110"/>per somnum: vel si per obliuionem contingat: si 
+      <lb ed="#C" n="111"/>quis fecit vnum actum malum per quem erat 
+      ve<lb ed="#C" n="112" break="no"/>risimile quod debeat omittere: grauius peccat via 
+      <lb ed="#C" n="113"/>commissionis: vt excessiue bibendo: vel 
+      inutili<lb ed="#C" n="114" break="no"/>ter protrahendo noctem per ociosas fabulas: sed 
+      <lb ed="#C" n="115"/>tempore quo dormit vel non cogitat: non 
+      impu<lb ed="#C" n="116" break="no"/>tabiliter omittit: tunc omittit cum actualiter: 
+      con<lb ed="#C" n="117" break="no"/>siderat de precepto: et omnem actum voluntatis 
+      <lb ed="#C" n="118"/>secludit. 
+   </p>
+            <p xml:id="jb2v19-d93685-d1e602">
+               <lb ed="#C" n="119"/>¶ Ultima propositio. Si quis omittit opus quod 
+      <lb ed="#C" n="120"/>tenetur facere pro tempore quo est in actuali ratione: pu¬
+      <pb ed="#V" n="157-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>ta extra huiuscemodi impedimenta talia 
+      culpa<lb ed="#C" n="2" break="no"/>biliter omittit.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e619">
+      ¶ Ad hanc propositionem diriguntur 
+      <lb ed="#C" n="3"/>probationes conclusionis principalis.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e624">
+      ¶ Sed 
+      <lb ed="#C" n="4"/>contra primam conclusionem arguitur sic. 
+      Schola<lb ed="#C" n="5" break="no"/>sticos non excitatos hora regens percutit: neno 
+      de<lb ed="#C" n="6" break="no"/>bet puniri sine culpa ergo iste iuuenis peccauit non 
+      <lb ed="#C" n="7"/>veniendo ad lectionem hora quinta. uic respondetur 
+      <lb ed="#C" n="8"/>aliquis punitur sine culpa sed non sine causa 
+      pe<lb ed="#C" n="9" break="no"/>na temporali. patet. de religiosis qui puniuntur ob labefa 
+      <lb ed="#C" n="10"/>ctiones statutorum: et tamen huiuscemodi transgressio 
+      <lb ed="#C" n="11"/>nes non sunt culpe: sic regens non percutit istum 
+      si<lb ed="#C" n="12" break="no"/>ne causa: vt solicitius in posterum cum excitatore 
+      <lb ed="#C" n="13"/>colloquatur de eo excitando. Forte non petebat 
+      <lb ed="#C" n="14"/>aditus illi.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e650">
+      ¶ Secundo non constat regenti de in 
+      <lb ed="#C" n="15"/>nocentia huius si crederet ei in sua causa in eo num 
+      <lb ed="#C" n="16"/>quam reperietur error.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e657">
+      ¶ Tertio quando est bonus 
+      <lb ed="#C" n="17"/>studens est ista apparentia de eius innocentia non 
+      <lb ed="#C" n="18"/>est percuciendus: immo vbi interdum dormitat 
+      <lb ed="#C" n="19"/>cum humanitate est venia donandus: qui nimis 
+      <lb ed="#C" n="20"/>emungit elicit sanguinem.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e668">
+      ¶ Quinto arguitur sic. 
+      <lb ed="#C" n="21"/>Ex ista conclusione sequitur: quod de communi lege 
+      <lb ed="#C" n="22"/>aliquis meretur in infinitum premium extensiue consequens 
+      <lb ed="#C" n="23"/>est falsum. ergo et antecedens. Falsitas consequentis 
+      relin<lb ed="#C" n="24" break="no"/>quitur nota. et probo consequentiam: quia eadem via 
+      <lb ed="#C" n="25"/>aliquis pure omittendo potest mereri: quia deus non 
+      <lb ed="#C" n="26"/>est pronior ad condennandum quam ad miserendum: quod 
+      <lb ed="#C" n="27"/>si concedas. ergo in quolibet tempore quantumcumque 
+      per<lb ed="#C" n="28" break="no"/>uo et dormiendo merebitur / quod non est 
+      admit<lb ed="#C" n="29" break="no"/>tendum.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e690">
+      ¶ Forte dicis quod non semper merebitur: sed 
+      <lb ed="#C" n="30"/>quando est in presentia obiecti ad exeundum in 
+      ac<lb ed="#C" n="31" break="no"/>tum malum et nullum actum elicit: vt puta sortes venit 
+      <lb ed="#C" n="32"/>in domum in qua reperit aurum quod furto auferre 
+      <lb ed="#C" n="33"/>potest non tamen furatur: nec habet nolle furari: 
+      <lb ed="#C" n="34"/>quia per illud nolle mereretur: nec de hoc 
+      conten<lb ed="#C" n="35" break="no"/>dimus: sed nullum actum habendo merebitur. 
+   </p>
+            <p xml:id="jb2v19-d93685-d1e707">
+               <lb ed="#C" n="36"/>¶ Sed contra. isto dato vigilando semper 
+      merebe<lb ed="#C" n="37" break="no"/>ris sine aliquo actu voluntatis quod non est 
+      con<lb ed="#C" n="38" break="no"/>cedendum: quod sic patet: semper in presentia tui 
+      habe<lb ed="#C" n="39" break="no"/>tis materia furti: rapine: luxurie: et aliorum 
+      precep<lb ed="#C" n="40" break="no"/>torum negatiuorum: et saltem talis materia semper 
+      <lb ed="#C" n="41"/>erit presens obiectiue: sic homo merebitur. non 
+      <lb ed="#C" n="42"/>occidendo seipsum nullum actum voluntatis 
+      ha<lb ed="#C" n="43" break="no"/>bendo: quia ipsemet homo est materia homicidii. 
+   </p>
+            <p xml:id="jb2v19-d93685-d1e727">
+               <lb ed="#C" n="44"/>¶ Forte dicis: quando obiectum miltum allicit: nullum 
+      ac<lb ed="#C" n="45" break="no"/>tum habendo homo meretur.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e734">
+      ¶ Contra. boni 
+      li<lb ed="#C" n="46" break="no"/>bri pulchre vestes: mulieres: et multa alia alliciunt 
+      <lb ed="#C" n="47"/>et sic non euitatur conclusio quam inducimus. hic potest 
+      <lb ed="#C" n="48"/>homo dicere duobus modis quod homo potest mereri 
+      per<lb ed="#C" n="49" break="no"/>puram omissionem: sed illa omissio non erit sine 
+      <lb ed="#C" n="50"/>actu bono / qui illam omissionem imperat. hoc est 
+      <lb ed="#C" n="51"/>qui facit hominem omittere malum: vt sic volo 
+      <lb ed="#C" n="52"/>seruare precepta dei in presentia scutorum 
+      reper<lb ed="#C" n="53" break="no"/>torum non eliciendo nolle: sed quod hec volitio qua 
+      <lb ed="#C" n="54"/>volo seruare precepta dei imperat omissionem 
+      <lb ed="#C" n="55"/>de furto: et sic mereor et per omissionem: et per 
+      ac<lb ed="#C" n="56" break="no"/>tum posit iuum voluntatis: et sic non sequitur quod 
+      <lb ed="#C" n="57"/>quis merebitur premium infinitum: quia non erat 
+      <lb ed="#C" n="58"/>iste omissiones meritorie sine bonis actibus que 
+      <lb ed="#C" n="59"/>imperant eas: et quia tales positiui actus non sunt in 
+      <lb ed="#C" n="60"/>finiti: nec infinite erunt omissiones meritorie.
+      <cb ed="#P" n="b"/>
+            </p>
+            <p xml:id="jb2v19-d93685-d1e771">
+               <lb ed="#C" n="61"/>¶ Sed contra hoc arguitur. Si volitio de seruam 
+      <lb ed="#C" n="62"/>dis praeceptis dei vel dilectio dei imperat istam omissio 
+      <lb ed="#C" n="63"/>nem meritoriam: vel hoc erit naturaliter cau sa 
+      infe<lb ed="#C" n="64" break="no"/>rens vel sponte. Si primum: videtur quod non debet 
+      <lb ed="#C" n="65"/>esse meritum distinctum ab illo actu positiuo. Si 
+      <lb ed="#C" n="66"/>secundum: quia ille actus positiuus potest inferre illam 
+      <lb ed="#C" n="67"/>omissionem: sic semper habebitur illatum.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e789">
+      ¶ 
+      Se<lb ed="#C" n="68" break="no"/>cundo arguitur contra vtrunque membrum querendo 
+      <lb ed="#C" n="69"/>abs te: quis bonus actus infert illam omissionem: vel 
+      <lb ed="#C" n="70"/>aliquis sic: et aliquis non: et probo quod hoc non potes 
+      <lb ed="#C" n="71"/>dicere: quia si vnus actus positiuus bonus et 
+      me<lb ed="#C" n="72" break="no"/>ritorius inferat omissionem meritoriam propter 
+      <lb ed="#C" n="73"/>apprehensionem materie precepti negatiui: et cum 
+      <lb ed="#C" n="74"/>illa materia vbiuis locorum reperiatur: semper 
+      ha<lb ed="#C" n="75" break="no"/>bebitur omissio meritoria.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e809">
+      ¶ Forte dicis: 
+      quan<lb ed="#C" n="76" break="no"/>do homo habet iudicium completum quod non est 
+      fu<lb ed="#C" n="77" break="no"/>randum: nullum actum habendo homo merebitur. 
+      <lb ed="#C" n="78"/>Et ex illo iterum non sequitur / quod quis merebitur in 
+      <lb ed="#C" n="79"/>finitum premium intensiue: quia non habebit 
+      infi<lb ed="#C" n="80" break="no"/>nita dictamina completa de non furando.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e823">
+      ¶ 
+      Con<lb ed="#C" n="81" break="no"/>tra. non stamus an sequatur illatum scimus vtrum 
+      <lb ed="#C" n="82"/>que istorum dicendo. non sequitur: sed videamus 
+      an<lb ed="#C" n="83" break="no"/>rationabiliter loquaris: semper homo per te 
+      mere<lb ed="#C" n="84" break="no"/>bitur quando habebit tale iudicium completum 
+      <lb ed="#C" n="85"/>de non furando. ergo similiter quando habebit 
+      no<lb ed="#C" n="86" break="no"/>titiam simplicem materie precepti negatini: et sic 
+      <lb ed="#C" n="87"/>semper merebitur. consequentia patet: quia noticia 
+      sim<lb ed="#C" n="88" break="no"/>plex sufficit ad demeritum: vt in sexta distinctione 
+      hu<lb ed="#C" n="89" break="no"/>ius dictum est: et si hoc non sufficiat ad meritum de 
+      <lb ed="#C" n="90"/>us erit pronior ad condennandum quam ad miserendum 
+      <lb ed="#C" n="91"/>quod pro inconuenienti inter arguendum reputabatur 
+   </p>
+            <p xml:id="jb2v19-d93685-d1e849">
+               <lb ed="#C" n="92"/>¶ Preterea. si iudicium completum de non 
+      furan<lb ed="#C" n="93" break="no"/>do sufficiat ad meritum: iudicium completum de 
+      <lb ed="#C" n="94"/>furando sufficiet ad meritum sine actu voluntatis. 
+      <lb ed="#C" n="95"/>ergo per iudicium erroneum sine actu voluntatis 
+      <lb ed="#C" n="96"/>continuo quis merebitur.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e862">
+      ¶ Amplius: ad quodcumque 
+      <lb ed="#C" n="97"/>peccatum sufficit iudicium ad idem peccatum 
+      suf<lb ed="#C" n="98" break="no"/>ficit notitia apprehensiua simplex. ergo habebi 
+      <lb ed="#C" n="99"/>tur quod quelibet noticia dei vel creature erit 
+      meri<lb ed="#C" n="100" break="no"/>tum: immo et etiam demeritum: quia idem erit 
+      ob<lb ed="#C" n="101" break="no"/>iectum precepti affirmatiui et negatiui Plato erit 
+      <lb ed="#C" n="102"/>obiectum dilectionis dei: propter deum et 
+      obie<lb ed="#C" n="103" break="no"/>tum precepti negatiui de homicidio: igitur. licet 
+      <lb ed="#C" n="104"/>quis per tergiuersationes de omissione meritoriam 
+      in<lb ed="#C" n="105" break="no"/>uenire potest: nec potest rationabilior modus quam 
+      <lb ed="#C" n="106"/>de istis imaginationibns tactis quarum nulla 
+      in<lb ed="#C" n="107" break="no"/>presentarium mihi plene satisfacit. 
+   </p>
+            <p xml:id="jb2v19-d93685-d1e888">
+               <lb ed="#C" n="108"/>¶ Propterea nego consequentiam principalis 
+      argu<lb ed="#C" n="109" break="no"/>menti quod quis merebitur infinitum preminm 
+      in<lb ed="#C" n="110" break="no"/>tensiue nemo meretur sine actu positiuo: plura 
+      re<lb ed="#C" n="111" break="no"/>quiruntur ad bene agere quam ad male agere: solum 
+      <lb ed="#C" n="112"/>vnomodo quis est bonus multis modisque 
+      ne<lb ed="#C" n="113" break="no"/>phandus: secundo Ethicorum. Et quando dicis: deus est 
+      pro<lb ed="#C" n="114" break="no"/>nior ad miserendum quod ad damnandum Distinguo 
+      <lb ed="#C" n="115"/>vel quod magis puniat actum malum quam puniat 
+      ac<lb ed="#C" n="116" break="no"/>tum bonum: et hoc nego: vel quod aliqua pura 
+      omis<lb ed="#C" n="117" break="no"/>sio imputatur ad demeritum: et nulla ad meritum et sic 
+      <lb ed="#C" n="118"/>conceditur.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e914">
+      ¶ Sed contra istud arguitur sic: quia ex 
+      il<lb ed="#C" n="119" break="no"/>lo nullum discrimen esset inter precepta affirmatiua 
+      <lb ed="#C" n="120"/>t negatiua: quod sic ostenditur: quia sicut homo non mere
+      <pb ed="#V" n="158-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>tur sine actu precepti affirmatiui. eodemmon sine acd 
+      <lb ed="#C" n="2"/>tu precepti negatiui non merebitur. Preterea: si quis 
+      <lb ed="#C" n="3"/>det alicui habituato peccare in penitentia quod non 
+      vl<lb ed="#C" n="4" break="no"/>terius iuret: talis non iurans adimper let penitentiam 
+      <lb ed="#C" n="5"/>et est in gratia vt supponitur. ergo nullum actum 
+      ha<lb ed="#C" n="6" break="no"/>bendo merebitur.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e938">
+      ¶ Amplius si Achamn in occulto 
+      <lb ed="#C" n="7"/>reperiens pallium conccinium: et regulam auream omnem 
+      <lb ed="#C" n="8"/>actum seclusisset inuentum relinquens meritus fuisset. Pari 
+      <lb ed="#C" n="9"/>forma. si Ioseph cum reliquit pallium vxori 
+      Phuti<lb ed="#C" n="10" break="no"/>saris omnem actu seclusisset meritus fuisset
+   </p>
+            <p xml:id="jb2v19-d93685-d1e950">
+      ¶ Ad 
+      pri<lb ed="#C" n="11" break="no"/>mum istorum nego conumam. et in hoc non est 
+      discrepan<lb ed="#C" n="12" break="no"/>tia inter precepta affirmatiua et negatiua. quod quis 
+      <lb ed="#C" n="13"/>adimpletionem preceptorum affirmatiuorum 
+      de<lb ed="#C" n="14" break="no"/>bet habere preceptum negatiuum: et negatiua ad 
+      <lb ed="#C" n="15"/>implet nullum actum habendo quo ad mereri: 
+      <lb ed="#C" n="16"/>Sed in isto est discrimen. negatiua precepta 
+      sem<lb ed="#C" n="17" break="no"/>per obligant: et pro semper: sic scilibet quod homo debet 
+      <lb ed="#C" n="18"/>taliter se habere qualiter per precepta negatiua 
+      <lb ed="#C" n="19"/>denotatur tota sua vita: patet exemplariter in vno. 
+      <lb ed="#C" n="20"/>Non furtum facies. Illud preceptum prohibet furtum 
+      <lb ed="#C" n="21"/>hoc est precipit non furari: et homo debet 
+      tali<lb ed="#C" n="22" break="no"/>ter se habere in quolibet tempore quod non furetur 
+      <lb ed="#C" n="23"/>Precepta affirmatiua semper obligant: sed non 
+      <lb ed="#C" n="24"/>pro semper: hoc est homo non tenetur sic se 
+      ha<lb ed="#C" n="25" break="no"/>bere pro quolibet tempore qualiter per precepta at 
+      <lb ed="#C" n="26"/>firmatiua denotatur: et patet. in vno de cultu dei 
+      <lb ed="#C" n="27"/>homo non tenetur pro quolibet tempore se 
+      con<lb ed="#C" n="28" break="no"/>formare illi actui: et hoc amplius patet de 
+      precep<lb ed="#C" n="29" break="no"/>to affirmatiuo de honore impendendo parentibus 
+      <lb ed="#C" n="30"/>Iam a viginti annis preteritis honorem non 
+      impen<lb ed="#C" n="31" break="no"/>di matri. nec me in hoc transgressorem reputo propter 
+      <lb ed="#C" n="32"/>loci intercapedinem.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1000">
+      ¶ Sed contra istud arguitur 
+      <lb ed="#C" n="33"/>omo non transgreditur precepta negatiua cum 
+      <lb ed="#C" n="34"/>taliter se habet qualiter per illa denotatur: sed num 
+      <lb ed="#C" n="35"/>quam vnum actum eliciendo taliter se habet: ergo ad 
+      in<lb ed="#C" n="36" break="no"/>pletionem preceptorum negatiuorum nunquam tene 
+      <lb ed="#C" n="37"/>tur actum elicere. et tamen in multis preceptis 
+      affir<lb ed="#C" n="38" break="no"/>matiuis actum tenetur elicere: ergo citius pro 
+      sem<lb ed="#C" n="39" break="no"/>per precepta affirmatiua obligant quam negatiua 
+      <lb ed="#C" n="40"/>cuius oppositum clamat omnis schola.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1020">
+      ¶ Responsio 
+      <lb ed="#C" n="41"/>Si homo debeat mereri per precepta negatiua. 
+      opre<lb ed="#C" n="42" break="no"/>habere aliquem actum positiuum: vt in presentia 
+      <lb ed="#C" n="43"/>pecunie nolo furari / non volo capere alienum in 
+      <lb ed="#C" n="44"/>uito domino.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1031">
+      ¶ Secunda propositio. Non video quod 
+      <lb ed="#C" n="45"/>vir est transgressor precepti negatiui nullum 
+      ac<lb ed="#C" n="46" break="no"/>tum habendo: quod patet in vno: eadem est ratio in 
+      <lb ed="#C" n="47"/>omnibus in presentia pecunie vel ego teneor 
+      ha<lb ed="#C" n="48" break="no"/>bere nolle furari vel non velle. et hoc vel erit sem 
+      <lb ed="#C" n="49"/>per dum pecunia fuerit presens vel materia 
+      pre<lb ed="#C" n="50" break="no"/>cepti negatiui: et hoc non. modo est falsum. sed 
+      no<lb ed="#C" n="51" break="no"/>stras vires exuperat si interdum assigno tempus 
+      <lb ed="#C" n="52"/>et hoc facile potest impugnari. Ex isto sequitur 
+      <lb ed="#C" n="53"/>quod preceptorum negatiuorum labefactio ab 
+      acti<lb ed="#C" n="54" break="no"/>bus positiuis ortum habet. 
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1055">
+               <lb ed="#C" n="55"/>¶ Secundo patet. quod interdum implentur per 
+      pro<lb ed="#C" n="56" break="no"/>positionem negatiuam meritorie dum tamen est 
+      <lb ed="#C" n="57"/>actus positiuus: vt non volo furari.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1064">
+      ¶ Tertio 
+      pa<lb ed="#C" n="58" break="no"/>tet. Licet plerunque transgressiones preceptorum 
+      <lb ed="#C" n="59"/>affirmatiuorum per omissiones fiant tamen etia 
+      <lb ed="#C" n="60"/>pretermittuntur interdum per actus positiuos
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>Prior pars est nota. et secunda patet. de illo qui 
+      facis<lb ed="#C" n="62" break="no"/>irreuerentiam contraeundo parenti pro tempore quo 
+      <lb ed="#C" n="63"/>deberet reuerentiam exhibere si fuerit preceptum 
+      <lb ed="#C" n="64"/>mitum: vt vnum cole deum quod est pro positio 
+      exponi<lb ed="#C" n="65" break="no"/>bilis exclufiua: proportionabiliter de illa dicatur 
+      <lb ed="#C" n="66"/>ratione partis affirmatiue et negatiue.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1089">
+      ¶ Ad 
+      se<lb ed="#C" n="67" break="no"/>cundum argumentum conceditur quod illa 
+      peniten<lb ed="#C" n="68" break="no"/>tia est rationabilis: sed ad mereri requiritur 
+      ha<lb ed="#C" n="69" break="no"/>bere actum positiuum: ad non transgredi sufficit 
+      <lb ed="#C" n="70"/>omittere habitum peierandi.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1100">
+      ¶ Ad tertium 
+      so<lb ed="#C" n="71" break="no"/>lutio patet ex dictis.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1105">
+      ¶ Sexto argumentor 
+      <lb ed="#C" n="72"/>probando quod pure omittens diligere deum pro 
+      tem<lb ed="#C" n="73" break="no"/>pore quo tenetur eum diligere nullomodo peccat: 
+      <lb ed="#C" n="74"/>et si sic conclusio quam oppugnamus est nulla. 
+      Assum<lb ed="#C" n="75" break="no"/>ptum sic probatur: quia ex illo sequitur hec conclusio. quod 
+      <lb ed="#C" n="76"/>aliquod est peccatum nullius determinate 
+      mali<lb ed="#C" n="77" break="no"/>cie: et ex illo sequitur vna alia quod deus nesciret illum 
+      <lb ed="#C" n="78"/>punire secundum legem eius positam cum nulla sit si 
+      <lb ed="#C" n="79"/>gnanda culpe grauitas. Hee due conclusiones ab 
+      <lb ed="#C" n="80"/>omni veritate aliene sunt. ergo et conclusio quae 
+      an<lb ed="#C" n="81" break="no"/>tecedit ad eas consequentia tamen detegitur sic: sortes in nullo 
+      <lb ed="#C" n="82"/>gradu dilectionis tenetur diligere deum. ergo 
+      omit<lb ed="#C" n="83" break="no"/>tens deum diligere non peccat: patet consequentia: 
+      <lb ed="#C" n="84"/>secudum proportionem actus quam homo tenetur elicere crescit 
+      <lb ed="#C" n="85"/>omissionis grauitas quod sic lucide patet. Si deus 
+      <lb ed="#C" n="86"/>precipiat sorti diligere eum vt quattuor: platoni 
+      <lb ed="#C" n="87"/>vt duo: Ciceroni vt vnum: et ita in aliis infinitis 
+      <lb ed="#C" n="88"/>geo metrice decrescendo in actu. et omittant omnes 
+      <lb ed="#C" n="89"/>isti: sortes plus peceat quam plato: quia ad plus 
+      obli<lb ed="#C" n="90" break="no"/>gatur et maiori actui ad quentenebatur obuiat: et 
+      <lb ed="#C" n="91"/>rat quia si sint duo / duos actus omittentes 
+      maio<lb ed="#C" n="92" break="no"/>rezactum omittens plus peccat quam minorem: et 
+      per<lb ed="#C" n="93" break="no"/>idem Plato plus peccat quod Cicero: et sic in abyssum 
+      <lb ed="#C" n="94"/>ita quod concedere oportebit in infinitum paruum est 
+      <lb ed="#C" n="95"/>aliquod peccatum in hac multitudine: sed addatur 
+      <lb ed="#C" n="96"/>hec propositio in qua est color argumenti Ibannes 
+      <lb ed="#C" n="97"/>qui nunc tenetur diligere deum omittens minus 
+      <lb ed="#C" n="98"/>quod quicunque istorum peccat: patet: quocunque illorum 
+      <lb ed="#C" n="99"/>dato omissio illius est metienda secundum actum 
+      <lb ed="#C" n="100"/>dilectionis quam tenetur habere. Sed Ioannes 
+      <lb ed="#C" n="101"/>nunc secundum legem ad nullum actum tenetur 
+      <lb ed="#C" n="102"/>igitur non valibet dicere: quilibet tenetur diligere ex 
+      <lb ed="#C" n="103"/>toto corde: et ex tota mente: quia hoc non debet 
+      <lb ed="#C" n="104"/>intelligi gradualiter: quia tunc nemo sciret 
+      quan<lb ed="#C" n="105" break="no"/>do impleret preceptum de dilectione dei et 
+      pau<lb ed="#C" n="106" break="no"/>cissimi implerent: sed illud intelligitur appreciatiue. 
+      <lb ed="#C" n="107"/>Insuper. dato casu (qui possibilis est) oportet 
+      res<lb ed="#C" n="108" break="no"/>pondere ad formam argumenti. Dicis: datur mini 
+      <lb ed="#C" n="109"/>mum naturale actus quod potest per se stare quem actum 
+      <lb ed="#C" n="110"/>homo elicit in instanti: et secundum mensuram 
+      il<lb ed="#C" n="111" break="no"/>lius actus metienda est grauitas illius omissionis 
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1194">
+               <lb ed="#C" n="112"/>¶ Contra hoc arguitur. Esto quod voluntas potest acd 
+      <lb ed="#C" n="113"/>tum aliquem elicere in instanti. potest tamen actum 
+      eli<lb ed="#C" n="114" break="no"/>cere pure successiue: et dato quod teneatur minimum 
+      <lb ed="#C" n="115"/>naturale in corporalibus non constat quod illud debet 
+      <lb ed="#C" n="116"/>defendi in actibus animae: et vt argumento locum des. 
+      Su<lb ed="#C" n="117" break="no"/>ponatur oppositum quod est rationabilius hoc 
+      adie<lb ed="#C" n="118" break="no"/>ci quia difficilimum est reuocare sic respondentem a sua 
+      po<lb ed="#C" n="119" break="no"/>sit ionmne.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1214">
+      ¶ Respondetur concedendo istas propositiones 
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1216">
+               <lb ed="#C" n="120"/>¶ Pria est. Ad nullu gradum dilectienis homo te¬
+      <pb ed="#V" n="158-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>netur. patet quocunque dato ille est alicuius 
+      inten<lb ed="#C" n="2" break="no"/>tionis: sed ad tantam intentionem homo non tenetur 
+      <lb ed="#C" n="3"/>immo medietas illius sufficit: et si illam medietatem 
+      <lb ed="#C" n="4"/>dederis eam in binas partes secabo: et 
+      reedifica<lb ed="#C" n="5" break="no"/>bo argumentum.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1237">
+      ¶ Secunda propositio. 
+      Neces<lb ed="#C" n="6" break="no"/>se est si sortes debet implere preceptum de 
+      dilec<lb ed="#C" n="7" break="no"/>tione dei quod eliciat vnum gradum dilectionis: ita 
+      <lb ed="#C" n="8"/>quod necesse cadat in totam conditionalem: patet. 
+      alioquin<lb ed="#C" n="9" break="no"/>non potest adimplere preceptum de dilectione 
+      <lb ed="#C" n="10"/>dei.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1250">
+      ¶ Tertia propositio. Quemcunque gradum 
+      <lb ed="#C" n="11"/>dilectionis elicit adimplet preceptum dei de 
+      dile<lb ed="#C" n="12" break="no"/>ctione: patet. talis est alternatiue vel disiunctiue 
+      <lb ed="#C" n="13"/>obligatus: modo in talibus sufficit cuiuscumque 
+      par<lb ed="#C" n="14" break="no"/>tis adimpletio.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1261">
+      ¶ Secundo potest dici quod 
+      quemli<lb ed="#C" n="15" break="no"/>bet gradum dilectionis sortes debet deo pro 
+      implen<lb ed="#C" n="16" break="no"/>do illo precepto sed sufficit quemcumque gradum 
+      da<lb ed="#C" n="17" break="no"/>re pro satisfactione eiusdem sicut solet declarari 
+      <lb ed="#C" n="18"/>in illo sophismate: debeo tibi equum. quod omnem equum 
+      <lb ed="#C" n="19"/>debeam: et quencunque equum dando satisfactio 
+      <lb ed="#C" n="20"/>stipulationi de equo: sed hoc non satisfacit 
+      argu<lb ed="#C" n="21" break="no"/>mento theologice quod nulla determinat pena 
+      pu<lb ed="#C" n="22" break="no"/>re omissioni respondeat. Et ad illud: deus 
+      impu<lb ed="#C" n="23" break="no"/>tat illam omissionem ad aliquam culpam. pro qua 
+      <lb ed="#C" n="24"/>certum gradum pene imputat quem ipse nouit. 
+      <lb ed="#C" n="25"/>Et sic licet ad nullum gradum dilectionis oblige 
+      <lb ed="#C" n="26"/>mur: tamen est pena alicuius determinati gradus 
+      <lb ed="#C" n="27"/>ei respondens. De hoc argumento in. 4o. 
+      distin<lb ed="#C" n="28" break="no"/>ctione quarti loquuti sumus: et per illum modum 
+      <lb ed="#C" n="29"/>soluitur talis obiectio vbi vni esset preceptum 
+      di<lb ed="#C" n="30" break="no"/>ligere deum quatuor gradibus: alteri diligere deum 
+      <lb ed="#C" n="31"/>quatuor gradibus: et vltra: et ambo omittant cui 
+      <lb ed="#C" n="32"/>dicitur quod secundus grauius delinquit quam primus: et le 
+      <lb ed="#C" n="33"/>ad nullum determinatum gradum vltra iste tenetur 
+      <lb ed="#C" n="34"/>diligere deum: tamen est vnus determinatus gradus 
+      pene<lb ed="#C" n="35" break="no"/>ad quem deus illam omissionem de acceptat que 
+      <lb ed="#C" n="36"/>nos fugit: sicut de multorum peccatorum penis 
+      <lb ed="#C" n="37"/>quo ad gradum contingit.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1313">
+      ¶ Septimo arguitur 
+      <lb ed="#C" n="38"/>sic. Pono duos. sortem et Platonem deuinctos 
+      <lb ed="#C" n="39"/>diligere deum in a hora: omittat sortes et odiat 
+      <lb ed="#C" n="40"/>Plato: tunc sic: si sortes peccat pure omittendo 
+      sequi<lb ed="#C" n="41" break="no"/>tur quod peccatum platonis erit infinite magnum in 
+      ma<lb ed="#C" n="42" break="no"/>licia cui respondet infinita pena intensiue. hoc consequens 
+      li<lb ed="#C" n="43" break="no"/>quet esse falsum: ergo antecedens est falsum. probo 
+      consequen<lb ed="#C" n="44" break="no"/>tiam. quelibet pars proportionalis peccati 
+      pla<lb ed="#C" n="45" break="no"/>tonis est peior tota omissione sortis. Infinite sunt 
+      <lb ed="#C" n="46"/>partes proportionales cathegoreumatice non 
+      communi<lb ed="#C" n="47" break="no"/>cantes in odio platonis. ergo habet infinitas 
+      per<lb ed="#C" n="48" break="no"/>tes quarum quelibet erat ita mala vel peior 
+      omis<lb ed="#C" n="49" break="no"/>sione sortis: quod quelibet erat ita mala patet sic. quia 
+      <lb ed="#C" n="50"/>vltra omissionem includit actum positiuum 
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1344">
+               <lb ed="#C" n="51"/>¶ Respondetur negando quod illud odium erit 
+      infi<lb ed="#C" n="52" break="no"/>nite malicie: et nego istas propositiones: quelibet 
+      <lb ed="#C" n="53"/>pars proportionalis illius est peior hac 
+      omissio<lb ed="#C" n="54" break="no"/>ne fecludendo omissionem inuolutam in commissione. 
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1355">
+               <lb ed="#C" n="55"/>¶ Octauo arguitur probando quod adhuc sequatur quod 
+      <lb ed="#C" n="56"/>aliquis peccaret infinitis peccatis alia via: et hoc 
+      <lb ed="#C" n="57"/>sic. Precipiat superior inferiori confiteri quodlibet 
+      <lb ed="#C" n="58"/>peccatum vel reuelare quodlibet peccatum quod est facturus cras ante 
+      <lb ed="#C" n="59"/>horam duodecimam committat sortes duo peccata 
+      mor<lb ed="#C" n="60" break="no"/>talia gratia exempli duo periuria quae non confitetur: nec rea¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>uelat in tempore precepto: tunc sic: talis peccat 
+      if<lb ed="#C" n="62" break="no"/>nitis peccatis in duobus periuriis: et in vna 
+      omis<lb ed="#C" n="63" break="no"/>sione qua omittit: et sic sunt tria peccata que non 
+      <lb ed="#C" n="64"/>reuelat: dicatur illa omissio a. Similiter erit 
+      omis<lb ed="#C" n="65" break="no"/>sio illius omissionis cum illam non confitetur dicatur 
+      <lb ed="#C" n="66"/>b / et sic erit circuitus in infinitum in omissionibus: 
+      <lb ed="#C" n="67"/>et per consequens infinite peccabit: quod erat 
+      pro<lb ed="#C" n="68" break="no"/>bandum.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1391">
+      ¶ Respondetur negando quod iste infinitis 
+      <lb ed="#C" n="69"/>peccatis peccet: solum erit in tribus peccatis ex hy 
+      <lb ed="#C" n="70"/>pothesi: scllicet in duabus commissionibus / et in vna 
+      <lb ed="#C" n="71"/>omissione. Et ad neruum argumenti quod erat vna 
+      <lb ed="#C" n="72"/>omissio illius omissionis et vna secunde et vna 
+      quaer<lb ed="#C" n="73" break="no"/>te et sic sine statu. Respondetur quod illa peccata 
+      omisa<lb ed="#C" n="74" break="no"/>sionis que tu imaginaris in illa omissione prima 
+      natu<lb ed="#C" n="75" break="no"/>ralem concathenatione habent ad prima 
+      omissio<lb ed="#C" n="76" break="no"/>nem imaginatam: dico imaginatam: quia solum est vna 
+      <lb ed="#C" n="77"/>omissio.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1413">
+      ¶ Nono arguitur sic Ponendo casum quod 
+      de<lb ed="#C" n="78" break="no"/>us precipiat sorti diligere eum per hanc horam tota. et 
+      <lb ed="#C" n="79"/>omittat: iam sunt infinite omissiones non communicam 
+      <lb ed="#C" n="80"/>tes. Patet: in qualibet parte proportiona 
+      <lb ed="#C" n="81"/>huius hore sortes deuincitur diligere deum sub 
+      pe<lb ed="#C" n="82" break="no"/>na noui peccati: quia si dixisset in prima parte 
+      propor<lb ed="#C" n="83" break="no"/>tionali. non diligendo in secunda peccaret omittem 
+      <lb ed="#C" n="84"/>do. Similiter: si Plato diligeret in duabus primis 
+      <lb ed="#C" n="85"/>partibus nonsiligendo in reliquis omitteret culpa 
+      <lb ed="#C" n="86"/>biliter: et in qualibet parte proportionali quilibet 
+      <lb ed="#C" n="87"/>istorum potest elicere nouam dilectionem dei. hoc est 
+      po<lb ed="#C" n="88" break="no"/>inchoare fouam cum subito potest. ponantur infiniti. 
+      hb<lb ed="#C" n="89" break="no"/>mines vel angeli quibus deus cunctis / et 
+      singu<lb ed="#C" n="90" break="no"/>lis praecipit diligere eum per vnam millesimam partem vnius 
+      <lb ed="#C" n="91"/>hore vel quantumlibet paruum tempus. preceptio non 
+      <lb ed="#C" n="92"/>est preter rationem / et adimplebilis a quolibet isto 
+      <lb ed="#C" n="93"/>rum: et rationatio est equa de pusillo et grandi: gratia 
+      <lb ed="#C" n="94"/>exempli vt amur rudiori mineruas: scilicet integra 
+      ho<lb ed="#C" n="95" break="no"/>ra: iam quilibet istorum omittit demonstrando 
+      <lb ed="#C" n="96"/>istos infinitos plus a / primis quam b: ponatur quod a. 
+      di<lb ed="#C" n="97" break="no"/>lexit in prima parte partitione geometri ca: et b / in 
+      <lb ed="#C" n="98"/>duabus: et sic seriatim per nomina elementorum plus b 
+      <lb ed="#C" n="99"/>omittit quam c: quia c / diligit in tribus primis parti 
+      <lb ed="#C" n="100"/>bus diuisionis nostre: et c. plus omittit quam d / et cum 
+      <lb ed="#C" n="101"/>sint infiniti. infinite paruum peccatum datur in hac 
+      <lb ed="#C" n="102"/>multitudine. hoc est in infinitum parua est aliqua 
+      omis<lb ed="#C" n="103" break="no"/>sio in hac multitudine a / peccatum est maximum: sed 
+      <lb ed="#C" n="104"/>ponatur quod sortes penitus in nulla parte diligat: 
+      <lb ed="#C" n="105"/>iam sortis delictum est infinite magnum 
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1476">
+               <lb ed="#C" n="106"/>¶ Respondetur. casus non est possibilis de lege: quia 
+      ve<lb ed="#C" n="107" break="no"/>niendo ad partes proportionales / minutas non 
+      <lb ed="#C" n="108"/>potest actum resecare ad nutum: opere precium est 
+      suum<lb ed="#C" n="109" break="no"/>actum durare vltra partem illam: sed data imaginati 
+      <lb ed="#C" n="110"/>one quod deus crearet creaturas que actum resecare 
+      <lb ed="#C" n="111"/>possunt: vei non libere saltem continuare. hoc est 
+      <lb ed="#C" n="112"/>continuationem spontaneam ad nutum 
+      abo<lb ed="#C" n="113" break="no"/>lere: esto quod in infinitum parua esset aliqua huius 
+      <lb ed="#C" n="114"/>omissio. non sequitur quod sit aliqua infinite magna 
+      <lb ed="#C" n="115"/>sicut in simili in infinitum parua est aliqua pars 
+      <lb ed="#C" n="116"/>promontorii bernici: et totum promontorium est 
+      fini<lb ed="#C" n="117" break="no"/>tum.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1505">
+      ¶ Forte dicis: tunc habes quod aliqua omissio 
+      <lb ed="#C" n="118"/>in illa multitudine est infinite parua / quod tibi 
+      suffi<lb ed="#C" n="119" break="no"/>cit: quia non videtur quomodo illa est punibilis. etiam 
+      <lb ed="#C" n="120"/>est impossibile: et ad impossibile sequitur quodli¬
+      <pb ed="#V" n="159-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>ergo habes quod est aliqua omissio infinite magna 
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1521">
+               <lb ed="#C" n="2"/>¶ Respondetur. Imitaris conditiones canis 
+      la<lb ed="#C" n="3" break="no"/>nii / qui relicto corpore bouis in obiectum frustulum 
+      <lb ed="#C" n="4"/>irruit. quis nondum concessum habes aliquam 
+      o<lb ed="#C" n="5" break="no"/>missionem esse infinite paruam: immo quelibet ista 
+      <lb ed="#C" n="6"/>rum omissionum est finite magna. et quelibet ista 
+      <lb ed="#C" n="7"/>rum est finite parua / paruum et magnum solum 
+      re<lb ed="#C" n="8" break="no"/>latiue opponuntur hic a / omissio harum 
+      imma<lb ed="#C" n="9" break="no"/>nissima est finita: sic si sortes nullatenus diligit in 
+      <lb ed="#C" n="10"/>illo tempore finite omittit ad nodum argumenti. 
+      Ne<lb ed="#C" n="11" break="no"/>go quod sint infinite omissiones equales: quando in 
+      <lb ed="#C" n="12"/>qualibet parte esse noua omissio non sequitur quod tota 
+      <lb ed="#C" n="13"/>erit immense magna: quia omissio in minore 
+      tempo<lb ed="#C" n="14" break="no"/>re est minor: ac si acciperes b / pedale ipsum diuidem 
+      <lb ed="#C" n="15"/>do in partes proportionales proportione 
+      dupla<lb ed="#C" n="16" break="no"/>vel tripla continuo addendo a pedali vnam partem 
+      <lb ed="#C" n="17"/>nunquam aggregatum erit tripedale qualibet hora 
+      <lb ed="#C" n="18"/>futur a: addendo vnam portionem nullo die 
+      futu<lb ed="#C" n="19" break="no"/>ro totum erit bipedale. omissio in minore 
+      tempo<lb ed="#C" n="20" break="no"/>re erit minor. Sed pone quod deus dicat imputabo se 
+      <lb ed="#C" n="21"/>cundam omissionem parem in culpa cum prima si 
+      <lb ed="#C" n="22"/>omittat. et tertiam equalem cum secunda. Respondeo. non 
+      <lb ed="#C" n="23"/>inconuenit de potentia dei absoluta quod quis 
+      infi<lb ed="#C" n="24" break="no"/>nitis omissionibus delinquat.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1573">
+      ¶ Sed dicis 
+      pona<lb ed="#C" n="25" break="no"/>mus quod deus precipiat sorti diligere eum in tota 
+      <lb ed="#C" n="26"/>ista hora: ita quod in qualibet parte proportionali 
+      ho<lb ed="#C" n="27" break="no"/>re reputabitur peccator: cui respondet vnus dies 
+      <lb ed="#C" n="28"/>pene in inferno preceptum est rationabile sortes 
+      <lb ed="#C" n="29"/>potest istud implere. cum per totam horam 
+      po<lb ed="#C" n="30" break="no"/>test deum diligere: vel capiatur minus tempus 
+      <lb ed="#C" n="31"/>iam talis infinite peccat. Respondeo: incassum 
+      labo<lb ed="#C" n="32" break="no"/>ras. deus si voluerit potest precipere aliquid sorti quod 
+      <lb ed="#C" n="33"/>sortes potest transgredi: et reputabitur ad 
+      infini<lb ed="#C" n="34" break="no"/>ta peccata si voluerit: sed non est ita nunc de lege 
+      <lb ed="#C" n="35"/>quod potest sic declarari potest precipere sorti 
+      dili<lb ed="#C" n="36" break="no"/>gere eum in qualibet parte proportionali hore: 
+      <lb ed="#C" n="37"/>sub pena equali sortes potest istud preceptum 
+      im<lb ed="#C" n="38" break="no"/>plere: quia potest deum per totam horam vel 
+      ho<lb ed="#C" n="39" break="no"/>rulam diligere: nec requiritur quod disticte minutas 
+      <lb ed="#C" n="40"/>partes temporis sortes cognoscat prout aliqui 
+      <lb ed="#C" n="41"/>rati sunt) adhoc quod peccet. patet de dormiendo in 
+      <lb ed="#C" n="42"/>insula Sardos solum protegere laboro quod 
+      nul<lb ed="#C" n="43" break="no"/>li de lege infligitur infinita pena gradualiter vel in 
+      acer<lb ed="#C" n="44" break="no"/>bitate
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1620">
+      ¶ Decimo arguitur: in qualibet commissio 
+      <lb ed="#C" n="45"/>ne est omissio. ergo non est dada omissio de qua 
+      <lb ed="#C" n="46"/>loquuti sumus. antecedens patet: et capio actum furti / quem 
+      <lb ed="#C" n="47"/>sortes habet. Et sic argumentor sortes tenetur non 
+      <lb ed="#C" n="48"/>habere istum actum furti quem habet: ergo omittit 
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1631">
+               <lb ed="#C" n="49"/>¶ Undecimo arguitur. Supponendo quod sortes 
+      <lb ed="#C" n="50"/>nnuc primo peccet mortaliter qui prius erat in 
+      <lb ed="#C" n="51"/>gratia. Tunc si sortes tenetur seruare suam 
+      grati<lb ed="#C" n="52" break="no"/>am quam habet. ergo peccat omittendo gratiam 
+      <lb ed="#C" n="53"/>et sic quicunque peccat primo mortaliter peccato 
+      <lb ed="#C" n="54"/>commissionis et omissionis simul peccabit. 
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1647">
+               <lb ed="#C" n="55"/>¶ Ad decimum negatur antecedens: et ad probationem 
+      <lb ed="#C" n="56"/>conceditur quod tenetur illum actum non habere: et 
+      <lb ed="#C" n="57"/>propterea bene concluditur ex illo quod peccat: scilicet 
+      <lb ed="#C" n="58"/>peccato commissionis. omissio est quando tenetur 
+      habe<lb ed="#C" n="59" break="no"/>re actum quem non habet.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1660">
+      ¶ Ad vndecimum admitto 
+      <lb ed="#C" n="60"/>casum: et distinguo consequens quod peccet omittendo gratiam: vel
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>exponedo illam de gerundio per dum. et sic conceditur 
+      <lb ed="#C" n="62"/>quia tunc peccat mortaliter quado omittit gratiam: 
+      <lb ed="#C" n="63"/>eodem modo si exponatur per si. Si exponatur per 
+      <lb ed="#C" n="64"/>quia: sic nego. sortes non tenetur seruare gratiam 
+      sub<lb ed="#C" n="65" break="no"/>pena alterius peccati distincti a peccato per quod 
+      gra<lb ed="#C" n="66" break="no"/>tiam amittit.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1680">
+      ¶ Duodecimo arguitur. probando quod 
+      <lb ed="#C" n="67"/>aliquis omittit faciendo actum precepti tempore quo 
+      <lb ed="#C" n="68"/>est preceptum. pono casum quod sortes non potest dice 
+      <lb ed="#C" n="69"/>re horas suas in minori tempore quam in vna hora: et 
+      <lb ed="#C" n="70"/>quod teneatur dicere ante meridiem: et inchoet dicere 
+      ho<lb ed="#C" n="71" break="no"/>ras media hora post vndecimam. Tunc si sortes 
+      fa<lb ed="#C" n="72" break="no"/>cit actum precepti tempore quo est preceptum: tamen 
+      <lb ed="#C" n="73"/>omitrit. ergo propositum. Deductio patet ex 
+      hypo<lb ed="#C" n="74" break="no"/>thesibus in argumentatione positis. Distinguo quod 
+      <lb ed="#C" n="75"/>faciat actum precepti tempore debito vel si loquaris 
+      <lb ed="#C" n="76"/>de parte actus et sic concedo: modo in particiunda 
+      <lb ed="#C" n="77"/>illa parte non delinquit si loquaris de toto 
+      actu<lb ed="#C" n="78" break="no"/>cathegoreumatice: nego quam illum faciat tempore 
+      qui<lb ed="#C" n="79" break="no"/>est preceptum Suppono quod non habeat legitimum 
+      <lb ed="#C" n="80"/>impedimentum temporis prorogandi: quia stat 
+      <lb ed="#C" n="81"/>dare causam in qua non tenetur dicere horas vel 
+      <lb ed="#C" n="82"/>lo pacto: dato quod sit in sacris: vt puta languet: et 
+      gra<lb ed="#C" n="83" break="no"/>ui morbo laborat quem loqui tedet. iste non tenetur 
+      <lb ed="#C" n="84"/>dicere horas neque supplere per alium: vt de ieiunio 
+      <lb ed="#C" n="85"/>in simili casu contingit. potest esse causa non 
+      ex<lb ed="#C" n="86" break="no"/>cusans pro tota die: sed ad differendum habet 
+      con<lb ed="#C" n="87" break="no"/>cionem facere in clero vel aliquid quod suo 
+      officio<lb ed="#C" n="88" break="no"/>incumbit / quod requirit totum hominem 
+      ante<lb ed="#C" n="89" break="no"/>meridiem. nolumus tunc dicere quod differre horas 
+      <lb ed="#C" n="90"/>ad horam pomeridianam peccatum sit vllum: sed 
+      <lb ed="#C" n="91"/>hic animaduersione non indignum est retento casu 
+      <lb ed="#C" n="92"/>argumenti / qui permaiorem partem temporis 
+      omit<lb ed="#C" n="93" break="no"/>tit plus peccat ceteris paribus: qui horas omni 
+      <lb ed="#C" n="94"/>no omittit ante meridiem: plus peccat quam ille qui 
+      di<lb ed="#C" n="95" break="no"/>cit per mediam horam: et plus peccat qui omittit per 
+      <lb ed="#C" n="96"/>tres quaertas vltine hore: quod ille qui omittit per duas 
+      ter<lb ed="#C" n="97" break="no"/>tias talis hore potes tales nexus coniungere quod vnus 
+      <lb ed="#C" n="98"/>dicat vnum verbum illa vltima hora: vt Domine: alius 
+      di<lb ed="#C" n="99" break="no"/>cat duo verba Domine labia. tertius tria verba 
+      <lb ed="#C" n="100"/>Domine labia mea. et sic per ordinem quousque hore 
+      con<lb ed="#C" n="101" break="no"/>plete dicantur ab vno quaerendo de proportione 
+      pecca<lb ed="#C" n="102" break="no"/>torum ab istis commissorum: sed huiuiuscemodi intrica 
+      <lb ed="#C" n="103"/>turas nunc tibi extricari relinquimus. A talibus 
+      <lb ed="#C" n="104"/>quisquilliis aliunde satis retrahimur.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1765">
+      ¶ 
+      Duodeci<lb ed="#C" n="105" break="no"/>mo arguitur sic: omne peccatum est voluntarium: pura 
+      omis<lb ed="#C" n="106" break="no"/>sio non est voluntaria. ergo pura omissio non est 
+      <lb ed="#C" n="107"/>peccatum consequentia tenet in quarto secunde. Et minor patet: 
+      vo<lb ed="#C" n="108" break="no"/>luntas non habet velle quo vult omittere: quia 
+      <lb ed="#C" n="109"/>tunc non esset pura omissio.
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1779">
+      ¶ Respondetur ad hoc 
+      ar<lb ed="#C" n="110" break="no"/>gumentum negando minorem: quia voluntas sua 
+      <lb ed="#C" n="111"/>sponte deserit opus precepti quod potest tunc 
+      im<lb ed="#C" n="112" break="no"/>plere voluntas dicitur libere omittere 
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1788">
+               <lb ed="#C" n="113"/>¶ Dubitatur vtrum pura ignorantia sit peccatum 
+   </p>
+            <p xml:id="jb2v19-d93685-d1e1793">
+               <lb ed="#C" n="114"/>¶ Respondetur quod non: sed homo crebro per ignorantiam 
+      incur<lb ed="#C" n="115" break="no"/>rit peccatum. indoctus transiens ad ordi nes 
+      pec<lb ed="#C" n="116" break="no"/>cat: quia non habet scientiam quam tenetur habere in 
+      ta<lb ed="#C" n="117" break="no"/>li dignitate. Similiter peccat capiendo prouinciam 
+      <lb ed="#C" n="118"/>suis hueris imparem: vt puta magna curam animarum: nec 
+      <lb ed="#C" n="119"/>ex isto consequens est quod homo non potest euadere 
+      pec<lb ed="#C" n="120" break="no"/>catum: curam animarum habens potest officium relinque¬
+      <pb ed="#V" n="159-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>re: ineruditus sacerdos non potest a tergo ordines 
+      <lb ed="#C" n="2"/>derelinquere qui ossibus immobiliter adherent: 
+      pe<lb ed="#C" n="3" break="no"/>niteat tamen puta de capiendis ordinibus per quem 
+      <lb ed="#C" n="4"/>actum peccabat: et non per solam inerud itionem: et tuc non 
+      <lb ed="#C" n="5"/>erit in peccato. supposito quod operam improban 
+      na<lb ed="#C" n="6" break="no"/>uet pro acquirenda doctrina suo statui accommoda.
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

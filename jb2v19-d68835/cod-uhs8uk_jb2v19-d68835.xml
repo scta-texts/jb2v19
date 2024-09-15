@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="115-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d68835"><!-- l2d25q2 -->
+            <head xml:id="jb2v19-d68835-Hd1e101">Quaestio 2</head>
+            <head xml:id="jb2v19-d68835-Hd1e103" type="question-title">An potest probari in lumine naturali in nobis libertas</head>
+            <p xml:id="jb2v19-d68835-d1e106">
+               <lb ed="#C" n="60"/>¶ Questio 2
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>SEcundo circa hac materia in 
+      <lb ed="#C" n="62"/>quiro / an potest probari in lumine 
+      natu<lb ed="#C" n="63" break="no"/>rali in nobis libertas: si 
+      <lb ed="#C" n="64"/>spodetur quod sic. patet. 
+      experimur<lb ed="#C" n="65" break="no"/>duobus equilibus nobis oblatis 
+      <lb ed="#C" n="66"/>equaliter motiuis ratione boni: 
+      pu<lb ed="#C" n="67" break="no"/>ta duobus ouis equalibus in 
+      di<lb ed="#C" n="68" break="no"/>sco oblatis: possum capere a pe 
+      <lb ed="#C" n="69"/>ouum relicto b / ouo. et nulla est reddenda ratio nisi 
+      <lb ed="#C" n="70"/>libertas mea. et ita quilibet nostrum in se experitur.
+   </p>
+            <p xml:id="jb2v19-d68835-d1e135">
+      ¶ e 
+      <lb ed="#C" n="71"/>cundo arguitur. dato opposito conclusionis sequitur quod 
+      <lb ed="#C" n="72"/>nullus male ageret nec possit male agere. et per consequens 
+      <lb ed="#C" n="73"/>nec ded puniri nec praemiari. hoc omnem policiam m 
+      <lb ed="#C" n="74"/>nam paruertit: et constanter ab omnibus ratione vtentibus 
+      ne<lb ed="#C" n="75" break="no"/>gabitur. sequela tamen patet. non est in potestate viri agere 
+      <lb ed="#C" n="76"/>aliter quam agat per aduersarium. quod si neget. ergo in eo est 
+      <lb ed="#C" n="77"/>potentia libera. si concedit.
+   </p>
+            <p xml:id="jb2v19-d68835-d1e153">
+      ¶ Contra. nemo est 
+      laudan<lb ed="#C" n="78" break="no"/>dus vel vituperandus per hoc quod non est in potestate eius. 
+   </p>
+            <p xml:id="jb2v19-d68835-d1e159">
+               <lb ed="#C" n="79"/>¶ Et confirmatur illud sic. nullus est puniendus pro 
+      actu<lb ed="#C" n="80" break="no"/>rationabilem et iustamn excusationem habet. sed quilibet per te pro 
+      qui<lb ed="#C" n="81" break="no"/>libet actu quem facit habet rationabilem excusationem i. quod 
+      <lb ed="#C" n="82"/>erat ei necessarium istud facere: nec erat ei liberum 
+      he<lb ed="#C" n="83" break="no"/>uitare. fecit enim omne illud quod potuit: et per eum no stetit: nec 
+      <lb ed="#C" n="84"/>antecedenter vllo modo: nec consequenter. hoc dico propter 
+      <lb ed="#C" n="85"/>ebrios occidentes ex culpa pruia secundum aliquis.
+   </p>
+            <p xml:id="jb2v19-d68835-d1e177">
+      ¶ 
+      Insu<lb ed="#C" n="86" break="no"/>per conclusionem facto negans opere eam concedit si ei 
+      <lb ed="#C" n="87"/>magnam iniuriam faceres / qureret vidicta vel a serl 
+      <lb ed="#C" n="88"/>a iudice. sed nemo det pena quarere nisi ratione peccati 
+      co<lb ed="#C" n="89" break="no"/>missi. igitur.
+   </p>
+            <p xml:id="jb2v19-d68835-d1e188">
+      ¶ Preterea. tunc quilibet homo esset impeccabilis 
+      <lb ed="#C" n="90"/>per naturam: contra omnem moralem philsophiam. in lumine 
+      natu<lb ed="#C" n="91" break="no"/>rali omnes sardanapalum et dionysium tyrannum 
+      impro<lb ed="#C" n="92" break="no"/>bos praedicarunt: solonem et socratem probos. 
+      Aristote<lb ed="#C" n="93" break="no"/>les in lumine naturali loquens. 3. Ethic. dicit: sumus 
+      <lb ed="#C" n="94"/>domni actuum nostrorum a principio vsque ad finem. et potenti 
+      <lb ed="#C" n="95"/>rationales valent ad opposita 2. periarmenias: er 
+      <lb ed="#C" n="96"/>ote prcosiliari de futuris I. Periarmenias: et aliquis 
+      <lb ed="#C" n="97"/>est agens a proposito 2. phisic.
+   </p>
+            <p xml:id="jb2v19-d68835-d1e208">
+      ¶ Finaliter 
+      argu<lb ed="#C" n="98" break="no"/>endo / dico cum Auicenna I. Methaphisice. c. 6. 
+      di<lb ed="#C" n="99" break="no"/>cente quod negantes primum principium sunt vapulandi et 
+      <lb ed="#C" n="100"/>exponendi igni: quousque concedat quod non est 
+      <lb ed="#C" n="101"/>ri et non comburi / percuti et non percuti: ita dicens: ab 
+      ho<lb ed="#C" n="102" break="no"/>mine nichil agi libertate contingentie est vapulam 
+      <lb ed="#C" n="103"/>dus et concremadus donec dicat / quod ego eum libere 
+      per<lb ed="#C" n="104" break="no"/>cutio et detineo in igne. quia si de necessitate id 
+      fa<lb ed="#C" n="105" break="no"/>cio: non erit situm in facultate mea id non efficere. et 
+      <lb ed="#C" n="106"/>per consequens non de conquaeri.
+   </p>
+            <p xml:id="jb2v19-d68835-d1e230">
+      ¶ Contra hanc conclusionem 
+      argu<lb ed="#C" n="107" break="no"/>mentor non constat certitudinaliter quae potentia est liberum 
+      <lb ed="#C" n="108"/>arbitrium. Aliqui dicunt primo in intellectu consistit: 
+      ali<lb ed="#C" n="109" break="no"/>qui in voluntate: aliqui in aggregato. ergo non constat 
+      <lb ed="#C" n="110"/>de libertate in nobis.
+   </p>
+            <p xml:id="jb2v19-d68835-d1e241">
+      ¶ Secundo arguitur contra 
+      pri<lb ed="#C" n="111" break="no"/>mam probationem. canis non adit carnem ei obsietam ratione 
+      <lb ed="#C" n="112"/>pericli: quia baculum paratum habeno applicatum vt eum 
+      ver<lb ed="#C" n="113" break="no"/>berem.
+   </p>
+            <p xml:id="jb2v19-d68835-d1e251">
+      ¶ Respondetur: ad primum dico sufficienter constat 
+      <lb ed="#C" n="114"/>quod libertas est voluntas. nec aliud in recto dicit 
+      <lb ed="#C" n="115"/>dat intelligere actum intellectus. Secundo. quando ita esset: 
+      <lb ed="#C" n="116"/>consequentia est nulla. scio quod aliquis de numero istorum est 
+      <lb ed="#C" n="117"/>sortes: et latet me quisnam ille est. vt posito quod 
+      di<lb ed="#C" n="118" break="no"/>cant vnus istorum est sortes: et fugit me quis ille 
+      <lb ed="#C" n="119"/>est.
+   </p>
+            <p xml:id="jb2v19-d68835-d1e267">
+      ¶ Ad secundum dico: quod canis et brutum 
+      quod<lb ed="#C" n="120" break="no"/>libet persequitur naturaliter apprehesionem
+      <pb ed="#V" n="116-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>obiecti et appetitus sui. forma bruti est educta de 
+      <lb ed="#C" n="2"/>potentia materie: nec est extensa ad materie ex 
+      <lb ed="#C" n="3"/>tensionem dependet ex apprehensione obiecti et 
+      orga<lb ed="#C" n="4" break="no"/>ni: et naturaliter appetit quicquid appetit. quando canis 
+      <lb ed="#C" n="5"/>retrahitur a capiendo cibo quia videt ictum baculi 
+      si<lb ed="#C" n="6" break="no"/>bi imminere: hoc est quia magis amat vitam suam quam 
+      il<lb ed="#C" n="7" break="no"/>lum cibum. sicut esset necessarium ei prosequi cibum stante 
+      fa<lb ed="#C" n="8" break="no"/>me si non tineret maius inconueniens: ita est ita 
+      natura<lb ed="#C" n="9" break="no"/>le et necessarium euitare percussionem quae est ei dura 
+      <lb ed="#C" n="10"/>quam alias exptus est. et sic non proprie appetitum 
+      refre<lb ed="#C" n="11" break="no"/>nat. citius oppositum facit. homo libere prosequitur illud ad 
+      <lb ed="#C" n="12"/>quod appetitus inclinatur: et libere hoc respuit
+   </p>
+            <p xml:id="jb2v19-d68835-d1e302">
+      ¶ 
+      Ter<lb ed="#C" n="13" break="no"/>tio arguitur. causis positus inter duos cibos 
+      equali<lb ed="#C" n="14" break="no"/>ter distantes et equaliter obiectos a. et b. vnum 
+      <lb ed="#C" n="15"/>adit pi snctus a. et non. b. et non potest dari ratio 
+      qua<lb ed="#C" n="16" break="no"/>re a. adit et non. b. cum tam a. et. b. equaliter 
+      <lb ed="#C" n="17"/>ei sicut obiiciuntur ante oculum dexterum et sinistrum. ergo 
+      pro<lb ed="#C" n="18" break="no"/>batur per experientiam duorum obiectorum equalium (quo 
+      <lb ed="#C" n="19"/>rum vnum capit homo et non aliud) in nobis libertas: sic de 
+      <lb ed="#C" n="20"/>bet in homine probari libertas.
+   </p>
+            <p xml:id="jb2v19-d68835-d1e322">
+      ¶ Quarto: canis nunc 
+      <lb ed="#C" n="21"/>transit ad latus dexterum: nunc ad sinistrum: omnibus aliis 
+      <lb ed="#C" n="22"/>eodem modo se habentibus. et sic miluus in eodem aere nunc 
+      as<lb ed="#C" n="23" break="no"/>cendit / nunc vero descendit. et non potest dari ratio nisi 
+      li<lb ed="#C" n="24" break="no"/>bertas. igitur.
+   </p>
+            <p xml:id="jb2v19-d68835-d1e333">
+      ¶ Quinto arguitur. causis lanii 
+      custo<lb ed="#C" n="25" break="no"/>dit integra bestiam in absentia lanii: dato quod famen 
+      pati<lb ed="#C" n="26" break="no"/>atur. et non est dicendum quod hoc facit ratione vite 
+      conseruam<lb ed="#C" n="27" break="no"/>de: cum non timet vitam propterea perdi. et non potest dari a 
+      <lb ed="#C" n="28"/>liud hic nisi libertas. igitur.
+   </p>
+            <p xml:id="jb2v19-d68835-d1e344">
+      ¶ Ad tertium respondetur. 
+      ha<lb ed="#C" n="29" break="no"/>bet apprehensionem maiorem super a. quam b. et appetitus 
+      e<lb ed="#C" n="30" break="no"/>ius naturaliter a. prosequitur et non b. homo ex libertate 
+      <lb ed="#C" n="31"/>(sua vt in se experitur) relinquit b: et capit a.
+   </p>
+            <p xml:id="jb2v19-d68835-d1e354">
+      ¶ Ad 
+      <lb ed="#C" n="32"/>quartum nego quod omnia se habeant equaliter. occurrit 
+      <lb ed="#C" n="33"/>nunc obiectum ex vna parte quod appetit: nunc aliud ex 
+      al<lb ed="#C" n="34" break="no"/>tera parte. vt pote: videt coruum vel miluum ex vna 
+      per<lb ed="#C" n="35" break="no"/>te. postea. occurrit ei alius canis vel aliquid quod est eius 
+      <lb ed="#C" n="36"/>cordi: quod naturaliter prosequitur similiter miluus nunc 
+      vi<lb ed="#C" n="37" break="no"/>det pullum / et descendit: nunc videt falconem vel 
+      aquil<lb ed="#C" n="38" break="no"/>quam formidat / et ascendit. semper occurrit aliquid quod 
+      <lb ed="#C" n="39"/>brutum mouet
+   </p>
+            <p xml:id="jb2v19-d68835-d1e374">
+      ¶ Ad quintum dicitur. causis lanii erat 
+      percus<lb ed="#C" n="40" break="no"/>sus a principio et coactus a cibo abstinere: et mansit 
+      habei<lb ed="#C" n="41" break="no"/>tus in eo quae inclinatur abstinere ab esu carnis: qui naturalier 
+      <lb ed="#C" n="42"/>inclinat ipsum abstinere: ita quod ille habeintus plus inclinat ipsum 
+      <lb ed="#C" n="43"/>ad abstinendum quam fanes ad prosequendum ad hoc est 
+      expe<lb ed="#C" n="44" break="no"/>rientia de brutis. et augus hoc fatetur libro. 83 
+      quaestio<lb ed="#C" n="45" break="no"/>num q 26 inquiens: videmus immanissimas bestias a 
+      <lb ed="#C" n="46"/>maximis voluptatibus abstinere dolorum metu. 
+   </p>
+            <p xml:id="jb2v19-d68835-d1e392">
+               <lb ed="#C" n="47"/>¶ Sexto argnitur. aliqua animalia sunt 
+      disciplinabi<lb ed="#C" n="48" break="no"/>lia: primo methaphisice. et patet de elephato qui 
+      doce<lb ed="#C" n="49" break="no"/>tur incuruare genua ate regem. ergo in eis est prud 
+      <lb ed="#C" n="50"/>tiaet ratio. cattus vas euertit effundendo aqua e capit 
+      pis<lb ed="#C" n="51" break="no"/>cem. similiter canis veaticus veniens ad biuium 
+      lepo<lb ed="#C" n="52" break="no"/>rem insequens odorat altera viarum: postea aliam 
+      <lb ed="#C" n="53"/>capit. et istud non potest ess sine sillogismo et 
+      discur<lb ed="#C" n="54" break="no"/>su. ergo ratiocinatur. similiter formica congregat 
+      <lb ed="#C" n="55"/>grana pro futura hyeme: vt patet prouerbiorum 
+      <lb ed="#C" n="56"/>sexto. ergo habet prudentiam
+   </p>
+            <p xml:id="jb2v19-d68835-d1e416">
+      ¶ Septio arguitur: agens 
+      <lb ed="#C" n="57"/>naturale tendit ad suum locum per linea breuissi 
+      <lb ed="#C" n="58"/>mam: patet de graui et leui. sed canis hoc non 
+      fa<lb ed="#C" n="59" break="no"/>cit. quado amittit dominum suum et redit ad 
+      pro<lb ed="#C" n="60" break="no"/>prium pagum: non redit per lineam breuissimam: sed 
+      <lb ed="#C" n="61"/>nunc transit per arcum: nunc per cordam. ergo non
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="62"/>est agens naturale. et per consequens est agens liber 
+      <lb ed="#C" n="63"/>rum.
+   </p>
+            <p xml:id="jb2v19-d68835-d1e436">
+      ¶ Octauo arguitur: agens natural e agit 
+      to<lb ed="#C" n="64" break="no"/>to suo conatu. sed canis non redit tota velocitate 
+      <lb ed="#C" n="65"/>sua ad propriam domum / magistro suo amisso. nec 
+      <lb ed="#C" n="66"/>auis vadit ad nidum tota celeritate qua potest
+   </p>
+            <p xml:id="jb2v19-d68835-d1e445">
+      ¶ 
+      Con<lb ed="#C" n="67" break="no"/>firmatur hec ratio. agens naturale agenti libero 
+      <lb ed="#C" n="68"/>iunctum / agit secundum extremum sue potentie: patet 
+      <lb ed="#C" n="69"/>de charitate voluntati iuncta. et de intellectu 
+      respe<lb ed="#C" n="70" break="no"/>ctu actus eius. ergo agens naturale separatum ab agente 
+      <lb ed="#C" n="71"/>libero agit secundum extremum sue potentie et toto suo 
+      co<lb ed="#C" n="72" break="no"/>natu.
+   </p>
+            <p xml:id="jb2v19-d68835-d1e462">
+      ¶ Ad sextum conceditur quod aliqua anim alia sunt 
+      dis<lb ed="#C" n="73" break="no"/>ciplinabilia. et let ratiocinatur discursu et sillogismo 
+      <lb ed="#C" n="74"/>hoc non arguit ea esse rationalia i. here animam 
+      ratio<lb ed="#C" n="75" break="no"/>nalem. non est etiam facile probare quam discurrat. dicetur 
+      <lb ed="#C" n="76"/>quod hec ab instinctu nature faciut. formica ex 
+      pruen<lb ed="#C" n="77" break="no"/>tia proprie dicta non colligit grana in antro 
+      conferen<lb ed="#C" n="78" break="no"/>do futura ex praeteritis: cum formica in estate primo 
+      na<lb ed="#C" n="79" break="no"/>ta: quae nondum exprta est rigorem hyemis: hec facit. deus 
+      <lb ed="#C" n="80"/>dedit tali bestiole hanc natura prouidendi ei cum non 
+      <lb ed="#C" n="81"/>egrediatur speluncam in frigore quatenus ei prouideat 
+      <lb ed="#C" n="82"/>nec tunc potest habenre cibum.
+   </p>
+            <p xml:id="jb2v19-d68835-d1e486">
+      ¶ Ad. 6 concedo quod agens 
+      <lb ed="#C" n="83"/>naturale tendit ad suum locum naturalem quando non habet 
+      <lb ed="#C" n="84"/>impedimentum fortius occurrens impeditiuum eius ne 
+      locum<lb ed="#C" n="85" break="no"/>naturalem adeat. modo canis habet impedimentum 
+      <lb ed="#C" n="86"/>varium occurrens. si cibum in itinere inueniat: vt 
+      ca<lb ed="#C" n="87" break="no"/>dauer: plus mouetur ad illud quam ad reditum. si auis 
+      <lb ed="#C" n="88"/>occurrat: vt vpupa vel coruus: hunc insequitur qua 
+      <lb ed="#C" n="89"/>tenus cibum habeat vel si paries aut dumus 
+      oc<lb ed="#C" n="90" break="no"/>currat: leuato pede vrina emittit.
+   </p>
+            <p xml:id="jb2v19-d68835-d1e506">
+      ¶ Sed dicis: 
+      <lb ed="#C" n="91"/>non soluitur argumentum omnibus his impedimentis 
+      <lb ed="#C" n="92"/>seclusis: non redit per lineam breuissimam: nec toto 
+      <lb ed="#C" n="93"/>suo conatu vt dicit octauum argumentum.
+   </p>
+            <p xml:id="jb2v19-d68835-d1e515">
+      ¶ 
+      Respon<lb ed="#C" n="94" break="no"/>deo: hoc verum esse. nec est de ratione agentis 
+      natura<lb ed="#C" n="95" break="no"/>lis non cognitiui quod totaliter ab agente infallibili: 
+      <lb ed="#C" n="96"/>scilicet domino deo: dirigitur. bruto enim dedit deus sensum 
+      <lb ed="#C" n="97"/>quatenus se regat. inanimata aliter habent 
+      locum<lb ed="#C" n="98" break="no"/>naturalem quam bruta quibus locus naturalis est 
+      bru<lb ed="#C" n="99" break="no"/>to / in quo bene pascitur: et consuetudine vnum 
+      lo<lb ed="#C" n="100" break="no"/>cum facit ei naturalem. habitus impellit canem stare 
+      <lb ed="#C" n="101"/>in hac domo vel cum hoc equo: quem tam in cam 
+      <lb ed="#C" n="102"/>po quam in stabulo custodit. nec pastorem pro rege 
+      <lb ed="#C" n="103"/>vel abbate relinquit. brutum est potentia 
+      fatiga<lb ed="#C" n="104" break="no"/>bilis. propterea si moueretur secundum extremum 
+      <lb ed="#C" n="105"/>sue potentie statim fatigaretur: non autem 
+      inani<lb ed="#C" n="106" break="no"/>matum. propterea deus aliam naturam dedit vni 
+      <lb ed="#C" n="107"/>que ei competit. inanimatum non acquirit 
+      habi<lb ed="#C" n="108" break="no"/>tum: brutum autem acquirit habitum quo 
+      moue<lb ed="#C" n="109" break="no"/>tur. propterea ex inanimato arguere non potes 
+      <lb ed="#C" n="110"/>simile in animatis. per hoc soluuntur alia 
+      argumen<lb ed="#C" n="111" break="no"/>ta. charitas est agens inanimatum.
+   </p>
+            <p xml:id="jb2v19-d68835-d1e557">
+      ¶ Quia non ni 
+      <lb ed="#C" n="112"/>chil coloris est in argumentis adductis vel adducibi 
+      <lb ed="#C" n="113"/>libus: pro eorum solutionibus (quatenus breuitati innitar) 
+      <lb ed="#C" n="114"/>aliqua noto: siue epilogando dicta siue obiter 
+      <lb ed="#C" n="115"/>occurrentia ponens / non refert. in animata agentia habent 
+      <lb ed="#C" n="116"/>vnam legem ad partem inter se per quam ab animatis 
+      secer<lb ed="#C" n="117" break="no"/>nuntur. habent determinata loca naturalia: 
+      pa<lb ed="#C" n="118" break="no"/>tet de elementis. et mixta secundum naturas 
+      ele<lb ed="#C" n="119" break="no"/>mentorum cum quibus magis participant ad sua 
+      <lb ed="#C" n="120"/>loca per lineas breuissimas (si non ponatur obex) 
+      <lb ed="#C" n="121"/>tendunt: inter se tamen habent varias particulares 
+      <lb ed="#C" n="122"/>leges: vt quando spem pecialissima distinguuntur. etiam
+      <pb ed="#V" n="116-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>indiuidua eiusdem speciei habent leges indiuiduales eis 
+      <lb ed="#C" n="2"/>inditas. animata bruta habent sensum secundum apprhensionem 
+      con<lb ed="#C" n="3" break="no"/>uenientem vel disconuenientem mouentur et eorum appetitus 
+      <lb ed="#C" n="4"/>hoc naturaliter insequitur. disconueniens refugiut: 
+      conue<lb ed="#C" n="5" break="no"/>niens prosequuntur naturaliter. habituantur timore incusso 
+      <lb ed="#C" n="6"/>per verbera: ne prosequantur illud quod est eis naturale 
+      <lb ed="#C" n="7"/>desideratum: vt canis lanii et bruta quae sunt bone 
+      me<lb ed="#C" n="8" break="no"/>morie. quando primo fuit catulus / acessit ad mortuum 
+      bo<lb ed="#C" n="9" break="no"/>uem comedendum: fuit percussus 2. et 3 quousque fuit in eo 
+      <lb ed="#C" n="10"/>hintus genitus ad refugiendum bouem occisum in tali loco 
+      <lb ed="#C" n="11"/>paruum frustum ei proiectum a domino accipit. tum ab 
+      obie<lb ed="#C" n="12" break="no"/>cto mouetur: tum ab habeintu / talia parua capiendi. aliqua sunt 
+      <lb ed="#C" n="13"/>bruta peioris memorie quae no ita facile hintuatur ad 
+      <lb ed="#C" n="14"/>oppositum inclinationis natural. cattus non est tal memo 
+      <lb ed="#C" n="15"/>rie sicut causis. si aliquem locum adeat bis / ter / vel quaeter per 
+      <lb ed="#C" n="16"/>cussus et repercussus: redit ad eundem: quod non facit cais. sed 
+      <lb ed="#C" n="17"/>citius ei locus interdictus est. docetur tamen cattus quod scannum 
+      <lb ed="#C" n="18"/>tempue prandii non adeat: sed ponit se in loco in quo videtur: 
+      <lb ed="#C" n="19"/>vt cibum tempue prandii capiat. nec hec bruta percutiunturf. 
+      <lb ed="#C" n="20"/>ratione culpe commisse: sed quaetenus habituentur ad hoc 
+      <lb ed="#C" n="21"/>vel ad illud: vt mimus facit de suo cane / capra 
+      <lb ed="#C" n="22"/>vel alio bruto. interdum luctamen est in bruto pro 
+      obiecti<lb ed="#C" n="23" break="no"/>prosequutione secundum varias apphabensiones de refugiendo 
+      <lb ed="#C" n="24"/>discouenienti et prosequendo conuenienti quod hic 
+      inde<lb ed="#C" n="25" break="no"/>mouetur: vt videre est secundum motum corporis eius: 
+      inter<lb ed="#C" n="26" break="no"/>dum desiderium nature timorem vincit. vt mus vna 
+      ma<lb ed="#C" n="27" break="no"/>num tentus coram famente catto et virga in alia murem 
+      <lb ed="#C" n="28"/>aggreditur. interdum econuerso: sicut in nobis 
+      experimur<lb ed="#C" n="29" break="no"/>sed in bruto omnia naturaliter fiunt. aliqua bruta dome 
+      <lb ed="#C" n="30"/>sticantur facile: et sunt homimbus amica: et eos sequuntur 
+      <lb ed="#C" n="31"/>vt canis aliqui equi. aliqua difficilius: vt quae firmam 
+      ha<lb ed="#C" n="32" break="no"/>bent naturam. aliqua vero numquam domesticantur. sed 
+      bru<lb ed="#C" n="33" break="no"/>ta omnia impulsu naturali omnia agunt: nec quicqua 
+      liberta<lb ed="#C" n="34" break="no"/>tis habent: licet aliqua plus accedunt ad modum viuendum 
+      <lb ed="#C" n="35"/>hominum quam alia de aliquibus monstris potest in dubium 
+      reuo<lb ed="#C" n="36" break="no"/>cari an sint homines. ab influentia celi et quaelitatibus 
+      lo<lb ed="#C" n="37" break="no"/>corum (in quibus homines producuntur) habent varias formas in 
+      <lb ed="#C" n="38"/>corpore et mores. sub polis habentantes dicunr ferinos 
+      ha<lb ed="#C" n="39" break="no"/>bere mores. aliqui oculum dicuntur henre in fronte certum est 
+      <lb ed="#C" n="40"/>omnes homines esse animalia rationalia: hoc est: habent animam 
+      ra<lb ed="#C" n="41" break="no"/>tionalem: licet aliqui parum rationis habeant quo ad exercitium 
+      <lb ed="#C" n="42"/>actus in aliquibus regionibus homines sunt multum 
+      pruden<lb ed="#C" n="43" break="no"/>tes et habuani. aliqui minus habuani et prudentes et tamquam 
+      fe<lb ed="#C" n="44" break="no"/>rini qui successu tempuis cum mitibus et prudentibus 
+      conuersan<lb ed="#C" n="45" break="no"/>tes tales euadunt. vt fera bestia successu tempuis 
+      do<lb ed="#C" n="46" break="no"/>mesticatur: quae inter feras ferino more viuit. et sic 
+      gra<lb ed="#C" n="47" break="no"/>datim descendendo in prudentia ad non gradum 
+      pru<lb ed="#C" n="48" break="no"/>dentie a corporis dispositione. ad hoc quod anima 
+      rationa<lb ed="#C" n="49" break="no"/>lis ratiocinetur humano more quandiu corpus 
+      <lb ed="#C" n="50"/>informat: corporis requiritur dispositio. patet de 
+      na<lb ed="#C" n="51" break="no"/>tis cum valde puo capite stolidis: et aliquibus cum 
+      <lb ed="#C" n="52"/>maiore capite: tamen aliqua est dispositio 
+      interi<lb ed="#C" n="53" break="no"/>or occulta que nos fugit. quare is demens est. et 
+      <lb ed="#C" n="54"/>aliquis sapiens demens efficitur passione anime 
+      <lb ed="#C" n="55"/>corpus in disponente vel primo a corporis 
+      dis<lb ed="#C" n="56" break="no"/>positione. sic potest esse in aliquo loco / quod homo 
+      <lb ed="#C" n="57"/>in illo natus habeat corpus indispositum: et 
+      per<lb ed="#C" n="58" break="no"/>consequens non vtatur ratione deus tamen 
+      om<lb ed="#C" n="59" break="no"/>nibus sufficienter prouidet quantum est ex 
+      par<lb ed="#C" n="60" break="no"/>te eius quo ad anime salutem: quam medtate.
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>vel immedietate consequi praesent. nec est maior 
+      difficul<lb ed="#C" n="62" break="no"/>tas de his: si qui sunt nati veliter stolidi in aliquo 
+      lo<lb ed="#C" n="63" break="no"/>co: quam de paruulis ante baptisma morientibus. 
+      ym<lb ed="#C" n="64" break="no"/>mo non tanta. vicini istorum stolidorum sic natorum 
+      <lb ed="#C" n="65"/>sunt prudentes: hoc est: aliquid prudentie habent 
+      <lb ed="#C" n="66"/>praesent et debent aliis prouidere: sicut nos 
+      tenemur<lb ed="#C" n="67" break="no"/>natis stolidis inter nos prouidere.
+   </p>
+            <p xml:id="jb2v19-d68835-d1e735">
+      ¶ Tertium de 
+      <lb ed="#C" n="68"/>mortuis in vtero materno vel extra vterum ante 
+      bap<lb ed="#C" n="69" break="no"/>tisma quaris quid remedii dedit deus: cum potest hoc 
+      contige<lb ed="#C" n="70" break="no"/>re sine parentum cuspa vel paruuli quae ratione non vtio 
+      <lb ed="#C" n="71"/>tur. dico dominus deus secundum sua legem comnem cum his egit 
+      <lb ed="#C" n="72"/>producendo in corpus dispositum animam intellectiuam: et cum 
+      <lb ed="#C" n="73"/>e defectus nature ex parte causae secunde iste moritur ante 
+      <lb ed="#C" n="74"/>lbaptisma. deus suam actionem fecit creando animam 
+      <lb ed="#C" n="75"/>sicut sinit adultum et iustum mori. dico seo: talis nullam 
+      <lb ed="#C" n="76"/>penam sensus habebit. et melius erit illi quam si non 
+      fuis<lb ed="#C" n="77" break="no"/>set: hoc est: si daretur talibus optio non esse vel num 
+      <lb ed="#C" n="78"/>quam habere penam sensus sed solum pena dampni: secundum elige 
+      <lb ed="#C" n="79"/>rent.
+   </p>
+            <p xml:id="jb2v19-d68835-d1e765">
+      ¶ Ulterius dico. multis obest acumen 
+      intel<lb ed="#C" n="80" break="no"/>ligentie: qui naturalibus a deo datis abutunt. 
+      tali<lb ed="#C" n="81" break="no"/>bus profuisset in stoliditate nasci: vel fuisse mortuis 
+      <lb ed="#C" n="82"/>in vtero maternis: vel extra vterum anquoad sden 
+      <lb ed="#C" n="83"/>runt. Concludendo dico: solus homo. inter 
+      anima<lb ed="#C" n="84" break="no"/>lia discernit inter bonum et malum et honestatis 
+      <lb ed="#C" n="85"/>gratia fugit turpe et de illo perpetato potissimum 
+      <lb ed="#C" n="86"/>coram aliis verecundatur prosequitur honestum 
+      <lb ed="#C" n="87"/>vel dictat ita faciendum qualitercumque viuit 
+      cosu<lb ed="#C" n="88" break="no"/>lit et preuidet de futuris et ex praesentibus et futuris 
+      au<lb ed="#C" n="89" break="no"/>guratur de tenebrosis futuris est ei cura de 
+      cele<lb ed="#C" n="90" break="no"/>stibus cui deus formam in corpore celum 
+      contem<lb ed="#C" n="91" break="no"/>plari dedit Pronaque cum spectet animalia cetera 
+      ter<lb ed="#C" n="92" break="no"/>ram. ergo ista in lumine naturali sufficienter 
+      con<lb ed="#C" n="93" break="no"/>cludunt homines solos inter animalia liberos 
+      <lb ed="#C" n="94"/>et patet hoc a posteriori per omnes philosophos 
+      <lb ed="#C" n="95"/>omnesritus gentium in solo lumine naturali in 
+      <lb ed="#C" n="96"/>cedentes in lumine fidei ita esse est certissimum 
+      <lb ed="#C" n="97"/>rationes naturales fides corroborat tanquam 
+      supe<lb ed="#C" n="98" break="no"/>rius lumen. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

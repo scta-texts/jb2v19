@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 7</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 7</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="25-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d14702"><!-- l2d2q7 -->
+            <head xml:id="jb2v19-d14702-Hd1e101">Quaestio 7</head>
+            <head xml:id="jb2v19-d14702-Hd1e103" type="question-title">An detur minimum naturale</head>
+            <p xml:id="jb2v19-d14702-d1e106">
+               <lb ed="#C" n="86"/>¶ Questio septima. 
+      <lb ed="#C" n="87"/>IN luperiore questie 
+      <lb ed="#C" n="88"/>one diximus quod pure continui 
+      <lb ed="#C" n="89"/>non datur pars minima: esto quod 
+      <lb ed="#C" n="90"/>continuum ex punctis 
+      confla<lb ed="#C" n="91" break="no"/>tum ponatur. nunc continuando 
+      <lb ed="#C" n="92"/>eandem materiam: queritur septi 
+      <lb ed="#C" n="93"/>mo talis questio: an detur 
+      mi<lb ed="#C" n="94" break="no"/>nimum naturale.
+   </p>
+            <p xml:id="jb2v19-d14702-d1e128">
+      ¶ Pro solutione quaestionis ponuntur 
+      <lb ed="#C" n="95"/>conclusiones sequentes: quarum prima est. datur 
+      mi<lb ed="#C" n="96" break="no"/>nimum naturale totale in etherogeneis. probatur hec 
+      <lb ed="#C" n="97"/>conclusio. nusquam et numquo visus est elephas vel 
+      homo<lb ed="#C" n="98" break="no"/>tante paruitatis sicut culex vel granum millii. et hoc 
+      <lb ed="#C" n="99"/>non nisi quia forme elephantis vel anime intellectiue 
+      <lb ed="#C" n="100"/>repugnat naturaliter informare materiam ita 
+      par<lb ed="#C" n="101" break="no"/>uam tanquam totalem sicut est materia culicis. istuod patet 
+      <lb ed="#C" n="102"/>auctoritate philosophi. ii. de anima. t. commenti. xli. 
+      <lb ed="#C" n="103"/>dicentis: omnim natura constantium determinata est 
+      <lb ed="#C" n="104"/>ratio magnitudinis et augmenti. et contra 
+      anaxa<lb ed="#C" n="105" break="no"/>goram primo Phisicorum ponit minimam carnem. 
+   </p>
+            <p xml:id="jb2v19-d14702-d1e154">
+               <lb ed="#C" n="106"/>¶ Secunda conclusio. datur minimum naturale in 
+      ho<lb ed="#C" n="107" break="no"/>mogeneis. probatur hec conclusio. datur mimmus 
+      homo<lb ed="#C" n="108" break="no"/>totalis et minimus elephas totalis ex priori 
+      conclu<lb ed="#C" n="109" break="no"/>sione. ergo datur minimum naturale aque tet 
+      consequen<lb ed="#C" n="110" break="no"/>tia. vnum est eque homogeneum entitatiue et 
+      substan<lb ed="#C" n="111" break="no"/>tialiter sicut aliud. patet quaelibet pars integralis homins est 
+      <lb ed="#C" n="112"/>homo: sicut quaelibet pars integralis aque est aqua. non 
+      <lb ed="#C" n="113"/>ponitur nisi vna forma in homine: scilicet anima 
+      intellecti<lb ed="#C" n="114" break="no"/>ua: vt in distinctione. xvi. huius post hac dicetur. ergo 
+      <lb ed="#C" n="115"/>quelibet pars integralis est eiusdem speciei essentialis 
+      <lb ed="#C" n="116"/>cum quaelibet alia parte: et cum toto. ergo totum est 
+      substan<lb ed="#C" n="117" break="no"/>tialiter homogeneum. sed homo non est homogeneum 
+      <lb ed="#C" n="118"/>qualitatiue et accidentaliter sicut aqua quelibet pars
+      <pb ed="#V" n="26-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>integralis aque in naturali dispositione est 
+      frigi<lb ed="#C" n="2" break="no"/>da et humida non autem est sic de qualitatibus homis. 
+      <lb ed="#C" n="3"/>cor est calidum ccrebrum frigidum. et varie partes varia 
+      <lb ed="#C" n="4"/>habent accidentia naturalia. Insuper / quelem pars inte 
+      <lb ed="#C" n="5"/>gralis homins est substantia corporea atata anima rationali. 
+      <lb ed="#C" n="6"/>ergo est substantia rationalis: ergo homo et st in 
+      termi<lb ed="#C" n="7" break="no"/>nis luctari volueris: quielibet pars integralis homins est eiusdem 
+      <lb ed="#C" n="8"/>rationis entitatiue cum toto: cum habeat partes eiusdem 
+      <lb ed="#C" n="9"/>speciei specialissime cum toto entitatine. Insuper aucto 
+      <lb ed="#C" n="10"/>ritates aristotelis et commentatoris equaliter 
+      appli<lb ed="#C" n="11" break="no"/>cantur in homogeneo et etherogeneo. ergo si ponatur 
+      <lb ed="#C" n="12"/>vnum: sicut oportet parper experientiam et rationem: debet idem poni in 
+      <lb ed="#C" n="13"/>alio.
+   </p>
+            <p xml:id="jb2v19-d14702-d1e218">
+      ¶ Tertia conclusio. datur minimum 
+      naturale<lb ed="#C" n="14" break="no"/>caloris frigoris / et himodi accidentium corporalium. 
+      <lb ed="#C" n="15"/>probatur coclusio auctoritate aristotelis in de sen 
+      <lb ed="#C" n="16"/>su et sensato. t. commenti. lx. lxii. et lxiiii. quod qualita 
+      <lb ed="#C" n="17"/>tes sensibiles sunt determinate secundum species. hanc 
+      <lb ed="#C" n="18"/>conclusionem per varios passus commentatoris 
+      deduxi<lb ed="#C" n="19" break="no"/>quaestione sextadecima distinctionis. xvii. primi 
+      sen<lb ed="#C" n="20" break="no"/>tentiarum. et propterea eos hic relinquo. Insuper 
+      <lb ed="#C" n="21"/>datur minimum in animalibus in etherogeneis et 
+      ho<lb ed="#C" n="22" break="no"/>mogeneis. et auctoritates philosophorum 
+      equali<lb ed="#C" n="23" break="no"/>ter applicantur in accidentibus sicut in substatiis. 
+      <lb ed="#C" n="24"/>ergo hoc non est negandum ab accidentibus 
+      corpo<lb ed="#C" n="25" break="no"/>ralibus.
+   </p>
+            <p xml:id="jb2v19-d14702-d1e247">
+      ¶ Contra has conclusiones arguitur sic. 
+      ac<lb ed="#C" n="26" break="no"/>cidentis spiritualis non datur remississima pars per se 
+      <lb ed="#C" n="27"/>potens esse. ergo nec qualitatis corporalis. 
+      conse<lb ed="#C" n="28" break="no"/>qu uentia tenet conuenienti similitudine. afneis patet. 
+      <lb ed="#C" n="29"/>homo potest pure partibiliter elicere vnum actum 
+      volun<lb ed="#C" n="30" break="no"/>tatis a non gradum ad certum gradum vscm. ergo quacum 
+      <lb ed="#C" n="31"/>que remissione actus dara potest dari actus remissior 
+      <lb ed="#C" n="32"/>per se existens. probatio assumpti: alio qui homo potest 
+      <lb ed="#C" n="33"/>taliter peccare quod non potest sufficienter 
+      proportiona<lb ed="#C" n="34" break="no"/>biliter puniri pena sensus. Ppeccatum pot esse tante 
+      <lb ed="#C" n="35"/>paru itatis. et actus vitalis anime non potest esse in 
+      in<lb ed="#C" n="36" break="no"/>fi nitum remissus per te: cum datur minimum 
+      naturale<lb ed="#C" n="37" break="no"/>in actu igitur.
+   </p>
+            <p xml:id="jb2v19-d14702-d1e276">
+      ¶ Respondetur negando consequentiam. 
+      <lb ed="#C" n="38"/>alie sunt leges qualitatum corporalium et 
+      spiritua<lb ed="#C" n="39" break="no"/>lium. et si negaretur afis: non est sufficienter 
+      pro<lb ed="#C" n="40" break="no"/>batum ex assumpto. licet detur minimus acius potens 
+      <lb ed="#C" n="41"/>naturaliter per se existere: non tamen de potentia dei 
+      ab<lb ed="#C" n="42" break="no"/>soluta. dato minmo naturali etherogeneo vel 
+      ho<lb ed="#C" n="43" break="no"/>mogeneo deus potest partem eus ponere extra totum: 
+      <lb ed="#C" n="44"/>cum hoc quod materia informetur eadem forma qua an 
+      <lb ed="#C" n="45"/>te informabatur. dato ergo quocumque peccato 
+      quantum<lb ed="#C" n="46" break="no"/>cumque pusillo: deus potest pro illo penam 
+      proportiona<lb ed="#C" n="47" break="no"/>biliter infligere. et actus: quantumcumque paruus 
+      fu<lb ed="#C" n="48" break="no"/>erit: potentiam cui inest vitaliter immutabit. 
+   </p>
+            <p xml:id="jb2v19-d14702-d1e302">
+               <lb ed="#C" n="49"/>¶ Contra hoc arguitur. si in infinitum paruum actum 
+      po<lb ed="#C" n="50" break="no"/>test intellectus vel voluntas habere: sequitur hec 
+      <lb ed="#C" n="51"/>conclusio. quod voluntas infinitos actus potest 
+      simul<lb ed="#C" n="52" break="no"/>habere circa varia obiecta cum tanta facilitate 
+      si<lb ed="#C" n="53" break="no"/>cut habendo vnum actum vt octo circa vnum obiectum 
+      <lb ed="#C" n="54"/>quod est contra communem experientiam. quod sequatur patet. non 
+      <lb ed="#C" n="55"/>est difficilius habere duos actus circa duo 
+      obie<lb ed="#C" n="56" break="no"/>cta latos: quiaum quiliet est vnius gradus: quae hatre actum intensum 
+      <lb ed="#C" n="57"/>vt duo circa idem obiectum. et si sic: potes 
+      remissio<lb ed="#C" n="58" break="no"/>res actus capere plures circa plura obiecta. et sic 
+      <lb ed="#C" n="59"/>cum non detur actus remississimus totalis: sequitur illatum. 
+   </p>
+            <p xml:id="jb2v19-d14702-d1e328">
+               <lb ed="#C" n="60"/>¶ Ad hoc argumentum latius alibi respodi. dico
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>nunc breuiter ipsum nichil concludit. difficilius est 
+      ha<lb ed="#C" n="62" break="no"/>bere plures peruos actus latos in obiecta impartinen 
+      <lb ed="#C" n="63"/>tia quam actum vnum eis omnibus paruis equalen in gradu 
+      <lb ed="#C" n="64"/>circa vnum obiectum.
+   </p>
+            <p xml:id="jb2v19-d14702-d1e344">
+      ¶ Secundo arguitur. ignis 
+      produ<lb ed="#C" n="65" break="no"/>cit successiue in materiam stupe quae fuit foemam substantia 
+      <lb ed="#C" n="66"/>lem ignis. ergo non est dabile minimum naturale 
+      <lb ed="#C" n="67"/>ignis consequentia liquet afis patet. successiue 
+      dis<lb ed="#C" n="68" break="no"/>ponitur materia ad susceptionem ignis: quia pars 
+      pro<lb ed="#C" n="69" break="no"/>pinquior citius disponitur quod remotior. Oe agens 
+      <lb ed="#C" n="70"/>naturale citius agit in propinquum quam in distans. sed 
+      <lb ed="#C" n="71"/>quamprimum qualitatiue dispositiones (vtpote calidi 
+      <lb ed="#C" n="72"/>tas et siccitas) sunt introducte in passun a: gens 
+      <lb ed="#C" n="73"/>corrumpit forma precedentem et generat nouam. igitur. 
+   </p>
+            <p xml:id="jb2v19-d14702-d1e367">
+               <lb ed="#C" n="74"/>¶ Distinguo antecedens. vel illa stupa proiecta suerit in 
+      <lb ed="#C" n="75"/>igne sic quod reddidit vnum totum cum ipso igne et et sic 
+      <lb ed="#C" n="76"/>concedo. ex illo habes minus minimo naturali in suo 
+      <lb ed="#C" n="77"/>toto: et nihil contra dicta. si stupa fuerit remota 
+      ab<lb ed="#C" n="78" break="no"/>igne: sic scilicet quod non constituat aliquod vnum secum: 
+      <lb ed="#C" n="79"/>tunc minimum naturale ignis subito producitur. 
+      <lb ed="#C" n="80"/>quia si successiue: daretur minus minimo 
+      natura<lb ed="#C" n="81" break="no"/>li per se existens. reliqua pars producitur pure 
+      par<lb ed="#C" n="82" break="no"/>tibiliter: qusque deueinatur ad mimum naturale vltimum 
+      <lb ed="#C" n="83"/>stupe corrumpende: quod subito corrumpitur: quia si 
+      <lb ed="#C" n="84"/>successiue corrumperetur: daretur minus minimo 
+      na<lb ed="#C" n="85" break="no"/>turali. et ad illam stupe corruptionem sequitur ignis 
+      su<lb ed="#C" n="86" break="no"/>bitam generationem de per accidens. et si pars 
+      stupe<lb ed="#C" n="87" break="no"/>date citius disponeretur per qualitatiuas 
+      dispositio<lb ed="#C" n="88" break="no"/>nes in parte propinqua quod remota: hoc non sufficit 
+      <lb ed="#C" n="89"/>ad generationem ignis. quia requiritur determinata pars 
+      <lb ed="#C" n="90"/>in magnitudine disposita ad hoc quod introducatur 
+      <lb ed="#C" n="91"/>forma ignis in illam materiam. ergo non poritate 
+      ten<lb ed="#C" n="92" break="no"/>poris vel instantis ignis gencrat prtem ignis in 
+      <lb ed="#C" n="93"/>parte propinqua illius materie minimi naturalis 
+      <lb ed="#C" n="94"/>quam in parte remota illius immo ita cito producit 
+      for<lb ed="#C" n="95" break="no"/>mam ignis in partem remotam minimi naturalis 
+      <lb ed="#C" n="96"/>sicut in partem vicinam. reliquas partes producic 
+      suc<lb ed="#C" n="97" break="no"/>cessiue. licet non sit successio ex parte intensionis for 
+      <lb ed="#C" n="98"/>me substantialis: cum talium partium sit expers: 
+      succes<lb ed="#C" n="99" break="no"/>siue quo ad extensionem producit. si tamen deus 
+      de<lb ed="#C" n="100" break="no"/>struat minimum naturale subito: sic scilicet quod non duret 
+      <lb ed="#C" n="101"/>nisi per vnum instans: tunc ignis generabit vnum 
+      <lb ed="#C" n="102"/>minimum naturale subito. sed si agens producat 
+      mi<lb ed="#C" n="103" break="no"/>nimum naturale caloris et minimum siccitatis per 
+      tan<lb ed="#C" n="104" break="no"/>tam distantiam sicut est minimum naturale ignis: iam 
+      <lb ed="#C" n="105"/>quam primum est dispositio in passo / ita cito producitur 
+      <lb ed="#C" n="106"/>forma ignis.
+   </p>
+            <p xml:id="jb2v19-d14702-d1e441">
+      ¶ Ex illo patet: licet agens producat 
+      <lb ed="#C" n="107"/>subito primum minimum naturale caloris / frigoris / 
+      <lb ed="#C" n="108"/>vel ignis: non tamen reliquas partes similes et 
+      <lb ed="#C" n="109"/>eiusdem rationis. et ratio est: cum detur minimum 
+      na<lb ed="#C" n="110" break="no"/>turale: ipsum non potest successiue produci. reliqua 
+      au<lb ed="#C" n="111" break="no"/>tem pars potest partibiliter produci secundum quod passum est 
+      <lb ed="#C" n="112"/>agenti applicatum. ergo per accidens est quod vnam parten 
+      <lb ed="#C" n="113"/>subito producat: et aliam subito corrumpat: et non 
+      reli<lb ed="#C" n="114" break="no"/>quas partes.
+   </p>
+            <p xml:id="jb2v19-d14702-d1e461">
+      ¶ Secundo sequitur. nullus est color in 
+      <lb ed="#C" n="115"/>hac cosequentia: agens producit a ignem vel 
+      calo<lb ed="#C" n="116" break="no"/>rem subito (sit a minimum naturale) et agens non est 
+      de<lb ed="#C" n="117" break="no"/>bilitatum in productione b quod est eiusdem speciei cum 
+      at<lb ed="#C" n="118" break="no"/>et est ipsi a / coniunctum. ergo producit b subito. 
+   </p>
+            <p xml:id="jb2v19-d14702-d1e472">
+               <lb ed="#C" n="119"/>¶ Tertio sequitur. male loquitur quidam doctor 
+      <lb ed="#C" n="120"/>consequenter ad positionem quod producitur maxi
+      <pb ed="#V" n="26-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>mum quod non subito et reliquum successiue nam bene 
+      se<lb ed="#C" n="2" break="no"/>quitur a / est maximum non potens per se existere: 
+      <lb ed="#C" n="3"/>ergo non est producibile. hoc ex terminis implicat. 
+      <lb ed="#C" n="4"/>nec valet si dicatur non potest produci sine 
+      addi<lb ed="#C" n="5" break="no"/>to.
+   </p>
+            <p xml:id="jb2v19-d14702-d1e494">
+      ¶ Contra. sit a pedale quod tu dicis maximum 
+      <lb ed="#C" n="6"/>quod non potest per se existere: sed quodlibet quantum 
+      <lb ed="#C" n="7"/>cunque maius potest per se existere. ergo non 
+      po<lb ed="#C" n="8" break="no"/>tes dare aliquod quod cito producatur. Si dicas 
+      <lb ed="#C" n="9"/>pedale cum digito producitur subito.
+   </p>
+            <p xml:id="jb2v19-d14702-d1e505">
+      ¶ Contra. 
+      me<lb ed="#C" n="10" break="no"/>dietas illius digiti supra pedalitatem potest per se 
+      <lb ed="#C" n="11"/>existere. ergo totum tuum datum non producebatur 
+      su<lb ed="#C" n="12" break="no"/>bito.
+   </p>
+            <p xml:id="jb2v19-d14702-d1e515">
+      ¶ Quarto sequitur / quod male dicunt 
+      consequen<lb ed="#C" n="13" break="no"/>ter quod non producatur minimum secundum intensionem. 
+      <lb ed="#C" n="14"/>probatio. quando producitur mini mum caloris a 
+      <lb ed="#C" n="15"/>corpore calefactiuo in instanti: ille calor est alicuius 
+      <lb ed="#C" n="16"/>intensionis sicut extensionis. sit gratia 
+      exempli<lb ed="#C" n="17" break="no"/>vnius gradus si minus secundum intensionem possit 
+      per<lb ed="#C" n="18" break="no"/>se existere: illud fuisset productum. necesse est si 
+      ca<lb ed="#C" n="19" break="no"/>lor producatur quod sit alicuius certe intensionuis. er 
+      <lb ed="#C" n="20"/>go si sit minimum secundum extensionem: erit minimum 
+      <lb ed="#C" n="21"/>secundum intensionem prope agens.
+   </p>
+            <p xml:id="jb2v19-d14702-d1e537">
+      ¶ Quinto 
+      sequi<lb ed="#C" n="22" break="no"/>tur. si aliquod agens potest aliud tollere subito a 
+      mini<lb ed="#C" n="23" break="no"/>mo naturali: res permanens haberet vltimum 
+      in<lb ed="#C" n="24" break="no"/>stans sui completum. in minimo naturali illud non 
+      <lb ed="#C" n="25"/>inconuenit.
+   </p>
+            <p xml:id="jb2v19-d14702-d1e548">
+      ¶ Sexto sequitur. agens producit 
+      su<lb ed="#C" n="26" break="no"/>bito interdum de peraccidens aliquod maius 
+      mini<lb ed="#C" n="27" break="no"/>mo naturali. patet. si esset stupa pedalis cum 
+      dimi<lb ed="#C" n="28" break="no"/>dio. et vnum pedale vreret ignis pro suo minimo 
+      na<lb ed="#C" n="29" break="no"/>turali: et stupa non potest stare in semipedalitate: in 
+      il<lb ed="#C" n="30" break="no"/>lo casu totum subito igniret. si essent plura minima 
+      <lb ed="#C" n="31"/>posita per lineam rectam sic quod ex eis non constitueretur 
+      ali<lb ed="#C" n="32" break="no"/>quod vnum: et ignis applicaretur: an eque cito 
+      con<lb ed="#C" n="33" break="no"/>cremabit omnia est difficultas: et non difficilis. 
+      respon<lb ed="#C" n="34" break="no"/>deatur consequenter.
+   </p>
+            <p xml:id="jb2v19-d14702-d1e570">
+      ¶ Septimo sequitur: quando calor vt 
+      <lb ed="#C" n="35"/>octo remittitur in aqua: erit remissio partibilis ad 
+      ali<lb ed="#C" n="36" break="no"/>quem gradum caloris qui subito corrumpet et frigus 
+      subi<lb ed="#C" n="37" break="no"/>to introducetur. ita quod si frigus in instanti determinato 
+      produ<lb ed="#C" n="38" break="no"/>catur: primum instas frigoris est primum non ess caloris 
+      <lb ed="#C" n="39"/>et hoc tenendo quod nulle qualitates eiusdem speciei 
+      <lb ed="#C" n="40"/>cum contrariis sese compatiantur: et si oppositum 
+      te<lb ed="#C" n="41" break="no"/>neatur: cum eagens producat primo frigus: et datur 
+      <lb ed="#C" n="42"/>minimum frigoris: oportet illud subito produci. et in 
+      <lb ed="#C" n="43"/>consequens aliquid caloris subito corrumpetur. vt si 
+      <lb ed="#C" n="44"/>calor vt. viii. nullum gradum frigoris compatiatur: 
+      re<lb ed="#C" n="45" break="no"/>mota aqua a calefaciente: forma aquae corrumpit 
+      instan<lb ed="#C" n="46" break="no"/>tanee aliquid caloris: vt instantanee aliquid frigo 
+      <lb ed="#C" n="47"/>ris producat. postea successiue calorem corrumpit et 
+      <lb ed="#C" n="48"/>frigus introducit: quousque deueniendum est ad 
+      vlti<lb ed="#C" n="49" break="no"/>mum minimum naturale.
+   </p>
+            <p xml:id="jb2v19-d14702-d1e605">
+      ¶ Secundo arguitur. non datur 
+      ma<lb ed="#C" n="50" break="no"/>ximus ignis nec maximus homo. ergo nec minimus 
+      <lb ed="#C" n="51"/>totalis atecens patet: da maximum ignem possibilem. 
+      <lb ed="#C" n="52"/>si illi applicaretur stupa: ipsa ab igne consumere 
+      <lb ed="#C" n="53"/>tur. et per consequens fieret ignis maior. Similiter: 
+      <lb ed="#C" n="54"/>quocumque homine dato quantumcumque giganteo: vt og 
+      <lb ed="#C" n="55"/>rege basan: ille potest tumefieri et maiorari. ergo 
+      <lb ed="#C" n="56"/>non datur maximus homo. et per consequens nec 
+      <lb ed="#C" n="57"/>minimus. et sic probatio est nulla: ex aristotele 
+      se<lb ed="#C" n="58" break="no"/>cundo de anima deprompta.
+   </p>
+            <p xml:id="jb2v19-d14702-d1e627">
+      ¶ Respondetur. de 
+      <lb ed="#C" n="59"/>facto datur maximus ignis et minimus totalis. 
+      <lb ed="#C" n="60"/>similiter maximus homo et minimus homo totalis
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>negatiue cum homines totales non sint infiniti: oportet 
+      <lb ed="#C" n="62"/>ad vnum maximum et ad vnum minimum negatiue 
+      de<lb ed="#C" n="63" break="no"/>uenire. sed cum possunt esse plures maximi 
+      nega<lb ed="#C" n="64" break="no"/>tiue similiter minimi: dubium est an ita est de facto. 
+      <lb ed="#C" n="65"/>sed quo ad quantitatem humanam dabilia sunt 
+      <lb ed="#C" n="66"/>extrema. sit a minimus homo possibilis totalis 
+      <lb ed="#C" n="67"/>naturaliter: et b maximus possibilis: vel minimus 
+      <lb ed="#C" n="68"/>qui non potest: et c medio modo: puta c est 
+      medi<lb ed="#C" n="69" break="no"/>um mathematicum inter a / et b. tunc c est sub 
+      opti<lb ed="#C" n="70" break="no"/>ma quantitate conuenienti speciei humane. non 
+      <lb ed="#C" n="71"/>habet plus de quantitate quom opet: nec minus quam opet. 
+      <lb ed="#C" n="72"/>anima c hominis optime potest exercere 
+      ope<lb ed="#C" n="73" break="no"/>rationes huanas in suo corpore. et pessime a / et b i 
+      <lb ed="#C" n="74"/>et quanto magis homines accedunt ad cset 
+      elon<lb ed="#C" n="75" break="no"/>gantur ab extremis. tanto melius se habent: et 
+      <lb ed="#C" n="76"/>sunt in quantitate meliori. et pro quanto 
+      appro<lb ed="#C" n="77" break="no"/>pinquant a / et b pelus se habent.
+   </p>
+            <p xml:id="jb2v19-d14702-d1e674">
+      ¶ Ex hoc 
+      pa<lb ed="#C" n="78" break="no"/>tet quod homo mediocris quantitatis est fortior 
+      ho<lb ed="#C" n="79" break="no"/>mine maxime quantitatis vel minime: supposita 
+      <lb ed="#C" n="80"/>equalitate complexionis. patet. anima eius habet 
+      in<lb ed="#C" n="81" break="no"/>strumentum aptius ad exercendas opeationes 
+      huma<lb ed="#C" n="82" break="no"/>nas. iste tres anie in istis tribus homimbus sunt 
+      equa<lb ed="#C" n="83" break="no"/>lis potentie: modo quando dantur potentie 
+      equa<lb ed="#C" n="84" break="no"/>les: habens melius instrumentum melius operatur: 
+      <lb ed="#C" n="85"/>si suum conatum equaliter applicat cum alia. et licet 
+      ani<lb ed="#C" n="86" break="no"/>ma separata potest celerius mouere paruum corpus 
+      <lb ed="#C" n="87"/>quam magnum: non tamen anima informans corpus: quia in 
+      illo<lb ed="#C" n="88" break="no"/>requiruntur membra / humores / et spiritus sufficientes 
+      <lb ed="#C" n="89"/>ad co rporis motum. videmus em magnum non posse 
+      <lb ed="#C" n="90"/>ita celeriter currere sicut virum mediocrem eiusud etatis 
+      <lb ed="#C" n="91"/>et eodem modo sequitur quod magnus non potest ita 
+      celeri<lb ed="#C" n="92" break="no"/>ter currere vel lapidem grauem ad tantam 
+      intercape<lb ed="#C" n="93" break="no"/>dinem proiicere sicut mediocris: nec ictum ita lesiuum 
+      <lb ed="#C" n="94"/>incutere ceteris paribus: licet terribilior ob 
+      corpo<lb ed="#C" n="95" break="no"/>ris immanem molem videatur ictus longi viri ab 
+      al<lb ed="#C" n="96" break="no"/>tiori loco capit originem et maiorem impetum acqui 
+      <lb ed="#C" n="97"/>rit: et per consequens maiorem ictum dat. et graue 
+      cor<lb ed="#C" n="98" break="no"/>pus: vt ferrum vel lapidem: proiicit ad maius interual 
+      <lb ed="#C" n="99"/>lum quam mediocris. quemadmodum stans in iugo 
+      mon<lb ed="#C" n="100" break="no"/>tis sagittam vel lapidem prolicit ad maiorem 
+      distan<lb ed="#C" n="101" break="no"/>tiam in imo quam posset ipsemet existens in pede modo 
+      <lb ed="#C" n="102"/>tis in valle. sed si mediocris tantum eleuaretur 
+      artifi<lb ed="#C" n="103" break="no"/>cio in altum sicut longus: omnia eque bene et melius ex 
+      <lb ed="#C" n="104"/>erceret quam longus. hic tamen est vnum: sicut in 
+      mora<lb ed="#C" n="105" break="no"/>libus stat dare duo extrema / quorum vnum est pelus 
+      <lb ed="#C" n="106"/>alio: vt in prodigalitate et in illiberalitate: 
+      intempe<lb ed="#C" n="107" break="no"/>rantia et insensibil itate. sic hic ascendendo ad 
+      lon<lb ed="#C" n="108" break="no"/>gitudinem est extremum minus malum iu robore. 
+      Ui<lb ed="#C" n="109" break="no"/>demus em viros giganteos multo melius suas 
+      ex<lb ed="#C" n="110" break="no"/>ercere opeationes quod nanos.
+   </p>
+            <p xml:id="jb2v19-d14702-d1e748">
+      ¶ De igne datur 
+      maxi<lb ed="#C" n="111" break="no"/>mus possibilis per naturam. patet de igne in sua 
+      sphe<lb ed="#C" n="112" break="no"/>ra. quando omnia agentia ignis productiua naturalia 
+      opti<lb ed="#C" n="113" break="no"/>me applicantur si illi stupa applicaretur: illam 
+      incen<lb ed="#C" n="114" break="no"/>deret: et esset ignis totus maior dato. sed casus est 
+      <lb ed="#C" n="115"/>preter legem de homine: datur maxima quantitas 
+      <lb ed="#C" n="116"/>sub qua potest esse naturaliter: et maxima etiam 
+      ra<lb ed="#C" n="117" break="no"/>ritas. et ex illo sequitur solutio argumenti quo ad 
+      <lb ed="#C" n="118"/>tumefieri. si amplius tumefiat: desinit esse homo. 
+      <lb ed="#C" n="119"/>nec inconuenit quod habeat vltimum instans ess sui completum 
+   </p>
+            <p xml:id="jb2v19-d14702-d1e770">
+               <lb ed="#C" n="120"/>¶ Tertio arguitur: minimum naturale est eiusdem
+      <pb ed="#V" n="27-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>speciei specialissime cum alio maiori. sed aliud 
+      ma<lb ed="#C" n="2" break="no"/>lus est diuisibile: sic scilicet quod partes possunt seorsum 
+      <lb ed="#C" n="3"/>permancre. ergo et illud minimum naturale. 
+   </p>
+            <p xml:id="jb2v19-d14702-d1e786">
+               <lb ed="#C" n="4"/>¶ Quarto. istud minimum naturale est quantum. sed 
+      <lb ed="#C" n="5"/>essentiale est quanto posse diuidi. v. 
+      etaphisi<lb ed="#C" n="6" break="no"/>ce. ergo.
+   </p>
+            <p xml:id="jb2v19-d14702-d1e795">
+      ¶ Ad tertium concedo vtramque premissarum. 
+      <lb ed="#C" n="7"/>nonne vides corhominis vel caput animalis / 
+      <lb ed="#C" n="8"/>vel reliqua pars a capite est eiusdem rationis cum 
+      <lb ed="#C" n="9"/>toto et totum potest naturaliter per se existere: 
+      <lb ed="#C" n="10"/>non autem cor caput vel reliqua pars animalis alia 
+      <lb ed="#C" n="11"/>a capite.
+   </p>
+            <p xml:id="jb2v19-d14702-d1e808">
+      ¶ Ad quartum concedo quod ipsum est 
+      quan<lb ed="#C" n="12" break="no"/>tum. probabile est quod quantitas est res quanta. 
+      op<lb ed="#C" n="13" break="no"/>positum etiam potest defendi de quantitate conti 
+      <lb ed="#C" n="14"/>nua. qualitercumque teneatur nego quod illa quantitas 
+      <lb ed="#C" n="15"/>potest diuidi: cum hoc quod partes maneat in illa specie. 
+      <lb ed="#C" n="16"/>potest illius minimi / forma corrumpi a 
+      circumstan<lb ed="#C" n="17" break="no"/>te: et produci noua ab aere aqua vel ab alio 
+      corru<lb ed="#C" n="18" break="no"/>ptiuo quod aliam formam generabit. Aristoteles 
+      in<lb ed="#C" n="19" break="no"/>telligit de quanto non minimo naturali. si enti 
+      na<lb ed="#C" n="20" break="no"/>turali repugnat naturaliter in minus diuidi: 
+      quan<lb ed="#C" n="21" break="no"/>to eidem repugnat in minus diuidi: patet exposito 
+      <lb ed="#C" n="22"/>rie. huic enti naturali repugnat diuidi. hoc es 
+      na<lb ed="#C" n="23" break="no"/>turale est hoc quantum. ergo huic quanto 
+      repu<lb ed="#C" n="24" break="no"/>gnat diuidi
+   </p>
+            <p xml:id="jb2v19-d14702-d1e840">
+      ¶ Contra illud arguitur: et erit quin 
+      <lb ed="#C" n="25"/>tum argumentum cum replica ad solutionem nunc da 
+      <lb ed="#C" n="26"/>tam: et hoc sic. ponatur minimum naturale in vacuo: 
+      <lb ed="#C" n="27"/>et nullum sit corruptiuum extrinsecum in cuius naturam 
+      <lb ed="#C" n="28"/>istud minimum potest conuerti. tunc mirum est si sortes 
+      <lb ed="#C" n="29"/>non potest illud minimum naturale partiri. si possit: 
+      <lb ed="#C" n="30"/>ponatur in esse. ergo non datur minimum natura 
+      <lb ed="#C" n="31"/>le.
+   </p>
+            <p xml:id="jb2v19-d14702-d1e858">
+      ¶ Respondetur / hoc argumentum est apparens: 
+      <lb ed="#C" n="32"/>ppterea eget maiore repulsa ne aliquis in eo 
+      co<lb ed="#C" n="33" break="no"/>fidat. In primis dico / argumentum concludit contra 
+      <lb ed="#C" n="34"/>argueutem: qui reprobando hanc viam quam sequor 
+      <lb ed="#C" n="35"/>dicit in etherogeneis datur minimum naturale: non 
+      <lb ed="#C" n="36"/>autem in homogeneis. ergo iste habet soluere 
+      argu<lb ed="#C" n="37" break="no"/>mentum in etherogeneis: quia equaliter dirigitur 
+      con<lb ed="#C" n="38" break="no"/>tra etherogeneas et homogenea. et si in vno nihil 
+      <lb ed="#C" n="39"/>concludit: nec in alio. Secundo dico. ad casum preter 
+      <lb ed="#C" n="40"/>legem danda est responsio preter legem. contra 
+      <lb ed="#C" n="41"/>naturam iam institutam ast quod ponatur vacuum vel 
+      <lb ed="#C" n="42"/>aliquid in eo vel extra vniuersum. Tertio dico. 
+      <lb ed="#C" n="43"/>casu admisso nullum agens creatum praet ferro vel 
+      nouacu<lb ed="#C" n="44" break="no"/>la illud minimum naturale partiri. arguens habet 
+      <lb ed="#C" n="45"/>hoc dicere in ethercgeneis. ego dico idem in 
+      omni<lb ed="#C" n="46" break="no"/>bus. quemadmodum dicunt si ponantur duo asseres 
+      <lb ed="#C" n="47"/>plani immediate: nullum agens creatum potest 
+      le<lb ed="#C" n="48" break="no"/>uare vnum vniformiter ab alio: vel facere vllo 
+      mo<lb ed="#C" n="49" break="no"/>do aquam in clipsedra descendere obstructo 
+      supe<lb ed="#C" n="50" break="no"/>riori foramine: quantumcumque ad se trahat anhelitu 
+      <lb ed="#C" n="51"/>aquam in vase existentem. nec centum viri / neccenties 
+      <lb ed="#C" n="52"/>mille postunt hoc efficere. habes ergo quod detur 
+      mi<lb ed="#C" n="53" break="no"/>nimum naturale: cui de ratione intrinseca repugnat 
+      di<lb ed="#C" n="54" break="no"/>oidi ab agente creato: non tamen a deo. quod res parua non 
+      <lb ed="#C" n="55"/>possit ita diu conscruari extra suum totum sicut in suo 
+      <lb ed="#C" n="56"/>toto notum est. pinta vini non ita diu conseruatur in 
+      va<lb ed="#C" n="57" break="no"/>se sine corruptione sicut quarta. et copina non ita 
+      <lb ed="#C" n="58"/>diu conse ruatur in acre sicut pinta: supposita pari 
+      <lb ed="#C" n="59"/>tate vin i. stat mensuram fortioris vini diutius 
+      dura<lb ed="#C" n="60" break="no"/>re sine corruptione quom debilioris vini maiorem men¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>suram: vt videre est de vino primorum climatum ad 
+      <lb ed="#C" n="62"/>vltimiclimatis vina debilia.
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

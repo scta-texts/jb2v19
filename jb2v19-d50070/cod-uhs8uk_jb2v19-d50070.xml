@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 12</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 12</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="84-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d50070"><!-- l2d14q12 -->
+            <head xml:id="jb2v19-d50070-Hd1e101">Quaestio 12</head>
+            <head xml:id="jb2v19-d50070-Hd1e103" type="question-title">An centrum gravitatis terrae coincidat cum centro magnitudinis eiusdem</head>
+            <p xml:id="jb2v19-d50070-d1e106">
+               <lb ed="#C" n="2"/>Uperius in hac distinctione 
+      ali<lb ed="#C" n="3" break="no"/>qua de celis tetigimus et 
+      comme<lb ed="#C" n="4" break="no"/>tis quos philosophorum varii 
+      pu<lb ed="#C" n="5" break="no"/>tabant in celis. superest de 
+      ele<lb ed="#C" n="6" break="no"/>mentis loqui de quibus 
+      scriptu<lb ed="#C" n="7" break="no"/>ra sancta facit mentionem. de 
+      igne<lb ed="#C" n="8" break="no"/>et aere parum sentit vulgus rude: ad quod moyses si 
+      <lb ed="#C" n="9"/>cut deus per os moysi sgripsit. loquutus est de 
+      ter<lb ed="#C" n="10" break="no"/>ra et aqua 12. ergo questio erit de centro magnitu 
+      <lb ed="#C" n="11"/>dinis et grauitatis terre. Et queritur hec quodo an 
+      cen<lb ed="#C" n="12" break="no"/>trum grauitatis terre coincidat cum centro 
+      ma<lb ed="#C" n="13" break="no"/>gnitudinis ei usdem.
+   </p>
+            <p xml:id="jb2v19-d50070-d1e135">
+      ¶ Pro questionis 
+      elucidatio<lb ed="#C" n="14" break="no"/>ne aliqua premittemus: postea ad questionem 
+      re<lb ed="#C" n="15" break="no"/>spondebitur. licet sphera sit corpus solidum vna 
+      su<lb ed="#C" n="16" break="no"/>perficie contentum: puta conuexa: a cuius centro ad 
+      <lb ed="#C" n="17"/>circumferentiam omnes linee protracte sunt equales 
+      <lb ed="#C" n="18"/>Tamen terminus sphera nonnunquam extenditur ad 
+      <lb ed="#C" n="19"/>corpus rotundum quod aliquam asperitatem et 
+      defor<lb ed="#C" n="20" break="no"/>mitatem in superficie conuexa admittit: et sic capimus / 
+      <lb ed="#C" n="21"/>in questione.
+   </p>
+            <p xml:id="jb2v19-d50070-d1e155">
+      ¶ Ulterius supponatur quod corporum 
+      <lb ed="#C" n="22"/>grauium duplicia sunt centra: scllicet 
+      magnitudi<lb ed="#C" n="23" break="no"/>itulum qaestions et grauitatis. Centru magnitudinis 
+      corpo<lb ed="#C" n="24" break="no"/>ris est punctum a quo omnes linee recte ducte ad 
+      <lb ed="#C" n="25"/>circumferentiam sunt equales. Centrum grauitatis 
+      <lb ed="#C" n="26"/>corporis est punctum existens in medio linee 
+      diui<lb ed="#C" n="27" break="no"/>dentis illud corpus in duas partes eque graues 
+   </p>
+            <p xml:id="jb2v19-d50070-d1e172">
+               <lb ed="#C" n="28"/>¶ Quo fit alicuius corporis idem est centrum 
+      gra<lb ed="#C" n="29" break="no"/>uitatis et magnitudinis.
+   </p>
+            <p xml:id="jb2v19-d50070-d1e179">
+      ¶ Secundo patet quod 
+      il<lb ed="#C" n="30" break="no"/>la duo centra interdum distinguuntur / patet in 
+      cor<lb ed="#C" n="31" break="no"/>pore difformiter graui.
+   </p>
+            <p xml:id="jb2v19-d50070-d1e186">
+      ¶ Tertio patet quod aliquod 
+      <lb ed="#C" n="32"/>corpus habet centrum suum magnitudinis extra 
+      <lb ed="#C" n="33"/>se: patet de corpore quod est minor portio 
+      circu<lb ed="#C" n="34" break="no"/>li / vel de speculo concauo: centrum magnitudinis eius 
+      <lb ed="#C" n="35"/>est illud punctum vbi concurrunt radi solares 
+      refle<lb ed="#C" n="36" break="no"/>xi: et illic inflammantur.
+   </p>
+            <p xml:id="jb2v19-d50070-d1e199">
+      ¶ Quarto sequitur quod 
+      sem<lb ed="#C" n="37" break="no"/>per centrum grauitatis est infra corpus cuius est 
+      cen<lb ed="#C" n="38" break="no"/>trum.
+   </p>
+            <p xml:id="jb2v19-d50070-d1e206">
+      ¶ his notatiunculis prelibatis ponuntur 
+      <lb ed="#C" n="39"/>due conclusiones ad titulum questionis 
+      responsiue<lb ed="#C" n="40" break="no"/>Prior est. Terra est spherica. quod praesupponitur 
+      <lb ed="#C" n="41"/>in titulo questionis: et hoc extendendo terminum 
+      <lb ed="#C" n="42"/>sphera: montes respectu vallium non faciunt 
+      nota<lb ed="#C" n="43" break="no"/>bile discrimen respectu totius elementi: licet bene 
+      <lb ed="#C" n="44"/>faciant ad partes exteriores: sicut. xx. sunt mlti in 
+      thea<lb ed="#C" n="45" break="no"/>tro et pauci invico.
+   </p>
+            <p xml:id="jb2v19-d50070-d1e224">
+      ¶ Secunda conclusio. Non est 
+      <lb ed="#C" n="46"/>idem centrum grauitatis terre et eius 
+      magnitudi<lb ed="#C" n="47" break="no"/>nis
+   </p>
+            <p xml:id="jb2v19-d50070-d1e232">
+      ¶ Prior conclusio probatur et quo ad orientem 
+      <lb ed="#C" n="48"/>et occidentem: et quo ad septentrionem et meridiem. 
+   </p>
+            <p xml:id="jb2v19-d50070-d1e237">
+               <lb ed="#C" n="49"/>¶ Primum istorum patet: sol citius oritur orientalibus 
+      <lb ed="#C" n="50"/>et per notabile tempus antequam occiduis oriatur et 
+      <lb ed="#C" n="51"/>hoc fieri nequit si terra esset plana. Maior patet 
+      <lb ed="#C" n="52"/>de lune deliquio quod apparet hora prima 
+      no<lb ed="#C" n="53" break="no"/>ctis orientalibus: et hora tertia occiduis: vt 
+      di<lb ed="#C" n="54" break="no"/>cunt homines. postea inuicem colloquentes et tempus 
+      <lb ed="#C" n="55"/>deliquii notates. oc ipsum patet. altiores sunt 
+      <lb ed="#C" n="56"/>vrse: et dracho existentibus Edinburgi quam 
+      existen<lb ed="#C" n="57" break="no"/>tibus Parrhisii: vt hec loca visitantes percipiunt: 
+      <lb ed="#C" n="58"/>et nauigando ad meridiem: stelle que nobis semper 
+      <lb ed="#C" n="59"/>apparent. in serena nocte occultantur: sicu Lusitani et 
+      his<lb ed="#C" n="60" break="no"/>palenses petentes indos eferunt. Immo custes
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>arimanthidos vrse existentibus sub equatore 
+      sub<lb ed="#C" n="62" break="no"/>mergitur. Secundum istud Nasonis Tingitur 
+      ocea<lb ed="#C" n="63" break="no"/>non custos Arimanthidos vrse. Equoreasque suo 
+      sy<lb ed="#C" n="64" break="no"/>dere turbat aquas. Et istud fieri nequit si terra 
+      <lb ed="#C" n="65"/>esset plana. Reliquum est terram esse rotundam.
+   </p>
+            <p xml:id="jb2v19-d50070-d1e279">
+      ¶ 
+      Se<lb ed="#C" n="66" break="no"/>cundo probatur conclusio totaliter quo ad vtramque 
+      <lb ed="#C" n="67"/>partem: quia si terra non esset spherica sequeretur quod 
+      <lb ed="#C" n="68"/>possemus videre monotes et promontioria ad maiorem 
+      <lb ed="#C" n="69"/>intercapedinem quam videamus: quia nil aliud 
+      impedi<lb ed="#C" n="70" break="no"/>menti est nisi terre rotunditas.
+   </p>
+            <p xml:id="jb2v19-d50070-d1e292">
+      ¶ Ex hac 
+      conclu<lb ed="#C" n="71" break="no"/>sione sequuntur propositiones.
+   </p>
+            <p xml:id="jb2v19-d50070-d1e297">
+      ¶ Prima. omnes 
+      <lb ed="#C" n="72"/>recte linee procedentes a superficie terre ad 
+      cen<lb ed="#C" n="73" break="no"/>trum continuo magis appropinquant. Hoc patet ad 
+      <lb ed="#C" n="74"/>sensum in circulo: et patet imaginando varios 
+      cir<lb ed="#C" n="75" break="no"/>culos sese ambientes in terra
+   </p>
+            <p xml:id="jb2v19-d50070-d1e308">
+      ¶ Secundo inferunt 
+      <lb ed="#C" n="76"/>aliqui. si esset aliquis puteus secundum perpendicu 
+      <lb ed="#C" n="77"/>lum oportet quod talis sit strictior in fundo quod 
+      supe<lb ed="#C" n="78" break="no"/>rius. Correlarium est lucidum quia omnes linee ipsum 
+      cir<lb ed="#C" n="79" break="no"/>cundantes: si sint secundum perpendiculum: continue 
+      va<lb ed="#C" n="80" break="no"/>dunt appropinquando adinuicem.
+   </p>
+            <p xml:id="jb2v19-d50070-d1e322">
+      ¶ Et ex illo 
+      ali<lb ed="#C" n="81" break="no"/>qui inferunt correlarium. Qui si quis velit artificiali 
+      <lb ed="#C" n="82"/>ter facere aliquam turrim debet facere ea magis 
+      <lb ed="#C" n="83"/>latam superius quam inferius. Probatur. quia in 
+      omni<lb ed="#C" n="84" break="no"/>artificio bono partes superiores debent habere 
+      <lb ed="#C" n="85"/>inferiores directe inter se et centrum. ergo oportet 
+      <lb ed="#C" n="86"/>quod secundum perpendiculum fiant. et per consequens 
+      <lb ed="#C" n="87"/>oportet quod istud artificium scilicet turris sit magis 
+      <lb ed="#C" n="88"/>lata superius quam inferius.
+   </p>
+            <p xml:id="jb2v19-d50070-d1e342">
+      ¶ Sed ista correlaria 
+      <lb ed="#C" n="89"/>non videntur michi veritatem continere. Nec 
+      funda<lb ed="#C" n="90" break="no"/>mentum ex quo illud inferunt. Tum primo. hoc est 
+      <lb ed="#C" n="91"/>contra communes geometras practicos et domo 
+      <lb ed="#C" n="92"/>rum extructores. Tum secundo. dependent hec corre 
+      <lb ed="#C" n="93"/>laria ex fundamento falso: et illi innituntur. ergo 
+      <lb ed="#C" n="94"/>impsa minantur ruinam: consequentia claret. Et probatur 
+      <lb ed="#C" n="95"/>antecedens. dependent in hoc: quod graue simplex ex 
+      <lb ed="#C" n="96"/>tra suum locum naturalem mouetur per lineam 
+      bre<lb ed="#C" n="97" break="no"/>uissimam ad centrum mundi: et plumbum perpendi 
+      <lb ed="#C" n="98"/>cuti sibi dimissum tendet per lineam breuissimam 
+      <lb ed="#C" n="99"/>ad centrum mundi. hoc consequens est falsum: et 
+      con<lb ed="#C" n="100" break="no"/>tra experimentum omnium: quod patet. nos sumus in 
+      <lb ed="#C" n="101"/>occidua parte mundi. ergo si ducatur vna linea 
+      re<lb ed="#C" n="102" break="no"/>cta a z3enith capitis nostri ad nadir opprntum: 
+      mul<lb ed="#C" n="103" break="no"/>tum distabit a centro terre. ponatur gratia 
+      exem<lb ed="#C" n="104" break="no"/>pli centrum terre in Syra vel vbilibet: palam est 
+      <lb ed="#C" n="105"/>quod gleba terre cadens supra nos per lineam 
+      breuissi<lb ed="#C" n="106" break="no"/>mam tendit ad terram proximam ei subiectam. 
+      <lb ed="#C" n="107"/>et nullatenus temdit ad orientem. Similiter perpendiculi 
+      <lb ed="#C" n="108"/>plumbum sibi dimissum tendit per lineam rectam ad 
+      <lb ed="#C" n="109"/>terram ei subiectam. et nullatenus flectitur ad 
+      orien<lb ed="#C" n="110" break="no"/>tem centrum mundi versus: ergo fundamentum 
+      fal<lb ed="#C" n="111" break="no"/>sum. non tamen nego quin potest duci ab hac 
+      gle<lb ed="#C" n="112" break="no"/>ba vel hoc plumbo ad centrum terre linea recta 
+      secun<lb ed="#C" n="113" break="no"/>dum illam petitionem primi Euclydis. A puncto ad 
+      <lb ed="#C" n="114"/>punctum rectam lineam ducere. Etiam fundamentum 
+      <lb ed="#C" n="115"/>est partibus superioribus latius: ne partes 
+      supe<lb ed="#C" n="116" break="no"/>riores labantur ab inferioribus: vel non bene 
+      sup<lb ed="#C" n="117" break="no"/>portentur: secundum istud Alani. Quomodo stare 
+      potest<lb ed="#C" n="118" break="no"/>titubantis machina muri. Si fundamentum 
+      debi<lb ed="#C" n="119" break="no"/>le fallet opus.
+   </p>
+            <p xml:id="jb2v19-d50070-d1e412">
+      ¶ Secundo sequitur: quod non est 
+      pos<lb ed="#C" n="120" break="no"/>sibile esse aliqua rectam lineam eque distantem secundum
+      <pb ed="#V" n="85-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>quodlibet sui a centro mundi / immo quelibet 
+      ta<lb ed="#C" n="2" break="no"/>lis est curua: et ad modum portionis circuli. 
+      pro<lb ed="#C" n="3" break="no"/>batur: quia si esset aliqua talis recta linea: 
+      maxi<lb ed="#C" n="4" break="no"/>me esset illa que describitur contingendo 
+      super<lb ed="#C" n="5" break="no"/>ficiem terre: sed hoc est falsum: quia talis 
+      propin<lb ed="#C" n="6" break="no"/>quior est centro in puncto medio: quam in partibus 
+      <lb ed="#C" n="7"/>extremalibus.
+   </p>
+            <p xml:id="jb2v19-d50070-d1e436">
+      ¶ Tertio sequitur: non est 
+      possi<lb ed="#C" n="8" break="no"/>bile quod aliquis ambulet secundum rectam lineam 
+      quin<lb ed="#C" n="9" break="no"/>ascendat vel descendat: patet: quia semper talis 
+      <lb ed="#C" n="10"/>appropinquat centro vel elongatur ab eo. Cum 
+      <lb ed="#C" n="11"/>appropinquatur centro / descendit. cum recedit 
+      <lb ed="#C" n="12"/>ascendit.
+   </p>
+            <p xml:id="jb2v19-d50070-d1e449">
+      ¶ Secunda conclusio probatur: est 
+      dif<lb ed="#C" n="13" break="no"/>formiter grauis. ergo non est idem centrum 
+      ma<lb ed="#C" n="14" break="no"/>gnitudinis eius: et grauitatis. Eius centrum 
+      ma<lb ed="#C" n="15" break="no"/>gnitudinis ex omni parte relinquit partes equa 
+      <lb ed="#C" n="16"/>liter extensas: et si sic: centrum grauitatis 
+      conti<lb ed="#C" n="17" break="no"/>nebitur inter centrum magnitudinis: et 
+      superfici<lb ed="#C" n="18" break="no"/>em conuexam. antecedens patet. pars terre 
+      co<lb ed="#C" n="19" break="no"/>operta aquis est frigidior / et grauior. pars terre 
+      <lb ed="#C" n="20"/>aquis discooperta leuifit a sole. ergo vna medie 
+      <lb ed="#C" n="21"/>tas eius est altera leuior / vel potius altera 
+      mi<lb ed="#C" n="22" break="no"/>nus grauis.
+   </p>
+            <p xml:id="jb2v19-d50070-d1e473">
+      ¶ Ex isto sequitur. Si pars grauior 
+      <lb ed="#C" n="23"/>terre partem minus grauem pellat: quousque 
+      cen<lb ed="#C" n="24" break="no"/>trum grauitatis eius sit centrum primi mobilis: 
+      <lb ed="#C" n="25"/>pars terre aquis discooperta est celo 
+      propinqui<lb ed="#C" n="26" break="no"/>or quam altera pars terre cooperta aquis. 
+   </p>
+            <p xml:id="jb2v19-d50070-d1e485">
+               <lb ed="#C" n="27"/>¶ Secundo sequitur / quod centrum magnitudinis 
+      <lb ed="#C" n="28"/>terre est inter centrum grauitatis et celum. 
+   </p>
+            <p xml:id="jb2v19-d50070-d1e492">
+               <lb ed="#C" n="29"/>¶ Tertio sequitur: adiuncto vno rationabili quod 
+      <lb ed="#C" n="30"/>aqua grauis iuuat terram quousque centrum 
+      gra<lb ed="#C" n="31" break="no"/>uitatis terre et aque sit centrum totius vniuersi: 
+      <lb ed="#C" n="32"/>nec centrum grauitatis terre: nec magnitudinis 
+      <lb ed="#C" n="33"/>terre est centrum mundi. 
+   </p>
+            <p xml:id="jb2v19-d50070-d1e505">
+               <lb ed="#C" n="34"/>¶ Contra conclusionem arguitur. terra apparet 
+      <lb ed="#C" n="35"/>plana secundum sensum. ergo ipsa non est dicenda 
+      sphe<lb ed="#C" n="36" break="no"/>rica.
+   </p>
+            <p xml:id="jb2v19-d50070-d1e514">
+      ¶ Confirmatur hec ratio. Si terra esset 
+      sphe<lb ed="#C" n="37" break="no"/>rica nemo posset incedere circa terram quin statimus 
+      <lb ed="#C" n="38"/>caderet: patet de stante super cipam vel globum 
+      <lb ed="#C" n="39"/>preceps ruit.
+   </p>
+            <p xml:id="jb2v19-d50070-d1e523">
+      ¶ Ulterius. qui incedit per 
+      milla<lb ed="#C" n="40" break="no"/>re: et esset longus: velocius mouetur quod breuis qui 
+      <lb ed="#C" n="41"/>eum semper precedit: cum maiorem 
+      proportio<lb ed="#C" n="42" break="no"/>nem circuli describit in equali tempore. 
+   </p>
+            <p xml:id="jb2v19-d50070-d1e532">
+               <lb ed="#C" n="43"/>¶ Ad primum istud concedo propter eius 
+      ma<lb ed="#C" n="44" break="no"/>gnitudinem.
+   </p>
+            <p xml:id="jb2v19-d50070-d1e540">
+      ¶ Ad secundam nego 
+      consequen<lb ed="#C" n="45" break="no"/>tiam: magnitudo globi impedit ne homo cadat: 
+      <lb ed="#C" n="46"/>vt patet ad sensum super magnam cpam potest 
+      <lb ed="#C" n="47"/>quis stare: qui super paruam stare nequit. et 
+      im<lb ed="#C" n="48" break="no"/>mensa cipa apparet lata et plana: vt patet de 
+      so<lb ed="#C" n="49" break="no"/>le a remotis.
+   </p>
+            <p xml:id="jb2v19-d50070-d1e553">
+      ¶ Ad tertium concedo illatum: licet 
+      <lb ed="#C" n="50"/>non velocius circuiat sicut caput hominis semper 
+      <lb ed="#C" n="51"/>velocius mouetur quam eius pedes. 
+   </p>
+            <p xml:id="jb2v19-d50070-d1e560">
+               <lb ed="#C" n="52"/>¶ Secundo arguitur. ex his sequitur quod terra 
+      con<lb ed="#C" n="53" break="no"/>tinuo mouetur. cum frigiditas aquefrigefacit 
+      ter<lb ed="#C" n="54" break="no"/>ram eam condensat: et facit grauiorem: et sol et 
+      <lb ed="#C" n="55"/>planete partem oppositam leuifaciunt: pars 
+      aque<lb ed="#C" n="56" break="no"/>cooperta continuo pellit aliam partem: et sic non 
+      <lb ed="#C" n="57"/>cessabit eius ascensus: quo ad centrum 
+      grauita<lb ed="#C" n="58" break="no"/>tis terre vel potius aggregati aque et terre erit 
+      <lb ed="#C" n="59"/>medium et centrum primi mobilis: vel celi quie 
+      <lb ed="#C" n="60"/>scentis: ita quod linee ducibiles a superficie conuexa
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>vltimi celi ad centrum grauitatis aque et terre suc 
+      <lb ed="#C" n="62"/>equales: et pondus terre ex vna parte quae est 
+      mul<lb ed="#C" n="63" break="no"/>to maior in quantitate: tantum ponderat sicut 
+      <lb ed="#C" n="64"/>portio terre: et aque ex altera parie: et ille 
+      due<lb ed="#C" n="65" break="no"/>partes se habent sicut due equilibre in bilance. 
+   </p>
+            <p xml:id="jb2v19-d50070-d1e595">
+               <lb ed="#C" n="66"/>¶ Respondetur: stat quod partes alique fluant a 
+      <lb ed="#C" n="67"/>mari ad aridam: et crmentum fluninum in 
+      <lb ed="#C" n="68"/>arida / et leuatio vaporum in mari. et sic lerra 
+      sta<lb ed="#C" n="69" break="no"/>bit solida: et manebit centrum grauitatis eius 
+      <lb ed="#C" n="70"/>in eodem situ per notabile tempus: et si postea 
+      <lb ed="#C" n="71"/>addatur parum vni parti: insensibilis erit ille 
+      <lb ed="#C" n="72"/>motus propter insensibile in respectu additum 
+      <lb ed="#C" n="73"/>nec est opus talem motum paruum rectum 
+      ne<lb ed="#C" n="74" break="no"/>gare a terra. Secus est de motu circulari: de 
+      <lb ed="#C" n="75"/>quo superius loquuti sumus. Nec ad maiorem 
+      <lb ed="#C" n="76"/>frigefactionem terre sequitur maior grauitas 
+      <lb ed="#C" n="77"/>vtrobique. patet. aqua est frigidior terra. non 
+      au<lb ed="#C" n="78" break="no"/>tem grauior: etiam aqua tandem tantum 
+      frigo<lb ed="#C" n="79" break="no"/>ris et densitatis producit in terram sicut vnquam 
+      <lb ed="#C" n="80"/>postea producet vt de calore contingit in aqua 
+      <lb ed="#C" n="81"/>producto. Et ex illo sequitur quod nunquam terra 
+      attin<lb ed="#C" n="82" break="no"/>git globum lunarem vel mediam regionem 
+      ae<lb ed="#C" n="83" break="no"/>ris: sicut saluatur magnitudo elementorum ignis 
+      <lb ed="#C" n="84"/>et aeris / vel aque: licet sub equatore maior sit 
+      <lb ed="#C" n="85"/>ignis quam aeris. Opposito modo sub polis: 
+      sem<lb ed="#C" n="86" break="no"/>per erit recompensatio: Quod perditur in 
+      vno<lb ed="#C" n="87" break="no"/>recuperatur in alio: sicut gra mmatici dicunt / de 
+      <lb ed="#C" n="88"/>cremento genitiui de alius: in syllabis vel 
+      tem<lb ed="#C" n="89" break="no"/>poribus.
+   </p>
+            <p xml:id="jb2v19-d50070-d1e650">
+      ¶ Aliter dicitur negando quod terra 
+      mo<lb ed="#C" n="90" break="no"/>ueatur / esto quod augeatur grauitas ex altera 
+      par<lb ed="#C" n="91" break="no"/>te. Et ratio est tota terra et aqua 
+      cathegoreu<lb ed="#C" n="92" break="no"/>matice resistit illi parue portioni grauitatis 
+      ad<lb ed="#C" n="93" break="no"/>dite.
+   </p>
+            <p xml:id="jb2v19-d50070-d1e661">
+      ¶ Et ratio est: quia totum illud est naturaliter 
+      <lb ed="#C" n="94"/>situatum. cum centrum grauitatis eius sit 
+      cen<lb ed="#C" n="95" break="no"/>trum mundi: tota appetit illic quiescere: et 
+      resi<lb ed="#C" n="96" break="no"/>stit cuilibet volenti ipsam a sua sede mouere. 
+      <lb ed="#C" n="97"/>Alioquin si tu tangeres terram digito eam a sua 
+      <lb ed="#C" n="98"/>sede pelleres.
+   </p>
+            <p xml:id="jb2v19-d50070-d1e675">
+      ¶ Sed conrra hoc arguitur. Ex 
+      <lb ed="#C" n="99"/>hoc sequitur si terra esset extra suum locum 
+      natu<lb ed="#C" n="100" break="no"/>ralem remoto omni prohibente: quod nunquam centrum 
+      <lb ed="#C" n="101"/>eius esset centrum mundi: hoc est inconueniens: 
+      <lb ed="#C" n="102"/>igitur. consequentia patet. quando vna tertia 
+      por<lb ed="#C" n="103" break="no"/>tio est ex altera parte centri: due tertie sunt citra 
+      <lb ed="#C" n="104"/>centrum: et per consequens due tertie 
+      naturali<lb ed="#C" n="105" break="no"/>ter locantur (supponatur terra vniformis 
+      graui<lb ed="#C" n="106" break="no"/>tatis) et due tertie magis resistunt quam vna tertia 
+      <lb ed="#C" n="107"/>peller e potest. Immo illa tertia non pellit: cum 
+      <lb ed="#C" n="108"/>tota terra est naturaliter collocata: sed hoc est 
+      <lb ed="#C" n="109"/>falsum. Due tertie citra centrum appetunt earum centrum 
+      <lb ed="#C" n="110"/>locare in centro mundi: et resistentia tertie partis non 
+      <lb ed="#C" n="111"/>sufficit.
+   </p>
+            <p xml:id="jb2v19-d50070-d1e706">
+      ¶ Si dicas: ille due tertie non appetunt 
+      <lb ed="#C" n="112"/>earum centrum esse. centrum mundi est nisi vnus 
+      appe<lb ed="#C" n="113" break="no"/>titus totius et partis in toto. Et quando totu 
+      na<lb ed="#C" n="114" break="no"/>turaliter locatur hoc sufficit partibus: immo est 
+      <lb ed="#C" n="115"/>naturale vni parti ex altera parte centri ascendere qui 
+      <lb ed="#C" n="116"/>ad totum naturaliter locatur.
+   </p>
+            <p xml:id="jb2v19-d50070-d1e719">
+      ¶ Contra. si ille tres 
+      ter<lb ed="#C" n="117" break="no"/>tie essent separate. hoc non contingeret: crzto seque 
+      <lb ed="#C" n="118"/>nunc.
+   </p>
+            <p xml:id="jb2v19-d50070-d1e726">
+      ¶ Ad replicam concedo illam sequelams d i 
+      <lb ed="#C" n="119"/>to quod teneatur quod partes citra centrum maiores pellant 
+      <lb ed="#C" n="120"/>alias partes extra centrum propter crementum resistentie
+      <pb ed="#V" n="85-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>ex altera parte centri ad actiuitatem partis 
+      ci<lb ed="#C" n="2" break="no"/>tra centrum: et concedo quod istud est probabile quod 
+      <lb ed="#C" n="3"/>dicitur interarguendum. Et ad replicam 
+      fina<lb ed="#C" n="4" break="no"/>lem dicitur: non est idem in variis corporibus: et 
+      <lb ed="#C" n="5"/>eedem partes se iuuant melius in toto quam separa 
+      <lb ed="#C" n="6"/>tim. et qui/ quid sit (tenendo quod maior pars 
+      pel<lb ed="#C" n="7" break="no"/>lit minorem quousque centrum totius sit centrum 
+      <lb ed="#C" n="8"/>mundi) nunquam centrum terre erit centrum 
+      mun<lb ed="#C" n="9" break="no"/>di: sic verpetuo descendet: et in infinitum tarde: 
+      <lb ed="#C" n="10"/>quia quanto erit maior pars ex altera parte 
+      cen<lb ed="#C" n="11" break="no"/>tri / tanto descensus erit tardior: et infinitum 
+      tem<lb ed="#C" n="12" break="no"/>pus ad hoc requiritur. quod sic patet. Supponatur 
+      <lb ed="#C" n="13"/>primo cum Aristotele septimo Phisicorum quod in 
+      <lb ed="#C" n="14"/>eadem proportione in qua diminuitur 
+      propor<lb ed="#C" n="15" break="no"/>tio actiuitatis supra resistentiam / diminuatur ve 
+      <lb ed="#C" n="16"/>locitas motus. Supponatur secundo. Si 
+      ali<lb ed="#C" n="17" break="no"/>qua se habeant in proportione maioris 
+      inequa<lb ed="#C" n="18" break="no"/>litatis: et a maiori. tollatur quarta pars excessus 
+      <lb ed="#C" n="19"/>et addatur minori. Proportio maioris ad minus / 
+      <lb ed="#C" n="20"/>ad minus diminuetur ad subduplum.
+   </p>
+            <p xml:id="jb2v19-d50070-d1e781">
+      ¶ Tunc 
+      <lb ed="#C" n="21"/>ponatur casus quod sit a. graue cuius vna quarta sit 
+      <lb ed="#C" n="22"/>vltra centrum terre: et quarta inter centrum 
+      ter<lb ed="#C" n="23" break="no"/>re: et centrum a. grauis diuidatur per partes 
+      pro<lb ed="#C" n="24" break="no"/>portionales maioribus versus centrum terre: et 
+      <lb ed="#C" n="25"/>ponamus quod ad descensum prime requiratur 
+      tem<lb ed="#C" n="26" break="no"/>pus vnius horae. Et arguitur sic. Tantum 
+      tem<lb ed="#C" n="27" break="no"/>pus requiritur ad cuiuslibet alterius partis 
+      de<lb ed="#C" n="28" break="no"/>scensum: ergo quum tempus futurum infinitum 
+      <lb ed="#C" n="29"/>non sit pertransibile: centrum a. nunquam veniet ad 
+      <lb ed="#C" n="30"/>centrum terre. Antecedens probatur. Ponatur 
+      <lb ed="#C" n="31"/>velocitas vt duo qua a / iam mouetur. Et 
+      sequi<lb ed="#C" n="32" break="no"/>tur quod post descensum prime partis proportiona 
+      <lb ed="#C" n="33"/>lis ad minus mouebitur in duplo tardius. Nam 
+      <lb ed="#C" n="34"/>pars citra contrum excedit partem vltra centrum 
+      <lb ed="#C" n="35"/>per duas quartas: ergo illa prima pars 
+      propor<lb ed="#C" n="36" break="no"/>tionalis est quarta pars excessus: ergo per remo 
+      <lb ed="#C" n="37"/>tionem eus ab actiuitate / et additionem eius 
+      <lb ed="#C" n="38"/>resistentie: proportio actiuitatis ad resistentiam 
+      <lb ed="#C" n="39"/>est diminuta ad subduplum adminus / per 
+      secun<lb ed="#C" n="40" break="no"/>dam suppositionem. ergo secunda pars 
+      propor<lb ed="#C" n="41" break="no"/>tionalis mouebitur in duplo tardius adminus 
+      <lb ed="#C" n="42"/>per primam suppositionem.
+   </p>
+            <p xml:id="jb2v19-d50070-d1e831">
+      ¶ Et sicut probatur quod 
+      <lb ed="#C" n="43"/>secunda descendit in duplo tardius prima: 
+      pro<lb ed="#C" n="44" break="no"/>babitur de tertia respectu secunde: et de 
+      omni<lb ed="#C" n="45" break="no"/>bus aliis.
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

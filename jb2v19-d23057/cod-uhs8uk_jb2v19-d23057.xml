@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 7</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 7</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="39-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d23057"><!-- l2d3q7 -->
+            <head xml:id="jb2v19-d23057-Hd1e101">Quaestio 7</head>
+            <head xml:id="jb2v19-d23057-Hd1e103" type="question-title">
+      An ad hoc ut angelus cognoscat creaturas alias a se requiritur 
+      quod habeat proprias et distinctas rationes cognoscendi eas
+    </head>
+            <p xml:id="jb2v19-d23057-d1e106">
+      ¶ Questio /
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>
+               <lb ed="#C" n="62"/>e    e   .  c 
+      i<lb ed="#C" n="63" break="no"/>ad hoc quod angelus cognoscat 
+      cre<lb ed="#C" n="64" break="no"/>aturas alias a se requirit quod 
+      habe<lb ed="#C" n="65" break="no"/>at proprlas et distinctas ratioes 
+      <lb ed="#C" n="66"/>cognoscedi eas. hic scito 
+      tripli<lb ed="#C" n="67" break="no"/>cem esse vlam: quaru vna tet 
+      bea<lb ed="#C" n="68" break="no"/>tus ho. i. parte. qu. 1lv. arti. illi. dicit 
+      <lb ed="#C" n="69"/>illic non oportet ponere tot ratones cognoscendi in 
+      <lb ed="#C" n="70"/>angelo quot angelus cognoscit. na angelus superlor 
+      <lb ed="#C" n="71"/>post cognoscere pr pauclores ratioes cognoscoo 
+      <lb ed="#C" n="72"/>hoc est per pauciores noticias: plura quod angelus 
+      infe<lb ed="#C" n="73" break="no"/>rior. motiua eius pro hac positione poste a adducemus. 
+      <lb ed="#C" n="74"/>Henricus vero. v. qutii. quxiiii. tenet alita vta non 
+      plu<lb ed="#C" n="75" break="no"/>rimu ab hac discrepante. dicit per vnum habitu 
+      scle<lb ed="#C" n="76" break="no"/>tialem angelus cognoscit omtia qui cognoscit: nec sine 
+      <lb ed="#C" n="77"/>isto habitu co gnoscere potest. cois vta conformiter 
+      <lb ed="#C" n="78"/>ad materia noticiaru in artibus aliter tenet.
+   </p>
+            <p xml:id="jb2v19-d23057-d1e150">
+      ¶ 
+      Po<lb ed="#C" n="79" break="no"/>nam circa hanc materia conclusinoes aliquas: 
+      qua<lb ed="#C" n="80" break="no"/>rum prtma erit. itellectus angelicus si nullum 
+      habi<lb ed="#C" n="81" break="no"/>tum infusum haberet poest luapt e natura multa in 
+      <lb ed="#C" n="82"/>telligere. hec conclusio probabitur in questioe 
+      seque<lb ed="#C" n="83" break="no"/>ti.  cunda concluslo. nulla vna species vnius re 
+      re<lb ed="#C" n="84" break="no"/>presentatiua distincte potest representare multa vel 
+      <lb ed="#C" n="85"/>singula. probat hec conclusio argumeuto crebriter 
+      <lb ed="#C" n="86"/>al sumpto. si a noticta posit reprelentare 
+      infini<lb ed="#C" n="87" break="no"/>ta distincte erit infinite perfectionis sicut super ius 
+      <lb ed="#C" n="88"/>probaimus in prima conclusione huius aterc. 
+      <lb ed="#C" n="89"/>Secuindo arguit. si angelus superior potest 
+      cognosce<lb ed="#C" n="90" break="no"/>re tot sicut interior per pauclores lpeclies: sit ita qui 
+      <lb ed="#C" n="91"/>a. angelus cognoicat per tres lpecies dece 
+      obiecta<lb ed="#C" n="92" break="no"/>qu bo agelus eferior cognosci. per decem species. Tunc 
+      <lb ed="#C" n="93"/>adhuc capto agelum superiore creabile que creet 
+      de<lb ed="#C" n="94" break="no"/>super supremu angelu nunc creatu: dicat c. tuc c. an 
+      <lb ed="#C" n="95"/>gelus per duas species cognoicet hec dece obiecta. 
+      <lb ed="#C" n="96"/>et rursus creetur d. angelus super c. d per vna 
+      speci<lb ed="#C" n="97" break="no"/>em cognoscet dece. et e angelus super d per sua 
+      sub<lb ed="#C" n="98" break="no"/>stantia cognoscet decem.
+   </p>
+            <p xml:id="jb2v19-d23057-d1e196">
+      ¶ Ex hac conclusione sequitur 
+      <lb ed="#C" n="99"/>tertia conclusio / quod angolus nec intellgit omta 
+      quin<lb ed="#C" n="100" break="no"/>intelligit distincte per vnum habitum. nec angelus 
+      <lb ed="#C" n="101"/>soperior intelligit tot distincte quot interior per 
+      pau<lb ed="#C" n="102" break="no"/>clores habitus.
+   </p>
+            <p xml:id="jb2v19-d23057-d1e208">
+      ¶ Quarta conclusio. angelus tot 
+      <lb ed="#C" n="103"/>precise cognoscit habitualiter quot habet 
+      lpeci<lb ed="#C" n="104" break="no"/>es vel habitus / et ecouerso. hec sequit ex 
+      premili<lb ed="#C" n="105" break="no"/>sis. angelus per vnum habitum non pot plura vel onta 
+      <lb ed="#C" n="106"/>cognoscere dislincte. et praet plura cognoseere disii 
+      <lb ed="#C" n="107"/>cte. et non per sua substatia. ergo oportet si plura 
+      in<lb ed="#C" n="108" break="no"/>telligat diltincte quod plures habeat habitus.
+   </p>
+            <p xml:id="jb2v19-d23057-d1e224">
+      ¶ 
+      Co<lb ed="#C" n="109" break="no"/>tra secunda et tertia conclusiones arguit sic. li. et 
+      <lb ed="#C" n="110"/>quinto HMetha. Priora sunt prto propinquiora: 
+      si<lb ed="#C" n="111" break="no"/>cut in entitatibus ita et in intellectioibus. igit cu 
+      in<lb ed="#C" n="112" break="no"/>tellectus prlimus intelligat osta per ratione vna. 
+      intel<lb ed="#C" n="113" break="no"/>lectus superior per pauciores rationes intelliget quaed 
+      intel<lb ed="#C" n="114" break="no"/>lectus inrerior intelligit per plures.  Cofirmatur 
+      <lb ed="#C" n="115"/>hec ro dupliciter. tu primo: ex paucis principtis 
+      <lb ed="#C" n="116"/>ingenlosus multa cognoscit et correlarie 
+      menta<lb ed="#C" n="117" break="no"/>liter intert. propterea diuerbto coi dici solet: lapi 
+      <lb ed="#C" n="118"/>ernti pauca sufficiunt. opet multa minutatim 
+      fran<lb ed="#C" n="119" break="no"/>gere et non nuquod exeplarit et rudi minerua antec 
+      <lb ed="#C" n="120"/>rudis capit. modo angelus luperior est interiort
+      <pb ed="#V" n="40-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>ingeniosior: et inferior comparatiue rudis: ergo 
+      po<lb ed="#C" n="2" break="no"/>pauciores species angelus superior plura 
+      intelli<lb ed="#C" n="3" break="no"/>get quae angelus tenferiorintelliget per plures. Tum 
+      <lb ed="#C" n="4"/>secundo per Dionysium. xii. c. celestis hierarchie dicentem 
+      <lb ed="#C" n="5"/>angeli superiores habet vniuersaliorem scientiam quam 
+      inferi<lb ed="#C" n="6" break="no"/>ores.
+   </p>
+            <p xml:id="jb2v19-d23057-d1e270">
+      ¶ Ad primum respondetur concedendo antecedens / fun 
+      <lb ed="#C" n="7"/>datum in illis auctoritatibus: quanto angelus est 
+      su<lb ed="#C" n="8" break="no"/>perior tanto limpidius et clarius intelligit quam 
+      an<lb ed="#C" n="9" break="no"/>gelus inferior ceteris paribua. hoc dico: si 
+      tristi<lb ed="#C" n="10" break="no"/>cia torqueatur quemadmodum demodo: non oportet. concedendo 
+      an<lb ed="#C" n="11" break="no"/>tecedens in illo sensu: consequentia est nulla. propter 
+      <lb ed="#C" n="12"/>ea nego tam consequentiam quam ipsum consequens illatum 
+   </p>
+            <p xml:id="jb2v19-d23057-d1e286">
+               <lb ed="#C" n="13"/>¶ Ad primam confirmationem quae assumit hac 
+      proponen<lb ed="#C" n="14" break="no"/>ex paucis principiis ingeniosus multa cognoscit. 
+      <lb ed="#C" n="15"/>hanc distinguo. vel si intelligatur quod ex paucis 
+      ha<lb ed="#C" n="16" break="no"/>bitibus qui sunt partialia principia noticiarm 
+      abstra<lb ed="#C" n="17" break="no"/>ctiuarum distinctarum: hoc nego. vel ad hunc sensum: 
+      <lb ed="#C" n="18"/>ex paucis principiis multa infert comnexa et 
+      corre<lb ed="#C" n="19" break="no"/>larie inuoluta: et sic conceditur. sed tunc semper 
+      plu<lb ed="#C" n="20" break="no"/>ra habet quibus assetit celeriter. vt si quatuor 
+      propo<lb ed="#C" n="21" break="no"/>sitiones proponantur coram ouobus: rudi et 
+      ingenio<lb ed="#C" n="22" break="no"/>so. perspicax mox format assensum et dissensum 
+      <lb ed="#C" n="23"/>respectu propositionum falsarum et verarum Rudis 
+      <lb ed="#C" n="24"/>adhuc hincinde svyllogisat: et nescit in quam partem 
+      <lb ed="#C" n="25"/>assentiendi vel dissentiendi descendet. ergo habes: 
+      en<lb ed="#C" n="26" break="no"/>spicatior habet plures actus et habitus assentiendi vel 
+      <lb ed="#C" n="27"/>apprehendendi quam rudis. et nichil habetur ad sensum 
+      <lb ed="#C" n="28"/>quem pretendit arguens. pari forma dicatur ad aucto 
+      <lb ed="#C" n="29"/>ritatem bti Dionysii. superiores habent 
+      vniuersalio<lb ed="#C" n="30" break="no"/>rem scientiam quam inferiores. hoc est plura intelligunt: 
+      <lb ed="#C" n="31"/>sed non plura oistincte per pauciores species. Et 
+      <lb ed="#C" n="32"/>si ponderes hoc. prima suba intelligit omnia sua 
+      essen<lb ed="#C" n="33" break="no"/>tia. ergo subam quanto est illi propinqor: per 
+      paucio<lb ed="#C" n="34" break="no"/>ra plura intelligit. ico consequentiam non valere. 
+      es<lb ed="#C" n="35" break="no"/>sentia diuina est relatio formalis intellectui 
+      diui<lb ed="#C" n="36" break="no"/>non intelligere omnia distincte: et ipsa eadem essentia 
+      di<lb ed="#C" n="37" break="no"/>uina est obiectum primarium et quasi motiuum 
+      intelle<lb ed="#C" n="38" break="no"/>ctus eius vt omnia intelligat. creature sunt solum obie 
+      <lb ed="#C" n="39"/>cta terminatiua. et per hoc concluditur deus 
+      infini<lb ed="#C" n="40" break="no"/>te perfectionis entitatiue si vna species creata 
+      re<lb ed="#C" n="41" break="no"/>presentaret plura bistincte: eadem ratione infinita 
+      <lb ed="#C" n="42"/>representabit distincte: et erit deus: quod est impossibi 
+      <lb ed="#C" n="43"/>le.
+   </p>
+            <p xml:id="jb2v19-d23057-d1e356">
+      ¶ Secundo arguitur fides infusa inclinat in 
+      mul<lb ed="#C" n="44" break="no"/>ta distincte ac si esset multe fides acquisite distincte. 
+      <lb ed="#C" n="45"/>olo dicere: licet sint multi habitus fidei 
+      acquisi<lb ed="#C" n="46" break="no"/>ti inclinantes ad assensum multorum credibilium: tamen 
+      <lb ed="#C" n="47"/>vna fides infusa inclinat immediate ad omnia illa 
+      cre<lb ed="#C" n="48" break="no"/>dibilia sic de charitate infusa argumentari 
+      pos<lb ed="#C" n="49" break="no"/>sum respectu actuum meritoriorum ergo vnus 
+      habi<lb ed="#C" n="50" break="no"/>tus erit ratio formalis apphendendi plura.
+   </p>
+            <p xml:id="jb2v19-d23057-d1e374">
+      ¶ 
+      Tertio<lb ed="#C" n="51" break="no"/>arguitur. quae sunt dispersa in inferioribus sunt vnita in 
+      su<lb ed="#C" n="52" break="no"/>periori. propterea sensus interior sentit omnia quae 
+      sen<lb ed="#C" n="53" break="no"/>sus exteriores quinque sentiunt. et intellecius 
+      intelli<lb ed="#C" n="54" break="no"/>git omnia quae aliquis sensus sentit. ergo quod est d ispsum 
+      <lb ed="#C" n="55"/>in inferioribus angelis per plures species: angelus 
+      <lb ed="#C" n="56"/>superior per vnam speciem intelliget.
+   </p>
+            <p xml:id="jb2v19-d23057-d1e391">
+      ¶ Ad secundum 
+      respon<lb ed="#C" n="57" break="no"/>deo. nulld est inconueniens quod cam equiuoca inelinat 
+      <lb ed="#C" n="58"/>et concurrat ad varios effectus specie distinctos: vt 
+      <lb ed="#C" n="59"/>oe sole videre est. sed inconueniens est quod noticia sin i 
+      <lb ed="#C" n="60"/>glaris sortis actualis vel habitualis represcn¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>tet platonem.
+   </p>
+            <p xml:id="jb2v19-d23057-d1e407">
+      ¶ Ad tertium dicitur: quicquid potest 
+      poten<lb ed="#C" n="62" break="no"/>tia inferior cognoscere potest potentia superior 
+      eius<lb ed="#C" n="63" break="no"/>dem generis cognoscere. omnes potentias cognitiuas 
+      eiui<lb ed="#C" n="64" break="no"/>dem generis voco. voluntas in ratione voluntatis non 
+      <lb ed="#C" n="65"/>potest cognoscere quod sensus cognoscere potest. et tamen est 
+      <lb ed="#C" n="66"/>potentia superior sensu. sed non est eiusdem generis inquantum 
+      <lb ed="#C" n="67"/>hmoni. Sed noticia sensus si poneretur in fantasia 
+      <lb ed="#C" n="68"/>vel econuerso. si fantasma fantasie poneretur in 
+      <lb ed="#C" n="69"/>sensu aliquo exteriori: nunquam representaret aliud 
+      <lb ed="#C" n="70"/>quam illud quod representat. sic si species tres in 
+      ange<lb ed="#C" n="71" break="no"/>lo inferioris existentes / tria obiecta distincte 
+      repre<lb ed="#C" n="72" break="no"/>sentantes / ponerentur in superiori: numquam 
+      representa<lb ed="#C" n="73" break="no"/>bunt plura obiecta quam illa tria quae representabant in 
+      <lb ed="#C" n="74"/>inferiore¶ Quarto arguitur. secundum aristotelem ii. 
+      Ethi<lb ed="#C" n="75" break="no"/>corum. in ania sunt nisi tria: habitus lpotentia / et actus 
+      <lb ed="#C" n="76"/>sed rato intelligendi in antima non est potentia angeli: 
+      <lb ed="#C" n="77"/>quia illa realiter est essentia angeli. et n est actus. 
+      er<lb ed="#C" n="78" break="no"/>go est vnus habitus.
+   </p>
+            <p xml:id="jb2v19-d23057-d1e446">
+      ¶ Quinto arguitur. in 
+      volun<lb ed="#C" n="79" break="no"/>tate non ponuntur principia volendi doiuersa obiecta. 
+      <lb ed="#C" n="80"/>igitur nec in intellecctu ponuntur diuersa principia in 
+      <lb ed="#C" n="81"/>telligendi: sed sufficit vnus habitus ad 
+      representan<lb ed="#C" n="82" break="no"/>da quaecumque sibi cognoscibilia.
+   </p>
+            <p xml:id="jb2v19-d23057-d1e457">
+      ¶ Rfuidetur ad quar. 
+      <lb ed="#C" n="83"/>tum. ista ratio intelligendi concreata angelo potest 
+      vo<lb ed="#C" n="84" break="no"/>cari habitus. licet habitus generetur ex actu vel 
+      acti<lb ed="#C" n="85" break="no"/>bus naturaliter: deus potest se solo producere aliquid 
+      <lb ed="#C" n="86"/>eliusdem speciei specialisiime vel alterius 
+      inclinati<lb ed="#C" n="87" break="no"/>uum in actus. et adhuc vocabitur habitus. est 
+      quali<lb ed="#C" n="88" break="no"/>tas difficulter a subiecto remouibilis per quam 
+      poten<lb ed="#C" n="89" break="no"/>tia non actualiter sed aptitudinaliter cognoscit. si 
+      <lb ed="#C" n="90"/>voces illam qualitatem speclem intelligibilem: quia non 
+      ac<lb ed="#C" n="91" break="no"/>quiritur ex actibus preuiis: et hoc requiritur ad habi 
+      <lb ed="#C" n="92"/>tum. Duo dico. Primum est de nomimbus non est certam 
+      <lb ed="#C" n="93"/>dum dum modo sententia manet. Secundo nego quod 
+      <lb ed="#C" n="94"/>sit de ratione habitus quod acquiratur ex actu vel actibus 
+      <lb ed="#C" n="95"/>licet naturaliter requiritur fides infusa / charitas / spes 
+      <lb ed="#C" n="96"/>et himoni in baptismo infusi vocantur apud loquentes 
+      <lb ed="#C" n="97"/>habitus.
+   </p>
+            <p xml:id="jb2v19-d23057-d1e492">
+      ¶ Ad quintum dicitur. si obiectum appetibile 
+      <lb ed="#C" n="98"/>esset presens appetitui presentia propria alia 
+      ab<lb ed="#C" n="99" break="no"/>illa qua est presens potentie cognitiue illius 
+      appe<lb ed="#C" n="100" break="no"/>titus requirerentur in appetitu proprie rationes quibus 
+      <lb ed="#C" n="101"/>diuersa obiecta essent presentia. sed non est ita. quia 
+      <lb ed="#C" n="102"/>quando obiectum est presens cognitiue potentie per a 
+      no<lb ed="#C" n="103" break="no"/>ticiam: per eandem est presens potentie appetitiue 
+      il<lb ed="#C" n="104" break="no"/>li cognitiue respondenti. etiam sunt diuersi actus 
+      et<lb ed="#C" n="105" break="no"/>habitus in vcluntate: in habitibus tam infusis quam 
+      ac<lb ed="#C" n="106" break="no"/>quisitis.
+   </p>
+            <p xml:id="jb2v19-d23057-d1e514">
+      ¶ Sexto arguitur. viii. oetha. forme se habet 
+      <lb ed="#C" n="107"/>sicut numeri: igitur perfectior virtualiter includit 
+      im<lb ed="#C" n="108" break="no"/>perfectiorem: et per coseques erit sufficiena ratio 
+      cogno<lb ed="#C" n="109" break="no"/>scendi ea.
+   </p>
+            <p xml:id="jb2v19-d23057-d1e524">
+      ¶ Et hoc potest confirmari per aristoterem 
+      <lb ed="#C" n="110"/>secundo de anima dicentem / quod sensitiua est in intellectiua 
+      <lb ed="#C" n="111"/>sicut trigonum in tetragono.
+   </p>
+            <p xml:id="jb2v19-d23057-d1e531">
+      ¶ Ad sextum 
+      respode<lb ed="#C" n="112" break="no"/>tur / quod aristoteles loquit illic de specie 
+      subalterna<lb ed="#C" n="113" break="no"/>sicut numerus stat ad indiuisibilia: ita resolutio 
+      di<lb ed="#C" n="114" break="no"/>finitionum stat ad indiuisibilia: et ad genus proximum. 
+      <lb ed="#C" n="115"/>etiam sicut numeri distingulutur specie in esse 
+      nume<lb ed="#C" n="116" break="no"/>ri: sic indiuidua diuersarum specierum. sed 
+      nullo<lb ed="#C" n="117" break="no"/>modo vult quod species vel habitus superior 
+      represen<lb ed="#C" n="118" break="no"/>tet distincte quod species inferior representet. hoc 
+      <lb ed="#C" n="119"/>in creaturis esse non potest vt sepiuscule oictum est ad 
+      <lb ed="#C" n="120"/>auctoritacem philosohi si. de anima superlus responsum
+      <pb ed="#V" n="40-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>est.
+   </p>
+            <p xml:id="jb2v19-d23057-d1e560">
+      ¶ Septimo arguitur. deus infundit species in 
+      <lb ed="#C" n="2"/>intellectibus angelorum a principio: vel infundit 
+      spe<lb ed="#C" n="3" break="no"/>cies confusas et vniuersales: et tunc sequitur quod 
+      ange<lb ed="#C" n="4" break="no"/>lus per illas non potest distincte cognoscere. vel 
+      infun<lb ed="#C" n="5" break="no"/>dit deus species indiuiduorum singulares. et tunc sic. 
+      <lb ed="#C" n="6"/>vel omnim rerum possibilium deus infundit species: et 
+      <lb ed="#C" n="7"/>tunc sequitur hec conclusio: quod quilet angelus habet 
+      infini<lb ed="#C" n="8" break="no"/>tas species cathegoreumatice. Si dicas: infundit 
+      <lb ed="#C" n="9"/>species distinctas omnim rerum actu existentium: acdhuc 
+      <lb ed="#C" n="10"/>sequitur eadem conclusio: cum iam sunt in rerum natura 
+      <lb ed="#C" n="11"/>res infinite actu exfites: vt patet de cuiusle 
+      conti<lb ed="#C" n="12" break="no"/>nui partibus infinitis quarum quelibet existit actu ad 
+      <lb ed="#C" n="13"/>hunc sensum quod actualiter est in rerum natura. 
+      Si<lb ed="#C" n="14" break="no"/>dicas: aliquarum reru infundit noticias distinctas et 
+      <lb ed="#C" n="15"/>non aliarum: queritur quarum rerum infudit species / et 
+      <lb ed="#C" n="16"/>quarum non infuderit: et roem illius assertionis assi 
+      <lb ed="#C" n="17"/>gna.
+   </p>
+            <p xml:id="jb2v19-d23057-d1e597">
+      ¶ Respondetur. deus poterat si voluisset 
+      infun<lb ed="#C" n="18" break="no"/>dere species omnim indiuiduorum existentium distinctas 
+      <lb ed="#C" n="19"/>et infinitas. deus potest creare infinita in multitudine. 
+      <lb ed="#C" n="20"/>intellectus angelicus est intellectiuus infinitorum 
+      <lb ed="#C" n="21"/>Due species non repugnant mutuo in intellectu an 
+      <lb ed="#C" n="22"/>gelico: et per consequens nec infinite. sicut arguit 
+      ari<lb ed="#C" n="23" break="no"/>stoteles iili. Phisicorum / de corporibus in materia 
+      de<lb ed="#C" n="24" break="no"/>vacuo. nec angelus habet actiuitate respectu specieru 
+      <lb ed="#C" n="25"/>ergo propter recipere infinitas species in se non arguitur 
+      <lb ed="#C" n="26"/>vlla infinitas in intellectu angelico. sed fortasse non 
+      <lb ed="#C" n="27"/>decet secundum legem communem infinitas species produxisse. 
+      <lb ed="#C" n="28"/>vel non produxit infinitas species: sed solum finitas: 
+      <lb ed="#C" n="29"/>sed quas certas species produxit: incertum est et 
+      <lb ed="#C" n="30"/>solum augurandum. si produxit omnium rerum 
+      <lb ed="#C" n="31"/>totalium vnam speciem distictam et singularem: 
+      <lb ed="#C" n="32"/>non sunt infinite producte. Forte etiam non produxit 
+      <lb ed="#C" n="33"/>cuiuslet rei totalis existentis noticiam distinctam: sed 
+      ali<lb ed="#C" n="34" break="no"/>quarum rerum ad angelos spectantium cum quibus coniter 
+      <lb ed="#C" n="35"/>versantur: vtputa dei / angelorum / homim / celorum / et 
+      <lb ed="#C" n="36"/>hmoni: relinquens reliqua dispositioni eorum. quia si 
+      nul<lb ed="#C" n="37" break="no"/>las habuissent angeli species: poterant res 
+      cogno<lb ed="#C" n="38" break="no"/>scere et iterum species acquirere. Fortasse produxit 
+      <lb ed="#C" n="39"/>deus species communes solum rcrum conium: licet distinctam 
+      <lb ed="#C" n="40"/>dei: per quas poterant angeli omnia quodammodo 
+      co<lb ed="#C" n="41" break="no"/>gnoscere. Ecce disiunctiuam ex multis membris 
+      con<lb ed="#C" n="42" break="no"/>flatam. quod membrorum deus fecerit incertum est: cum 
+      <lb ed="#C" n="43"/>nec auctoritate nec ratione constet. verosimilius 
+      ta<lb ed="#C" n="44" break="no"/>men est quod non produxit infinitas species distinctas 
+      <lb ed="#C" n="45"/>singularium: sed aliquorum singularium ad angelos 
+      <lb ed="#C" n="46"/>spectantium: et sic illud membrum videtur magis proba 
+      <lb ed="#C" n="47"/>bil. ter acceptandum.
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 8</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 8</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="79-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d47142"><!-- l2d14q8 -->
+            <head xml:id="jb2v19-d47142-Hd1e101">Quaestio 8</head>
+            <head xml:id="jb2v19-d47142-Hd1e103" type="question-title">An per influentias siderum potest astronomus futura praedicere, per influentiam qua caelum in vires sensitivas et intellectivas influit</head>
+            <p xml:id="jb2v19-d47142-d1e106">
+      ¶ Questio. 8 
+      <lb ed="#C" n="4"/>Ctauo quaritur / an per influentias syderum 
+      <lb ed="#C" n="5"/>potest astronomus futura praedicere per 
+      influ<lb ed="#C" n="6" break="no"/>entiam qua celum in vires sensitiuas et 
+      in<lb ed="#C" n="7" break="no"/>tellectiuas influit.
+   </p>
+            <p xml:id="jb2v19-d47142-d1e117">
+      ¶ Pro solutione 
+      quae<lb ed="#C" n="8" break="no"/>stionis pono conclusiones. quarum 
+      pri<lb ed="#C" n="9" break="no"/>ma erit. astronomus potest praedicere coniunctionem / 
+      oppoii<lb ed="#C" n="10" break="no"/>sitionem / trinum aspectu: vel septilem planetarum ad 
+      co<lb ed="#C" n="11" break="no"/>gnoscendum annos futuros ad diem iudicii 
+      exclusi<lb ed="#C" n="12" break="no"/>ue.
+   </p>
+            <p xml:id="jb2v19-d47142-d1e130">
+      ¶ Secunda conclusio. homo potest praedicere naturaliter 
+      feo<lb ed="#C" n="13" break="no"/>tilitatem vel sterilitatem anni licet crebriusi hoc 
+      cecuti<lb ed="#C" n="14" break="no"/>at quamtin primo.
+   </p>
+            <p xml:id="jb2v19-d47142-d1e138">
+      ¶ Tertia conclusio. celum in corpus et 
+      in<lb ed="#C" n="15" break="no"/>vires corporeas habet influentiam.
+   </p>
+            <p xml:id="jb2v19-d47142-d1e143">
+      ¶ Quarta conclusio 
+      <lb ed="#C" n="16"/>celum in animam rationalem no habet influentia vllam.
+   </p>
+            <p xml:id="jb2v19-d47142-d1e148">
+      ¶ 
+      Qu<lb ed="#C" n="17" break="no"/>ta conclusio. non obstante influentia celi in corpus: in 
+      lu<lb ed="#C" n="18" break="no"/>mine naturali loquendo anima est libera. et ex consequenti hc 
+      <lb ed="#C" n="19"/>ad contueniendum infuentie celi.
+   </p>
+            <p xml:id="jb2v19-d47142-d1e157">
+      ¶ Pria conclusio 
+      pro<lb ed="#C" n="20" break="no"/>batur. agricole et muliercule vt videmus praedicunt 
+      <lb ed="#C" n="21"/>coniunctionem et oppositionem luminarium ad multos an 
+      <lb ed="#C" n="22"/>nos futuros: et pueri per compotum. ergo a fortiore 
+      <lb ed="#C" n="23"/>hoc potest astronomus.
+   </p>
+            <p xml:id="jb2v19-d47142-d1e168">
+      ¶ Insuper. habemus 
+      Ephi<lb ed="#C" n="24" break="no"/>merides et almanach temporanea et perpetua: et per 
+      <lb ed="#C" n="25"/>tabulas homo hec perpetua conficere potest. ratione 
+      ar<lb ed="#C" n="26" break="no"/>guitur ad conclusionem. illud praedicere nil aliud est quae 
+      <lb ed="#C" n="27"/>prodicere effectum causarum naturalium cognitarum in de 
+      <lb ed="#C" n="28"/>terminato tempore conlungi. ergo illud no est 
+      negan<lb ed="#C" n="29" break="no"/>dum ab astronomo.
+   </p>
+            <p xml:id="jb2v19-d47142-d1e184">
+      ¶ Secunda conclusio patet aucte 
+      ari<lb ed="#C" n="30" break="no"/>stotelis. I. Politicorum ita dicentis / de thalete mille 
+      <lb ed="#C" n="31"/>sio ostendens phisocdum facile posse ditari si vellet. sed 
+      <lb ed="#C" n="32"/>philsopis crebro opes non sunt cordi. hc probat per 
+      fa<lb ed="#C" n="33" break="no"/>ctum thaletis percipientis fertilitatem futura 
+      oliua<lb ed="#C" n="34" break="no"/>et sic emit in milleto et in thio oliuas quas ad 
+      nu<lb ed="#C" n="35" break="no"/>tum vendidit. De pluuia vento et hmoni frequentur 
+      <lb ed="#C" n="36"/>videmus eos bene iudicare. Alia pars est: frequenti 
+      <lb ed="#C" n="37"/>us hic erratur. hoc patet experimento in quilibet se ad hoc 
+      <lb ed="#C" n="38"/>applicanti. non solum est consideranda talis planetarum 
+      <lb ed="#C" n="39"/>aspectus: puta duorum vel trium: influentia ad aquam 
+      <lb ed="#C" n="40"/>gratia exempli habentium: sed oportet videre si alii plane stelle 
+      <lb ed="#C" n="41"/>vel partes celi / influentiam contriam illius impeditiuam 
+      <lb ed="#C" n="42"/>habeant: an sit aspectus in signis humidis vel in 
+      sic<lb ed="#C" n="43" break="no"/>cis. fortasse erit caligo. non erit talis dispositio 
+      infe<lb ed="#C" n="44" break="no"/>rius qualis esset sine caligine. quia non ita bene operatur 
+      <lb ed="#C" n="45"/>influentia per caliginem sicut sine ea. multa sunt 
+      <lb ed="#C" n="46"/>considerata: quibus neglectis homo fallere potest in 
+      iudi<lb ed="#C" n="47" break="no"/>cio. sicut frequenter videmus tam in nobis quam in aliis 
+   </p>
+            <p xml:id="jb2v19-d47142-d1e227">
+               <lb ed="#C" n="48"/>¶ Tertia conclusio probatur per illam vulgare auectem 
+      <lb ed="#C" n="49"/>Aristo. I Metheororum dicentis. necesse est hunc 
+      mun<lb ed="#C" n="50" break="no"/>dum inferiorem rationibus superioribus esse continuum 
+      <lb ed="#C" n="51"/>vt tota virtus eius inde gubernetur. sensus et corpus sunt 
+      <lb ed="#C" n="52"/>de hoc mundo inferiori. hoc videre est in freneticis et labo 
+      <lb ed="#C" n="53"/>rantibus egui morbo: qui in aliqua aspectu peius se habent quam 
+      <lb ed="#C" n="54"/>in alio.
+   </p>
+            <p xml:id="jb2v19-d47142-d1e245">
+      ¶ Quarta conclusio probatur. nullum corpus agit 
+      <lb ed="#C" n="55"/>in spiritum: teste Aug. 12. super Genesim ad lratiam: hc in 
+      <lb ed="#C" n="56"/>44. distin. quarti prolixius deduximus: nisi 
+      producen<lb ed="#C" n="57" break="no"/>do noticiam vel species ad noticia puias. ergo celum 
+      <lb ed="#C" n="58"/>non agit in animam.
+   </p>
+            <p xml:id="jb2v19-d47142-d1e256">
+      ¶ Quita conclusio probatur. ita doicinu 
+      lo<lb ed="#C" n="59" break="no"/>quentes in lumine naturali. secundo peryarmenias: et 80. 
+      me<lb ed="#C" n="60" break="no"/>thaphi sice. potentie rationales valent ad opposita et
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>primi periarmenias vltio. Si omnia de necessitate 
+      <lb ed="#C" n="62"/>eueniret non oportet negociari nec pcosulere de 
+      agen<lb ed="#C" n="63" break="no"/>dis: quod inopiabile reputat philodeums. Propterea. pper illa 
+      <lb ed="#C" n="64"/>quae nullo mo sunt in ptate nostra nemo est laudandus vel 
+      vi<lb ed="#C" n="65" break="no"/>tuperadus. ceco quas improperabit. 3. Ethic. sed propter 
+      <lb ed="#C" n="66"/>sordidam vita et cadida: aliquis laudatur: alius vero 
+      vi<lb ed="#C" n="67" break="no"/>tuperatur. numquid gentiles Socratem / Diogenem / 
+      Sa<lb ed="#C" n="68" break="no"/>lomonem / Catonem / et sim les ad astra euexerunt ob vi 
+      <lb ed="#C" n="69"/>te probitatem. Ptholomeus in centiloquio / sapiens dominab. 
+      <lb ed="#C" n="70"/>tur astris. Sardanapalum / Neronem / et siles 
+      truse<lb ed="#C" n="71" break="no"/>rut ad baratra. hec omnia in lumine naturali posita sunt 
+      <lb ed="#C" n="72"/>igit conclusiova in eodem lumine.
+   </p>
+            <p xml:id="jb2v19-d47142-d1e291">
+      ¶ Cotra tertiam conclusionem 
+      <lb ed="#C" n="73"/>arguitur. capio aspectum celi laboranti morbo 
+      ma<lb ed="#C" n="74" break="no"/>xime beneuolum. hoc supposito arguitur sic. eger ex 
+      <lb ed="#C" n="75"/>malo regine non viuet. ergo aspectus celi non potest suam 
+      <lb ed="#C" n="76"/>vitam prolongare. argumentur concludit quod sola celi 
+      influen<lb ed="#C" n="77" break="no"/>tia non sufficit. bonum regimen in cibo / potu sompno / et 
+      <lb ed="#C" n="78"/>aere / amplius facit ad vite prolongationem. certius 
+      me<lb ed="#C" n="79" break="no"/>dicus omnis astrologie expers de vita vel morte 
+      iu<lb ed="#C" n="80" break="no"/>dicabit quam astronomus. sunt medicinarum eruditi 
+      a<lb ed="#C" n="81" break="no"/>strologie immunes. licet influentia celi sit mala: 
+      ocu<lb ed="#C" n="82" break="no"/>latus medicus potest illi malicie obuiare per medicinas: 
+      <lb ed="#C" n="83"/>sic causis morbi generatis et continuatis obuiat sua 
+      <lb ed="#C" n="84"/>arte. licet diu stans in radiis solaribus nudo capite 
+      ca<lb ed="#C" n="85" break="no"/>tarrum conthat: et dormiens nudus in radiis luminaribus vt 
+      <lb ed="#C" n="86"/>superius diximus: potest apponi remedium per vestium mltipli 
+      <lb ed="#C" n="87"/>cationem ne influentia ledat. et licet ferrum ad se trahat 
+      <lb ed="#C" n="88"/>magnes: tamen adamas magneti suppositus illum 
+      tra<lb ed="#C" n="89" break="no"/>ctu impedit: vel si magnes alleo iungatur. ergo sicut vtus rei 
+      <lb ed="#C" n="90"/>natural in his inferioribus impediri potest: sic in proposito: 
+      <lb ed="#C" n="91"/>stat dare duosgeinos siil natos periter in corporis 
+      distra<lb ed="#C" n="92" break="no"/>sian deuenire: et vnus morietur et non alter. certum est medi 
+      <lb ed="#C" n="93"/>cus facile dabit illius discrimen dicens. quod hboc est defectu 
+      <lb ed="#C" n="94"/>exercicii vel mali regis in vno et no in alio: 
+      supposi<lb ed="#C" n="95" break="no"/>ta simili complexioue in natiuitate. Mathematicus 
+      respon<lb ed="#C" n="96" break="no"/>dere nequit. et hoc innuit Aug. 5 de trim. dei. c. primo. et 
+      <lb ed="#C" n="97"/>scite per mlta capita citat. sic dt in primo quid sit l inquit 
+      <lb ed="#C" n="98"/>de quo nihil vnquam dicere potuert. cur in vita geminorum 
+      <lb ed="#C" n="99"/>in actionibus et in cunctis / in professionibus / in artibus / in hono 
+      <lb ed="#C" n="100"/>ribus / et reliquis / sit tanta diuersitas simlinores eis sint 
+      <lb ed="#C" n="101"/>quantum ad hoattinet: milti exernei separati. in conceptu autem 
+      per<lb ed="#C" n="102" break="no"/>vnum concubitum immo etiam in momento seinali. et in 
+      ca<lb ed="#C" n="103" break="no"/>pite 2. loquens de duobus qui simil egrotare cepert. siiu 
+      <lb ed="#C" n="104"/>morbus inguescebat: siil leuabantur. Hypocras eos 
+      pro<lb ed="#C" n="105" break="no"/>paterea ffes suspicabatur. Possidonius stoicus astrologus 
+      <lb ed="#C" n="106"/>causam esse putauit quia eadem constellatione astrorum eos 
+      hor<lb ed="#C" n="107" break="no"/>tos esse mlto praefert responsionem ypocratis responsioni 
+      pos<lb ed="#C" n="108" break="no"/>sidonii: et in illo capite supponit duos geminos quis 
+      <lb ed="#C" n="109"/>ipse nouit qui habebant dispares egritudines. cui 
+      hypo<lb ed="#C" n="110" break="no"/>cras facile dedisset solutionem perpere diuersa alimen 
+      <lb ed="#C" n="111"/>ta et exercitationem. et sequitur possidonius vel quilibet 
+      <lb ed="#C" n="112"/>fatalium siderum assertor mirum si potest hic inuenire quid 
+      di<lb ed="#C" n="113" break="no"/>cat si nolit impritorum mentibus in eis nesciunt et rebus 
+      illu<lb ed="#C" n="114" break="no"/>dem.
+   </p>
+            <p xml:id="jb2v19-d47142-d1e385">
+      ¶ Contra tres vltimias conclommunes sic argumentor. 
+      ce<lb ed="#C" n="115" break="no"/>lum habet influentiam in corpus ex tertia conclusione. sed anima sequitur 
+      cor<lb ed="#C" n="116" break="no"/>poris passiones. ergo celum habent influentiam in animam: sed dicis et 
+      <lb ed="#C" n="117"/>recte quod hoc est verum idirecte pro quanto agit in 
+      sen<lb ed="#C" n="118" break="no"/>su. et anima pro hoc statu mortali mitum 
+      incli<lb ed="#C" n="119" break="no"/>siones corporis. sicu aliqui sunt incontinentes ex natur 
+      <lb ed="#C" n="120"/>tum vt presumitur de sa erdotum filiise de molli¬
+      <pb ed="#V" n="80-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>regibus sthicarum. 7. ethi. et de vitio gentili prohiben 
+      <lb ed="#C" n="2"/>tis filium trahere eum vltra domus limitem: asserens 
+      <lb ed="#C" n="3"/>quod ipse non plus auum filii traxerit in eodem septio sic est 
+      <lb ed="#C" n="4"/>hmoni.
+   </p>
+            <p xml:id="jb2v19-d47142-d1e414">
+      ¶ Contra hoc arguitur. ex ista solutione: quam 
+      <lb ed="#C" n="5"/>rectam asseris: sequitur quod astrologus nil aliud 
+      dice<lb ed="#C" n="6" break="no"/>re potest nisi quod talis erit inclinatus ad tale vitium 
+      <lb ed="#C" n="7"/>vel ad talem virtutem. sed hoc dicere potest vetula de 
+      <lb ed="#C" n="8"/>natis de probis vel improbis parentibus: de bene 
+      <lb ed="#C" n="9"/>vel male educats et sic periret omne astrologorum iudicium 
+      <lb ed="#C" n="10"/>et per consequens non oporteret tanta sollicitudine ire 
+      <lb ed="#C" n="11"/>ad horostopum alium et alium: cuius opositum practicant 
+      <lb ed="#C" n="12"/>astronomi.
+   </p>
+            <p xml:id="jb2v19-d47142-d1e435">
+      ¶ Insuper sequitur quod astrologus non potest 
+      <lb ed="#C" n="13"/>tantum dicere quod talis sub tali constellatione natus erit 
+      <lb ed="#C" n="14"/>inclinatus ad vitium: quia ponamus sortem notum sub a. in 
+      <lb ed="#C" n="15"/>fluentia ad luxum inclinante: stat quod sortes habuerit 
+      <lb ed="#C" n="16"/>parentes castissimos et quod habeat praeceptores opti 
+      <lb ed="#C" n="17"/>mos in inuenta: ita quod sit habituatus optime: sic scili 
+      <lb ed="#C" n="18"/>cet: quod suus habeintus fortius eum impellit ad cassitatem 
+      <lb ed="#C" n="19"/>quam influentia celi ad luxum. cum influentia celi ad 
+      lu<lb ed="#C" n="20" break="no"/>xum non sit infinita: praesent dari amminicula tantum 
+      incli<lb ed="#C" n="21" break="no"/>nantia ad oppositum.
+   </p>
+            <p xml:id="jb2v19-d47142-d1e457">
+      ¶ Ex isto sequitur quod 
+      deli<lb ed="#C" n="22" break="no"/>rus et sacrilegus est ille archidiuinator albumasar in 
+      li<lb ed="#C" n="23" break="no"/>bro suo de magnis coniunctionibus qui de 
+      ma<lb ed="#C" n="24" break="no"/>gnis coniunctionibus sectas attribuit: cum homines sint 
+      <lb ed="#C" n="25"/>liberi. et quod mirandum est nec ipse nec alius astrons 
+      <lb ed="#C" n="26"/>mus reddere poterat super hoc colorem. cum nullus eo 
+      <lb ed="#C" n="27"/>rum expertus fuerit has sectas varias per crebram 
+      <lb ed="#C" n="28"/>coniunctionem. et addo quod inutiliter laborat albertus 
+      <lb ed="#C" n="29"/>pro conuenientia inter astronomiam et theologiam 
+      <lb ed="#C" n="30"/>periculosissime etiam rogerus bachon: et certe 
+      impru<lb ed="#C" n="31" break="no"/>denter aliacentus cardinal cameracensis: cum sil nisus est 
+      <lb ed="#C" n="32"/>facere opuscuium astronomie et theologie videns 
+      <lb ed="#C" n="33"/>se discriminibus expositum et vanitatibus quibus 
+      <lb ed="#C" n="34"/>non erat finis: nec fundamentum vllum in recitandis 
+      super<lb ed="#C" n="35" break="no"/>sticiosis astronomorum vanitatibus coactus secundum 
+      op<lb ed="#C" n="36" break="no"/>eadem materia scribere et demum tertium et 
+      quodli<lb ed="#C" n="37" break="no"/>bet eorum nullum bene inchoauit illum doctorem 
+      an<lb ed="#C" n="38" break="no"/>glum reprobare. sed finaliter volens tenere quod 
+      <lb ed="#C" n="39"/>dam medium deficit.
+   </p>
+            <p xml:id="jb2v19-d47142-d1e499">
+      ¶ Respondetur: recte dictum est 
+      in<lb ed="#C" n="40" break="no"/>ter arguendum summum quod astrologus dicere potest 
+      <lb ed="#C" n="41"/>quod talis est ad vitium inclinatus. et adhuc 
+      frequen<lb ed="#C" n="42" break="no"/>ter fallitur: immo creberrime sicut iudicando stat quod 
+      <lb ed="#C" n="43"/>non satis exacte iudicauit signa impeditiua talis 
+      <lb ed="#C" n="44"/>effectus ex parte celi. stat etiam quod principia quibus 
+      inni<lb ed="#C" n="45" break="no"/>titur sunt defectuosa. astronomi crebriter in illis 
+      <lb ed="#C" n="46"/>sibi contradicunt: vt eorum libros consideranti 
+      vide<lb ed="#C" n="47" break="no"/>re est: et concedo quod prudens agricola potest certius 
+      <lb ed="#C" n="48"/>iudicare de sorte quod astrologus morum et 
+      paren<lb ed="#C" n="49" break="no"/>tum sortis ignarus.
+   </p>
+            <p xml:id="jb2v19-d47142-d1e523">
+      ¶ Ad aliud argumentum 
+      conce<lb ed="#C" n="50" break="no"/>do quod ipsum concludit sufficienter quod non potest astrolo 
+      <lb ed="#C" n="51"/>gus vere dicere sortes est inclinatus in vitium. sed 
+      <lb ed="#C" n="52"/>opotet addere quantum est ex parte celi vel nisi fuerit obex 
+      <lb ed="#C" n="53"/>eum inclinans ad opositum: vt pote boni habentus / casti 
+      <lb ed="#C" n="54"/>parentes. raro potest dicere: nonne vides duos 
+      ge<lb ed="#C" n="55" break="no"/>mellos: vt iacob et esau: quorum alter erat deo 
+      gra<lb ed="#C" n="56" break="no"/>tissimus: alter reprobus et malus.
+   </p>
+            <p xml:id="jb2v19-d47142-d1e541">
+      ¶ Sed dicis si 
+      <lb ed="#C" n="57"/>cut nigidius figulus propter celere aspectum 
+      celi<lb ed="#C" n="58" break="no"/>variatum. sic variatio: vt de rota figuli.
+   </p>
+            <p xml:id="jb2v19-d47142-d1e548">
+      ¶ Contra 
+      <lb ed="#C" n="59"/>hoc arguitur: homo successiue nascitur extra vterum. et 
+      <lb ed="#C" n="60"/>mille partes successiue ascendunt. a ante b. b. antec. et
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>sic de aliis mille: ergo non potes iudicare de vno 
+      a<lb ed="#C" n="62" break="no"/>spectu: sed oportet mille aspectus ponderare.
+   </p>
+            <p xml:id="jb2v19-d47142-d1e562">
+      ¶ Propterea 
+      <lb ed="#C" n="63"/>stat dare duos simul natos tam invtero quam extra 
+      <lb ed="#C" n="64"/>vterum quorum alter erit furcifer / et alter bonus: ergo 
+      <lb ed="#C" n="65"/>parum est de isto aspectu.
+   </p>
+            <p xml:id="jb2v19-d47142-d1e571">
+      ¶ Contra illud arguitur: astro 
+      <lb ed="#C" n="66"/>logi multa futura predicunt vera. sed non totiens hec 
+      <lb ed="#C" n="67"/>vera predicerent secundum dicta. igitur.
+   </p>
+            <p xml:id="jb2v19-d47142-d1e578">
+      ¶ Item: 
+      aristote<lb ed="#C" n="68" break="no"/>les in libro de proprietati. elementorum. coniunctio 
+      sa<lb ed="#C" n="69" break="no"/>turni et iouis fecerunt regna vacua.
+   </p>
+            <p xml:id="jb2v19-d47142-d1e585">
+      ¶ Respondetur. 
+      di<lb ed="#C" n="70" break="no"/>cunt coniter aliqua vera: quia milti homines sequuntur 
+      cor<lb ed="#C" n="71" break="no"/>poris inclinationes. cogitatones hominum prone sunt 
+      <lb ed="#C" n="72"/>ad malum Genesis. 6. sicut de silio persbiteri perdito 
+      in<lb ed="#C" n="73" break="no"/>moribus in iuuentute educato dictre potes. Secundo dico 
+      <lb ed="#C" n="74"/>pro vno vo. 4. falsa dicunt. et per consequens a casu et fortuna 
+      <lb ed="#C" n="75"/>verum dicunt. Tertio ita caute dicunt quod eorum falsita 
+      <lb ed="#C" n="76"/>tem vix scis dephendere: dicunt tali ano erit magna 
+      <lb ed="#C" n="77"/>pestis vel magna bella: non dicunt in quoe loco. sic eis 
+      <lb ed="#C" n="78"/>assueti assentire. si videant falsum in prtia corum: 
+      <lb ed="#C" n="79"/>exponunt quod hoc est in alia prtria. Quarto: aliqui sunt 
+      ita<lb ed="#C" n="80" break="no"/>mali vel de eorum contubernio quod exponut male dicta 
+      <lb ed="#C" n="81"/>in sensum oppositum. Quinto: rimantur secreta inter 
+      princiq<lb ed="#C" n="82" break="no"/>pes vel vident seminaria belli ia. sacta: et 
+      consi<lb ed="#C" n="83" break="no"/>derant quis est fortior et cautior: et dicut talem bene fortu 
+      <lb ed="#C" n="84"/>natum illo ano: alium male Sexto: in prnosticationi 
+      <lb ed="#C" n="85"/>bus de rebus naturalibus recte iudicat: vt de 
+      opposi<lb ed="#C" n="86" break="no"/>tione et coniunctione / festis mobilibus / et 
+      sterilita<lb ed="#C" n="87" break="no"/>te commiscent simil cum illis que hominum libertatem 
+      tan<lb ed="#C" n="88" break="no"/>gunt non apparens cum apparente: vulgus nescit 
+      discer<lb ed="#C" n="89" break="no"/>nere inter hec et illa: sed statim dest bene talis 
+      astrolo<lb ed="#C" n="90" break="no"/>logus iudicat. Septimo. aliqui eorum inuenti sunt 
+      ha<lb ed="#C" n="91" break="no"/>bere cum demonibus commertium qui eis principum 
+      se<lb ed="#C" n="92" break="no"/>creta combinationes et fraudes recitarunt. homo 
+      <lb ed="#C" n="93"/>non potest impedire demonem inuisibilem quin pses 
+      <lb ed="#C" n="94"/>erit et hec intelliget. et sic potest iudicare de 
+      se<lb ed="#C" n="95" break="no"/>cretis quae alius ho intelligere non potest talis astro 
+      <lb ed="#C" n="96"/>logus de furto secreto et homomni demon potest 
+      dice<lb ed="#C" n="97" break="no"/>re homini. et ho per quedam figmenta: vt vertendo 
+      cla<lb ed="#C" n="98" break="no"/>uem vel hmoni: fingere se hoc modo scire.
+   </p>
+            <p xml:id="jb2v19-d47142-d1e650">
+      ¶ Ad 
+      <lb ed="#C" n="99"/>aliud aristotelicum. quis sententiam veri 
+      multipha<lb ed="#C" n="100" break="no"/>riam: tamen in materia fidem concernente eam non 
+      ponde<lb ed="#C" n="101" break="no"/>ro. vltra lumeu naturale: theologus lumen spirituale 
+      <lb ed="#C" n="102"/>habet. potest tamen dici ad aristotelem quod hoc erat a casu et 
+      for<lb ed="#C" n="103" break="no"/>tuna. Secundo Aristo. hoc ab aliis audiuit. non 
+      plu<lb ed="#C" n="104" break="no"/>rimum astronomie se dedit. Tertio: hoc esse poterat 
+      <lb ed="#C" n="105"/>ex hominum malicia suas inclinationes malas sequentes 
+   </p>
+            <p xml:id="jb2v19-d47142-d1e668">
+               <lb ed="#C" n="106"/>¶ Ut sim in hac parte breuis: correlaria inferam.
+   </p>
+            <p xml:id="jb2v19-d47142-d1e674">
+      ¶ 
+      Pri<lb ed="#C" n="107" break="no"/>mum errtioneum est in philsophia naturali et heresis pestifera 
+      <lb ed="#C" n="108"/>in fide. dicere aliquem hominem necessitari ab isluentia 
+      <lb ed="#C" n="109"/>celi ad peccandum actus hominum non contigens nullo mo 
+      im<lb ed="#C" n="110" break="no"/>putatu. ¶l Secundum correlariu. maxum quod mathema 
+      <lb ed="#C" n="111"/>ticus dicere potest est dicere aliquem ese inclinatum ad 
+      ta<lb ed="#C" n="112" break="no"/>le vitis vl vtutem. tame crebrit etiam in hoc fallere
+   </p>
+            <p xml:id="jb2v19-d47142-d1e690">
+      ¶ 
+      Ter<lb ed="#C" n="113" break="no"/>tio sequitur quoam inane est astronomorum iudicium de 
+      futu<lb ed="#C" n="114" break="no"/>ris contingetibus: hoc es: de his quae dependent a libero 
+      ar<lb ed="#C" n="115" break="no"/>bitrio. et per consequens vani et vix sufficient isiructi 
+      sun<lb ed="#C" n="116" break="no"/>i fide qui circa talia isistut et ipei talibus iudicuis 
+      <lb ed="#C" n="117"/>ponunt. difficillimum est dicetur hominem icliatu ad bellum 
+      <lb ed="#C" n="118"/>puta a rege. et illo habito oppositus et consules 
+      <lb ed="#C" n="119"/>inclinantur ad pacem: et cor regis in manu dei 
+      <lb ed="#C" n="120"/>est et quocumque voluerit vertet illud. et multi deum
+      <pb ed="#V" n="80-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>rogant pro pace: dicentes in fine horarum secundum 
+      morem<lb ed="#C" n="2" break="no"/>Da pacem domine in diebus nostris. audiui a viris qui 
+      <lb ed="#C" n="3"/>bus fides merito debet adhiberi quod aliqui maximi 
+      <lb ed="#C" n="4"/>principes miserist ad consulendos mathematicos quid 
+      <lb ed="#C" n="5"/>eis futurum esset: qui misere mortui deo permittente 
+      <lb ed="#C" n="6"/>ob eorum vanitatem: spem in domino non ponentium: sed 
+      <lb ed="#C" n="7"/>tontrauenientium mandatis eius. Deutero. / 8. non 
+      <lb ed="#C" n="8"/>sit qui phitones consulat. neque diuinos.
+   </p>
+            <p xml:id="jb2v19-d47142-d1e732">
+      ¶ 
+      Quar<lb ed="#C" n="9" break="no"/>to sequitur: stultitia est expectare horam ingressus in 
+      <lb ed="#C" n="10"/>vrbem: ac si esset melior fortuna tali hora quam alia 
+      <lb ed="#C" n="11"/>loqui cum iuuene vel secum contractum tali hora inire 
+      <lb ed="#C" n="12"/>cum sene in alia: vel expectare horam siderea pro 
+      mi<lb ed="#C" n="13" break="no"/>nimo contrahendo. rem quam stabilem expectamus 
+      <lb ed="#C" n="14"/>solum sub signis fixis perficere per experientiam hec 
+      <lb ed="#C" n="15"/>non nouerunt eadem hora et eodem momento quod 
+      vni<lb ed="#C" n="16" break="no"/>obfuit alteri profuit. si bene et prudenter viuant: bene 
+      <lb ed="#C" n="17"/>se habebunt sinautem / male. illud irridet Aug. 5. de 
+      <lb ed="#C" n="18"/>ciuitate dei. c. 7. inquiens: in stultitiam singularem eligi 
+      <lb ed="#C" n="19"/>tur dies vt ducatur vxor. et lib. 3 c. 4 de trinitate 
+      <lb ed="#C" n="20"/>simile vult: et ad ianuarium: et apostolus ad gala 
+      <lb ed="#C" n="21"/>thas. 4. quomo iterum consequenter ad infirma 
+      <lb ed="#C" n="22"/>et egena elementa quibus denuo seruire vultis dies 
+      <lb ed="#C" n="23"/>pbruatis / meses / tempora / et anos. Cimeo vos ne 
+      for<lb ed="#C" n="24" break="no"/>te sine causa laborauerim in vobis. quod scite 
+      glo<lb ed="#C" n="25" break="no"/>sa marginalis exponit dicens: vt hodie non est 
+      <lb ed="#C" n="26"/>aliquid incipiendum. menses: qui cursus lune 
+      per<lb ed="#C" n="27" break="no"/>scrutantes dicunt: tali luna non est aliquid 
+      inchoan<lb ed="#C" n="28" break="no"/>dum. in libro secundo questionum veteris et 
+      no<lb ed="#C" n="29" break="no"/>ui testamenti. questi. 16 in fine: ait Augustinus 
+      <lb ed="#C" n="30"/>astrologi em inimici sunt veritatis. et in tertio 
+      <lb ed="#C" n="31"/>earundem questionum qu. / 8. dicit nil tam contra 
+      christia<lb ed="#C" n="32" break="no"/>nos quod si arti matheseos adhibeant curam. hec ets 
+      <lb ed="#C" n="33"/>inimica dinoscere legi dei: hanc em astutia et 
+      sub<lb ed="#C" n="34" break="no"/>tilitas inuenit diaboli. et circa finem dicit. fugiendum 
+      <lb ed="#C" n="35"/>omnibus modis ab hac arte monemus: curiosi 
+      <lb ed="#C" n="36"/>em eius: inimici dei sunt: et sine sollicitudine nun 
+      <lb ed="#C" n="37"/>quam sunt. semper enim suspensi expectant quod 
+      mini<lb ed="#C" n="38" break="no"/>me certum sciunt. et in secunmdone. 6. de epiphania 
+      vo<lb ed="#C" n="39" break="no"/>cat hanc artem stulticia sacrilega et indoctam 
+      do<lb ed="#C" n="40" break="no"/>ctrinam.
+   </p>
+            <p xml:id="jb2v19-d47142-d1e804">
+      ¶ Quinto sequitur albumasarum delirum 
+      <lb ed="#C" n="41"/>dicentem. qui deo supplicauerit hora qua luna cum 
+      <lb ed="#C" n="42"/>capite d achonis Ioui coniungitur: impetrat 
+      quac<lb ed="#C" n="43" break="no"/>quid petierit. quare ipsemet vel astrologorum 
+      ali<lb ed="#C" n="44" break="no"/>quis non impetrauerit ne vnquod fallatur recte de 
+      albuma<lb ed="#C" n="45" break="no"/>sare dicit halybenrodam. c. 2. tractactum 
+      quadri<lb ed="#C" n="46" break="no"/>partiti quod albumasar antequam astronomiam legeret 
+      <lb ed="#C" n="47"/>erat vnus ex illis qui cronicas faciebant. ac si 
+      dice<lb ed="#C" n="48" break="no"/>ret. non erat in philsophia institutus.
+   </p>
+            <p xml:id="jb2v19-d47142-d1e824">
+      ¶ Sexto sequitur 
+      <lb ed="#C" n="49"/>quod sancti isti quos in gallia dicimus colligere vuas 
+      <lb ed="#C" n="50"/>vtpote sancta Oportuna / Georgius / Marcus / 
+      <lb ed="#C" n="51"/>Philippus et Iacobus scta Crux / Nicolaus / non non 
+      <lb ed="#C" n="52"/>cent vitibus. viderit tamen viticole hoc in tempore sper vites 
+      pe<lb ed="#C" n="53" break="no"/>rire quando pereunt. hoc potest esse altera duarum 
+      <lb ed="#C" n="54"/>viarum. in hieme botri sunt in trunco sicut filia 
+      in<lb ed="#C" n="55" break="no"/>vtero materno: quare frigore tunc pereunt. 
+      egredi<lb ed="#C" n="56" break="no"/>untur circa dies istorum sanctorum: circa octo vel 
+      <lb ed="#C" n="57"/>timos dies aprilis: et sunt teneri. et solet esse frigus 
+      <lb ed="#C" n="58"/>ad nonum diem Maii: et botri sunt adhuc teneri. 
+      <lb ed="#C" n="59"/>quaere tunc a frigore leduntur vel sanctorum dies sunt 
+      nonbilio<lb ed="#C" n="60" break="no"/>res et magis noti quam in aliis diebus: propterea viticole
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>collectionem his sanctis attribuunt. aduertant quod yna 
+      <lb ed="#C" n="62"/>anno iacturam grandem passe sunt in vno alio die 
+      <lb ed="#C" n="63"/>intermedio. potest esse aliquis aspectus 
+      frigefacti<lb ed="#C" n="64" break="no"/>uus planetarum in his diebus citius quam in aliis: 
+      <lb ed="#C" n="65"/>accidentaliter horum sanctorum diebus coniunctus. quare 
+      <lb ed="#C" n="66"/>extrema erat insania viticolarum ville noue sancti 
+      <lb ed="#C" n="67"/>georgii prope Parisium simulacbrum diui 
+      Georgi<lb ed="#C" n="68" break="no"/>(quia vites suo die perierunt) in sequanam proiicere. et 
+      <lb ed="#C" n="69"/>merito a pertranseutibus irridentur.
+   </p>
+            <p xml:id="jb2v19-d47142-d1e874">
+      ¶ Sexto sequitur 
+      <lb ed="#C" n="70"/>quando aliquid euenit sine causa naturali praeut a: 
+      attribue<lb ed="#C" n="71" break="no"/>dum est demoni et pactioni cum demone. vnde u 
+      <lb ed="#C" n="72"/>plex est pactio cum demone. vna formalis et 
+      exps<lb ed="#C" n="73" break="no"/>sa facta per signa / voces / scripturam vel 
+      huius<lb ed="#C" n="74" break="no"/>modi. Alia est pactio interpretatiua: vtpote: quando 
+      a<lb ed="#C" n="75" break="no"/>liquid dicit de aliquo quod naturaliter non potest 
+      sci<lb ed="#C" n="76" break="no"/>ri sine arte demoniaca: demon praiemittit aliqua 
+      ve<lb ed="#C" n="77" break="no"/>ra antequam secum fiat pactio vt hominem in fine capiat 
+      <lb ed="#C" n="78"/>et habeat pactionem formalem in fine. et 
+      inter<lb ed="#C" n="79" break="no"/>dum diuinos honores vt spernatur deus et fi- 
+      <lb ed="#C" n="80"/>des eius. interdum dubitatur de aliquo an fieri 
+      <lb ed="#C" n="81"/>potest per naturam aliam a demone: tunc 
+      suspi<lb ed="#C" n="82" break="no"/>cio habenda est de pactione cum demone. et non 
+      <lb ed="#C" n="83"/>ita facile de homine iudicandum est quousque doceatur de 
+      <lb ed="#C" n="84"/>rei veritate. et quaeratur qua via hoc nouit. et si non 
+      do<lb ed="#C" n="85" break="no"/>ceat: habendus est suspectus in fide et puniendus. 
+      decla<lb ed="#C" n="86" break="no"/>ratur exemplariter illud membrati. Exemplum 
+      primi<lb ed="#C" n="87" break="no"/>pote quod clauis virtatur ligando nomen sortis et non 
+      pla<lb ed="#C" n="88" break="no"/>tonis quando hetur suspicio de sorte dicendo. Si vide 
+      <lb ed="#C" n="89"/>bas sortem currebas cum eo. etc. vel quod depiguatur 
+      fo<lb ed="#C" n="90" break="no"/>es illius de quo dubitatur an furtum commiserit 
+      percutien<lb ed="#C" n="91" break="no"/>do illam imaginem cultello successiue: et si ille cuius 
+      <lb ed="#C" n="92"/>est imago furtum commiserit: oculi eius lachrymam 
+      <lb ed="#C" n="93"/>primo mediocrem / postea maiorem / et demum maximam 
+      <lb ed="#C" n="94"/>ad excecationem emittent dictis aliquibus verbis 
+      <lb ed="#C" n="95"/>incidere illesus super ensem acutissimum. imaginem 
+      <lb ed="#C" n="96"/>ceream sortis liquaefaciendo prope ignem: et si tota 
+      liqua<lb ed="#C" n="97" break="no"/>fiat sortes morietur. facere aliquod signum in cera vel 
+      <lb ed="#C" n="98"/>luto. et quod talis figura aliquid faciat plus quam si non 
+      es<lb ed="#C" n="99" break="no"/>set ea figura. tenere demonem in annulo inclusum 
+      <lb ed="#C" n="100"/>quadriennio vel certo tempore. dicere de absente remo 
+      <lb ed="#C" n="101"/>to an viuat vel mortuus sit vel quonam pacto se 
+      ha<lb ed="#C" n="102" break="no"/>beat
+   </p>
+            <p xml:id="jb2v19-d47142-d1e949">
+      ¶ Aplius patet astronomor inscitia dicentium 
+      <lb ed="#C" n="103"/>sex sectas prncipales distingui per coniunctionem 
+      Io<lb ed="#C" n="104" break="no"/>uis cum aliis planetis. si coniungatur Iuppiter 
+      Sa<lb ed="#C" n="105" break="no"/>turno: significat sectam Iudaicam. si Iuppiter iungatur 
+      <lb ed="#C" n="106"/>Marti. significat legem caldaicam que docet ignem 
+      adora<lb ed="#C" n="107" break="no"/>re cuius nature est mars. si soli signitur lex egiptiaca 
+      <lb ed="#C" n="108"/>quae colit miliciam celi cuius princeps est sol. Si vene 
+      <lb ed="#C" n="109"/>ri iungatur: legem saracenorum significat que tota venerea 
+      <lb ed="#C" n="110"/>est. Si mercurio iungatur: tunc significatur lex 
+      mercu<lb ed="#C" n="111" break="no"/>rialis siue christiana: licet alii legem christianorum soli dentr 
+      <lb ed="#C" n="112"/>si lune: tunc erit secta antechprisei. hec vide in 
+      archi<lb ed="#C" n="113" break="no"/>diuinatore albumasoirs libro de magnis 
+      coniunctio<lb ed="#C" n="114" break="no"/>bus dicitram. 4. tractactus prmi. sed vide virum illum de 
+      <lb ed="#C" n="115"/>lirum differentia vltima tractatus secundi eiusdem 
+      <lb ed="#C" n="116"/>libri dicentem secta machometi solum duraturam 
+      <lb ed="#C" n="117"/>sa. annos: et iam nongentos transcendit 
+      an<lb ed="#C" n="118" break="no"/>nos siuot morem legis romanorum (qus christianos vo 
+      <lb ed="#C" n="119"/>cat) solum durare. 46h. an ipevi alius poterat cogi 
+      <lb ed="#C" n="120"/>scere tales coniunctones procedem (vt dt) viso quod he secte
+      <pb ed="#V" n="81-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>ton pluries continguunt: quomo habeita est experientia. sed 
+      re<lb ed="#C" n="2" break="no"/>redeundo ad liquaefactionem cere / figuras / et 
+      hmoniiau<lb ed="#C" n="3" break="no"/>denter dico omna ista sunt deliria et a solo demone 
+      <lb ed="#C" n="4"/>cueniunt. si vere his signis vtens practictat: tunc 
+      <lb ed="#C" n="5"/>notum est vtitur consortio demonum et ab eo 
+      <lb ed="#C" n="6"/>veritatem cognoscit. et illud innuit Augustinus 
+      <lb ed="#C" n="7"/>secundo super Genesim ad lirtram concludendo subiungit. 
+      quae<lb ed="#C" n="8" break="no"/>propter bono christiano siue mathematici siue quilibet 
+      <lb ed="#C" n="9"/>impie diuinantium maxime dicentes vera cauendi sunt 
+      <lb ed="#C" n="10"/>ne consortio demoniorum animam deceptam pacto 
+      qui<lb ed="#C" n="11" break="no"/>dam societatis irretitant. aliqua sunt multis 
+      oc<lb ed="#C" n="12" break="no"/>culta quae habent causas naturales vulgo inscitas: 
+      ali<lb ed="#C" n="13" break="no"/>quibus sapientibus notas. Exemplum. corallus 
+      san<lb ed="#C" n="14" break="no"/>guinem stringit. erga dolorem stomachi valet. 
+      Gali<lb ed="#C" n="15" break="no"/>enus cognouit per coralli appositionem et 
+      remotio<lb ed="#C" n="16" break="no"/>nem ab ipso patiente. hinc pendi circa colla corallum 
+      <lb ed="#C" n="17"/>in fune gestant. iaspis hac via gestus dicitur hominem 
+      <lb ed="#C" n="18"/>facere castum. et Adamas sinistro lateri 
+      alliga<lb ed="#C" n="19" break="no"/>tus dicitur valere con hostes cont feras bestias et 
+      incubun<lb ed="#C" n="20" break="no"/>queda herba succensa facit trabes apparere 
+      ser<lb ed="#C" n="21" break="no"/>pentes. et ad cuiusdam lampadis accensionem homines vi 
+      <lb ed="#C" n="22"/>dentur velut mortui vel nigri et sine capitibus. 
+      cu<lb ed="#C" n="23" break="no"/>riosi rerum indagatores et mimi multa similia 
+      fa<lb ed="#C" n="24" break="no"/>ciunt. quando de aliquo dubitatur qua arte illud facit: vt 
+      <lb ed="#C" n="25"/>in duabus imaginibus vicinis quarum vna candelam 
+      <lb ed="#C" n="26"/>in medio positam accedit: altera vero eam 
+      exti<lb ed="#C" n="27" break="no"/>guit. videat causa naturalis sulphurea cum vna 
+      ima<lb ed="#C" n="28" break="no"/>gine posita et similit alia: imaginibus depositis. 
+      <lb ed="#C" n="29"/>et si ita inueniatur: tunc naturaliter fit. et ponit solum 
+      mi<lb ed="#C" n="30" break="no"/>mus imagines vt homines admiratiuos reddat. si a 
+      <lb ed="#C" n="31"/>solis imaginibus hoc procedat sine applicatione 
+      <lb ed="#C" n="32"/>aliarum rerum naturalium dicatur quod arte demoniaca hoc 
+      <lb ed="#C" n="33"/>facit. cum artificiale inquantum hmoni nullam operationem 
+      <lb ed="#C" n="34"/>naturalem habenat. actiones causarum a posteriori a 
+      scienti<lb ed="#C" n="35" break="no"/>bus actiua passiuis applicare per effectus 
+      cogno<lb ed="#C" n="36" break="no"/>scuntur. quis sciret sine experientia quod sanguis 
+      hir<lb ed="#C" n="37" break="no"/>ci petrosilio et silere montano aliti adamantem 
+      <lb ed="#C" n="38"/>mollesceret. et ex consequenti cognosceret quod petrosilium 
+      <lb ed="#C" n="39"/>calculos valet.
+   </p>
+            <p xml:id="jb2v19-d47142-d1e1079">
+      ¶ Ut paucis epilogado concludam 
+      <lb ed="#C" n="40"/>istos astrologos iudiciarios: potissimum in his que 
+      <lb ed="#C" n="41"/>depedent a libero arbitrio: no probos reputo viros 
+      <lb ed="#C" n="42"/>Nec eorum vnum vnquam vidi deuotum virum: sed 
+      fantasti<lb ed="#C" n="43" break="no"/>cum. valde hoc stundium abhorreo. et vniuersitatem 
+      <lb ed="#C" n="44"/>Parisiacam in hoc commendo que circa solidas discipli. 
+      <lb ed="#C" n="45"/>nas insudat: et planetarum theoricas et cursus 
+      spe<lb ed="#C" n="46" break="no"/>culationis syderum: iudicia euitas nisi quo ad 
+      natur<lb ed="#C" n="47" break="no"/>ralia: vt pote ad sanguinis diminutionem / pharma 
+      <lb ed="#C" n="48"/>tiam / et illa quae a causis mere naturalibus dependent 
+      <lb ed="#C" n="49"/>Aug. sic hanc pesto exosam habuit vt 
+      stomacho<lb ed="#C" n="50" break="no"/>se (et bene quidem) vbi materia occurrebat loquebatur. ita 
+      <lb ed="#C" n="51"/>fecerunt omnes sapientes theologi fidem habentes. 
+      Aristo<lb ed="#C" n="52" break="no"/>teles gentilis non inuoluebat se vnquam in hoc gne 
+      stu<lb ed="#C" n="53" break="no"/>dii. et non solum isti: sed prophete ea abhorret. Esare. 
+      <lb ed="#C" n="54"/>47. dicit propheta babiloniis: potius deus per os 
+      <lb ed="#C" n="55"/>prophete. Stent et saluent te augures celi qui 
+      contem<lb ed="#C" n="56" break="no"/>plabantur sydera: supputabat menses: vt ex eis ant 
+      <lb ed="#C" n="57"/>nunciarent vctura tibi. ecce facti sunt quasi stipulam. 
+      <lb ed="#C" n="58"/>ignis combussit eos. non liberabant animam suam de 
+      manu<lb ed="#C" n="59" break="no"/>flame. et loco de augures dixerunt septuaginta (vt 
+      <lb ed="#C" n="60"/>dicit hieronymus) astrologi.
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="149-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d89601"><!-- l2d39q2 -->
+            <head xml:id="jb2v19-d89601-Hd1e101">Quaestio 2</head>
+            <head xml:id="jb2v19-d89601-Hd1e103" type="question-title">An quilibet contraveniens conscientiae suae peccat</head>
+            <p xml:id="jb2v19-d89601-d1e106">
+               <lb ed="#C" n="64"/>SEcundo quaeritur an quilibet 
+      con<lb ed="#C" n="65" break="no"/>traueuiens conscientie sue 
+      pec<lb ed="#C" n="66" break="no"/>cat.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e115">
+      ¶ Pro solutione questionis 
+      <lb ed="#C" n="67"/>pono conclusiones: quarum 
+      pri<lb ed="#C" n="68" break="no"/>ma est: aliquis 
+      confo<lb ed="#C" n="69" break="no"/>conscientie sue peccat.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e124">
+      ¶ 
+      Secun<lb ed="#C" n="70" break="no"/>da conclusio: quilibet libere 
+      con<lb ed="#C" n="71" break="no"/>traueniens conscientie sue dictante 
+      deobligatio<lb ed="#C" n="72" break="no"/>ne peccat. prior conclusio probatur. quicuque contra 
+      <lb ed="#C" n="73"/>uenit precepto superioris scienter vel ex 
+      ignoran<lb ed="#C" n="74" break="no"/>tia vincibili peccat. aliqu is conformans se 
+      coscien<lb ed="#C" n="75" break="no"/>tie sue est huiusmodi. igitur. consequentia tenet cum 
+      <lb ed="#C" n="76"/>maiore. minor patet. multi infideles putabant 
+      ob<lb ed="#C" n="77" break="no"/>sequium prestare occidendo martyres: et 
+      defen<lb ed="#C" n="78" break="no"/>sores fidei. et tamen eos occidendo peccabant. 
+   </p>
+            <p xml:id="jb2v19-d89601-d1e147">
+               <lb ed="#C" n="79"/>¶ Secunda conclusio probatur. quicumque facit vel 
+      <lb ed="#C" n="80"/>omittit illud quod credit esse peccatum peccat. 
+      con<lb ed="#C" n="81" break="no"/>traueniens conscientie sue libere est huismodi. igitur. 
+   </p>
+            <p xml:id="jb2v19-d89601-d1e156">
+               <lb ed="#C" n="82"/>¶ Secundo arguitur ad idem. qui contempnit 
+      pre<lb ed="#C" n="83" break="no"/>ceptorem suum illuminantem in fide et moribus 
+      pec<lb ed="#C" n="84" break="no"/>cat. sed sic est de illo qui sue conscientie contra 
+      <lb ed="#C" n="85"/>nit. igitur. non potest quilibet habere preceptorum 
+      <lb ed="#C" n="86"/>extrinsecum semper presentem. propterea datur ei 
+      ra<lb ed="#C" n="87" break="no"/>tio ad recte dirigendum eum de actibus 
+      sui<lb ed="#C" n="88" break="no"/>quam si relinquat quando ratio obligatorie 
+      di<lb ed="#C" n="89" break="no"/>ctat contempnit preceptorem datum.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e176">
+      ¶ 
+      Ter<lb ed="#C" n="90" break="no"/>tio arguitur. quicumque credit occidere homine 
+      <lb ed="#C" n="91"/>auctoritate prpa. percutiens statuam in 
+      teneb<lb ed="#C" n="92" break="no"/>quam putat esse hominem: peccat mortalitere / 
+      <lb ed="#C" n="93"/>ac si realiter hominem occideret. sed contrauenies 
+      <lb ed="#C" n="94"/>conscientie sue est huiusmodi. igitur.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e189">
+      ¶ 
+      Quar<lb ed="#C" n="95" break="no"/>to arguitur per illud quod scribitur ad 
+      Roma<lb ed="#C" n="96" break="no"/>nos. 14. omne quod non est ex fide peccatum est. vbi 
+      <lb ed="#C" n="97"/>glosa ex fide contra conscientiam: et per. c. litteras 
+      <lb ed="#C" n="98"/>de resti. spo. et. 2I q. I. omnes.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e200">
+      ¶ Tertia 
+      conclu<lb ed="#C" n="99" break="no"/>sio. non omnis conformans se conscientie erronee 
+      ma<lb ed="#C" n="100" break="no"/>le agit se conformando illi. patet: si conscientia 
+      er<lb ed="#C" n="101" break="no"/>ronea dictet sorti quod teneatur intrare carthusiam. 
+      <lb ed="#C" n="102"/>et ipse introeat: stat quod erit ei vtile. tunc talis 
+      con<lb ed="#C" n="103" break="no"/>formando se conscientie erronee sue non peccat. et 
+      <lb ed="#C" n="104"/>ita in talibus. et in indifferentibus patet. iste non 
+      con<lb ed="#C" n="105" break="no"/>trauenit alicui praecepto. ergo intrado carthusiam 
+      <lb ed="#C" n="106"/>non male agit.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e220">
+      ¶ Insuper: talis actus volendi 
+      intra<lb ed="#C" n="107" break="no"/>re carthusiam regulatur ab errore non imputa 
+      <lb ed="#C" n="108"/>bili huic sed error non imputabilis vel 
+      ignoran<lb ed="#C" n="109" break="no"/>tia inuincibilis sufficit regulare actum moraliter 
+      <lb ed="#C" n="110"/>bonum. igitur talis actus volendi intrare non est 
+      ma<lb ed="#C" n="111" break="no"/>lus.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e234">
+      ¶ Ex his sequitur: si quis iudicat si non surgat 
+      <lb ed="#C" n="112"/>ad magnificat peccat. et non surgit cum potest: 
+      pec<lb ed="#C" n="113" break="no"/>cat. patet contrauenit conscientie sue.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e241">
+      ¶ Secundo 
+      <lb ed="#C" n="114"/>sequitur: si quis iudicet quod mortaliter peccat 
+      tran<lb ed="#C" n="115" break="no"/>siens super duo stramina plicata per modum 
+      cru<lb ed="#C" n="116" break="no"/>cis. et si super illam cruce transtuerit: mortaliter peccat 
+   </p>
+            <p xml:id="jb2v19-d89601-d1e250">
+               <lb ed="#C" n="117"/>¶ Tertio sequitur: non quilibet contraueniens 
+      <lb ed="#C" n="118"/>conscientie deliberato animo mortaliter peccat. 
+      per<lb ed="#C" n="119" break="no"/>tet: stat quod sit conscientia de veniali. sortes scit quod 
+      men<lb ed="#C" n="120" break="no"/>tiri iocose est veniale peccatum. non obstante men¬
+      <pb ed="#V" n="150-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>tiri.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e268">
+      ¶ Quarto sequitur: contraueniens 
+      conscien<lb ed="#C" n="2" break="no"/>tie dictanti de magno peccato plus peccat quam 
+      con<lb ed="#C" n="3" break="no"/>traueniens conscientie dictanti de paruo. hoc 
+      cor<lb ed="#C" n="4" break="no"/>relarium sequitur ex probationibus secunde 
+      conclu<lb ed="#C" n="5" break="no"/>sionis si applicentur ad hanc.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e279">
+      ¶ Quinto sequitur. 
+      <lb ed="#C" n="6"/>Interdum ledit conscientia nimis stricta. patet 
+      <lb ed="#C" n="7"/>facit de non peccato peccatum. hoc est facit illud 
+      <lb ed="#C" n="8"/>quod de se est licitum esse peccatum propter difformi 
+      <lb ed="#C" n="9"/>tatem ad conscientiam. nec ex illo sequitur quod 
+      habe<lb ed="#C" n="10" break="no"/>re nimis latam conscientiam est bonu. xmmo 
+      vtru<lb ed="#C" n="11" break="no"/>que est malum. et medium bonum. potest esse excessus 
+      <lb ed="#C" n="12"/>tantus in vno extremorum. et paruus excessus in 
+      <lb ed="#C" n="13"/>alio: quod vnum notabiliter cognoscitur plus obesse / 
+      <lb ed="#C" n="14"/>quam reliquum. sed vbi est equalis excessus a recto 
+      <lb ed="#C" n="15"/>iudicio intellectus in conscientia lata vel 
+      angu<lb ed="#C" n="16" break="no"/>sta: ceteris paribus conscientia stricta est melior. 
+      <lb ed="#C" n="17"/>patet. citius talis reuocatur ad bonum cui alludit illud 
+      <lb ed="#C" n="18"/>gregorianum. bonarum mentium est culpam 
+      agnosce<lb ed="#C" n="19" break="no"/>re vbi culpa nbnn est. hoc est trepidare et 
+      inquire<lb ed="#C" n="20" break="no"/>re si est cuilpa. et abstinere quousque doceatur quid sit 
+      <lb ed="#C" n="21"/>in rei veritate. viris stricte conscientie 
+      consulen<lb ed="#C" n="22" break="no"/>dum est: quod viuant cum prudentibus et timorate 
+      con<lb ed="#C" n="23" break="no"/>scientie. quibus scrupulos conscientie sue detegat 
+      <lb ed="#C" n="24"/>vt alii eorum conscientias ratificentur.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e323">
+      ¶ Contra illa 
+      <lb ed="#C" n="25"/>arguitur. ex conclusionibus et dictis sequitur: quod 
+      ho<lb ed="#C" n="26" break="no"/>mo obligaretur ad impossibile. patet obligatur 
+      <lb ed="#C" n="27"/>seruare legem dei. et cum hoc obligatur facere quod 
+      <lb ed="#C" n="28"/>dictat conscientia: quam pono de opposito. sed hoc 
+      <lb ed="#C" n="29"/>est incompossibile cum obseruatione praecepti dei. 
+      <lb ed="#C" n="30"/>igitur.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e340">
+      ¶ Secundo: homo obligatur non furari 
+      <lb ed="#C" n="31"/>ex precepto diuino. sed pono quod conscientia 
+      erro<lb ed="#C" n="32" break="no"/>nea dictat sorti quod est capiendum alienum ab auaro 
+      <lb ed="#C" n="33"/>diuiti: vt detur bono pauperi. si homo furetur 
+      pec<lb ed="#C" n="34" break="no"/>cat. si vero non furetur contraueniet conscientie 
+      <lb ed="#C" n="35"/>sue: et iterum peccabit. et sic homo erit realiter in 
+      le<lb ed="#C" n="36" break="no"/>ge dei perplexus. et sic ad impossibile obligabitur 
+   </p>
+            <p xml:id="jb2v19-d89601-d1e356">
+               <lb ed="#C" n="37"/>¶ Ad primum respondetur. negado sequelam. et ad 
+      pro<lb ed="#C" n="38" break="no"/>bationem concedo quod homo tenetur seruare legem 
+      <lb ed="#C" n="39"/>dei. sed nego quod conscientia de opposito obliget. 
+      <lb ed="#C" n="40"/>nulla conscientia erronea proprie loquendo 
+      obli<lb ed="#C" n="41" break="no"/>gat. sed ligat hominem ad eius depositionem. vel ad 
+      <lb ed="#C" n="42"/>conformamndum se illi. quando conscientia erronea 
+      <lb ed="#C" n="43"/>est opposita precepto: tunc homo obligatur 
+      con<lb ed="#C" n="44" break="no"/>scientiam deponere. et non contrauenire precepto. 
+   </p>
+            <p xml:id="jb2v19-d89601-d1e376">
+               <lb ed="#C" n="45"/>¶ Ad secundum admitto illa in argumento 
+      assum<lb ed="#C" n="46" break="no"/>pta et si homo furetur peccat. et iterum si sue conscientie contra 
+      <lb ed="#C" n="47"/>ueniat peccat. sed non sequitur quod talis realiter in 
+      le<lb ed="#C" n="48" break="no"/>ge dei erit perplexus. patet ei via euadendi 
+      pec<lb ed="#C" n="49" break="no"/>cati: deponendo conscientiam. in nulla lege 
+      homo<lb ed="#C" n="50" break="no"/>est realiter perplexus: quin patet ei via euadendi 
+      <lb ed="#C" n="51"/>peccati. uicet existimat secundum suam stulta 
+      opi<lb ed="#C" n="52" break="no"/>nionem quicquid egerit peccabit. stat quod homo 
+      contra<lb ed="#C" n="53" break="no"/>ueniat vni legi: ex ignoratia inuincibili. et tunc non 
+      <lb ed="#C" n="54"/>peccat. si ex ignorantia vincibili tunc non excusatur 
+      <lb ed="#C" n="55"/>a toto.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e402">
+      ¶ Tertio arguitur: ponendo quod aliquis 
+      ha<lb ed="#C" n="56" break="no"/>beat conscientiam erroneam inuincibiliter 
+      contra<lb ed="#C" n="57" break="no"/>snum in preceptum in hoc instanti. quod non teneatur 
+      <lb ed="#C" n="58"/>facere a. opus precepti. mox sciat per informa 
+      <lb ed="#C" n="59"/>tionem internam vel externam immediate post hoc. a. 
+      <lb ed="#C" n="60"/>esse opus precepti. talis non subito conscientiam
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>erroneam deponere. ludicium est certe intentionis 
+      <lb ed="#C" n="62"/>licet in instanti fuit productum: non potest subto 
+      <lb ed="#C" n="63"/>extingui. nitatur conscientiam deponere quae tum 
+      <lb ed="#C" n="64"/>potest et interea faciat a. ille talis non peccat. 
+      <lb ed="#C" n="65"/>et tamen contrauenit conscientie sue. ergo 
+      secun<lb ed="#C" n="66" break="no"/>da conclusio est falsa.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e431">
+      ¶ Respondetur: stante illo 
+      iudi<lb ed="#C" n="67" break="no"/>cio illud non est preceptum: non potest habere 
+      iudi<lb ed="#C" n="68" break="no"/>cium quod est preceptum. et facit tantum quantum 
+      <lb ed="#C" n="69"/>potest ad conscientic depositionem: non imputabitur 
+      <lb ed="#C" n="70"/>ei pro tunc de precepto.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e442">
+      ¶ Quarto arguitur: 
+      pona<lb ed="#C" n="71" break="no"/>tur sortem habere scrupulum quod non dixit quattuor vel 
+      <lb ed="#C" n="72"/>quinque psalmos matutinarum. puta a te deum lauda 
+      <lb ed="#C" n="73"/>mus inclusiue ad laudate dominum de celis. et 
+      interdi<lb ed="#C" n="74" break="no"/>cendum horas: ex distractione inueniat se in fine 
+      <lb ed="#C" n="75"/>psalmi vltimi. et habeat scrupulum de psalmis non 
+      <lb ed="#C" n="76"/>dictis. adhuc cum his scrupulis stat hominem non 
+      <lb ed="#C" n="77"/>peccare. non vlterius dicentem illos psalmos. 
+      er<lb ed="#C" n="78" break="no"/>go homo contraueniens sue conscientie non 
+      pec<lb ed="#C" n="79" break="no"/>cat.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e465">
+      ¶ Respondetur non est idem scrupulus 
+      conscien<lb ed="#C" n="80" break="no"/>tie / et conscientia. nam conscientia est iudicium quo 
+      <lb ed="#C" n="81"/>intellectus iudicat habere scrupulum conscientio 
+      <lb ed="#C" n="82"/>nnllum iudicium ponit: sed motiua aliqua contra 
+      con<lb ed="#C" n="83" break="no"/>scientiam. modo illa stant simul in intellectu: quod 
+      <lb ed="#C" n="84"/>homo habeat iudicium quod dixit hos psalmos. et 
+      ha<lb ed="#C" n="85" break="no"/>beat noticiam in opprstum. illa motiua sunt 
+      insufficien<lb ed="#C" n="86" break="no"/>tia ad illius iudicii depositionem. habet sortes 
+      mo<lb ed="#C" n="87" break="no"/>tiuum grandius pro sua conscientia. scit quando 
+      di<lb ed="#C" n="88" break="no"/>xit cum socio inaduertenter. scit dicere psalmos 
+      <lb ed="#C" n="89"/>laudum memoriter ex habitu sine aduertentia. nec 
+      <lb ed="#C" n="90"/>tenetur semper aduertere dicendo horas inuenit 
+      <lb ed="#C" n="91"/>se nunc in vltimo psalmo. ergo est ei verisimile quod 
+      <lb ed="#C" n="92"/>reliquos iam dixit. pro leuibus motiuis. in 
+      oppo<lb ed="#C" n="93" break="no"/>situm non tenetur psalmos hos iterare vel 
+      dice<lb ed="#C" n="94" break="no"/>re: dato quod non dixit. per ignoratia inuincibilem 
+      <lb ed="#C" n="95"/>excusatur. et ita in qualibet alia materia 
+      scrupu<lb ed="#C" n="96" break="no"/>lorum cum conscientia. quia solum exemplariter de 
+      <lb ed="#C" n="97"/>horis locutus sum. scrupulus potest esse leuis et 
+      <lb ed="#C" n="98"/>tunc est negligendus et contemnendus. si sit 
+      ma<lb ed="#C" n="99" break="no"/>gnus scrupulus magis est ponderandus. potest eus 
+      <lb ed="#C" n="100"/>talis scrupulus: quod tollit conscientiam: ita quod homo 
+      <lb ed="#C" n="101"/>erit dubius nullum assensum habendo: de hac parte 
+      <lb ed="#C" n="102"/>vel opposita. quando motiua hinc inde sunt 
+      equa<lb ed="#C" n="103" break="no"/>liter fortia. tunc teneatur pars securior. sed pondera non 
+      <lb ed="#C" n="104"/>esse idem: scrupulum conscientie. et conscientiam. 
+   </p>
+            <p xml:id="jb2v19-d89601-d1e522">
+               <lb ed="#C" n="105"/>¶ Quinto arguitur: si secunda conclusio esset vera: 
+      <lb ed="#C" n="106"/>sequitur hec conclusio multum extranea: vt videtur ad 
+      <lb ed="#C" n="107"/>peccatum sortes obligatur. patet pono quod sortes 
+      tenea<lb ed="#C" n="108" break="no"/>tur ad a. opus praecepti diuini: vt pote ad dandam 
+      ele<lb ed="#C" n="109" break="no"/>mosinam extreme pauperi. indicet erronee illum esse 
+      <lb ed="#C" n="110"/>inutiliter reipublice: et quod non est illi subueniendum 
+      <lb ed="#C" n="111"/>et subueniat illi: implendo preceptum diuinum stante 
+      <lb ed="#C" n="112"/>hoc iudicio erroneo. Arguitur sic. ad hoc opus 
+      sor<lb ed="#C" n="113" break="no"/>tes obligatur. hoc opus est sorti peccatum. ergo ad 
+      pec<lb ed="#C" n="114" break="no"/>catum sortis obligatur. consequentia patet expositorie 
+      <lb ed="#C" n="115"/>et maior patet ex diuino praecepto termino. minor 
+      pa<lb ed="#C" n="116" break="no"/>tet ex conclusione secunda contrauenit conscientie sue. 
+      di<lb ed="#C" n="117" break="no"/>ctanti ei quod peccat sic faciendo.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e553">
+      ¶ Respondetur 
+      du<lb ed="#C" n="118" break="no"/>pliciter: tum primo. maior est falsa. Si per 
+      pronomen<lb ed="#C" n="119" break="no"/>hoc demonstres actum interiorem puta volitionem dam 
+      <lb ed="#C" n="120"/>di: tunc maior est falsa. per medietatem illius actus
+      <pb ed="#V" n="150-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>homo potest adimplere preceptum et sic cauillari 
+      po<lb ed="#C" n="2" break="no"/>tes. si pronomen demonsiret dationem exteriorem 
+      iudi<lb ed="#C" n="3" break="no"/>cio maiorem: quod homo teneatur ad hanc dationem. 
+      <lb ed="#C" n="4"/>per aliam similem potest adimplere praeceptum. et si contra hoc 
+      <lb ed="#C" n="5"/>replices: ad hanc dationem vel hanc et c. homo 
+      te<lb ed="#C" n="6" break="no"/>netur. Hec datio vel illa est peccatum: ergo ad peccatum 
+      <lb ed="#C" n="7"/>homo tenetur. hoc non iuuat singularisando totum 
+      <lb ed="#C" n="8"/>disiunctum vnica singularisatione totum accipitur 
+      pro<lb ed="#C" n="9" break="no"/>vno discreto supplemento et sic maior erit falsa 
+      fi<lb ed="#C" n="10" break="no"/>non sic singularises erit nullus.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e588">
+      ¶ Secundo respondetur: 
+      <lb ed="#C" n="11"/>maiore admissa rotunde loquendo concedendo hanc. 
+      <lb ed="#C" n="12"/>ad illud quod est sorti peccatum ex stulticia sua sortes 
+      <lb ed="#C" n="13"/>tenetur que valet hanc: ad substantiam actus sortes 
+      <lb ed="#C" n="14"/>tenetur ex praecepto dei: quam sortes faciendo ex sua 
+      <lb ed="#C" n="15"/>stulticia: quia contrauenit conscientie sue peccat: nec 
+      il<lb ed="#C" n="16" break="no"/>lud est extraneum si multi sapientes dicerent sorti. 
+      fa<lb ed="#C" n="17" break="no"/>cere a. est preceptum diuinum. quibus tenetur credere 
+      <lb ed="#C" n="18"/>et ipse facit a. contra conscientia: nunmquid ipse peccat 
+      <lb ed="#C" n="19"/>faciendo a: ergo tunc ad aliquid sortes tenetur: quod 
+      fa<lb ed="#C" n="20" break="no"/>ciendo ipse peccat: ex stulticia sua contraueniendo 
+      <lb ed="#C" n="21"/>conscientie sue quam tenetur deponere et non facit. 
+   </p>
+            <p xml:id="jb2v19-d89601-d1e614">
+               <lb ed="#C" n="22"/>¶ Redeundo ergo ad neruum argumenti conceditur 
+      <lb ed="#C" n="23"/>hec conclusio de virtute sermonis: ad peccatum sortes 
+      <lb ed="#C" n="24"/>tenetur que valet hanc: ad illud quod est peccatum 
+      sor<lb ed="#C" n="25" break="no"/>tes tenetur: et hanc ad illud quod est peccatum ex 
+      stul<lb ed="#C" n="26" break="no"/>ticia sua sortens tenetur sed sortes non tenetur ad peccatum quo 
+      <lb ed="#C" n="27"/>nec tenetur peccare immo tenetur non peccare. et hoc 
+      <lb ed="#C" n="28"/>fit deponendo conscientiam erroneam quam tenetur 
+      de<lb ed="#C" n="29" break="no"/>ponere.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e634">
+      ¶ Sexto arguitur sic. ticius iudex coram 
+      <lb ed="#C" n="30"/>quo sempronius est probatus nocens in casu 
+      san<lb ed="#C" n="31" break="no"/>guinis: quem iudex nouit innocentem. putet ipse quod 
+      de<lb ed="#C" n="32" break="no"/>beat procedere secundum allegata et probata. et iudicet 
+      <lb ed="#C" n="33"/>sempronium vltimo supplicio puniendum. cum hoc 
+      iu<lb ed="#C" n="34" break="no"/>dicet quod ipse male agit. tunc sic ticius contrauenit 
+      con<lb ed="#C" n="35" break="no"/>scientie sue in hoc casu et non peccat. ergo secunda 
+      conclusio<lb ed="#C" n="36" break="no"/>falsa.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e653">
+      ¶ Forte dices contrauenit conscientie sue vt 
+      <lb ed="#C" n="37"/>est persona priuata: non autem vt est persona publica: 
+      <lb ed="#C" n="38"/>iudicat vt est persona publica quod debet procedere 
+      <lb ed="#C" n="39"/>secudum allegata et probata vt est persona priuata 
+      iu<lb ed="#C" n="40" break="no"/>dicat quod male agit et tenetur hoc non facere.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e664">
+      ¶ 
+      Con<lb ed="#C" n="41" break="no"/>tra hoc arguitur titius habet nisi vnum intellectum: et 
+      <lb ed="#C" n="42"/>non potest habere iudicia contraria dato quod sit persona 
+      <lb ed="#C" n="43"/>publica in iudicio. et domi persona priuata: ergo si 
+      <lb ed="#C" n="44"/>iudicet quod male agit et tenetur hoc non facere 
+      contra<lb ed="#C" n="45" break="no"/>uenit conscientie sue et per consequens peccat. Uel 
+      se<lb ed="#C" n="46" break="no"/>cunda conclusio est falsa: quod probare contendimus.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e680">
+      ¶ 
+      Se<lb ed="#C" n="47" break="no"/>ptimo arguitur: habeat sortes conscientiam erroneam 
+      <lb ed="#C" n="48"/>quod tenetur facere a: habent praeceptum diuinum in oppositum 
+      <lb ed="#C" n="49"/>et sit in terminis casus hic non sit mostrimonium 
+      inter<lb ed="#C" n="50" break="no"/>sortem et bertam: et credat sortes erronee quod sic. et quod 
+      <lb ed="#C" n="51"/>teneatur reddere berte tanquam vxori debitum hac 
+      no<lb ed="#C" n="52" break="no"/>cte. tunc quicquid facit sortes stante hac 
+      conscien<lb ed="#C" n="53" break="no"/>tia quam non deponit peccat. vel ergo magis peccat 
+      <lb ed="#C" n="54"/>debitum reddendo vel minus peccat quam abstinendo. si 
+      <lb ed="#C" n="55"/>magis peccat. Contra: ponatur quod ipse iudicet esse 
+      <lb ed="#C" n="56"/>multo maius peccatum non reddere debitum quam 
+      adulte<lb ed="#C" n="57" break="no"/>rari. si minus peccat. ergo lex inferioris scilicet 
+      con<lb ed="#C" n="58" break="no"/>scientia sortis plus obligat quam lex dei superioris: 
+      <lb ed="#C" n="59"/>quod non videtur esse dicendum. glo. c. i. de offi. iudi. 
+      <lb ed="#C" n="60"/>ordi. dicit quod iudex debet procedere secundum alle
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>ta et probata. nec peccat agendo contra conscientiam 
+      <lb ed="#C" n="62"/>hoc idem tenet glo. in. c. iudicet. 3. q. 7. Cardinalis 
+      <lb ed="#C" n="63"/>dicit non debet sequi conscientiam vt persona priuatua: 
+      <lb ed="#C" n="64"/>sed conscientia qua habet vt persona publica: nec 
+      <lb ed="#C" n="65"/>peccat faciendo contra conscientia vt persona pruata: 
+      <lb ed="#C" n="66"/>hee absolutiones inter arguendum reprobantur. non 
+      <lb ed="#C" n="67"/>potest propter duplex officiu vel triplex habere 
+      <lb ed="#C" n="68"/>iudicia contraria. propterea licet sit persona priuata 
+      <lb ed="#C" n="69"/>quo ad aliquos actus circa se et suam familiam. et 
+      pso<lb ed="#C" n="70" break="no"/>na publica quo ad alios actus habet nisi vna quia 
+      <lb ed="#C" n="71"/>scientia. Ergo ad hoc scilicet est iuste damnandus vel 
+      <lb ed="#C" n="72"/>iniuste contrarie. si conscientias circa alias 
+      materi<lb ed="#C" n="73" break="no"/>as habeat quid ad a: si iudicet est male actum eum 
+      <lb ed="#C" n="74"/>damnare: tunc peccat accusatum damnando. nunquam de 
+      <lb ed="#C" n="75"/>bet iudicare contra conscientiam. Et patet per 
+      proba<lb ed="#C" n="76" break="no"/>tionem conclusionis secunde et ex iure potificio. adhuc 
+      <lb ed="#C" n="77"/>patet per capitulum Cum eterni de re iud li. 6. et in 
+      cle<lb ed="#C" n="78" break="no"/>men i. 8. verum de hereti.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e754">
+      ¶ Sed alia est questio an 
+      <lb ed="#C" n="79"/>debeat conscientiam vnam deponcre et emendare 
+      per<lb ed="#C" n="80" break="no"/>aliam. et hoc dependet ex duabus opinionibus: qua 
+      <lb ed="#C" n="81"/>rum vtraque defendi pot: sed quod debeat procedere secundu 
+      <lb ed="#C" n="82"/>allegata et probata: dummodo fecit quod decet 
+      pro<lb ed="#C" n="83" break="no"/>bum iudicem facere circa testes: iudicio probabilius: 
+      <lb ed="#C" n="84"/>tunc debet vnam conscientiam per aliam rectificare. 
+      De<lb ed="#C" n="85" break="no"/>ponendo suam conscientiam particularem: hoc est iudicium 
+      <lb ed="#C" n="86"/>quod ipse habet vt persona priuata: assentiendo huio 
+      <lb ed="#C" n="87"/>potest vel debet hunc taliter probatum condemnare: esto 
+      <lb ed="#C" n="88"/>quod sit innocens. cum est nocens probatus: cum testibus 
+      <lb ed="#C" n="89"/>omnium exceptione maioribus. tunc non stat iudicium 
+      <lb ed="#C" n="90"/>eius vt est persona priuata quod male agat. vt patet. 4. 
+      <lb ed="#C" n="91"/>metha. si teneatur opposita opinio: tunc vel iudex vt 
+      <lb ed="#C" n="92"/>persona priuata scit istum accusatum esse innocentem. 
+      pu<lb ed="#C" n="93" break="no"/>ta quod non occidit vel scit vt persona priuata eum 
+      nocen<lb ed="#C" n="94" break="no"/>tem. puta quod occiderit: est probatus tamen innocens. si 
+      <lb ed="#C" n="95"/>primum liberet eum vt remittat eum ad vlteriorem 
+      iudi<lb ed="#C" n="96" break="no"/>cent quia fortasse sub alio damnabitur quod est isti 
+      illi<lb ed="#C" n="97" break="no"/>citum secundum hanc viam non improbabilem. Si sit probatus 
+      <lb ed="#C" n="98"/>innocens: et quod non occidit iudex tamen scit quod occidit 
+      <lb ed="#C" n="99"/>tunc debet eum liberare. Ad iudicem non spectat illud 
+      <lb ed="#C" n="100"/>crimen probare: nec est ab alio probatus. ergo 
+      li<lb ed="#C" n="101" break="no"/>berandus est: nec formet iudex vllam conscientiam in 
+      <lb ed="#C" n="102"/>hoc quod liberet cum non est probatus sufficienter 
+      cri<lb ed="#C" n="103" break="no"/>minosus et per consequens non est puniendus. vt 
+      <lb ed="#C" n="104"/>patet. 6. q. 2. Si tantum occulta sunt relinquenda 
+      <lb ed="#C" n="105"/>iudicio dei. 6. q. I. c. si omnia. Sic fecit mulieri in 
+      <lb ed="#C" n="106"/>adulterio deprehense dicens. quis te accusat 
+      mu<lb ed="#C" n="107" break="no"/>lier. nemo domine: dixit christus: nec ego te condenabo 
+      <lb ed="#C" n="108"/>vadet et noli amplius peccare.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e822">
+      ¶ Contra istud 
+      <lb ed="#C" n="109"/>quod dictum est de emendatione conscientie potest 
+      <lb ed="#C" n="110"/>esse replica. quod nemo potest conscientiam emenda 
+      <lb ed="#C" n="111"/>re. patet. non potest scire se errare. sed ne alia 
+      ar<lb ed="#C" n="112" break="no"/>gumenta impediamus: in calce questionis 
+      tange<lb ed="#C" n="113" break="no"/>tur in dubitatione ad partem.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e835">
+      ¶ Respondeo ergo 
+      <lb ed="#C" n="114"/>ad septimum quod querit: an sit maius peccatum 
+      con<lb ed="#C" n="115" break="no"/>trauenire precepto diuino vel conscientie erronee 
+      <lb ed="#C" n="116"/>Ad quod dicitur: oportet videre quid coscientia 
+      <lb ed="#C" n="117"/>dictet: et contra quod preceptum vel prohibitionem 
+      <lb ed="#C" n="118"/>est: et secundum hoc iudicare. practicatur exemplari 
+      <lb ed="#C" n="119"/>ter / capiendo aliquod illicitum quod conscientia 
+      <lb ed="#C" n="120"/>dictat esse faciendum conscientia sortis dictat men
+      <pb ed="#V" n="151-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>tiendum esse: quatenus sortes saluetur in vita. 
+      men<lb ed="#C" n="2" break="no"/>tiri officiose est veniale peccatum solum. quoniam 
+      <lb ed="#C" n="3"/>est mortale id quod conscientia erraneo dictat esse 
+      fa<lb ed="#C" n="4" break="no"/>ciendum: vt furari a diuitibus vt detur 
+      elemosina<lb ed="#C" n="5" break="no"/>pauperibus. Altera ex parte oportet videre quid 
+      <lb ed="#C" n="6"/>conscientia erronea dictat: an scilicet erit peccatum 
+      ve<lb ed="#C" n="7" break="no"/>niale vel mortale nisi fecerit illud quod conscientia 
+      <lb ed="#C" n="8"/>dictat. ecce erit iudicium conscientie erronee cum 
+      <lb ed="#C" n="9"/>suo dictamine ex vna parte: et hoc vel illud illicitum ex 
+      <lb ed="#C" n="10"/>altera in primo casu vbi quis mentitur vt vitam saluat: 
+      so<lb ed="#C" n="11" break="no"/>lum venialiter peccat conformando se conscientie erronee 
+      <lb ed="#C" n="12"/>sue. et mortaliter peccaret vbi esset reus homoicidii. in se 
+      <lb ed="#C" n="13"/>cundo casu conformare se conscientiae furando notabile 
+      bo<lb ed="#C" n="14" break="no"/>num est mortale peccatum difformando se conscientie non est peccatum uo 
+      <lb ed="#C" n="15"/>aliquod non faciens opus nunc non peccat. ex hoc patet 
+      <lb ed="#C" n="16"/>responsio ad maturiam solue tuipse in forma
+   </p>
+            <p xml:id="jb2v19-d89601-d1e893">
+      ¶ Octauo arguitur. 
+      <lb ed="#C" n="17"/>contrauemiens conscientiae erronee non agit contra aliquam 
+      le<lb ed="#C" n="18" break="no"/>gem. ergo non peccat consequentia est nota. antecedens patet non contra legem 
+      <lb ed="#C" n="19"/>dei. stat quod habeat legem dei praecipientem oppositum 
+      illi<lb ed="#C" n="20" break="no"/>us quod conscientia erronea dictat esse faciendum.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e904">
+      ¶ 
+      No<lb ed="#C" n="21" break="no"/>no arguitur. quando lex superioris legislatoris et inferio 
+      <lb ed="#C" n="22"/>ris contradicunt: non est parendum inferiori. ergo si deus 
+      iube<lb ed="#C" n="23" break="no"/>at vnum et conscientia dictet aliud conscientia tunc non erit lex sed 
+      <lb ed="#C" n="24"/>eut contempnenda: sicut de proconsule et imperatore 
+      loqui<lb ed="#C" n="25" break="no"/>tur augustinus.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e917">
+      ¶ Decio arguitur. ex istis sequitur quod 
+      dile<lb ed="#C" n="26" break="no"/>ctio dei propter se esset mala: posito quod conscientia errionea 
+      <lb ed="#C" n="27"/>dictaret quod deus non est diligendus nunc: sed debet nunc 
+      <lb ed="#C" n="28"/>non diligi consequens est falsum. dilectio dei propter se non 
+      <lb ed="#C" n="29"/>potest male fieri.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e928">
+      ¶ Ad octauum dici quod agens contra 
+      consci<lb ed="#C" n="30" break="no"/>entiam erroneam agit contra putatam legem: quod ad 
+      pec<lb ed="#C" n="31" break="no"/>candum sufficit.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e935">
+      ¶ Ad nonum concedo quod non est 
+      paren<lb ed="#C" n="32" break="no"/>dum conscientie contra legem dei. sed conscientia est 
+      referen<lb ed="#C" n="33" break="no"/>da
+   </p>
+            <p xml:id="jb2v19-d89601-d1e942">
+      ¶ Ad decimum concedo quod illo causau stante dilectio 
+      <lb ed="#C" n="34"/>dei est mala. non opinor cum eis dicentibus quod dilectio 
+      <lb ed="#C" n="35"/>dei in nullo casu potest male fieri
+   </p>
+            <p xml:id="jb2v19-d89601-d1e950">
+      ¶ Undecimo 
+      argui<lb ed="#C" n="36" break="no"/>tur. habeat intellectus hoc iudicium erroneum / aliquid 
+      <lb ed="#C" n="37"/>est diligendum et nec propter se nec propter aliud: non 
+      <lb ed="#C" n="38"/>po nendo actum medium intur vti et frui: aruguitur sic. vel 
+      volun<lb ed="#C" n="39" break="no"/>tas conformaret se illi iudicio: et hoc est contra positum si nten: potest 
+      <lb ed="#C" n="40"/>contrauenire conscientiae sue et non peccat. quia est 
+      impossibi<lb ed="#C" n="41" break="no"/>le quod voluntas conformet se illi iudicio.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e966">
+      ¶ 
+      Duo<lb ed="#C" n="42" break="no"/>decimo arguitur. si fortes credit mendacium esse licitum 
+      <lb ed="#C" n="43"/>non desinit propterea esse peccatum. ergo si credat 
+      datio<lb ed="#C" n="44" break="no"/>nem elemosine esse illicitam: et det: non propter 
+      <lb ed="#C" n="45"/>ea peccat.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e977">
+      ¶ Ad. xi. patet solutio ex prima 
+      distin<lb ed="#C" n="46" break="no"/>ctione primi.
+   </p>
+            <p xml:id="jb2v19-d89601-d1e982">
+      ¶ Ad duodecimum nego 
+      consequenti<lb ed="#C" n="47" break="no"/>am. et negationis causa est. si homo credat erronee 
+      <lb ed="#C" n="48"/>prohibitum esse non prohibitum oportet quod prptea excusetur: nisi sit 
+      <lb ed="#C" n="49"/>ignorantia inuincibilis. si tamen faciat aliquid: 
+      <lb ed="#C" n="50"/>quod credit illicitum. et non minus faceret si 
+      in<lb ed="#C" n="51" break="no"/>rei veritate esset illicitum quia ipse credit quod 
+      ma<lb ed="#C" n="52" break="no"/>le agit. et propterea imputatur ei ad peccatum. 
+   </p>
+            <p xml:id="jb2v19-d89601-d1e998">
+               <lb ed="#C" n="53"/>¶ Nuric vidimus quid est conscientia recta et quid 
+      <lb ed="#C" n="54"/>erronea. et quomodo obligant. conscientia erro 
+      <lb ed="#C" n="55"/>nea siue error inuincibilis excusat a toto. si fuerit 
+      <lb ed="#C" n="56"/>error imputabilis non excusat a toto. et rursus 
+      con<lb ed="#C" n="57" break="no"/>scientia interdum est per modum consilii et 
+      suasio<lb ed="#C" n="58" break="no"/>nis et tunc non ligat nec illi contraueniens peccat 
+      <lb ed="#C" n="59"/>vt iudico bonum est intrare religionem. illi 
+      iu<lb ed="#C" n="60" break="no"/>dicio contraueniens non pecco. interdum con¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>scientia dictat de precepto vel prohibitione: et hoc 
+      <lb ed="#C" n="62"/>est tripliciter. vno modo dictat aliquid quod est 
+      <lb ed="#C" n="63"/>legi diuine consonum. aliquando dictat de illo quod legi 
+      di<lb ed="#C" n="64" break="no"/>uine est dissonum. nonnumquam de illo quod stat cum 
+      le<lb ed="#C" n="65" break="no"/>ge nec illi repugnat. quemadmodum est actus 
+      indif<lb ed="#C" n="66" break="no"/>ferens si ponatur. vel opus consilii. et suum 
+      oppo<lb ed="#C" n="67" break="no"/>situm. in primo simpliciter ligat. et homo est 
+      du<lb ed="#C" n="68" break="no"/>plici /ure ligatus. tum a lege dei: tum a conscientia 
+      <lb ed="#C" n="69"/>et vtrerque contraueniens plus peccat quam si 
+      vni<lb ed="#C" n="70" break="no"/>soli contraueniret. si secundo modo conscientia est de 
+      <lb ed="#C" n="71"/>ponenda. quia non stat cum anime salute. vt si 
+      di<lb ed="#C" n="72" break="no"/>ctem: nunc iste tyrannus est a me occidendus. siu 
+      <lb ed="#C" n="73"/>non faciam quod dictatur pecco conscientie 
+      pro<lb ed="#C" n="74" break="no"/>prie contraueniendo. si facio et pecco. solum restat 
+      <lb ed="#C" n="75"/>remedium conscientiam deponendi. esto quod cum hoc 
+      <lb ed="#C" n="76"/>dictamine illud iudicium habtrem: nulla conscientia 
+      <lb ed="#C" n="77"/>est a me deponenda: illa conscientia est etam tunc erronea et ex 
+      <lb ed="#C" n="78"/>cutienda: voco conscientiam dictare: quia habet 
+      di<lb ed="#C" n="79" break="no"/>ctamen pro obiecto: hoc est propositionem de 
+      ali<lb ed="#C" n="80" break="no"/>quo dictantem. tertio modo conscientia dictat Si 
+      pu<lb ed="#C" n="81" break="no"/>ta est leuanda crux de terra vel tteneor: facere melio: 
+      <lb ed="#C" n="82"/>ri modo quo possum facere: vel teneor intrare 
+      char<lb ed="#C" n="83" break="no"/>tusiam: tunc non obligor conscientia deponere: quia cum 
+      <lb ed="#C" n="84"/>conscientia stat ane salus conformiter operando ad 
+      <lb ed="#C" n="85"/>dictamen erroneum. teneor tamen conformiter ad dicta 
+      <lb ed="#C" n="86"/>men cuius conscientiam habeo operari vel 
+      conscien<lb ed="#C" n="87" break="no"/>tiam exuere. Ex his patet. si quis haberet hanc 
+      con<lb ed="#C" n="88" break="no"/>scientiam erroneam non licet michi comedere carnes 
+      <lb ed="#C" n="89"/>in quadragesima. si non occurrat casus commedendi 
+      <lb ed="#C" n="90"/>non peccat. et vbi casus praecepti occurit 
+      continuan<lb ed="#C" n="91" break="no"/>do conscientiam peccat. si commedat contrauenit conscientiae 
+      <lb ed="#C" n="92"/>si non communedat contrait precepto dei de seruanda 
+      vi<lb ed="#C" n="93" break="no"/>ta potissimum si non sit carthusiensis. de quo in. 388 
+      <lb ed="#C" n="94"/>distin. quarti loquuti sumus
+   </p>
+            <p xml:id="jb2v19-d89601-d1e1094">
+      ¶ Dubitatur an homo 
+      <lb ed="#C" n="95"/>potest deponere conscientiam suam erroneam. et dubitationis 
+      <lb ed="#C" n="96"/>ro c. quia notum est quod sic: consilio sapientum. vel aliorum 
+      scri<lb ed="#C" n="97" break="no"/>pta reuoluendo. vl qurendo vbi hec deficiut auxili. 
+      <lb ed="#C" n="98"/>um a domino. secundum illud secundi palapomeno / 
+      cdocu<lb ed="#C" n="99" break="no"/>ignoramus quid agere debeamus hoc sosum hemus 
+      residue<lb ed="#C" n="100" break="no"/>vt oclusos nostros dirigamus ad te. et Iacobi secuno. . 
+      <lb ed="#C" n="101"/>quis indiget sapientia postulet in fide nihil helitas. 
+   </p>
+            <p xml:id="jb2v19-d89601-d1e1113">
+               <lb ed="#C" n="102"/>¶ In opposittum ar. neo potest scire se errare. ergo non 
+      <lb ed="#C" n="103"/>potest scire se errasse. tet consequentia si illa de praeterito est va 
+      il<lb ed="#C" n="104" break="no"/>la de praesenti interdum fuit vera. vel fuisset si fuisse fosata 
+      <lb ed="#C" n="105"/>assumptum patet. neno potest assentire filo noto tili. probatur. 
+      <lb ed="#C" n="106"/>neno potest assentire propositioni neutre ineuidenti sine 
+      mo<lb ed="#C" n="107" break="no"/>tio 2 de anima. imaginari possumus cum volumus: non autem 
+      <lb ed="#C" n="108"/>possumus opoinari cum volumus. ergo neno potest assentire 
+      filo<lb ed="#C" n="109" break="no"/>scito tmili. secludo propositiones reflexiuas: propter 
+      assem<lb ed="#C" n="110" break="no"/>sus talium: hoc est fcilm: per ly hoc demonsitrando 
+      pro<lb ed="#C" n="111" break="no"/>positionem cuius est pars. ego erro. et hmoni. igitur
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

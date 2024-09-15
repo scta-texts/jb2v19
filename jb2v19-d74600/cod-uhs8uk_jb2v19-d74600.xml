@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="125-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d74600"><!-- l2d28q2 -->
+            <head xml:id="jb2v19-d74600-Hd1e101">Quaestio 2</head>
+            <head xml:id="jb2v19-d74600-Hd1e103" type="question-title">An homo sine gratia gratum faciente potest implere praecepta Dei et hominum</head>
+            <p xml:id="jb2v19-d74600-d1e106">
+               <lb ed="#C" n="30"/>N questione praecedenti locuti sumus 
+      quo<lb ed="#C" n="31" break="no"/>modo auxilium dei speciale requiritur ad 
+      <lb ed="#C" n="32"/>bene moraliter agere: quod auxilium 
+      speci<lb ed="#C" n="33" break="no"/>ale apud maiores communius 
+      vocabatu<lb ed="#C" n="34" break="no"/>U ix gratia dei: et verum est. potest dici gratia gratis 
+      <lb ed="#C" n="35"/>data: cum deus suum auxilium gratis dat nunc autem 
+      ma<lb ed="#C" n="36" break="no"/>net modus loquendi sub auxilio speciali: et melius: 
+      pro<lb ed="#C" n="37" break="no"/>pter confusionem acceptionis vocabuli / gratia.
+   </p>
+            <p xml:id="jb2v19-d74600-d1e126">
+      ¶ 
+      Nuc<lb ed="#C" n="38" break="no"/>loquor in hac quaestione de gratia gratum faciente: et quero 
+      <lb ed="#C" n="39"/>hunc quaestionis titulum an hom sine gratia gratum faciente 
+      <lb ed="#C" n="40"/>potest implere praecepta dei et homium: hoc est: ocuque 
+      per<lb ed="#C" n="41" break="no"/>cepta.
+   </p>
+            <p xml:id="jb2v19-d74600-d1e137">
+      ¶ <name xml:id="jb2v19-d74600-Nd1e139">Robertus eliphattus</name> dicit in prima 
+      di<lb ed="#C" n="42" break="no"/>stinctione primi: quilibet actus factus extra gratiam 
+      <lb ed="#C" n="43"/>est peccatum. idem tenuit <name xml:id="jb2v19-d74600-Nd1e145">Thomas brauardinus</name> vt 
+      <lb ed="#C" n="44"/>
+               <ref xml:id="jb2v19-d74600-Rd1e150">
+                  <name xml:id="jb2v19-d74600-Nd1e152">Dionysius cisterciensis</name> in secundo</ref> recitat. <ref xml:id="jb2v19-d74600-Rd1e155">Diony 
+      <lb ed="#C" n="45"/>sius in. 17. distinctione primi: quaestione prima</ref> tenet: quod 
+      nul<lb ed="#C" n="46" break="no"/>lum praeceptum potest adimpleri sine gratia actus caritatis 
+      <lb ed="#C" n="47"/>secundum eum distinguitur specie ab actu quolibet qui non 
+      eli<lb ed="#C" n="48" break="no"/>citur a charitate. propterea dixit: si homo det 
+      elemo<lb ed="#C" n="49" break="no"/>sinam quando est extra charitatem / peccat: licet faciat illud ad 
+      <lb ed="#C" n="50"/>quod tenetur. tamen non facit taliter qualiter tenetur. hoc est: 
+      <lb ed="#C" n="51"/>non elicit illum actum a charitate.
+   </p>
+            <p xml:id="jb2v19-d74600-d1e175">
+      ¶ Quia hec omina 
+      <lb ed="#C" n="52"/>falsa reputo: ponam aliquas conclusiones quaestioni 
+      respo<lb ed="#C" n="53" break="no"/>siuas: quarum prima est. non quilibet actus esiciturm 
+      <lb ed="#C" n="54"/>extra gratiam est peccatum.
+   </p>
+            <p xml:id="jb2v19-d74600-d1e184">
+      ¶ Secunda conclusio. aliquis actus 
+      <lb ed="#C" n="55"/>elicitus extra gratam est complete moraliter bonus.
+   </p>
+            <p xml:id="jb2v19-d74600-d1e189">
+      ¶ 
+      Ter<lb ed="#C" n="56" break="no"/>I tia conclusio. aliquis actus ex gratam elicitus est 
+      sufficien<lb ed="#C" n="57" break="no"/>ter impletiuus percepti: sic scilicet: quod actum talem faciens / non 
+      <lb ed="#C" n="58"/>4est transgressor praecepti.
+   </p>
+            <p xml:id="jb2v19-d74600-d1e198">
+      ¶ Quarta conclusio. aliquod est 
+      prae<lb ed="#C" n="59" break="no"/>ceptum quod non potest adimpleri ex gratam sine nouo peccato 
+   </p>
+            <p xml:id="jb2v19-d74600-d1e203">
+               <lb ed="#C" n="60"/>¶ Probatur prima conclo cum secunda sil. aliqus habet auxilium
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>speciale etu gratiam: patet de infideli iudicante 
+      recte<lb ed="#C" n="62" break="no"/>de aliquo operabili: et similiter de fideli in 
+      pec<lb ed="#C" n="63" break="no"/>cato mortali. sed cum auxilio dei generali homo 
+      <lb ed="#C" n="64"/>potest elicere actum complere moraliter bonum. 
+   </p>
+            <p xml:id="jb2v19-d74600-d1e219">
+               <lb ed="#C" n="65"/>¶ Secundo da oppositum conclusionis / sequitur 
+      <lb ed="#C" n="66"/>hec conclusio: quod dans elemosynam pauperi 
+      a<lb ed="#C" n="67" break="no"/>more dei vel dicens horas canonicas extra 
+      gra<lb ed="#C" n="68" break="no"/>tiam: peccat taliter faciendo: quod nullus sapiens 
+      <lb ed="#C" n="69"/>audire debet concessum. nulla est theologorum 
+      sco<lb ed="#C" n="70" break="no"/>la que hanc concessionem admitteret sine 
+      reuoca<lb ed="#C" n="71" break="no"/>tione.
+   </p>
+            <p xml:id="jb2v19-d74600-d1e238">
+      ¶ Tertia conclusio ferme similiter patet. 
+      sor<lb ed="#C" n="72" break="no"/>tes exisens in peccato mortali: tenetur dare 
+      ele<lb ed="#C" n="73" break="no"/>mosynam huic pauperi extremo / cognito tali. si 
+      <lb ed="#C" n="74"/>non dat: peccat. ergo si det propter deum: non 
+      pec<lb ed="#C" n="75" break="no"/>cat. et sic adimplet preceptum.
+   </p>
+            <p xml:id="jb2v19-d74600-d1e249">
+      ¶ Secundo arguitur. 
+      <lb ed="#C" n="76"/>sequitur ex dictis dionysii quod tantum peccat ille qui facit 
+      <lb ed="#C" n="77"/>substantam actus extra gratiam sicut ille qui omittit 
+      <lb ed="#C" n="78"/>scienter extra gratia. consequens est falsum: et ipse 
+      <lb ed="#C" n="79"/>etiam concedit falsum. et quod sequatur patet ex dictis 
+      <lb ed="#C" n="80"/>eius. det sortes in peccato mortali elemosynam: 
+      <lb ed="#C" n="81"/>omittat plato. tunc sic. sortes omittit actum ad 
+      <lb ed="#C" n="82"/>quem tenetur sicut Plato: quia tenetur ad opus a 
+      <lb ed="#C" n="83"/>charitate elicitum. actus non elicitus a charitate 
+      <lb ed="#C" n="84"/>est alterius speciei: et nullomodo impletiuus 
+      pre<lb ed="#C" n="85" break="no"/>cepti. ergo non magis sortes adimplet preceptum 
+      <lb ed="#C" n="86"/>quam plato.
+   </p>
+            <p xml:id="jb2v19-d74600-d1e275">
+      ¶ Tertio: pono sortem qui peccauit et 
+      <lb ed="#C" n="87"/>est in mortali ipso ignorante. non tenetur esse in 
+      <lb ed="#C" n="88"/>gratia immediate post mortale commissum sub pena 
+      no<lb ed="#C" n="89" break="no"/>ui pecen. in illo tempore medio occurrat ei opus 
+      precepti<lb ed="#C" n="90" break="no"/>quod tenetur facere. tunc facit substantiam actus: et 
+      <lb ed="#C" n="91"/>non teneretur esse in gratia si non occurreret istud 
+      <lb ed="#C" n="92"/>opus precepti. sed istud opus superueniens: puta 
+      <lb ed="#C" n="93"/>datio elemosyne vel honor parentilimpensus: non 
+      <lb ed="#C" n="94"/>requirit gratiam ad sui impletionem.
+   </p>
+            <p xml:id="jb2v19-d74600-d1e295">
+      ¶ Quarto 
+      se<lb ed="#C" n="95" break="no"/>quitur ex dictis aduersarii: quandocumque occurreret 
+      <lb ed="#C" n="96"/>materia precepti: homo tenetur tantum discutere 
+      <lb ed="#C" n="97"/>conscientiam ne sit illius precepti transgressor sicut 
+      <lb ed="#C" n="98"/>de sumenda eucharistia: quod non est concedendum 
+   </p>
+            <p xml:id="jb2v19-d74600-d1e306">
+               <lb ed="#C" n="99"/>¶ Quinto. ho non transgreditur preceptum 
+      nega<lb ed="#C" n="100" break="no"/>tiuum tempore quo est in mortali. ergo nec 
+      pre<lb ed="#C" n="101" break="no"/>ceptum affirmatiuum. sed affirmatiuum contrauenitur 
+      <lb ed="#C" n="102"/>omittendo. ergo si non omittat non peccat. 
+   </p>
+            <p xml:id="jb2v19-d74600-d1e317">
+               <lb ed="#C" n="103"/>¶ Quarta conclusio probatur. Aliquod est 
+      prece<lb ed="#C" n="104" break="no"/>ptum ad quod homo tenetur: quod non potest 
+      adim<lb ed="#C" n="105" break="no"/>plere sine gratia. patet. sortes adultus tenetur 
+      in<lb ed="#C" n="106" break="no"/>terdum capere corpus christi. capio a. tempus in quo 
+      <lb ed="#C" n="107"/>tenetur. tunc sortes tenetur ad substantiam actus in a. 
+      <lb ed="#C" n="108"/>tempore: et cum hoc capere corpus christi in 
+      gra<lb ed="#C" n="109" break="no"/>tia: vt patet prime ad Corinthi. xi. si quis indigne 
+      <lb ed="#C" n="110"/>manducat iudicium sibi manducat et bibit. tunc sic. 
+      <lb ed="#C" n="111"/>vel sortes facit omne illud ad quod tenetur sub 
+      pe<lb ed="#C" n="112" break="no"/>na peccati mortalis ad discutiendam conscientiam: 
+      <lb ed="#C" n="113"/>vel non facit: sed stat in ignorantia inuincibili. si 
+      pri<lb ed="#C" n="114" break="no"/>mum: est in gratia. si secundum peccat nouo peccato. 
+      <lb ed="#C" n="115"/>quia istud prolixius in distinctione nona quarti 
+      sen<lb ed="#C" n="116" break="no"/>tentiarum deduxi: pertranseo.
+   </p>
+            <p xml:id="jb2v19-d74600-d1e351">
+      ¶ Ex conclusionibus 
+      <lb ed="#C" n="117"/>probatis infero. idem est adimplere preceptum 
+      <lb ed="#C" n="118"/>quod homo non tenetur adimplere in gratia quo ad 
+      <lb ed="#C" n="119"/>substantiam actus et intentionem precipientis / quo 
+      <lb ed="#C" n="120"/>ad non transgredi.
+   </p>
+            <p xml:id="jb2v19-d74600-d1e362">
+      ¶ Secundo sequitur. nemo existens
+      <pb ed="#V" n="125-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>in mortali debet negligere precepta dei et 
+      supe<lb ed="#C" n="2" break="no"/>riorum. probatur. si non faciat actus ei praeceptos 
+      pec<lb ed="#C" n="3" break="no"/>cat nouo peccato omittendo: ratione cuius debetur 
+      <lb ed="#C" n="4"/>noua pena in hoc mundo vel alio. si opus illud 
+      <lb ed="#C" n="5"/>precepti faciat: a nouo peccato cauet. igitur. 
+   </p>
+            <p xml:id="jb2v19-d74600-d1e380">
+               <lb ed="#C" n="6"/>¶ Contra tertiam conclusionem arguitur sic per 
+      com<lb ed="#C" n="7" break="no"/>mune dictum: si homo dicat horas canonicas in 
+      <lb ed="#C" n="8"/>mortali peccato / licet adimpleat penitentiam quo 
+      <lb ed="#C" n="9"/>ad substantia actus: non tamen ad intentionem 
+      pre<lb ed="#C" n="10" break="no"/>cipeientis. modo prtergrediens intentiono legissa 
+      <lb ed="#C" n="11"/>toris omittit et peccat. igitur.
+   </p>
+            <p xml:id="jb2v19-d74600-d1e396">
+      ¶ Secundo arguitur 
+      <lb ed="#C" n="12"/>ad idem. opera precepta ducunt ad vitam eternam 
+      <lb ed="#C" n="13"/>Mathei. 10. Si vis ad vitam ingredi serua 
+      manda<lb ed="#C" n="14" break="no"/>ta. modo nullum opus non elicitum a gratia ducit ad 
+      <lb ed="#C" n="15"/>vitam eternam. igitur.
+   </p>
+            <p xml:id="jb2v19-d74600-d1e407">
+      ¶ Respondetur. in praecepto sunt 
+      <lb ed="#C" n="16"/>duo. vnum est obiectum / materia / illud quod 
+      praecipi<lb ed="#C" n="17" break="no"/>77Na tur / siue substantia actus que praecipitur illa cadit 
+      sub<lb ed="#C" n="18" break="no"/>precepto: ita quod illam pretergrediens peccat 
+      commit<lb ed="#C" n="19" break="no"/>tendo vel omittendo. ad illa solam est obligatio. Est 
+      <lb ed="#C" n="20"/>etiam finis praecepti siue intentio legissatoris vt homo 
+      <lb ed="#C" n="21"/>mereatur substantia praecepti faciendo: non quod ho sit 
+      obli<lb ed="#C" n="22" break="no"/>gatus ad illu finem sub pena peccati: modo 
+      sub<lb ed="#C" n="23" break="no"/>stantia actus fecerit. exempium in simili precipitur 
+      <lb ed="#C" n="24"/>in positia facere couiuia mutuo: ita quod non 
+      coui<lb ed="#C" n="25" break="no"/>uans cum aliis aliqua pena plectitur legislator 
+      <lb ed="#C" n="26"/>tamen intendit quod ciues per hoc contrahant amicitiam 
+      <lb ed="#C" n="27"/>et familiaritatem mutuo. est sortes vir agrestis nihil 
+      <lb ed="#C" n="28"/>amicitie contrahit cum aliquo: adit tamen conuiuia 
+      <lb ed="#C" n="29"/>in policia instituta. iste sortes non consequitur finem 
+      <lb ed="#C" n="30"/>institutum a legissatore: tamen fon punitur: quia facit 
+      il<lb ed="#C" n="31" break="no"/>lud quod est ei preceptum. sic in proposito.
+   </p>
+            <p xml:id="jb2v19-d74600-d1e444">
+      ¶ Ad 
+      se<lb ed="#C" n="32" break="no"/>cundum concedo auctoritatem: qui non obseruat 
+      prece<lb ed="#C" n="33" break="no"/>pta peccat. et qui obseruat omnia habebit vita 
+      eter<lb ed="#C" n="34" break="no"/>nam: quia discedit finaliter in gratia: si praeceptum de 
+      <lb ed="#C" n="35"/>contritione obseruet post mortale commissum: sed 
+      <lb ed="#C" n="36"/>non oportet omne opus precepti esse meritorium 
+      <lb ed="#C" n="37"/>vite eterne.
+   </p>
+            <p xml:id="jb2v19-d74600-d1e461">
+      ¶ Contra quartam conclusionem 
+      argui<lb ed="#C" n="38" break="no"/>tur. alicuius precepti actus non potest 
+      adimple<lb ed="#C" n="39" break="no"/>ri sine gratia. et eadem est ratio in omnibus praeceptis. 
+      <lb ed="#C" n="40"/>igitur.
+   </p>
+            <p xml:id="jb2v19-d74600-d1e470">
+      ¶ Respondetur. minor est falsa. in praeceptis 
+      <lb ed="#C" n="41"/>supernaturalibus sacramentalibus: et potissimum 
+      <lb ed="#C" n="42"/>in eucharistia: tenemur non modo facere 
+      substan<lb ed="#C" n="43" break="no"/>tiam actus: sed etiam illud quod precipitur in 
+      gra<lb ed="#C" n="44" break="no"/>tia. hoc nobis specialiter manifestat apostolus 
+      <lb ed="#C" n="45"/>prime Corinthi. xi. in aliis non habemus hoc in 
+      <lb ed="#C" n="46"/>timatu: ymmo ratio intimat oppositum: vt patet ex 
+      <lb ed="#C" n="47"/>conclusionibus et earum probationibus. potest da 
+      <lb ed="#C" n="48"/>ri tamen preceptum de iure nature quod non 
+      adimple<lb ed="#C" n="49" break="no"/>tur quin detur gratia. exemplum. post crimen 
+      com<lb ed="#C" n="50" break="no"/>missum ipsum detestari pro loco et tempore est de 
+      <lb ed="#C" n="51"/>iure nature: licet non confiteri. et illa detestatio non 
+      <lb ed="#C" n="52"/>fit sine infusione gratie a deo. illa est vltimata 
+      di<lb ed="#C" n="53" break="no"/>spositio ad gratia: et eius recuperatiua. sed dato 
+      <lb ed="#C" n="54"/>quod non daretur gratia / poterat homo facere 
+      sub<lb ed="#C" n="55" break="no"/>stantiam illius precepti: et patet imaginando 
+      mo<lb ed="#C" n="56" break="no"/>dum eorum qui ponunt eundem actum primo esse attri 
+      <lb ed="#C" n="57"/>tionem postea contritionem. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

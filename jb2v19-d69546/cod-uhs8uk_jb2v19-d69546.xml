@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 3</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 3</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="116-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d69546"><!-- l2d25q3 -->
+            <head xml:id="jb2v19-d69546-Hd1e101">Quaestio 3</head>
+            <head xml:id="jb2v19-d69546-Hd1e103" type="question-title">An voluntas coagat ad suum actum elicitum</head>
+            <p xml:id="jb2v19-d69546-d1e106">
+               <lb ed="#C" n="99"/>¶ Questio tertia. 
+      <lb ed="#C" n="100"/>TErtio circa hanc distinctionem 
+      <lb ed="#C" n="101"/>5. quaero: an voluntas 
+      coagat<lb ed="#C" n="102" break="no"/>ad suum actum elicitum.
+   </p>
+            <p xml:id="jb2v19-d69546-d1e117">
+      ¶ hic est 
+      <lb ed="#C" n="103"/>vna positio consequentia tet 
+      Godfri<lb ed="#C" n="104" break="no"/>dus fontanus quoitlibeto. 6 q. 7. et 
+      <lb ed="#C" n="105"/>qutli. 8. q. 12. dt quod voluntas 
+      nul<lb ed="#C" n="106" break="no"/>la actiuitatem habet respectu 
+      su<lb ed="#C" n="107" break="no"/>actus eliciti cuius sucus ponis est 
+      <lb ed="#C" n="108"/>iste. Impossibile est quod mouens et motum actiuum et 
+      pas<lb ed="#C" n="109" break="no"/>siuum non sint distincta sbsntho. Impossibile est quod voluntas 
+      <lb ed="#C" n="110"/>moueat seipsam directe per se et immediate: nec etat 
+      intel<lb ed="#C" n="111" break="no"/>lectus siue agens siue possibil per aliquid quod est in ipsis: quod 
+      <lb ed="#C" n="112"/>omnia ista sunt indistincta shbisentho. sed oportet ponere necessario 
+      <lb ed="#C" n="113"/>aliquid aliud motiuum voluntatis ad actum suum. et istud 
+      <lb ed="#C" n="114"/>est subsaentum in fantasmate vel fantasma quod primo 
+      mo<lb ed="#C" n="115" break="no"/>uet intellectum: et praesentatur obmen voluntati. deinde 
+      vro<lb ed="#C" n="116" break="no"/>intellectu moto: ipsmmet fantasma mouet 
+      volun<lb ed="#C" n="117" break="no"/>tatem. et sunt due motiones secundum aliquem ordinem ab 
+      eo<lb ed="#C" n="118" break="no"/>dem principio procedentes effectie.
+   </p>
+            <p xml:id="jb2v19-d69546-d1e154">
+      ¶ Ulterius dicit: quod 
+      vo<lb ed="#C" n="119" break="no"/>luntas indirecte et de per accidens mouet seipsam: et 
+      inteli<lb ed="#C" n="120" break="no"/>lectus fimiliter: pro tanto quia potest mouere fantasiam
+      <pb ed="#V" n="117-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>ad praesentationem alterius fantasmatis: et sensus ad 
+      <lb ed="#C" n="2"/>hauriendum alias species diuersorum obiectorum 
+      sen<lb ed="#C" n="3" break="no"/>sibilium. et sic fantasiam ad diuersa fantasmata 
+      pre<lb ed="#C" n="4" break="no"/>sentando: quae diuersioni habent mouere intellectum 
+      <lb ed="#C" n="5"/>vel etiam voluntatem ad actus varios.
+   </p>
+            <p xml:id="jb2v19-d69546-d1e177">
+      ¶ Ex quo patet. 
+      <lb ed="#C" n="6"/>(vt dixit) licet voluntas per se sit pure passiua 
+      respe<lb ed="#C" n="7" break="no"/>ctu sui actus eliciti: quia tamen est actiua respectu actus 
+      im<lb ed="#C" n="8" break="no"/>perati que est mouere fantasiam: qua mota 
+      diuersi<lb ed="#C" n="9" break="no"/>mode ad diuersa fantasmata: potest moueri 
+      vo<lb ed="#C" n="10" break="no"/>luntas ad volendum istud obiectum vel illud. et 
+      per<lb ed="#C" n="11" break="no"/>consequens est in potestate sua velle / nolle vel 
+      <lb ed="#C" n="12"/>non velle. et ita bene seruatur libertas voluntatis 
+      <lb ed="#C" n="13"/>in hoc ac si causaret suum actum elicitum libere 
+   </p>
+            <p xml:id="jb2v19-d69546-d1e197">
+               <lb ed="#C" n="14"/>¶ Hec positio ab omnibus (et merito) reliquitur. 
+      <lb ed="#C" n="15"/>quia innititur falso fundamento: et falsum ponit: quod 
+      <lb ed="#C" n="16"/>voluntas non est actiua respectu sui actus 
+      eliciti<lb ed="#C" n="17" break="no"/>primum facile est ostendere / quod fundamentum est 
+      fal<lb ed="#C" n="18" break="no"/>sum: et hoc sic: obiectum secundum hunc effectiue se habet 
+      respe<lb ed="#C" n="19" break="no"/>ctu noticie que de obiecto habetur: et anima separata 
+      <lb ed="#C" n="20"/>vel angelus potest habere noticiam intuitiuam de se: 
+      <lb ed="#C" n="21"/>tunc idem realiter erit actiuum et passiuum. notieia 
+      pro<lb ed="#C" n="22" break="no"/>ducitur ab intellectu: et in eo recipitur.
+   </p>
+            <p xml:id="jb2v19-d69546-d1e219">
+      ¶ 
+      Secun<lb ed="#C" n="23" break="no"/>do arguitur. quando angelus vel anima separata 
+      mo<lb ed="#C" n="24" break="no"/>uet se localiter / idem est mouens et mobile. ergo idem 
+      <lb ed="#C" n="25"/>est actiuum et passiuum. Commentator. 8 Phisicorum 
+      di<lb ed="#C" n="26" break="no"/>cit rationes Aristotelis quibus probat in septimo. 
+      <lb ed="#C" n="27"/>quod omne quod mouetur ab alio mouetur / non tenent in 
+      spi<lb ed="#C" n="28" break="no"/>ritualibus: et hoc repetit: quarto celi et mundi co 22. 
+      <lb ed="#C" n="29"/>et 2 de celo et mudo: commento. 8 et in corporibus 
+      sim<lb ed="#C" n="30" break="no"/>plicibus idem est motor et motum secundum positionem ex 
+      <lb ed="#C" n="31"/>his. Ex his patet fundamentum cui innititur est 
+      fal<lb ed="#C" n="32" break="no"/>sum.
+   </p>
+            <p xml:id="jb2v19-d69546-d1e243">
+      ¶ Et pro veritate conclusionis sue quam tenet: 
+      <lb ed="#C" n="33"/>ponitur hec conclusio. Uoluntas effectiue et 
+      elici<lb ed="#C" n="34" break="no"/>tiue concurrit ad productionem sui actus. probatur / 
+      <lb ed="#C" n="35"/>hec conclusio. impossibile est quod ab agente mere 
+      na<lb ed="#C" n="36" break="no"/>turali solo / in eadem materia eodem modo 
+      disposita<lb ed="#C" n="37" break="no"/>causentur effectus contrii. sed voluntas respectu eiusdem 
+      <lb ed="#C" n="38"/>obiecti praesentati est in potentia ad actus contrios: puta 
+      <lb ed="#C" n="39"/>ad velle et nolle. obsiem vero est causa mere naturalis: 
+      lo<lb ed="#C" n="40" break="no"/>quendo de alio obseo a voluntate:
+   </p>
+            <p xml:id="jb2v19-d69546-d1e263">
+      ¶ Secundo sic. 
+      impos<lb ed="#C" n="41" break="no"/>sibile est quod actus liber sit totaliter a ca naturali. actus 
+      <lb ed="#C" n="42"/>voluntatis sunt liberi. alias non essent boni vel mali. 
+      <lb ed="#C" n="43"/>ergo oportet quod sint ab aliqua causa libera. sed non ab alia causa quam a 
+      <lb ed="#C" n="44"/>voluntate in qua est actus. igitur. nec valet diffugium ad 
+      <lb ed="#C" n="45"/>fantasmata / eundo ad angelos: capio primum peccatum uo 
+      <lb ed="#C" n="46"/>luciferi: et quaero abs te si processit a voluntate: et 
+      ha<lb ed="#C" n="47" break="no"/>beo intentum. si ab obseto mere naturaliter causante: iam 
+      <lb ed="#C" n="48"/>actus ille non erit liber. et per consequens non erit peccatum. notum 
+      <lb ed="#C" n="49"/>est quod a solo deo non causabatur. et si hoc in agelis 
+      pone<lb ed="#C" n="50" break="no"/>re oportet: eodem modo in homimbus intellectus modo potest determinare 
+      <lb ed="#C" n="51"/>voluntatem scientia est contriorum 2. Metha. et equeliter respicit 
+      <lb ed="#C" n="52"/>vtrumque contriorum. sicut medici scientia sanare docet: et 
+      inter<lb ed="#C" n="53" break="no"/>ficiendi viam estendit: non intendens occidere: sed 
+      <lb ed="#C" n="54"/>quatenus homo preseruetur a malis herbis. de 
+      <lb ed="#C" n="55"/>malis tradit: quia non euitatur malum nisi cognitum. 
+      <lb ed="#C" n="56"/>voluntas tamen que est indeterminata / potest se determinare 
+      <lb ed="#C" n="57"/>et etiam alia. propterea dicit aristoteles. 2. 
+      Tetha<lb ed="#C" n="58" break="no"/>phisice. tex. commenti tertii / quod appetitus et proheret. 
+      <lb ed="#C" n="59"/>determinauit applicare scientam medicine ad alterum 
+      <lb ed="#C" n="60"/>illorum per¬ perterea secundum August. I retract. c. 22
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>nichil tam in ptate quam ipsa voluntas: vbi per ipsam 
+      vo<lb ed="#C" n="62" break="no"/>luntatem actum volendi intelligit: quem nos conuniter 
+      <lb ed="#C" n="63"/>d o mus volitionem. Et Anselmus de conceptu virgi. 
+      <lb ed="#C" n="64"/>c. 4. Uoluntas est instrumentum seipum mouens. et 
+      <lb ed="#C" n="65"/>nono Ihethaphisice. Aristoteles dicit: potentia 
+      <lb ed="#C" n="66"/>rationalis est ad opposita. Ista omnia volunt quod 
+      vo<lb ed="#C" n="67" break="no"/>luntas habet suum actum in sua ptante. non em est in 
+      pote<lb ed="#C" n="68" break="no"/>state patientis quod ipsum non patiatur inquantum patiens: quia 
+      <lb ed="#C" n="69"/>patiens non patitur nisi quia agens agit. sed prius 
+      <lb ed="#C" n="70"/>non est in potestate posterioris. igitur actio 
+      agen<lb ed="#C" n="71" break="no"/>tis non est in potestate patientis inquantum patiens: sed 
+      <lb ed="#C" n="72"/>inquantum agens.
+   </p>
+            <p xml:id="jb2v19-d69546-d1e337">
+      ¶ Insuper. hoc modo actus 
+      <lb ed="#C" n="73"/>voluntatis non esset immanens contra omnes loquentes 
+   </p>
+            <p xml:id="jb2v19-d69546-d1e343">
+               <lb ed="#C" n="74"/>¶ Finaliter arguitur. inconueniens est negare a 
+      no<lb ed="#C" n="75" break="no"/>bili causa effectum nobilem qui ei videtur 
+      conueni<lb ed="#C" n="76" break="no"/>re. dignificanda est natura: secundo de generatione: 
+      <lb ed="#C" n="77"/>plures sunt actus voluntatis laudabiles et 
+      nobi<lb ed="#C" n="78" break="no"/>les. et voluntas est nobilis potentia: immo in 
+      re<lb ed="#C" n="79" break="no"/>gno animae primatum obtinet. ergo ab ea non est 
+      negan<lb ed="#C" n="80" break="no"/>da causalitas respectu sui actus.
+   </p>
+            <p xml:id="jb2v19-d69546-d1e361">
+      ¶ Iam arguitur 
+      <lb ed="#C" n="81"/>aliquot argumentis contra improbationem 
+      funda<lb ed="#C" n="82" break="no"/>ti et conclusionis. 3. Methaphisice. dicit philosophus 
+      <lb ed="#C" n="83"/>Potentia actiua est principium transmutandi aliud 
+   </p>
+            <p xml:id="jb2v19-d69546-d1e370">
+               <lb ed="#C" n="84"/>¶ Secundo arguitur. quia si aliquod agens producat 
+      <lb ed="#C" n="85"/>aliquid in se: forma et efficiens coincideret: 
+      contra<lb ed="#C" n="86" break="no"/>Aristo. 2. Phisicorum.
+   </p>
+            <p xml:id="jb2v19-d69546-d1e379">
+      ¶ Tertio arguitur per 
+      aristote<lb ed="#C" n="87" break="no"/>lem: tertio de anima dicentem / in motu animalis locali est 
+      <lb ed="#C" n="88"/>aliquod mouens immobile: scilicet bonum actuale: et 
+      mo<lb ed="#C" n="89" break="no"/>uens quod mouetur spir snctus appetitiuum. est igitur 
+      intentio<lb ed="#C" n="90" break="no"/>philosophi quod bonum actuale mouet appetitum ad 
+      <lb ed="#C" n="91"/>suum actum quem causat in appetitum.
+   </p>
+            <p xml:id="jb2v19-d69546-d1e392">
+      ¶ 
+      Quar<lb ed="#C" n="92" break="no"/>to. agens approximatum passo disposito agit 
+      ne<lb ed="#C" n="93" break="no"/>cessario: nono Methaphisice. ideo dicit phaos: 
+      se<lb ed="#C" n="94" break="no"/>cundo de anima si sensus esset actiuus semper ageret 
+      <lb ed="#C" n="95"/>sicut ignis semper cobureret si haberet combustibile 
+      <lb ed="#C" n="96"/>presens. ergo eodem modo voluntas semper vellet si 
+      es<lb ed="#C" n="97" break="no"/>set causa actiua sue volitionis:
+   </p>
+            <p xml:id="jb2v19-d69546-d1e408">
+      ¶ Ad primum 
+      respo<lb ed="#C" n="98" break="no"/>detur. In spiritualibus non intelligitur: 
+      quemad<lb ed="#C" n="99" break="no"/>modum est intellectus vel voluntas: et hocpatet. commenta 
+      <lb ed="#C" n="100"/>tor nono Methaphisice vbi eadem 
+      materia<lb ed="#C" n="101" break="no"/>tangitur commento secundo dicit quod philosophus 
+      <lb ed="#C" n="102"/>non diffinit vniuersaliter potentia actiuam: sed 
+      <lb ed="#C" n="103"/>eam que est transmutatiua materie. Secundo 
+      <lb ed="#C" n="104"/>dicitur quod potentia actiua mouet aliud: sed non 
+      pre<lb ed="#C" n="105" break="no"/>cise aliud. Tertio. mouet se ac si esset aliud: et est 
+      <lb ed="#C" n="106"/>alietas rationis. Alia est ratio quare recipit / et 
+      <lb ed="#C" n="107"/>alia quare agit. sicut aristoteles dat: nono 
+      Me<lb ed="#C" n="108" break="no"/>thaphisice. exemplum de medico qui sanat se. sanatur 
+      <lb ed="#C" n="109"/>quia patiens: et sanat quia medicus: est tamen eadem 
+      <lb ed="#C" n="110"/>res.
+   </p>
+            <p xml:id="jb2v19-d69546-d1e440">
+      ¶ Ad secundum dicitur: non inconuenit 
+      for<lb ed="#C" n="111" break="no"/>mam coincidere cum causa efficiente vel materiali. 
+      <lb ed="#C" n="112"/>Aristoteles in secundo Phisicorum intendit quod 
+      mate<lb ed="#C" n="113" break="no"/>ria ex qua et forma non coincidunt: bene autem 
+      <lb ed="#C" n="114"/>materia in qua similiter causa efficiens 
+      compo<lb ed="#C" n="115" break="no"/>siti cum nulla partium eius coincidit.
+   </p>
+            <p xml:id="jb2v19-d69546-d1e453">
+      ¶ Ad 
+      ter<lb ed="#C" n="116" break="no"/>tium dico: quod bonum mouet voluntatem 
+      causan<lb ed="#C" n="117" break="no"/>do noticiam sui in voluntatem. modo noticia cum 
+      <lb ed="#C" n="118"/>voluntate concurrit ad productionem actus 
+      vo<lb ed="#C" n="119" break="no"/>luntatis. Uoluntas non est causa totalis actus 
+      <lb ed="#C" n="120"/>voluntatis: vt dicetur in questione sequente.
+      <pb ed="#V" n="117-v"/>
+               <cb ed="#P" n="a"/>
+            </p>
+            <p xml:id="jb2v19-d69546-d1e471">
+               <lb ed="#C" n="1"/>¶ Ad quartum dicitur homo interdum dormit. etiam requiritur 
+      <lb ed="#C" n="2"/>quod obiectum sit notum antequam sit volitum nihil non 
+      co<lb ed="#C" n="3" break="no"/>gnitum est volitum secundum Aug. x. de trim. et 3. voluntas est 
+      <lb ed="#C" n="4"/>libera. dato quod obsiectum noscat: non oportet quod ipsum 
+      ve<lb ed="#C" n="5" break="no"/>lit. si sensus exterior cognosceret se: hoc est: esset 
+      <lb ed="#C" n="6"/>in actu primo sufficienti le sentire sem per se sentiret. 
+      <lb ed="#C" n="7"/>ratio. Omnis effectus dependet sufficientur a sua causa. et 
+      <lb ed="#C" n="8"/>si causa est naturalis semper poneretur effectus. ergo si 
+      <lb ed="#C" n="9"/>oculus posset se per lineam rectam videre: semper se vi 
+      <lb ed="#C" n="10"/>deret cum est sibi praesens.
+   </p>
+            <p xml:id="jb2v19-d69546-d1e495">
+      ¶ Contra conclusionem 
+      argui<lb ed="#C" n="11" break="no"/>tur: non potest dari ratio quare voluntas vult a magis 
+      <lb ed="#C" n="12"/>quam nult si actus esset partialiter a voluntate et libe 
+      <lb ed="#C" n="13"/>re.
+   </p>
+            <p xml:id="jb2v19-d69546-d1e504">
+      ¶ Secundo arguitur. voluntas libere causat: vel hce 
+      <lb ed="#C" n="14"/>est in tempore quoe suum actum producit: et hoc non omne quod est 
+      <lb ed="#C" n="15"/>quando est necesse est esse. vel in alio tempore: et hoc no. 
+      be<lb ed="#C" n="16" break="no"/>ne sequitur. in hoc tempore voluntas non causat / ergo 
+      <lb ed="#C" n="17"/>non libere causat. ex opposito consequentis sequitur 
+      op<lb ed="#C" n="18" break="no"/>positum antecedentis.
+   </p>
+            <p xml:id="jb2v19-d69546-d1e517">
+      ¶ Tertio arguitur de primis 
+      <lb ed="#C" n="19"/>motibus in voluntate. tales non sunt in ptate 
+      vo<lb ed="#C" n="20" break="no"/>luntatis. ergo voluntas non habet actionem ad eos. si 
+      ha<lb ed="#C" n="21" break="no"/>beat: et per hoc saluas libertatem voluntatis. ergo 
+      <lb ed="#C" n="22"/>tales actus sunt pure spontanei. et per consequens motus 
+      pri<lb ed="#C" n="23" break="no"/>mo primus voluntati imputatur: quod non est dicendum. 
+   </p>
+            <p xml:id="jb2v19-d69546-d1e531">
+               <lb ed="#C" n="24"/>¶ Respondetur. voluntas vult a / quia ei placet: et sua liber 
+      <lb ed="#C" n="25"/>tate ad hoc se determinat. nec querendum est 
+      ali<lb ed="#C" n="26" break="no"/>ud ab ea per quod se determinat. sed sicut calor 
+      <lb ed="#C" n="27"/>naturaliter calefacit: ita voluntas libere vult. 
+      ali<lb ed="#C" n="28" break="no"/>as nichil meretur vel demeretur. inter sola animalia 
+      <lb ed="#C" n="29"/>deus hominem capacem beatitudinis ordinauit ita eum 
+      <lb ed="#C" n="30"/>participem meriti et demeriti produxit.
+   </p>
+            <p xml:id="jb2v19-d69546-d1e549">
+      ¶ Ad 
+      se<lb ed="#C" n="31" break="no"/>cundum dicitur: contingens est contingens: in instanti in quo 
+      <lb ed="#C" n="32"/>est. ad illam auctoritatem philsopi primo periarmenias 
+      <lb ed="#C" n="33"/>in primo: in materia de futuro contingenti responsum est. 
+   </p>
+            <p xml:id="jb2v19-d69546-d1e558">
+               <lb ed="#C" n="34"/>¶ Ad tertium argumentum in sua materia respondimus 
+      <lb ed="#C" n="35"/>sicut diximus in questione praecedenti. sed hic est 
+      for<lb ed="#C" n="36" break="no"/>matum: vt contra hanc conclusionem bacchalarius hoc 
+      ar<lb ed="#C" n="37" break="no"/>gumentum non negligat si in schola essem illam 
+      conclu<lb ed="#C" n="38" break="no"/>sionem impugnaturus: ab bo argumento exordirer 
+      pro<lb ed="#C" n="39" break="no"/>primo medio.
+   </p>
+            <p xml:id="jb2v19-d69546-d1e574">
+      ¶ Quarto arguitur. si voluntas 
+      an<lb ed="#C" n="40" break="no"/>geli causat volitionem: potest eam causare in alium 
+      ange<lb ed="#C" n="41" break="no"/>lum: quod est inconueniens. responsionem quere ex 
+      di<lb ed="#C" n="42" break="no"/>etis in nona distinctione huius. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

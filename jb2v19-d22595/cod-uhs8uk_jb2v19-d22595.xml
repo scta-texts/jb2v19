@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 6</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 6</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="39-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d22595"><!-- l2d3q6 -->
+            <head xml:id="jb2v19-d22595-Hd1e101">Quaestio 6</head>
+            <head xml:id="jb2v19-d22595-Hd1e103" type="question-title">
+      An angelus naturaliter cognoscat vel cognoscere possit distincte Deum in via
+    </head>
+            <p xml:id="jb2v19-d22595-d1e106">
+               <pb ed="#V" n="39-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>lupeciori 
+      que<lb ed="#C" n="2" break="no"/>stione locuti sumus quomodo 
+      <lb ed="#C" n="3"/>angelus cognoscat se. et quia 
+      <lb ed="#C" n="4"/>etiam potest deum et alias 
+      erea<lb ed="#C" n="5" break="no"/>turas cognoscere: remanet quin 
+      <lb ed="#C" n="6"/>to querere quo modo potest 
+      <lb ed="#C" n="7"/>alia a se cognoscere. Proptea 
+      <lb ed="#C" n="8"/>Quinto quaeritur / an angelus naturaliter cognoscat vel 
+      cogno<lb ed="#C" n="9" break="no"/>scere possit distincte deum in via.
+   </p>
+            <p xml:id="jb2v19-d22595-d1e132">
+      ¶ Respondetur per 
+      con<lb ed="#C" n="10" break="no"/>clusioes. Prima es. angelus in puris naturalibus potest 
+      <lb ed="#C" n="11"/>acquirere perfectiorem noticiam de deo quam aliquis purus 
+      homo<lb ed="#C" n="12" break="no"/>probatur. angelus est superioris speciei et altioris 
+      sublimita<lb ed="#C" n="13" break="no"/>tia in cognoscendo et non immersus matie. igitur.
+   </p>
+            <p xml:id="jb2v19-d22595-d1e143">
+      ¶ 
+      Se<lb ed="#C" n="14" break="no"/>cunda conclusio angelo in via praet communicari distincta 
+      cognitio<lb ed="#C" n="15" break="no"/>dei et abstractia. Probatur. angelo in via praet communicari 
+      omne<lb ed="#C" n="16" break="no"/>illud quod non ponit eum extra statum vie. sed agelum hatre 
+      di<lb ed="#C" n="17" break="no"/>sticta noticiam abstractiuam de oeo non ponit eum 
+      extra<lb ed="#C" n="18" break="no"/>statum vie. igitur. consequena tenet cum malore minor patet 
+      <lb ed="#C" n="19"/>btintudo consistit in visione dei clara et intuitia.
+   </p>
+            <p xml:id="jb2v19-d22595-d1e160">
+      ¶ 
+      Ter<lb ed="#C" n="20" break="no"/>tia conclusio. deus praet comunicare angelo vlatori noticiam hitu 
+      <lb ed="#C" n="21"/>alem praecise dei representatiua. probatur. si angelus videret 
+      <lb ed="#C" n="22"/>deum clare sicut paulus in raptu talis potest 
+      ha<lb ed="#C" n="23" break="no"/>bere noticiam habitualem vel speciem intelligbilem adequaete 
+      <lb ed="#C" n="24"/>representantem deum. quo facto talis 
+      cognosce<lb ed="#C" n="25" break="no"/>ret distinete doeun actualiter. Illa species 
+      intelli<lb ed="#C" n="26" break="no"/>gibilis vel habtus et potentia producere possunt 
+      <lb ed="#C" n="27"/>loticiam singularem dei.
+   </p>
+            <p xml:id="jb2v19-d22595-d1e180">
+      ¶ Quarta conclusio. 
+      beu<lb ed="#C" n="28" break="no"/>potest se solo producere noticiam singularem actualem 
+      <lb ed="#C" n="29"/>et abstractiuam in angelo viatore vel pro tpore quo 
+      <lb ed="#C" n="30"/>erat viator. Probatur hec conclusio per maximam 
+      the<lb ed="#C" n="31" break="no"/>ologicam. Quicquid deus potest producere cum causa 
+      se<lb ed="#C" n="32" break="no"/>cunda oeus potest producere se solo. noticiam abstracti 
+      <lb ed="#C" n="33"/>aam actualem et singularem dei potest deus 
+      produ<lb ed="#C" n="34" break="no"/>cere mediante habitu vel specie intelligibili: ergo 
+      <lb ed="#C" n="35"/>talem potest deus se solo producere. patet hoc aliter. 
+      <lb ed="#C" n="36"/>deus potest se solo creare in angelo noticiam 
+      intui<lb ed="#C" n="37" break="no"/>tiuam: licet angelus eunc non sit viator. ergo et abstracti 
+      <lb ed="#C" n="38"/>aam.
+   </p>
+            <p xml:id="jb2v19-d22595-d1e206">
+      ¶ Quinta conclusio. probabile est quod deus 
+      noti<lb ed="#C" n="39" break="no"/>ciam habitualem et abstractiuam angelo pro statu vie 
+      <lb ed="#C" n="40"/>comunicauit. Dei persecta suntopera Deuterono. xxxii. 
+      <lb ed="#C" n="41"/>et deus angelis rerum noticias indidit: vt post hac 
+      di<lb ed="#C" n="42" break="no"/>cetur. et deus est ens supremum. ergo non est 
+      vero<lb ed="#C" n="43" break="no"/>simile quod aliarum rex species angelis comunicault: et 
+      <lb ed="#C" n="44"/>non speciem diuino essentie.
+   </p>
+            <p xml:id="jb2v19-d22595-d1e222">
+      ¶ Secundo arguitur ad 
+      <lb ed="#C" n="45"/>idem. angelo in statu vie perfectior erat 
+      beatitu<lb ed="#C" n="46" break="no"/>do naturalis quam beatitudo naturalis hominum in 
+      sta<lb ed="#C" n="47" break="no"/>tu innocentie. sed adam in statu innocentie non 
+      po<lb ed="#C" n="48" break="no"/>terat habere noticiam singularem et distinctam dei 
+      re<lb ed="#C" n="49" break="no"/>presentatiuam. quia abstractiua hec distincta non acquiri 
+      <lb ed="#C" n="50"/>tur sine intuitima previa. et intuitiua adam habere 
+      de<lb ed="#C" n="51" break="no"/>doeo non poterat ex puris naturalibus. non a deo 
+      im<lb ed="#C" n="52" break="no"/>mediate. quia deus libere et contingenter agit ad ex 
+      <lb ed="#C" n="53"/>tra. et per consequens ad noticiam quae habetur de eo libere 
+      <lb ed="#C" n="54"/>concurrit: et non pro statu vie. nec a creatura. 
+      intui<lb ed="#C" n="55" break="no"/>tiua a. creature causat solum abstractiuam elusdem 
+      <lb ed="#C" n="56"/>creature. et non dei. et iste probationes probant 
+      pa<lb ed="#C" n="57" break="no"/>ri modo quod angelus non poterat noticiam 
+      abstracti<lb ed="#C" n="58" break="no"/>aam distinctam de deo habere. ergo talis noticia 
+      <lb ed="#C" n="59"/>est a deo libere conicata sed hec probatio parum
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="60"/>concludit. Dicetur huicrationiblintudo naturalis 
+      <lb ed="#C" n="61"/>potentie est perfectissima noticia quam potentia 
+      <lb ed="#C" n="62"/>pt de deo habere: sicut aristoteles. x. Ethi. loquitur 
+      <lb ed="#C" n="63"/>de beatitudine naturali. modo homo ex cognitione 
+      cre<lb ed="#C" n="64" break="no"/>aturarum potest assurgere in noticiam de deo: licet non 
+      <lb ed="#C" n="65"/>singularem et distinctam: et angelus in perfectiorem non 
+      <lb ed="#C" n="66"/>ticiam dei assurgere potest ex noticia creaturaru. 
+      <lb ed="#C" n="67"/>sed illa noticia non erit sin gularis et distincta dei 
+      <lb ed="#C" n="68"/>repeuentatiua de eodem obiecto vnus potest 
+      habe<lb ed="#C" n="69" break="no"/>re noticiam perfectiorem quam alter: sicut acuti visus 
+      me<lb ed="#C" n="70" break="no"/>lius videt visibile quam cecutiens et lippus. Aristoteles 
+      <lb ed="#C" n="71"/>aliquam beatitudinem naturalem de deo habere 
+      <lb ed="#C" n="72"/>poterat in via: et perfectiorem adam pro statu 
+      inno<lb ed="#C" n="73" break="no"/>centie: et perfectiorem angelus. et quanto 
+      angel<lb ed="#C" n="74" break="no"/>est superior tanto perfectiorem noticiam habere 
+      po<lb ed="#C" n="75" break="no"/>test.
+   </p>
+            <p xml:id="jb2v19-d22595-d1e294">
+      ¶ Tertio arguitur. hoc videtur Aug. sentire. secum 
+      <lb ed="#C" n="76"/>do de ciuitate doei. c. vii. et iiii. super menesim. ca. 
+      <lb ed="#C" n="77"/>vigestimo tertio: secundum aliam quotationem / 
+      capitulo<lb ed="#C" n="78" break="no"/>vigestmonono / non ponit successiuam productionem 
+      <lb ed="#C" n="79"/>rerum per sex dies naturales et artificiales. Ge . sed 
+      <lb ed="#C" n="80"/>dicit illi sex dies non erant in successione tporis quo 
+      <lb ed="#C" n="81"/>deus mundum creauit: sed in cognitione angelica 
+      crea<lb ed="#C" n="82" break="no"/>turarum ordinem naturalem habentium: ita quod prius 
+      no<lb ed="#C" n="83" break="no"/>turaliter nouit angelus creaturam in verbo: secundo in 
+      <lb ed="#C" n="84"/>genere proprio: et non stando ibi redit in verbum 
+      <lb ed="#C" n="85"/>laudans ipsum ex opere suo: et in illo iterum videt 
+      <lb ed="#C" n="86"/>rationem sequentis creature naturaliter. ita quod 
+      <lb ed="#C" n="87"/>quando deus dixit fiat lux: videt angelus se in ver 
+      <lb ed="#C" n="88"/>bo eterno cum facta est lux. et cum factum est vespere 
+      <lb ed="#C" n="89"/>vidit se in genere proprio. et cum factum est 
+      vespere<lb ed="#C" n="90" break="no"/>et mane omies vnus: ex se exsurrexit in laudem dei in 
+      <lb ed="#C" n="91"/>quo vidit secundam creaturam: et sic per ordinem. modo vide 
+      <lb ed="#C" n="92"/>re creaturam in verbo est videre eam visione qua ver 
+      <lb ed="#C" n="93"/>bum videtur: licet illa fuerit abstractiua. modo Aug. non 
+      <lb ed="#C" n="94"/>loquitur illic de visione beatifica simpliciter: sed 
+      de<lb ed="#C" n="95" break="no"/>beatitudine naturali. hec ratio parum concludit. tum 
+      pri<lb ed="#C" n="96" break="no"/>mo solum modum hieronymiet communem de 
+      successi<lb ed="#C" n="97" break="no"/>ua productione mundi credo verum. Alia 
+      expositio<lb ed="#C" n="98" break="no"/>non quadrat cum littera ad hoc quod dicatur litteralis. 
+      <lb ed="#C" n="99"/>Secundo dico: illo dato: videre aliquid in verbo non 
+      <lb ed="#C" n="100"/>est videre creaturam visione qua videtur verbum siue 
+      <lb ed="#C" n="101"/>intuitiue siue abstractiue: vt latius in quarto / 
+      di<lb ed="#C" n="102" break="no"/>stinctione. xlix. dictum est. Tertio illo dato non 
+      con<lb ed="#C" n="103" break="no"/>cluditur quod angeli in statu vie habuerint noticiam 
+      <lb ed="#C" n="104"/>singularem habitualem de essentia diuina vel abstra 
+      <lb ed="#C" n="105"/>ctiuam actualem. sed sufficeret alia cognitio a 
+      creatu<lb ed="#C" n="106" break="no"/>ris assumpta perfectior quam aliquis homo purus acquirere 
+      <lb ed="#C" n="107"/>poterat. Ecce ergo vltimam conclusionem non difficule 
+      <lb ed="#C" n="108"/>ter sed vtcumque tenuiter probatam. Prima 
+      probatio<lb ed="#C" n="109" break="no"/>est melior suasio ad conclusionem: et aduersariorum 
+      ra<lb ed="#C" n="110" break="no"/>tiones in oppositum parui sunt poderis.
+   </p>
+            <p xml:id="jb2v19-d22595-d1e372">
+      ¶ 
+      Con<lb ed="#C" n="111" break="no"/>tra vltimam conclusionem arguit Henricus gandensis 
+      <lb ed="#C" n="112"/>quotlibeto. iii. q. i. et quotlibeto. iiii. qui. vti. et 
+      no<lb ed="#C" n="113" break="no"/>na et quotlibeto. v. qu4xiiii. Primo somnis propa 
+      ra<lb ed="#C" n="114" break="no"/>tio intelligendi aliquod obiectum per adequationem 
+      <lb ed="#C" n="115"/>representat illud obiectum nulla autem species vel 
+      <lb ed="#C" n="116"/>essentia creata potest adequate representare 
+      essen<lb ed="#C" n="117" break="no"/>tiam diuinam. species est finita. obiectum infinitum. modo finiti 
+      <lb ed="#C" n="118"/>ad infinitum nulla est proportio. igitur.
+   </p>
+            <p xml:id="jb2v19-d22595-d1e393">
+      ¶ Secuodo species 
+      <lb ed="#C" n="119"/>creata vnins rei magia assimilater alteri rei create
+      <pb ed="#V" n="39-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>quam deo. quia vtraque finita. distictius ergo representat 
+      <lb ed="#C" n="2"/>creatura quam deum.
+   </p>
+            <p xml:id="jb2v19-d22595-d1e406">
+      ¶ Respondetur. si per 
+      adequatio<lb ed="#C" n="3" break="no"/>nem arguens intelligat rationem representandi 
+      debe<lb ed="#C" n="4" break="no"/>re esse equalis perfectionis cum obiecto intellecto: 
+      fal<lb ed="#C" n="5" break="no"/>sa est propositio. patet manifeste. visione beatifica 
+      co<lb ed="#C" n="6" break="no"/>gnoscitur deus distincte. et tamen visio beatifica est 
+      ac<lb ed="#C" n="7" break="no"/>cidens et materia prima imperfectior. et deus est 
+      infi<lb ed="#C" n="8" break="no"/>nitus. breuiter propositio assumpta nullum sensum 
+      <lb ed="#C" n="9"/>verum habet.
+   </p>
+            <p xml:id="jb2v19-d22595-d1e424">
+      ¶ Ad secundum distinguo quod species 
+      cre<lb ed="#C" n="10" break="no"/>ata magis assimiletur vni rei create quod deo. vel 
+      en<lb ed="#C" n="11" break="no"/>titatiue: et sic concedo: vel representatiue et sic 
+      no<lb ed="#C" n="12" break="no"/>go. noticia sortis plus conueuit cum noticia platonis 
+      <lb ed="#C" n="13"/>entitatiue quod cum sorte. cum sint due noticie eiusdem 
+      <lb ed="#C" n="14"/>speciei specialissime entitatiue sortes est substantia 
+      <lb ed="#C" n="15"/>et noticia eius accidens.
+   </p>
+            <p xml:id="jb2v19-d22595-d1e440">
+      ¶ Tertio arguitur. angelus 
+      <lb ed="#C" n="16"/>est magis imago dei quam illa species. ergo citius 
+      an<lb ed="#C" n="17" break="no"/>gelus representat sibi essentiam diuina quod vlla 
+      crea<lb ed="#C" n="18" break="no"/>ta species. atecens. patet secundum Aug. xiiii. de tri. c. viii. 
+      di<lb ed="#C" n="19" break="no"/>centem quod eo aliquid est imago dei quo peiceps eius es 
+      po<lb ed="#C" n="20" break="no"/>test. magis potest angelus esse particeps dei quam species 
+      <lb ed="#C" n="21"/>quae non est dei capax.
+   </p>
+            <p xml:id="jb2v19-d22595-d1e456">
+      ¶ Quarto arguitur. sequitur quod 
+      <lb ed="#C" n="22"/>angelus poterat pro statu vie cognoscere mysterium 
+      <lb ed="#C" n="23"/>trinitatis / et de facto ipsum cognouit. patet. 
+      distin<lb ed="#C" n="24" break="no"/>cte cognouit essentiam diuinam in qua est personarum 
+      <lb ed="#C" n="25"/>trinitas. ergosi essentiam cognouit distincte 
+      cogno<lb ed="#C" n="26" break="no"/>uit llla quae sunt in essentia.
+   </p>
+            <p xml:id="jb2v19-d22595-d1e469">
+      ¶ Ad tertium dicitur 
+      o<lb ed="#C" n="27" break="no"/>imago vno modo dicitur illud quod est ratio 
+      representa<lb ed="#C" n="28" break="no"/>di aliquid dato quod non sit capax beatitudinis. 
+      Se<lb ed="#C" n="29" break="no"/>cundo modo dicitur imago illud quod participat cum deo in 
+      <lb ed="#C" n="30"/>essentia et potentiis vel earum actibus de quibus alibi 
+      <lb ed="#C" n="31"/>Secundo modo / angelus est magis imago quo 
+      speci<lb ed="#C" n="32" break="no"/>es. prlimo modo species.
+   </p>
+            <p xml:id="jb2v19-d22595-d1e486">
+      ¶ Ad quartum nego seque 
+      <lb ed="#C" n="33"/>lam non oportet quod si a. disticte cognoscat b. quod 
+      co<lb ed="#C" n="34" break="no"/>gnoscat omnia intrinseca b. siue intuitiue vel 
+      ab<lb ed="#C" n="35" break="no"/>stractiue ipsum cognoscat. modo solum ponimus 
+      noti<lb ed="#C" n="36" break="no"/>ciam abstractiuam in intellectu angelico fuisse 
+      solum<lb ed="#C" n="37" break="no"/>in potentia: hoc est: angelus habuit speciem per quam 
+      <lb ed="#C" n="38"/>poterat exirelin actum cum voluisset pro tempore vie. 
+   </p>
+            <p xml:id="jb2v19-d22595-d1e502">
+               <lb ed="#C" n="39"/>¶ Quinto arguitur. vel species illa naturaliter 
+      mo<lb ed="#C" n="40" break="no"/>uebat angelum ad noticia abstractiuam: vel supernatu 
+      <lb ed="#C" n="41"/>raliter. non primum. infundebatur a deo: et a creaturis 
+      <lb ed="#C" n="42"/>illam angelus acquirere non poterat. non secundum. calor 
+      <lb ed="#C" n="43"/>miraculose productus naturaliter calefacit sicut 
+      ca<lb ed="#C" n="44" break="no"/>lor naturaliter productus.
+   </p>
+            <p xml:id="jb2v19-d22595-d1e518">
+      ¶ Sexto arguitur. ponendo 
+      <lb ed="#C" n="45"/>specien in a / angelo representatiuam distincte oei. tunc 
+      <lb ed="#C" n="46"/>b. angelus videndo illa speciem poterat cognoscere 
+      <lb ed="#C" n="47"/>diuinam essentiam sicut a / angelus.
+   </p>
+            <p xml:id="jb2v19-d22595-d1e527">
+      ¶ Ad quintum 
+      respon<lb ed="#C" n="48" break="no"/>detur concedendo quod illa species naturaliter inclinat 
+      <lb ed="#C" n="49"/>habentem ad cognoscendum abstractine essentiam oiuinam 
+      <lb ed="#C" n="50"/>sicut de calore exemplificatum est. vt lazmarus 
+      mracu<lb ed="#C" n="51" break="no"/>lose resuscitacus naturaliter incedebat et 
+      natura<lb ed="#C" n="52" break="no"/>liter fecit operationes huanas.
+   </p>
+            <p xml:id="jb2v19-d22595-d1e540">
+      ¶ Ad sextum 
+      re<lb ed="#C" n="53" break="no"/>spondetur quod argumentum non mouet. nunmquid 
+      simi<lb ed="#C" n="54" break="no"/>lis difficultas nunc occurrit: si vnus angelus videat 
+      <lb ed="#C" n="55"/>beatitudinem alterius vel habitum in intellectu alteri 
+      <lb ed="#C" n="56"/>us angeli: non oportet quod videns speciem representati 
+      <lb ed="#C" n="57"/>uam a / obiecti videat a / obiectum: nec ipsum 
+      apprehen<lb ed="#C" n="58" break="no"/>dat: licet ita sit in imagine in speculo visa: sed quic 
+      <lb ed="#C" n="59"/>quid sit de illo: argumentum non habet vim 
+      con<lb ed="#C" n="60" break="no"/>tra conclusionem.
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

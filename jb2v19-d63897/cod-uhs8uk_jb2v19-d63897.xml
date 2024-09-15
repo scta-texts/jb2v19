@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="107-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d63897"><!-- l2d21q1 -->
+            <head xml:id="jb2v19-d63897-Hd1e101">Quaestio 1</head>
+            <head xml:id="jb2v19-d63897-Hd1e103" type="question-title">
+      An temptatio daemonis ex invidia  oriebatur ad hominem callide
+    </head>
+            <p xml:id="jb2v19-d63897-d1e106">
+               <lb ed="#C" n="86"/>IN hac distinctione e2I queram duo. 
+      pri<lb ed="#C" n="87" break="no"/>mon de temptatione demonis. secundo: an 
+      <lb ed="#C" n="88"/>primum peccatum ade potuit fuisse 
+      ve<lb ed="#C" n="89" break="no"/>ilm aieitiale.
+   </p>
+            <p xml:id="jb2v19-d63897-d1e117">
+      ¶ Circa priorem partem quaero hunc 
+      <lb ed="#C" n="90"/>questionis titulum: an temptatio demonis inuidia 
+      <lb ed="#C" n="91"/>oriebatur ad hominem callide.
+   </p>
+            <p xml:id="jb2v19-d63897-d1e124">
+      ¶ Pro questionis 
+      so<lb ed="#C" n="92" break="no"/>lutione solum vnum vocabulum explanabitur. postea 
+      <lb ed="#C" n="93"/>respondebo ad questionem.
+   </p>
+            <p xml:id="jb2v19-d63897-d1e132">
+      ¶ Temptare biphariam 
+      <lb ed="#C" n="94"/>accipitur. vnomodo stricte. et sic capitur in malam 
+      piar<lb ed="#C" n="95" break="no"/>tem solum. sic capitur Iacobi primo. nemo cum 
+      tem<lb ed="#C" n="96" break="no"/>ptatur dicat quoniam a deo temptatur. deus enim 
+      <lb ed="#C" n="97"/>intemptator est malorum. ipse enim neminem temptat. 
+      <lb ed="#C" n="98"/>Temptare hoc modo nihil aliud est quod 
+      induce<lb ed="#C" n="99" break="no"/>re ad malum et fallere in moribus. et sic diffinitur. 
+      <lb ed="#C" n="100"/>Est aliqua fallatia inducens rationabilem creaturam 
+      <lb ed="#C" n="101"/>ad malum siue ad male credendum / operandum / vel 
+      <lb ed="#C" n="102"/>omittendum quod est faciendum. homo sic temptat 
+      <lb ed="#C" n="103"/>vt incredulus fidelem: vel vir mulierem vt in eum 
+      <lb ed="#C" n="104"/>consentiat. demon etiam sic temptat et 
+      principa<lb ed="#C" n="105" break="no"/>lius quam homo: sic quod glo. interlinearis prime thes. 3. 
+      <lb ed="#C" n="106"/>super istud / ne forte temptet vos / is qui temptat 
+      <lb ed="#C" n="107"/>dicit: solus diabolus: cuius officium est temptare. nanm 
+      <lb ed="#C" n="108"/>et si homo aliquando sic temptat: hoc agit 
+      inquan<lb ed="#C" n="109" break="no"/>tum est minster diaboli. quia callidius interius et ex 
+      <lb ed="#C" n="110"/>terius temptare nouit quam homo. licet nonnun 
+      <lb ed="#C" n="111"/>conuenientius solet per hominem circumuenire quod 
+      <lb ed="#C" n="112"/>per seipsum. vt mulieres aliquas honestas per 
+      ma<lb ed="#C" n="113" break="no"/>liciosas senes intermedias ad fallendum inducit: et 
+      <lb ed="#C" n="114"/>adam per euam. hoc modo mundus et caro 
+      tem<lb ed="#C" n="115" break="no"/>ptant Iacobi primo. vnusquisque temptatur a sua 
+      <lb ed="#C" n="116"/>concupiscentia abstractus et illectus. Et 
+      sapien<lb ed="#C" n="117" break="no"/>tie. 14. creature dei facte sunt inodium et in 
+      temptatio<lb ed="#C" n="118" break="no"/>nem anime hominum et in muscipulam pedibus 
+      insipien<lb ed="#C" n="119" break="no"/>tium.
+   </p>
+            <p xml:id="jb2v19-d63897-d1e191">
+      ¶ Alio modo capitur temptare communius. tunc 
+      <lb ed="#C" n="120"/>indifferenter in bonam et mala partem capitur. quod secundum
+      <pb ed="#V" n="108-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>materiam subiectam cognosci potest. Genesis 22. 
+      <lb ed="#C" n="2"/>scribitur de deo Temptauit dominus abraham. et 
+      psal<lb ed="#C" n="3" break="no"/>mista. proba me domine et tempta me: vbi glosa 
+      cassio<lb ed="#C" n="4" break="no"/>dori. temptat deus vt erudiat: homo vt sciat: 
+      dia<lb ed="#C" n="5" break="no"/>bolus vt seducat. ergo aliqua temptatione 
+      que<lb ed="#C" n="6" break="no"/>ritur experientia de ignoto temptanti: vt arguens 
+      <lb ed="#C" n="7"/>facit in sillogismo temptatiuo: sicut regens 
+      disci<lb ed="#C" n="8" break="no"/>pulo artiste: siue arguens sorbonicus in socium. et 
+      re<lb ed="#C" n="9" break="no"/>gina saba salomonem in enigmatibus: tertii regum. x. 
+      <lb ed="#C" n="10"/>venit regina saba temptare salomonem in 
+      enigmati<lb ed="#C" n="11" break="no"/>bus. sic imprudentes temptant deum qui in dei 
+      vir<lb ed="#C" n="12" break="no"/>tute vacillat experimentum querunt: contra illud 
+      deu<lb ed="#C" n="13" break="no"/>teronomii. 6 non temptabis dominum deum tuum. 
+      ali<lb ed="#C" n="14" break="no"/>quis temptat seipsum vt interpres in vesperiis 
+      <lb ed="#C" n="15"/>experimentum facit an sciat suam oratione 
+      bene<lb ed="#C" n="16" break="no"/>pronunciare: et dauid an armatus incedere possit 
+      <lb ed="#C" n="17"/>primi regum. 17. In aliqua temptatione non que 
+      <lb ed="#C" n="18"/>ritur experimentum de ignoto temptante: sed vt 
+      <lb ed="#C" n="19"/>aliis innotescat. sic deus temptat. nihil eum latet. 
+      <lb ed="#C" n="20"/>sciebat ab eterno quomodo abraham suo nutu 
+      fi<lb ed="#C" n="21" break="no"/>lium offerret in holocaustum. sed temptauit abraham 
+      <lb ed="#C" n="22"/>vt hoc aliis innotesceret: licet Genesis. 22. 
+      scri<lb ed="#C" n="23" break="no"/>batur nunc cognoui quod timeas dominum: hoc est: aliis 
+      <lb ed="#C" n="24"/>dedi cognoscere: iuxta illud: Deuteronomii. 153 
+      <lb ed="#C" n="25"/>Temptat vos dominus deus vester vt palam fiat vtrum 
+      <lb ed="#C" n="26"/>diligatis eum an non in toto corde vestro. Et 
+      sapien<lb ed="#C" n="27" break="no"/>tie. 3. deus temptat illos et inuenit eos dignos 
+      <lb ed="#C" n="28"/>se. tanquam aurum in fornace probauit eos.
+   </p>
+            <p xml:id="jb2v19-d63897-d1e261">
+      ¶ his de 
+      <lb ed="#C" n="29"/>significatione vocabuli praemissis: deuenio ad que 
+      <lb ed="#C" n="30"/>stionis enodationem conclusiue. Prima conclusio erit 
+      <lb ed="#C" n="31"/>demon inuidia pulsatus hominem temptauit. 
+      Se<lb ed="#C" n="32" break="no"/>cunda conclusio. demon hominem callide 
+      tempta<lb ed="#C" n="33" break="no"/>uit. Tertia conclusio. poterat demon si voluisset 
+      <lb ed="#C" n="34"/>fi deus permisisset hominem multo callidius 
+      tempta<lb ed="#C" n="35" break="no"/>re. Quarta conclusio. ex quo cum parua 
+      temptatio<lb ed="#C" n="36" break="no"/>ne homo victus est: grauius transgressus est. 
+   </p>
+            <p xml:id="jb2v19-d63897-d1e281">
+               <lb ed="#C" n="37"/>¶ Prima conclusio probatur. Sapientie 2. 
+      inui<lb ed="#C" n="38" break="no"/>dia diaboli mors intrauit in orbem terrarum. et 
+      <lb ed="#C" n="39"/>Gregorius. 5. moralium: super illud Iob. 5. 
+      paruu<lb ed="#C" n="40" break="no"/>lum occidit inuidia: dicit. hostis callidus primo 
+      <lb ed="#C" n="41"/>homini inuidendo subrepsit: quia amissa 
+      beatitudi<lb ed="#C" n="42" break="no"/>ne minorem se immortalitate illius agnouit. et 
+      ma<lb ed="#C" n="43" break="no"/>gister in littera. videns diabolus hominem per 
+      obe<lb ed="#C" n="44" break="no"/>dientie humilitatem posse ascendere vnde ipse 
+      per<lb ed="#C" n="45" break="no"/>superbiam corruerat: inuidit ei. et qui prius per 
+      su<lb ed="#C" n="46" break="no"/>perbiam diabolus fuerat: zelo inuidie factus est 
+      sa<lb ed="#C" n="47" break="no"/>than. i. aduersarius.
+   </p>
+            <p xml:id="jb2v19-d63897-d1e307">
+      ¶ Secunda conclusio 
+      proba<lb ed="#C" n="48" break="no"/>tur. exercitum inuasit in debiliorem partem. et illa est 
+      <lb ed="#C" n="49"/>cautela inuadentis exercitum vel artem. vlterius 
+      ince<lb ed="#C" n="50" break="no"/>pit ab interrogatione querens: cur precepit vobis 
+      <lb ed="#C" n="51"/>deus ne comederetis: vt experimentum de 
+      corde<lb ed="#C" n="52" break="no"/>mulieris caperet. sicut astutus arguens 
+      sorboni<lb ed="#C" n="53" break="no"/>cus querit a respondente quid sentit de tali 
+      mate<lb ed="#C" n="54" break="no"/>ria antequam argumentum aggrediatur vt cautius 
+      sti<lb ed="#C" n="55" break="no"/>mulet respondentem. et in duello pugnans / arma 
+      con<lb ed="#C" n="56" break="no"/>socii punctum hinc inde ferit vt partem 
+      penetrabi<lb ed="#C" n="57" break="no"/>liorem inueniat.
+   </p>
+            <p xml:id="jb2v19-d63897-d1e331">
+      ¶ Tertia conclusio probatur. de 
+      <lb ed="#C" n="58"/>mon est callidissimus: cui vlisses / achitophel / si 
+      <lb ed="#C" n="59"/>non vel iuppitur comparati nihil sunt. patet. quilibet 
+      <lb ed="#C" n="60"/>angelus est homine superior in naturalibus. lu¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>cifer erat de suprema hierarchia / et supremo 
+      ornr<lb ed="#C" n="62" break="no"/>dine illius: et Iam ab orbe condito sine carnis alla 
+      <lb ed="#C" n="63"/>tione habet experientias. ergo incomparabiliter 
+      <lb ed="#C" n="64"/>hominem excedit: ergo callidius. hoc ipsum patet Iob. 4I. 
+      <lb ed="#C" n="65"/>per ipsum Iob cum demone plurimum versatum 
+      <lb ed="#C" n="66"/>qui dixit. non est potestas super terram que ei 
+      pos<lb ed="#C" n="67" break="no"/>sit comparari. sed astutus callide ante oculos 
+      pen<lb ed="#C" n="68" break="no"/>natorum scit ducere rethe argumenti. modo 
+      tempta<lb ed="#C" n="69" break="no"/>tio quanto est occultior tanto est periculosior inte 
+      <lb ed="#C" n="70"/>rius et inuisibiliter temptare poterat demon 
+      si<lb ed="#C" n="71" break="no"/>bi relictus vel in columba bestia simplici modo. quam 
+      <lb ed="#C" n="72"/>to res videtur simplicior tanto citius mouet ad 
+      <lb ed="#C" n="73"/>credendum: et quanto perniciosior et astutior tanto 
+      <lb ed="#C" n="74"/>plus ab illo cauetur. licet nullum brutum ante peccatum 
+      <lb ed="#C" n="75"/>primis parentibus nocuit: sciebant brutorum 
+      natu<lb ed="#C" n="76" break="no"/>ras: aliquas de se malas: aliquas vero bonas. 
+   </p>
+            <p xml:id="jb2v19-d63897-d1e378">
+               <lb ed="#C" n="77"/>¶ Quarta conclusio probatur. viro forti vinci in 
+      <lb ed="#C" n="78"/>terdum in bello corporali est indecorum. et quanto 
+      <lb ed="#C" n="79"/>modus vincendi est debilior tanto vinci est fedius: 
+      po<lb ed="#C" n="80" break="no"/>tissimum in homine forti. ergo idem est in bello spirituali. modo 
+      adam<lb ed="#C" n="81" break="no"/>et eua erant valde fortes tam in naturalibus quam in donis 
+      <lb ed="#C" n="82"/>gratuitis. Naturalia habebant integerrima: non 
+      le<lb ed="#C" n="83" break="no"/>sa et grauata. illustrata erant scientia et iusticia origi 
+      <lb ed="#C" n="84"/>nali.
+   </p>
+            <p xml:id="jb2v19-d63897-d1e398">
+      ¶ Contra primam conclusionem arguitur. Super 
+      <lb ed="#C" n="85"/>bia instigabatur primum parentem demo temptare. patet. 
+      <lb ed="#C" n="86"/>4. de trini. dei. c. 12. dicit Aug. Elationis vitium 
+      <lb ed="#C" n="87"/>in dei aduersario qui est diabolus maxime 
+      do<lb ed="#C" n="88" break="no"/>minari sacris litteris edocetur.
+   </p>
+            <p xml:id="jb2v19-d63897-d1e409">
+      ¶ Secundo arguitur per 
+      <lb ed="#C" n="89"/>Gregorium. 5. moralium qui dicit super illud Iob. 5. 
+      par<lb ed="#C" n="90" break="no"/>uulum occidit inuidia. paruulus est qui inuidia 
+      oc<lb ed="#C" n="91" break="no"/>ciditur. quia nisi ipse inferior existeret de bono 
+      al<lb ed="#C" n="92" break="no"/>terius non doleret. sed demon (cum est superbissimus) non 
+      <lb ed="#C" n="93"/>reputabit se homine inferiorem. igitur homini non 
+      inui<lb ed="#C" n="94" break="no"/>debat.
+   </p>
+            <p xml:id="jb2v19-d63897-d1e425">
+      ¶ Tertio arguitur per istud commune: inuidet 
+      <lb ed="#C" n="95"/>figulus figulo / et egenus egeno. philsopho inquantum 
+      hmoni<lb ed="#C" n="96" break="no"/>non inuidet calcifex qui est alterius artis et 
+      voca<lb ed="#C" n="97" break="no"/>tionis. modo demon est alterius speciei et 
+      voca<lb ed="#C" n="98" break="no"/>tionis ab homine. igitur ei non inuidebat.
+   </p>
+            <p xml:id="jb2v19-d63897-d1e436">
+      ¶ Ad primum 
+      <lb ed="#C" n="99"/>dicitur quod supbia erat prima radix demonis per quam 
+      <lb ed="#C" n="100"/>in inuidiam lapsus est. Superbia inuidiam procreat 
+      <lb ed="#C" n="101"/>vt post hac suo in loco dicemus. inuidia erat 
+      cau<lb ed="#C" n="102" break="no"/>sa proxima temptationis.
+   </p>
+            <p xml:id="jb2v19-d63897-d1e447">
+      ¶ Ad secundum dicitur. 
+      de<lb ed="#C" n="103" break="no"/>mon non exarsit tanta superbia quin iudicauit hominem 
+      <lb ed="#C" n="104"/>posse conscendere ad sublimitatem a qua ipse 
+      ceci<lb ed="#C" n="105" break="no"/>derat.
+   </p>
+            <p xml:id="jb2v19-d63897-d1e457">
+      ¶ Ad tertium concedo quod figulus inuidet 
+      fi<lb ed="#C" n="106" break="no"/>gulo: et illi qui virsantur circa idem: quorum 
+      exalta<lb ed="#C" n="107" break="no"/>tio vnius potest esse praeiudicialis alteri vere vel apparen 
+      <lb ed="#C" n="108"/>ter. sic in proposito. nec refert siue spem 
+      distinguan<lb ed="#C" n="109" break="no"/>tur vel ne.
+   </p>
+            <p xml:id="jb2v19-d63897-d1e468">
+      ¶ Contra tertiam conclusionem et eius 
+      <lb ed="#C" n="110"/>probationem arguitur. mulier est viro astutior. patet 
+      <lb ed="#C" n="111"/>per Auicennam. 8. libro de animalibus. c. de industria 
+      <lb ed="#C" n="112"/>animalium dicit. mulieres sunt magis fraudulente qua 
+      <lb ed="#C" n="113"/>viri. Prouerbialiter dicimus: si in maleficio 
+      co<lb ed="#C" n="114" break="no"/>perta fuerit excusationem inuenit antequam genu 
+      manu<lb ed="#C" n="115" break="no"/>attingere poterit. modo astutior proptius fraudem 
+      <lb ed="#C" n="116"/>deprehendit: secundum illud Prouerbiorum. 17. astutus vi 
+      <lb ed="#C" n="117"/>dens malum absconditus est.
+   </p>
+            <p xml:id="jb2v19-d63897-d1e488">
+      ¶ Secundo arguitur contra 
+      <lb ed="#C" n="118"/>eandem conclusionem. gloriosius putatur a 
+      super<lb ed="#C" n="119" break="no"/>bo vincere fortiorem contra debiliorem. Propterea 
+      <lb ed="#C" n="120"/>Teo esopi noluit murem in rethe captum perime
+      <pb ed="#V" n="108-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>re: inquiens. nonne leoni dedecus et muri ceperit 
+      <lb ed="#C" n="2"/>esse decus. non alias Achiles apud poetas 
+      man<lb ed="#C" n="3" break="no"/>sit decantatissimus nisi quia hectorem cum Troillo 
+      <lb ed="#C" n="4"/>peremit. ergo cum diabolus superbia ardens 
+      appe<lb ed="#C" n="5" break="no"/>tat excellentiam: et gloriosius est virum vincere 
+      quae<lb ed="#C" n="6" break="no"/>mulierem: congruebat ei magis virum primo insultu 
+      <lb ed="#C" n="7"/>aggredi.
+   </p>
+            <p xml:id="jb2v19-d63897-d1e517">
+      ¶ Respondetur: concedo mulier est 
+      fraudu<lb ed="#C" n="8" break="no"/>lentior viro: non tamn ita iudicat sicut vir. nec scit 
+      in<lb ed="#C" n="9" break="no"/>uenire medium ita subitu bonum et perspicax sicut vir: 
+      <lb ed="#C" n="10"/>licet in paruis tricis et rebus minutis suis in qua 
+      <lb ed="#C" n="11"/>versatur potest melius iudicare. quod medicorum est 
+      pro<lb ed="#C" n="12" break="no"/>mittunt medici.
+   </p>
+            <p xml:id="jb2v19-d63897-d1e530">
+      ¶ Ad secundum concedo. quod glorio 
+      <lb ed="#C" n="13"/>sius putatur vincere fortiorem quam debiliorem: si puta 
+      <lb ed="#C" n="14"/>retur victoria proxima. sed superbus timet deiici 
+      <lb ed="#C" n="15"/>et vinci. maluit vti medio vt sit victor paulatiue 
+      <lb ed="#C" n="16"/>inchoando a debiliore: et tandem cum ope debilioris 
+      <lb ed="#C" n="17"/>vincere fortiorem. iudicabat demon adam oculatiorem 
+      <lb ed="#C" n="18"/>ipsa eua tam per corporis complexionem quam per 
+      inces<lb ed="#C" n="19" break="no"/>sum et gestus. et mulierem cognoscere poterat ex 
+      <lb ed="#C" n="20"/>costa viri depromptam. putabat si ipsa primo peccaret in 
+      <lb ed="#C" n="21"/>stigare inoportune maritum peccare cum 
+      mulie<lb ed="#C" n="22" break="no"/>re adiutus: finaliter euaderet victor si a viro 
+      in<lb ed="#C" n="23" break="no"/>choasset: et fuisset ab eo victus: de quo dubitabat: 
+      <lb ed="#C" n="24"/>nec mulierem vicisset. quia eam vir suus plus animad 
+      <lb ed="#C" n="25"/>uersus cohibuisset ne demoni assentiret
+   </p>
+            <p xml:id="jb2v19-d63897-d1e561">
+      ¶ 
+      Dubi<lb ed="#C" n="26" break="no"/>tatur an nonnunquam sit temptatio a carne sine 
+      tem<lb ed="#C" n="27" break="no"/>ptatione ab hoste.
+   </p>
+            <p xml:id="jb2v19-d63897-d1e569">
+      ¶ Respondetur quod sic. sunt 
+      due<lb ed="#C" n="28" break="no"/>temptationes inter se distincte: quarum neutra al 
+      <lb ed="#C" n="29"/>alia despendet. ergo vna potest esse sine alia. Insuper. 
+      <lb ed="#C" n="30"/>licet ad ymaginationem possibilem demon nunquam 
+      <lb ed="#C" n="31"/>fuisset plasmatus: adhuc potuit fuisse 
+      temptatio<lb ed="#C" n="32" break="no"/>a carne. igitur.
+   </p>
+            <p xml:id="jb2v19-d63897-d1e582">
+      ¶ Contra istud arguitur. instrumen 
+      <lb ed="#C" n="33"/>tum non mouetur nisi a suo motore. sed caro 
+      cor<lb ed="#C" n="34" break="no"/>rupta est instrumentum diaboli: secundum illud Iob. o 
+      <lb ed="#C" n="35"/>terra tradita est in manus impii. i. in manus 
+      dia<lb ed="#C" n="36" break="no"/>boli secundum glo.
+   </p>
+            <p xml:id="jb2v19-d63897-d1e593">
+      ¶ Secundo arguitur. victus a 
+      car<lb ed="#C" n="37" break="no"/>nis temptatione est seruus diaboli. ergo diabolus 
+      <lb ed="#C" n="38"/>cooperatur in illa pugna. quia nullus efficitur 
+      ser<lb ed="#C" n="39" break="no"/>uus in bello nisi pugnantis.
+   </p>
+            <p xml:id="jb2v19-d63897-d1e602">
+      ¶ Tertio. Io. 
+      dama<lb ed="#C" n="40" break="no"/>scenus lilbro 2. c. 4. de demonibus loquens: dicit quod 
+      <lb ed="#C" n="41"/>omnis malicia et immunde passiones ex ipsis ex 
+      <lb ed="#C" n="42"/>cogitate sunt. sed temptatio carnis est immunda 
+      <lb ed="#C" n="43"/>passio. igitur.
+   </p>
+            <p xml:id="jb2v19-d63897-d1e613">
+      ¶ Ad primum respodetur: 
+      instrumen<lb ed="#C" n="44" break="no"/>tum vel organum animatum potest seipsum mouere 
+      <lb ed="#C" n="45"/>quemadmodum loquitur Aristoteles de seruo 
+      natu<lb ed="#C" n="46" break="no"/>rali: primo politicorum.
+   </p>
+            <p xml:id="jb2v19-d63897-d1e622">
+      ¶ Ad secundum nego 
+      consequen<lb ed="#C" n="47" break="no"/>tiam. sufficit quod cooperabatur olim in causam 
+      vn<lb ed="#C" n="48" break="no"/>de carnis rebellio sequuta est. frequenter in bello 
+      <lb ed="#C" n="49"/>victus efficitur seruus regis non pugnantis 
+      actuali<lb ed="#C" n="50" break="no"/>ter.
+   </p>
+            <p xml:id="jb2v19-d63897-d1e634">
+      ¶ Ad tertium dicitur quod vniuersalis illa est 
+      mo<lb ed="#C" n="51" break="no"/>ralis: vt in pluribus tenens. Insuper: omnis 
+      immun<lb ed="#C" n="52" break="no"/>da passio est a demone tanquam a causa propinqua 
+      <lb ed="#C" n="53"/>vel remota.
+   </p>
+            <p xml:id="jb2v19-d63897-d1e643">
+      ¶ Secundo dubitatur: vtra harum 
+      duun<lb ed="#C" n="54" break="no"/>temptationum est difficilior et cui earum difficilius 
+      re<lb ed="#C" n="55" break="no"/>sistitur.
+   </p>
+            <p xml:id="jb2v19-d63897-d1e650">
+      ¶ Respondetur: se habent secundum excedens et 
+      <lb ed="#C" n="56"/>excessum. ex parte temptantis demon est cautior 
+      <lb ed="#C" n="57"/>et latenter impugnat. caro patenter et 
+      perceptibili<lb ed="#C" n="58" break="no"/>ter. tam interius quam exterius mille per meandros 
+      <lb ed="#C" n="59"/>nouit demon impugnare. altera ex parte caro 
+      fa<lb ed="#C" n="60" break="no"/>cit bella plus quom ciuilia in corporemystico. quia
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>in corpore vero arma parat: rationem obnubilat: 
+      <lb ed="#C" n="62"/>et est familiaris inimicus. modo dicit boecius 
+      <lb ed="#C" n="63"/>la pestis est efficacior ad nocendum quod familiaris 
+      <lb ed="#C" n="64"/>imimicus. Et mathei 12. Omne regnum in se 
+      diui<lb ed="#C" n="65" break="no"/>sum desolabitur. propterea si caro temmptet sortem 
+      <lb ed="#C" n="66"/>de peccato carnis demone non temptante: et 
+      de<lb ed="#C" n="67" break="no"/>mon platonem temptet de peccato carnis 
+      sensua<lb ed="#C" n="68" break="no"/>litate platonis non insurgente: difficilius est sorti 
+      <lb ed="#C" n="69"/>resistere quam platoni: et hoc si equaliter sint 
+      incli<lb ed="#C" n="70" break="no"/>nati ad peccandum. sed si sortes temptetur a carne: 
+      <lb ed="#C" n="71"/>et plato in superbia a demone: si magis inclinel 
+      <lb ed="#C" n="72"/>ad peccatum carnis quam ad superbiam: difficilius erit 
+      <lb ed="#C" n="73"/>resistere carni quam demoni. si econtrario inclinetur: 
+      <lb ed="#C" n="74"/>difficilius resistit demoni. si autem equalis 
+      proni<lb ed="#C" n="75" break="no"/>tas sit respectu vtriusque: set vnus temptator sit alio 
+      <lb ed="#C" n="76"/>fortior: difficilius erit carni resistere. homo 
+      debi<lb ed="#C" n="77" break="no"/>litatur a seipso: et ratio obnubilatur nisi obicem 
+      po<lb ed="#C" n="78" break="no"/>nat in bono tempore.
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

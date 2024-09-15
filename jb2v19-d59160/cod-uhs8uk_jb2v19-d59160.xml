@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="99-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d59160"><!-- l2d17q2 -->
+            <head xml:id="jb2v19-d59160-Hd1e101">Quaestio 2</head>
+            <head xml:id="jb2v19-d59160-Hd1e103" type="question-title">
+  An Nilus, Ganges, Tigris et Eufrates de quattuor paradisi fontibus  scateant
+</head>
+            <p xml:id="jb2v19-d59160-d1e106">
+               <lb ed="#C" n="92"/>SEcundo circa hanc distinctionem 
+      <lb ed="#C" n="93"/>7. queritur: an nilus / ganges / 
+      <lb ed="#C" n="94"/>tigris / et eufrates / de quattuor 
+      <lb ed="#C" n="95"/>paradisi fontibus stateat.
+   </p>
+            <p xml:id="jb2v19-d59160-d1e117">
+      ¶ In 
+      <lb ed="#C" n="96"/>ista questione duo faciam. in primis 
+      <lb ed="#C" n="97"/>de fluminum et fontium origine in 
+      ge<lb ed="#C" n="98" break="no"/>nerali loquar: quia hoc fontibus parasidiacis et 
+      <lb ed="#C" n="99"/>fluminibus ab ipso scaturientibus conducit. et etiam 
+      <lb ed="#C" n="100"/>propter aliquos passus scripture insinuantes 
+      flu<lb ed="#C" n="101" break="no"/>mina ex oceano habere originem 2. in particulari 
+      <lb ed="#C" n="102"/>de. 4. paradisi fluminibus loquar et eorum decursu 
+      <lb ed="#C" n="103"/>aqua fontium in visceribus terre generatur. hoc 
+      mo<lb ed="#C" n="104" break="no"/>do multe sunt voragines et hiatus in terra vt vi 
+      <lb ed="#C" n="105"/>dere est. probat aristoteles a signo sensibili. in 
+      li<lb ed="#C" n="106" break="no"/>gustica est fluuius non minor rodano terram 
+      in<lb ed="#C" n="107" break="no"/>grediens a qua absorbetur. ergo sunt concauitates 
+      ma<lb ed="#C" n="108" break="no"/>gne in terra similiter seneca in libro de naturalibus 
+      quae<lb ed="#C" n="109" break="no"/>stionibus. expertum est quod magne ciuitates cecide 
+      <lb ed="#C" n="110"/>runt super terram quondam erat vnus vicus in deus 
+      <lb ed="#C" n="111"/>phinatu a paucis diebus prteritis et tamen nunc 
+      <lb ed="#C" n="112"/>est aqua prinnaculum templi adhuc videtur. er 
+      <lb ed="#C" n="113"/>est aer in concauitatibus terre. quia si aer loca illa 
+      <lb ed="#C" n="114"/>non repleret: esse in terra vacuum. aer est calidus et 
+      <lb ed="#C" n="115"/>humidus. calor aeris a frigiditate terre 
+      corrum<lb ed="#C" n="116" break="no"/>pitur. siccitas terre non sic corrumpit eius 
+      humidita<lb ed="#C" n="117" break="no"/>tem. tum: quia siccitas est qualitas passiua parum 
+      acti<lb ed="#C" n="118" break="no"/>ua. et humiditas difficilius corrumpitur quod 
+      calidi<lb ed="#C" n="119" break="no"/>tas. semper quaelitas magis actiua est minus resistiua. 
+      <lb ed="#C" n="120"/>tunc quando aer habet qualitates aquae: scilicet hu¬
+      <pb ed="#V" n="100-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>miditatem et frigiditatem condensatur aer et fit vapor: et 
+      tam<lb ed="#C" n="2" break="no"/>dem generatur aqua partim a terra partim ab influentia 
+      <lb ed="#C" n="3"/>celi. non inconuenit terram causam equocam minus perfectam 
+      <lb ed="#C" n="4"/>esse partiale principium respectu aque perfectioris. 
+      <lb ed="#C" n="5"/>ergo aqua gnatur in terra: et hoc erat necessarium. 
+      pro<lb ed="#C" n="6" break="no"/>vita nostra non sufficeret aqua pluuialis / nec aqua 
+      <lb ed="#C" n="7"/>maris salsa: et plerique multum a mari elongantur. ergo 
+      <lb ed="#C" n="8"/>nec aquam / nec pisces maris habtre praesent. talibus deus 
+      <lb ed="#C" n="9"/>prouidet per fontes et fluminia quae in terra originem 
+      tra<lb ed="#C" n="10" break="no"/>xerunt. ita quod vbi sunt maiores concauitates vt in 
+      <lb ed="#C" n="11"/>montibus: ibi sunt maiores fontes et flumina. Rur: 
+      <lb ed="#C" n="12"/>sus. sicut est in minori mundo scilicet in homine sic det eus 
+      <lb ed="#C" n="13"/>in maiore mundo. sed in homine est vna concauitas in 
+      <lb ed="#C" n="14"/>capite in qua geneantur humores qui cadunt et fiuunt 
+      <lb ed="#C" n="15"/>per nares et oculos. ergo sic debet esse in maiori 
+      mun<lb ed="#C" n="16" break="no"/>do cuius terra est vnum membrum magnum. in ea 
+      ge<lb ed="#C" n="17" break="no"/>nerabuntur aque quae per terre meatus egredientur.
+   </p>
+            <p xml:id="jb2v19-d59160-d1e215">
+      ¶ 
+      Con<lb ed="#C" n="18" break="no"/>tra istum modum de generatione fontium arguitur sic. es 
+      ma<lb ed="#C" n="19" break="no"/>ior calor in poris terre in hieme quam in estate. ergo 
+      <lb ed="#C" n="20"/>minus tunc de vapore det conuerti in aquam in hyeme 
+      <lb ed="#C" n="21"/>quam in estate. quia resistentia est maior. hoc tamen est 
+      con<lb ed="#C" n="22" break="no"/>tra experientiam. Uidemus tam fontes quam fluminis 
+      in<lb ed="#C" n="23" break="no"/>hieme maiora quam in estate.
+   </p>
+            <p xml:id="jb2v19-d59160-d1e232">
+      ¶ Respondetur. aer est rari 
+      <lb ed="#C" n="24"/>or in estate quam in hieme: propterea non est ita cito in 
+      <lb ed="#C" n="25"/>aquam conuertibilis sicut in hieme. sol etiam in estate 
+      <lb ed="#C" n="26"/>multum aque consumit: et aque etiam in hieme 
+      augen<lb ed="#C" n="27" break="no"/>tur ab aqua pluuiali / grandine / et niue.
+   </p>
+            <p xml:id="jb2v19-d59160-d1e243">
+      ¶ 
+      Secun<lb ed="#C" n="28" break="no"/>do arguitur. dato quod aqua generetur in terra numquam 
+      de<lb ed="#C" n="29" break="no"/>bet ascendere. patet. aqua est grauis. modo graue non 
+      <lb ed="#C" n="30"/>ascendit nisi violente. ergo aqua fontalis non 
+      ascen<lb ed="#C" n="31" break="no"/>dit a visceribus terre.
+   </p>
+            <p xml:id="jb2v19-d59160-d1e254">
+      ¶ Pro solutione huius 
+      argu<lb ed="#C" n="32" break="no"/>menti dicemus aliqua ad materiam argumenti quona 
+      <lb ed="#C" n="33"/>pacto aqua ascendit. Secundo ad forma argumenti: 
+      <lb ed="#C" n="34"/>cuius solutio a priore dependet respondebimus. Aqua 
+      <lb ed="#C" n="35"/>multiphariam ascendit: aliquoit modis naturaliter: 
+      ali<lb ed="#C" n="36" break="no"/>per quot violente. si terram in aquam proiicias aquam 
+      a<lb ed="#C" n="37" break="no"/>scendit. appetit esse superer magis graue. 
+      Secun<lb ed="#C" n="38" break="no"/>do ascendit ad fugiendum vacuu. Si quis arista aerem 
+      <lb ed="#C" n="39"/>attrahat: protinus coscendit aqua ne in culmo detur 
+      <lb ed="#C" n="40"/>vacuum attracto aere ab arista. si aqua non 
+      ascen<lb ed="#C" n="41" break="no"/>deret: illic esset vacuum quod natura abhoret. siue 
+      <lb ed="#C" n="42"/>iste ascensus sit ab actore vniuersi graue 
+      pellen<lb ed="#C" n="43" break="no"/>tis sursum / prout aliquibus placet: siue a forma aqua: 
+      <lb ed="#C" n="44"/>vix est certum. et potest dici a forma aque et a 
+      graui<lb ed="#C" n="45" break="no"/>tate in illo casu. licet sit agens naturale: habet duas 
+      a<lb ed="#C" n="46" break="no"/>ctiones: vnam directe: aliam indirecte. patet in simili. 
+      <lb ed="#C" n="47"/>calor calefacit et frigus directe corrumpit per antiperi 
+      <lb ed="#C" n="48"/>stasim. tamen interdum in praesentia contrarii se fortificat 
+      <lb ed="#C" n="49"/>et a contrario aufugit inclinatione naturali 
+      communi<lb ed="#C" n="50" break="no"/>qua quaelibet res inclinat ad sui conseruationem meliore 
+      <lb ed="#C" n="51"/>modo quo potest. sic potest dici quod aqua et quaelibet res habet 
+      in<lb ed="#C" n="52" break="no"/>clinationem naturalem ad replendum locum ne detur 
+      va<lb ed="#C" n="53" break="no"/>cuum: si non occurat maius impedimentum in natura. et 
+      <lb ed="#C" n="54"/>vocatur inclinatio communis secundum priorem viam: quia ab 
+      a<lb ed="#C" n="55" break="no"/>ctore communi scilicet deo ad hoc impellitur. secundum hec quae iam 
+      <lb ed="#C" n="56"/>diximus est inclinatio communis quia cuilibet rei naturali conueit. 
+      <lb ed="#C" n="57"/>Tertio ascendit afflatione passi prout ostendit distillatio 
+      <lb ed="#C" n="58"/>per fui tru. et patet experimentaliter. cape vitrum 
+      semiple<lb ed="#C" n="59" break="no"/>num aqua: et postea pone longum panum cuius vna 
+      <lb ed="#C" n="60"/>medietas est in aqua madefacta reliqua medieta
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>tepanni extra vitrum pendente: successu temporis parte 
+      <lb ed="#C" n="62"/>pani extra aqua madefectam aqua habes. hac via 
+      <lb ed="#C" n="63"/>aqua vino infusam a vino separabis: et distillabit 
+      <lb ed="#C" n="64"/>clara. Istud patet in pane. pone panem alicuius 
+      pro<lb ed="#C" n="65" break="no"/>funditatis super aqua non modo pars inferior pannus 
+      <lb ed="#C" n="66"/>humectabitur: sed superior. et sic in vino cum aqua in 
+      <lb ed="#C" n="67"/>humiditate participante: non solum per generationem 
+      <lb ed="#C" n="68"/>humiditatis in partibus superioribus ab aqua vel 
+      <lb ed="#C" n="69"/>vino: sed aqua et vinum erunt in partibus 
+      superiori<lb ed="#C" n="70" break="no"/>bus vt patet ad sensum. Nonne vides calorem candele 
+      <lb ed="#C" n="71"/>accense agere sub se pinguedinem vel oleum consumendo 
+   </p>
+            <p xml:id="jb2v19-d59160-d1e345">
+               <lb ed="#C" n="72"/>¶ Quarto: aqua ab itriseco et naturaliter ascendit 
+      <lb ed="#C" n="73"/>equilibratione. aqua suapte natura appetit 
+      ascen<lb ed="#C" n="74" break="no"/>dere ad equalitatem sue originis: et equilibrare 
+      prin<lb ed="#C" n="75" break="no"/>cipium et finem sub aere. sicut videmus aquam Parrhi 
+      <lb ed="#C" n="76"/>sii prope innocentes ad magnam altitudinem 
+      ascende<lb ed="#C" n="77" break="no"/>re. Ratio. venit a monte falconeo. et sic continuo in 
+      <lb ed="#C" n="78"/>canalibus tracta ascendit ad tantam altitudinem siqua 
+      <lb ed="#C" n="79"/>est locus sue originis. et dato quod non fieret causanale 
+      <lb ed="#C" n="80"/>artificiale hoc potest contingere. et sic in vertice vnius 
+      <lb ed="#C" n="81"/>montis fontem habtre potes. stat quod aqua illa habuit 
+      sca<lb ed="#C" n="82" break="no"/>turiginem a loco eminentiori a monte vicino: et 
+      cur<lb ed="#C" n="83" break="no"/>rat per vallem: demum ad verticem montis 
+      humilio<lb ed="#C" n="84" break="no"/>ris vel ita humilis ascendendo.
+   </p>
+            <p xml:id="jb2v19-d59160-d1e376">
+      ¶ Quinto. aqua 
+      na<lb ed="#C" n="85" break="no"/>turaliter sua grauitate a loco altiori in decliuiorem 
+      <lb ed="#C" n="86"/>fluit. et sic flumina omnia ad mare fluunt tamquam ad 
+      locum<lb ed="#C" n="87" break="no"/>decliuiorem si non praestetur obex non alias scimus 
+      bur<lb ed="#C" n="88" break="no"/>gundiam esse locum sublimiorem locis per quae labitur se 
+      <lb ed="#C" n="89"/>quana. et sic parua fluminisa in magnum ruunt tamquam ad 
+      <lb ed="#C" n="90"/>locum humiliorem. et flumen magnum parua in ventre 
+      <lb ed="#C" n="91"/>ad mare differt. notum est insuper quod aqua violente 
+      <lb ed="#C" n="92"/>ascendit et per euaporationem et rarefactionem: 
+      si<lb ed="#C" n="93" break="no"/>cut in potto videmus de aqua calefacta et 
+      rarefa<lb ed="#C" n="94" break="no"/>cta: quam vas detinere non potest. sicut vapores et 
+      ven<lb ed="#C" n="95" break="no"/>ti in homimbus colicam vel iliacam patientibus: exitum: 
+      pe<lb ed="#C" n="96" break="no"/>tentes / magnum dolorem patienti incutiunt: et si 
+      ve<lb ed="#C" n="97" break="no"/>hementes fuerint: si non ponatur obex: hominem 
+      <lb ed="#C" n="98"/>rumpunt et interimunt. sicut nimis copiosa congeries 
+      <lb ed="#C" n="99"/>sulphuris inclusa in bobarda enea: totam confringit. 
+   </p>
+            <p xml:id="jb2v19-d59160-d1e411">
+               <lb ed="#C" n="100"/>¶ hoc viso quod aqua naturaliter ascendit nonnuoen 
+      <lb ed="#C" n="101"/>violente: videamus de modo ascensus aque in 
+      fonti<lb ed="#C" n="102" break="no"/>bus. potest aqua ascendere naturaliter aliquo 
+      modo<lb ed="#C" n="103" break="no"/>rum tactorum. Pont etiam esse exhalatio aquam euomens 
+      <lb ed="#C" n="104"/>quae sufficienter frigefit ab aere et terra: nisi terra 
+      fue<lb ed="#C" n="105" break="no"/>rit calefacta. vel aqua sequens grossa pellit aquan 
+      <lb ed="#C" n="106"/>rariorem praecedentem: vt in potto bulliente aqua 
+      gros<lb ed="#C" n="107" break="no"/>sior rariorem sursum propellit. ergo aqua potest 
+      natu<lb ed="#C" n="108" break="no"/>raliter ascendere et violente.
+   </p>
+            <p xml:id="jb2v19-d59160-d1e434">
+      ¶ Tertio arguitur 
+      pro<lb ed="#C" n="109" break="no"/>bando quod aqua non sic generetur auente scripture. 
+      Eccle<lb ed="#C" n="110" break="no"/>siastes primo scribitur: omnia flumina intrant in mare 
+      <lb ed="#C" n="111"/>et mare non redundat ad locum vnde exierint 
+      flu<lb ed="#C" n="112" break="no"/>mina reuertuntur vt iterum fluant. vnde sapiens dicit 
+      <lb ed="#C" n="113"/>quod fluminia reuertuntur vt iterum fluant. vnde sapiens dicit 
+      <lb ed="#C" n="114"/>quod flumina reuertuntur a mari per loca vnde 
+      exie<lb ed="#C" n="115" break="no"/>rant vt bene reuertantur. et Ecclesiastici. 40. et 
+      a<lb ed="#C" n="116" break="no"/>que omnes in mare conuertentur.
+   </p>
+            <p xml:id="jb2v19-d59160-d1e454">
+      ¶ Respondetur. omnia flumina 
+      in<lb ed="#C" n="117" break="no"/>mare intrant si non impediantur vel aliunde consumantur 
+      <lb ed="#C" n="118"/>et aliqua flumina ex mari irrumpunt: ita quod partes 
+      <lb ed="#C" n="119"/>posteriores anteriores pellunt: et aqua salsa a 
+      ter<lb ed="#C" n="120" break="no"/>ra purgatur et dulcescit. Ioannes damascenus capite
+      <!-- 211 is repeat or 110r -->
+      <!-- 212 is repeat or 110v -->
+      <pb ed="#V" n="100-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>nono sui secundi libri ita opinatur de fluminibus 
+      para<lb ed="#C" n="2" break="no"/>disi: licet non video expediens ita dicere de peradisi fluni 
+      <lb ed="#C" n="3"/>nibus: tamen aliqua siumina praesent discedere a mari: et in 
+      lon<lb ed="#C" n="4" break="no"/>go tractu dul corari in terre visceribus. sicut 
+      plu<lb ed="#C" n="5" break="no"/>uia potest generari de vaporibus a mari leuatis. in 
+      egi<lb ed="#C" n="6" break="no"/>pto non pluit nisi prope mare.
+   </p>
+            <p xml:id="jb2v19-d59160-d1e487">
+      ¶ Ex omnibus patet hec 
+      <lb ed="#C" n="7"/>conclusio. fontes generantur ex aere incluso in 
+      terra<lb ed="#C" n="8" break="no"/>et flumina ex fontibus sicut ex ior et dan fontibus / 
+      <lb ed="#C" n="9"/>Iordais princeps Iudee fluuius. postea vnus fluuius 
+      <lb ed="#C" n="10"/>multitudine fluminum stipatus turgescit. vt danubius 
+      <lb ed="#C" n="11"/>N15. xaginta fluminibus auctus: quorum quodibet onustas 
+      <lb ed="#C" n="12"/>fert naues: aliorum spoluis ditatus / mare poticum in 
+      <lb ed="#C" n="13"/>xo b s grediens / aqua maris ad magna distantia dulcem 
+      <lb ed="#C" n="14"/>T v  reddit. nimirum ergo quod hister sit metrum et mensura 
+      flu<lb ed="#C" n="15" break="no"/>uiorum Europe: sic quod pullulauit modus 
+      loquendi<lb ed="#C" n="16" break="no"/>secundus vel tertius ab histero.
+   </p>
+            <p xml:id="jb2v19-d59160-d1e511">
+      ¶ Ulterius patet 
+      <lb ed="#C" n="17"/>prope immanes monotes immensa sunt flumins. in mon 
+      <lb ed="#C" n="18"/>tibus magnus includitur aer. et patet vtrobique. a 
+      cauca<lb ed="#C" n="19" break="no"/>so monte innumera tam ad septentrionem quam ad 
+      meri<lb ed="#C" n="20" break="no"/>diem labuntur flumina. Amplius: quanto flumen longiorem 
+      <lb ed="#C" n="21"/>tractum habet tanto ceteris paribus est maior. aliorum 
+      <lb ed="#C" n="22"/>ditatur eximiis. et per consequens nullus potest esse notabiliter 
+      ma<lb ed="#C" n="23" break="no"/>gnus fluuius in Britania. patet. flumia non currunt secundum 
+      longi<lb ed="#C" n="24" break="no"/>tudinem insule: sed secundum latitudinem. et per consequens non 
+      lon<lb ed="#C" n="25" break="no"/>gum habent tractum. Flumina tamen habent amenissima / in 
+      <lb ed="#C" n="26"/>maxima copia ob montium multitudinem / salmoni 
+      <lb ed="#C" n="27"/>bus abundantissima: potissimum apud 
+      septentrio<lb ed="#C" n="28" break="no"/>nales. et ante ingressum in mare ingurgitantur. et 
+      <lb ed="#C" n="29"/>tunc per aliquod interuallum apparent magna. et 
+      per<lb ed="#C" n="30" break="no"/>consequens in hibernia / et trinacria: britannia minoribum 
+      <lb ed="#C" n="31"/>non sunt magna flumina.
+   </p>
+            <p xml:id="jb2v19-d59160-d1e546">
+      ¶ Insuper. est vnus 
+      flu<lb ed="#C" n="32" break="no"/>uius in paradiso de quo quattuor capitalia 
+      flu<lb ed="#C" n="33" break="no"/>h N  mina emanat. patet illo Gen 2. scilicet. Nhison: qui et 
+      gan<lb ed="#C" n="34" break="no"/>ges / gion: qui et nilus / tigris et eufrates. Gen. ¬ 
+      <lb ed="#C" n="35"/>sic dicitur. Et fluuius egrediebatur de ioco 
+      volu<lb ed="#C" n="36" break="no"/>ptatis ad irrigadu paradisum: qui inde in 4. 
+      capi<lb ed="#C" n="37" break="no"/>ta diuiditur. si non esset ita constans sanctorum opinio de 
+      <lb ed="#C" n="38"/>istis. 4. fluminibus determinate in lita Gemnm. appodia 
+      <lb ed="#C" n="39"/>ta: non ponerem illa quae ponuntur commnuniter. tum ad 
+      differen<lb ed="#C" n="40" break="no"/>tias oppositas currunt. licet homo ad equiuocationem 
+      ha<lb ed="#C" n="41" break="no"/>beret equocationem: hoc non sufficit de 
+      equuocatio<lb ed="#C" n="42" break="no"/>ne patet. crebro duo flumina eodem nomine equiuoce 
+      signi<lb ed="#C" n="43" break="no"/>ficantur. patet de tina hadigtione in scotia et de tina 
+      in<lb ed="#C" n="44" break="no"/>nouo castro in anglia. Istud tamen non sufficit: patet 
+      <lb ed="#C" n="45"/>per processum itre de circuitu terrarum per quas hec 
+      <lb ed="#C" n="46"/>fluminia currunt.
+   </p>
+            <p xml:id="jb2v19-d59160-d1e581">
+      ¶ Contra situm paradisi reduco 
+      ar<lb ed="#C" n="47" break="no"/>gumentum de fluminum eius cursu. et hoc sic. Nilus a 
+      <lb ed="#C" n="48"/>meridie labitur in mare egiptiacums per septem 
+      ho<lb ed="#C" n="49" break="no"/>stia. ganges a caucaso motem in sinum gangeticum 
+      suo<lb ed="#C" n="50" break="no"/>nomine clarum ingreditur. tigris et eufrates taquam 
+      subiuga<lb ed="#C" n="51" break="no"/>les boues a montibus armenie fluunt per Siriam 
+      <lb ed="#C" n="52"/>mesopotamiam conflantes / sinum persicum petentes. ergo 
+      <lb ed="#C" n="53"/>impossibile est quod veniant ab eadem origine.
+   </p>
+            <p xml:id="jb2v19-d59160-d1e600">
+      ¶ 
+      Respon<lb ed="#C" n="54" break="no"/>detur. Paradisus est situatus in locs eminenti: in qui 
+      <lb ed="#C" n="55"/>nec ros / pluuia / nec ventus haberi potest. a quo hec. 4 
+      <lb ed="#C" n="56"/>flumina cad unt: ex cuius altitudinis casu continuo 
+      ter<lb ed="#C" n="57" break="no"/>ram cauant in mo si lapis esset aque subiectus 
+      conti<lb ed="#C" n="58" break="no"/>nuo casu cauaretur. sicut ferreus assiduo consumitur 
+      <lb ed="#C" n="59"/>annulus vsu. et hoc patet de paupere gutta super 
+      la<lb ed="#C" n="60" break="no"/>pidem cadenti in stillicidio. loquor de vno flumine.
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>postea applicando ad propositum de aliis loquat. 
+      <lb ed="#C" n="62"/>a Nilo fluuiorum principe exordiar. dum Nilus a loco 
+      <lb ed="#C" n="63"/>eminenti cadit. terram mollem offendens specus aqua 
+      <lb ed="#C" n="64"/>plenum replet. et sic descendit sub toto mari indico. 
+      <lb ed="#C" n="65"/>tandem in affricam terram petrosam inueniens: scilicet mnon 
+      <lb ed="#C" n="66"/>tes lune eminentissimos quo more antiquo 
+      vin<lb ed="#C" n="67" break="no"/>cere nequit: a terra erumpit et aperturam facit. 
+      propter<lb ed="#C" n="68" break="no"/>ea a plerisque gentilibus illic primam originem creditur habtre 
+      <lb ed="#C" n="69"/>Rursus aliquos sinus occidentem versus: scilicet 
+      Mau<lb ed="#C" n="70" break="no"/>ritaniam: tortuose facit: nunc in orientem: varia 
+      capi<lb ed="#C" n="71" break="no"/>ens vocabula a finitimis ante Meroen 
+      clarissi<lb ed="#C" n="72" break="no"/>mam vrbem / et insulam ab ipso factam / nomen Nili non 
+      ac<lb ed="#C" n="73" break="no"/>cipit. Glosa marginalis Bede Gem. secundo dicit: 
+      <lb ed="#C" n="74"/>procul ab Athlante monte est fons Nili. Aliqui 
+      di<lb ed="#C" n="75" break="no"/>cunt ab oriente: et vtriqueapparentiam habent: aliqui 
+      run<lb ed="#C" n="76" break="no"/>pturam percipiunt extra terra in vno loco: alii in alio. 
+      <lb ed="#C" n="77"/>Accipito analogiam quaere ab vno in occidentali 
+      par<lb ed="#C" n="78" break="no"/>te Parrhisii qui nusquam nisi illic sequanam vidit: quor 
+      <lb ed="#C" n="79"/>sum tendit sequana: Is protinus dicet ad 
+      occiden<lb ed="#C" n="80" break="no"/>tem et ad mare Britannicum. pete ab alio transeunte 
+      <lb ed="#C" n="81"/>Argentolium ad vnam leucam ab vrbe Parrhisia: ad 
+      <lb ed="#C" n="82"/>quas partes labitur sequana: dicet ad septentrionem 
+      <lb ed="#C" n="83"/>cum diuum Dionysium petat. argentolii tertius dicet 
+      <lb ed="#C" n="84"/>quod ad meridiem fluit. Ecce in tribus leucis minutis 
+      <lb ed="#C" n="85"/>propter sinuosum fluxum aque dicitur fluere ad 
+      par<lb ed="#C" n="86" break="no"/>tes oppositas: et nichil discrimins est in analogia 
+      <lb ed="#C" n="87"/>nisi quod illa aqua maxima per longa intersticia 
+      spi<lb ed="#C" n="88" break="no"/>ras et giros: hic minutus sequana in breui 
+      interual<lb ed="#C" n="89" break="no"/>lo: facit. Et hoc amplius patet de Araxe qui diu ad 
+      <lb ed="#C" n="90"/>orientem currit: et postea ad septem trionem flectitur. 
+   </p>
+            <p xml:id="jb2v19-d59160-d1e685">
+               <lb ed="#C" n="91"/>¶ Interdum postea adhuc ad multas dietas 
+      se<lb ed="#C" n="92" break="no"/>sub terra condit. nunc super ipsam irrumpit: secundum 
+      re<lb ed="#C" n="93" break="no"/>sistentiam quam offendit. Unteoe Plinius libro. 5. 
+      capi<lb ed="#C" n="94" break="no"/>te nono. Nilus in certis ortus fontibus: vt per 
+      de<lb ed="#C" n="95" break="no"/>serta immense longitudinis spacio ambulans: 
+      fama<lb ed="#C" n="96" break="no"/>que tantum inermi quaesita cognitus sine bellis quae ceteras 
+      <lb ed="#C" n="97"/>terras inuenere originem (vt Iuba rex potuit 
+      exqui<lb ed="#C" n="98" break="no"/>rere) in monte inferioris Mauritanie non procul 
+      oce<lb ed="#C" n="99" break="no"/>ano habet lacu protinus stagnante.
+   </p>
+            <p xml:id="jb2v19-d59160-d1e707">
+      ¶ Rursus 
+      indi<lb ed="#C" n="100" break="no"/>gnatur fluere per arenosa et squalentia: conditque 
+      <lb ed="#C" n="101"/>se aliquo dierum itinere: mox lacu magno 
+      suffulci<lb ed="#C" n="102" break="no"/>tur massilum irrumpit: et hominum cetus veluti circumspicit 
+      <lb ed="#C" n="103"/>iterum arenis receptus conditur: rursus viginti die 
+      <lb ed="#C" n="104"/>rum desertis ad proximos Ethiopas: atque vbi ite 
+      <lb ed="#C" n="105"/>rum senserit hominem prosilit fonte: vt verisimile est 
+      <lb ed="#C" n="106"/>illo quem nigri vocauere. Inde Aphricam ab 
+      Ethi<lb ed="#C" n="107" break="no"/>opia dissipans. Et si non protinus pro populis 
+      <lb ed="#C" n="108"/>feris tamen et beluis frequens siluarumque opifex 
+      <lb ed="#C" n="109"/>medis Ethiopas secat: cognominatus Astapus: 
+      <lb ed="#C" n="110"/>quod illarum gentium lingua significat aquam e tenebris 
+      <lb ed="#C" n="111"/>profluentem: insulas ita innumeras spargit: quasdam 
+      <lb ed="#C" n="112"/>tante magnitudins: quam quam rabida celeritate: vt 
+      tamen<lb ed="#C" n="113" break="no"/>dierum quinque cursu non breulore transuolet. Circa 
+      cla<lb ed="#C" n="114" break="no"/>rissima Meroen. nec ante Nilus vocatur quam se 
+      to<lb ed="#C" n="115" break="no"/>tum aquis concordibus rursus iunxerit: sic quoque 
+      <lb ed="#C" n="116"/>etiamnum Gyrisantes per aliquot nominatus millia. 
+      <lb ed="#C" n="117"/>Postremo inclusus montibus nec alibi torrentior 
+      <lb ed="#C" n="118"/>vectus aquis properantibus ad locum ethiopum qui 
+      catha<lb ed="#C" n="119" break="no"/>dupi vocatur. Nouissime inter occursantes 
+      sco<lb ed="#C" n="120" break="no"/>pulos non fluere immenso fragore creditur sed ruere.
+      <pb ed="#V" n="101-r"/>
+               <!-- this is 101r even though the edition has a misprint says 102r; the real 102r is on 217 -->
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>Postea leuis et confractis aquis domitaque 
+      violen<lb ed="#C" n="2" break="no"/>tia alioquin et spacio fessus multis quamuis faucibus in 
+      <lb ed="#C" n="3"/>egyptium mare se euomit. Numquid vides quam in 
+      aphri<lb ed="#C" n="4" break="no"/>ca se viginti dietis condit sub terra. Sed forte 
+      di<lb ed="#C" n="5" break="no"/>ces mergitur iu terram nec resilit. oc dici non potest 
+      <lb ed="#C" n="6"/>quia semper cauaret terram. Tum secundo. quo potest ita 
+      flu<lb ed="#C" n="7" break="no"/>uius in prima generatione esse. Tum tertio. cognoscitur 
+      <lb ed="#C" n="8"/>a colore aque a concodrilis / et piscibus quos alit 
+      <lb ed="#C" n="9"/>Tum quarto. in primo descensu imponendo congariem 
+      <lb ed="#C" n="10"/>straminum reperietur eadem congeries in secundo egressu. 
+      <lb ed="#C" n="11"/>Sed dices: cauatio nichil facit: quia sic mare 
+      her<lb ed="#C" n="12" break="no"/>culeum deberet se amplius dilatare in Aphricam et 
+      <lb ed="#C" n="13"/>Europam vbi tamen contentum manet decies mille 
+      passi<lb ed="#C" n="14" break="no"/>bus. Et idem patet in vtroque Posphoro et helesponto. 
+   </p>
+            <p xml:id="jb2v19-d59160-d1e792">
+               <lb ed="#C" n="15"/>¶ Respondetur. fateor ibi est magna resistentia. non potest 
+      <lb ed="#C" n="16"/>cauari nisi successu temporis. modo Calpe et 
+      Abi<lb ed="#C" n="17" break="no"/>la montes oppositi resistunt. et sic de locis aliis 
+      pro<lb ed="#C" n="18" break="no"/>pinquis: et aliis locis nominatis: hec est etiam solum 
+      <lb ed="#C" n="19"/>vna rationum. istud quod dico de Nilo quod sic vagatur 
+      in<lb ed="#C" n="20" break="no"/>cognitus in origine: patet apud herodotum qui sacerdo 
+      <lb ed="#C" n="21"/>tes egiptios super hoc consuluit: et multos dies 
+      su<lb ed="#C" n="22" break="no"/>per flumen nauigauit. hoc patet apud Lucanum: vbi 
+      <lb ed="#C" n="23"/>Cesar eius origine decimo pharsalie ponit inquiens 
+      <lb ed="#C" n="24"/>Nichil est quod noscere malim. quam fluuii causas per se 
+      <lb ed="#C" n="25"/>cula tanta latentes. Ignotumque caput spes sit 
+      mi<lb ed="#C" n="26" break="no"/>chi certa videndi. Niliacos fontes: et cum post 
+      mul<lb ed="#C" n="27" break="no"/>ta sacer Achoreus: et de Nili prima origine et 
+      de<lb ed="#C" n="28" break="no"/>eius cremento multas veterum tangens s ententias 
+      <lb ed="#C" n="29"/>dici quod egipto esset necessarius: et deus Nilum propter 
+      <lb ed="#C" n="30"/>ea creauit inquiens quis causas reddere possit. Sic / 
+      <lb ed="#C" n="31"/>iussit natura parens discurrere Nilum. sic opus est 
+      <lb ed="#C" n="32"/>mundo: et eundem anim ostendit Sesostrem 
+      habuis<lb ed="#C" n="33" break="no"/>se inquiens. mundique extrema sesostris. Et 
+      phari<lb ed="#C" n="34" break="no"/>os regum currus ceruicibus equet. Ante tamen vestros 
+      <lb ed="#C" n="35"/>amnes: Rhodanumque padumque Nilum de fonte 
+      bi<lb ed="#C" n="36" break="no"/>bit. hoc de Cambise persarum declarat inquiens. Ue 
+      <lb ed="#C" n="37"/>sanus in ortus cambises longi populus peruenit 
+      <lb ed="#C" n="38"/>ad eui Defectusque epulis et pastus cede suorum 
+      <lb ed="#C" n="39"/>Ignoto te Nile redit non fabula mendax. 
+      Ausa<lb ed="#C" n="40" break="no"/>loqui de fonte tuo est vbicumque videris. Quereri 
+      <lb ed="#C" n="41"/>et nulli contingit glina genti. Ut Nilo sit leta suo. 
+      <lb ed="#C" n="42"/>Et post sequitur quod gentilis dicit: quod cum his quae 
+      pre<lb ed="#C" n="43" break="no"/>diximus quadrat. Nunc arabum populis libicis: nunc 
+      <lb ed="#C" n="44"/>equus harenis. Teque vident primi quaerunt tamen hic 
+      qui<lb ed="#C" n="45" break="no"/>que seres. Et palam est seres sunt populi in 
+      asyati<lb ed="#C" n="46" break="no"/>ca / scytia in oriente. Et idem Martialis in 
+      quo<lb ed="#C" n="47" break="no"/>dam epigrammate dicit. Et quae prima bibit deprensi 
+      flu<lb ed="#C" n="48" break="no"/>mina Nili. per hoc turget fluuius in estate: quia ex 
+      <lb ed="#C" n="49"/>altera parte equatoris tunc est hiems et copia 
+      ni<lb ed="#C" n="50" break="no"/>uis: sicut Danubius crescit per niuem. Etiam sol 
+      <lb ed="#C" n="51"/>per suum accessum ad egiptum liquefacit niues in 
+      <lb ed="#C" n="52"/>iugis montium repertas: secundum tamen magis et minus 
+      <lb ed="#C" n="53"/>quia interdum est maior copia niuis: et tunc vnda 
+      <lb ed="#C" n="54"/>est maior nec simile contingit de aliis fluminibus 
+      <lb ed="#C" n="55"/>aphrice: quia non habent ita longam scaturiginem. Non 
+      <lb ed="#C" n="56"/>crescit tamen in immensam latitudinem omnium maximum 
+      <lb ed="#C" n="57"/>incrementum fuit sub Claudio principe decem et octo 
+      <lb ed="#C" n="58"/>cubitorum conuenientissimum erat quod rex fluuiorum 
+      <lb ed="#C" n="59"/>Nilus per regionem calidissimam et siccaun 
+      quemadmo<lb ed="#C" n="60" break="no"/>dum a decurreret. propter homines bruta et ter¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>re nascentia. et tale crementum quotamnis haberet. 
+      <lb ed="#C" n="62"/>Adde quod aliquid numinis habere videtur in duo  .  l 1 
+      <lb ed="#C" n="63"/>decim et tredecim cubitis famen in quatuordecin 
+      <lb ed="#C" n="64"/>hyiaritatem. in quindecim securitatem. in sexdecim 
+      <lb ed="#C" n="65"/>delicias representat. Eus aqua epota mulieres. 
+      <lb ed="#C" n="66"/>steriles (vt aiunt) fecundat. Et hec impresentia 
+      <lb ed="#C" n="67"/>rum de fluminibus paradisi dixisse sufficiat. Nec 
+      <lb ed="#C" n="68"/>solum hoc facit Nilus: sed innumera pene 
+      flu<lb ed="#C" n="69" break="no"/>mina. Anas qui BRethicam et Lusitania diuidit 
+      <lb ed="#C" n="70"/>modo se in stagna: modo in angustias: modo in 
+      cu<lb ed="#C" n="71" break="no"/>mulos terre se condit: et ita de aliis. etiam est 
+      pro<lb ed="#C" n="72" break="no"/>babile quod Nilus currit pre mari: nec vndam 
+      per<lb ed="#C" n="73" break="no"/>dit: nec aqua maris miscetur. et hoc naturaliter. 
+      <lb ed="#C" n="74"/>Iordanis princeps fiuuius iudee transit pre 
+      ma<lb ed="#C" n="75" break="no"/>ri Glilee: postea pre mari Thiberiadis. sic 
+      toti<lb ed="#C" n="76" break="no"/>ens marium viator a mari mortuo vincitur: sed potest 
+      <lb ed="#C" n="77"/>esse de Nilo quod iudicum mare vincat / et vincatur a 
+      <lb ed="#C" n="78"/>mediterraneo. Nonne ad manum habes rhodanum 
+      <lb ed="#C" n="79"/>qui pre magno lacu de Losana viam sibi preparat 
+      <lb ed="#C" n="80"/>mare Massiliense ingrediens. Siliter de Tygri 
+      con<lb ed="#C" n="81" break="no"/>tingit pre Arethusa lacu decurrit in quo nec 
+      re<lb ed="#C" n="82" break="no"/>linquit piscem: nec aquam: Nec aliquid de lacu 
+      au<lb ed="#C" n="83" break="no"/>fert. quod conuincitur ex aquarum cosoribus variis 
+      <lb ed="#C" n="84"/>et piscibus. Tigris abundat piscibus qui non 
+      repe<lb ed="#C" n="85" break="no"/>riuntur in lateribus lacus Arethuse. Tigris vt 
+      so<lb ed="#C" n="86" break="no"/>linus dicit in Armenia regione caput attollit 
+      re<lb ed="#C" n="87" break="no"/>sistente Tauro monte sub ipso labitur in Euphra 
+      <lb ed="#C" n="88"/>tem: fluit in amnem ei amicissimum: ita subtiliter hec 
+      <lb ed="#C" n="89"/>duo magna flumina decedunt quod nunc conspectus 
+      ho<lb ed="#C" n="90" break="no"/>minum sub terra transeant: nunc super terram alio 
+      <lb ed="#C" n="91"/>bus dicentibus flumina sinum arabicum: aliquibus 
+      per<lb ed="#C" n="92" break="no"/>sicum (quod rationabilius est) / ingredi. Sic imaginor 
+      <lb ed="#C" n="93"/>de istis tribus fluminibus / quod Tigris et 
+      Euphra<lb ed="#C" n="94" break="no"/>tes habent capita propinqua in paradiso: et 
+      mu<lb ed="#C" n="95" break="no"/>tuo decedunt in locis propinquis sub caucaso modo 
+      <lb ed="#C" n="96"/>te: vel alter sub eo: et alter prope montem / qui 
+      qui<lb ed="#C" n="97" break="no"/>dem mons diuidit totam Asia: licet in variis partibus 
+      <lb ed="#C" n="98"/>alia vsurpat nomina: et sic in armeniam erumpunt terram 
+      <lb ed="#C" n="99"/>et egrediuntur. Ganges videtur labi sub parte 
+      me<lb ed="#C" n="100" break="no"/>ridionali caucasi montis et tandem sinum 
+      gangeti<lb ed="#C" n="101" break="no"/>cum petit.
+   </p>
+            <p xml:id="jb2v19-d59160-d1e985">
+      ¶ Sed contra hoc arguitur. ex illo 
+      tol<lb ed="#C" n="102" break="no"/>litur omnis via probande originis fluminum. Quo 
+      pro<lb ed="#C" n="103" break="no"/>babis sequanam originem habere a Burgundia nisi 
+      <lb ed="#C" n="104"/>quia primo ibi apparet fons eius: Dicetur quod a 
+      modo<lb ed="#C" n="105" break="no"/>tibus pyreneis per meatus subterraneos labitur 
+      <lb ed="#C" n="106"/>sicut ia diximus de paradiso. Responsio de aliorum 
+      flu<lb ed="#C" n="107" break="no"/>minum origibus plerumque digladiantur geographi: 
+      <lb ed="#C" n="108"/>vt ecce Pholomeus ponit Iordanem fluere 
+      de<lb ed="#C" n="109" break="no"/>antelibano: et non de libano qui erat egyptius iudee 
+      <lb ed="#C" n="110"/>vicinus. secundum moderniores fluit a libano: et 
+      ita<lb ed="#C" n="111" break="no"/>in multis exemplificare possumus. Sed quicquid sit 
+      <lb ed="#C" n="112"/>de antecente / nego consequentiam.
+   </p>
+            <p xml:id="jb2v19-d59160-d1e1011">
+      ¶ Arguimus sic. hec est prima 
+      <lb ed="#C" n="113"/>scaturigo sequane: quod arguitur ex fonte / ex tenuita 
+      <lb ed="#C" n="114"/>te fluminis a principio / et eius argumento quod 
+      sen<lb ed="#C" n="115" break="no"/>sibiliter percipimus nec constat nobis de 
+      opposi<lb ed="#C" n="116" break="no"/>to. Secus est de fluminbus paradisi. et sic omnia saluam 
+      <lb ed="#C" n="117"/>tur sine miraculo. Hec de paradiso et de eius 
+      flumi<lb ed="#C" n="118" break="no"/>nibus impresentiarum dixisse sufficiat. Neruum 
+      <lb ed="#C" n="119"/>theorici nonnumquam relinquimus propter materias 
+      quae<lb ed="#C" n="120" break="no"/>se obiter iniecere. Uides perdifficile esse paradi¬
+      <pb ed="#V" n="101-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>sum celestem siue capiatur pro beatitudine / siue 
+      <lb ed="#C" n="2"/>pro celo acquirere cum tanta sit nobis difficultas 
+      <lb ed="#C" n="3"/>paradisum terrestrem agnoscere in terris. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

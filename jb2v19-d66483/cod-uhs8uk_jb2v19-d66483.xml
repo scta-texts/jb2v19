@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="111-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d66483"><!-- l2d23q2 -->
+            <head xml:id="jb2v19-d66483-Hd1e101">Quaestio 2</head>
+            <head xml:id="jb2v19-d66483-Hd1e103" type="question-title">An Deus poterat fecisse hominem impeccabilem</head>
+            <p xml:id="jb2v19-d66483-d1e106">
+               <lb ed="#C" n="110"/>SEcundo queritur circa hanc 
+      distin<lb ed="#C" n="111" break="no"/>ctionem. an deus poterat fecisse 
+      homi<lb ed="#C" n="112" break="no"/>nem impeccabilem. Respondetur per 
+      con<lb ed="#C" n="113" break="no"/>clusiones.
+   </p>
+            <p xml:id="jb2v19-d66483-d1e117">
+      ¶ Prima est. Aliquis est 
+      <lb ed="#C" n="114"/>homo impeccabilis per naturam. Probatio. Deus 
+      <lb ed="#C" n="115"/>est impeccabilis per naturam: sed deus est homo. 
+      er<lb ed="#C" n="116" break="no"/>go aliquis homo est impeccabilis per naturam 
+      <lb ed="#C" n="117"/>consequentia est euidens saltem gratia materie. et si 
+      singu<lb ed="#C" n="118" break="no"/>larisetur medium erit consequentia formalis: quia sillogismus 
+      <lb ed="#C" n="119"/>expositorius.
+   </p>
+            <p xml:id="jb2v19-d66483-d1e133">
+      ¶ Secunda conclusio. Aliquis est factus 
+      <lb ed="#C" n="120"/>homo impeccabilis per naturam. patet deus factus
+      <pb ed="#V" n="112-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>sitate vult a quandiu est preceptum: et conceditur quod 
+      ip<lb ed="#C" n="2" break="no"/>sa est potentia rationalis: et est vtens ratione: et deo 
+      <lb ed="#C" n="3"/>prohibente iam habet nolle. Et ad neruum 
+      argu<lb ed="#C" n="4" break="no"/>menti. Agens naturale semper habet similem 
+      ac<lb ed="#C" n="5" break="no"/>tionem vtrobique vt Aristoteles declarat 
+      secun<lb ed="#C" n="6" break="no"/>do perihermenias de igne et de potentia 
+      irra<lb ed="#C" n="7" break="no"/>tionali: et idem explicat quinto Ethycorum de 
+      iu<lb ed="#C" n="8" break="no"/>re naturali et positiuo. Respondetur. hoc vtrobi 
+      <lb ed="#C" n="9"/>que non habet verum: vt patet de concursu gratie 
+      <lb ed="#C" n="10"/>que est agens naturale: que interdum inclinabat 
+      <lb ed="#C" n="11"/>ad velle circuncidere paruulum: nunc autem 
+      in<lb ed="#C" n="12" break="no"/>clinat ad nolle paruulum circuncidere. Pari forma 
+      <lb ed="#C" n="13"/>fides infusa inclinabat antiquitus ad assensum 
+      hu<lb ed="#C" n="14" break="no"/>ius / christus morietur: nunc inclinat ad 
+      opposi<lb ed="#C" n="15" break="no"/>tum. Super hoc locupletius loquuti sumus in sex 
+      <lb ed="#C" n="16"/>timadecima distinctione primi sentur. Sed hoc 
+      <lb ed="#C" n="17"/>verum est. pondus solutionis in hoc erat quod agens 
+      <lb ed="#C" n="18"/>naturale quod secum requirit causam liberam 
+      se<lb ed="#C" n="19" break="no"/>cundam ad suam actionem: nunc concurrit ad vnum 
+      <lb ed="#C" n="20"/>nunc ad aliud: et ad oppositum: modo istud agens 
+      <lb ed="#C" n="21"/>nonest liberum libertate contradictionis. dictum 
+      <lb ed="#C" n="22"/>Anistotelis verum habet nisi quando est agens vtens 
+      <lb ed="#C" n="23"/>ratione: sicut istud.
+   </p>
+            <p xml:id="jb2v19-d66483-d1e193">
+      ¶ Sed contra istud arguitur 
+      <lb ed="#C" n="24"/>quemlibet actum elicitum a creatura deus 
+      me<lb ed="#C" n="25" break="no"/>re contingenter acceptat. ergo potest actum isti 
+      <lb ed="#C" n="26"/>us et acceptare et non acceptare: immo de 
+      accep<lb ed="#C" n="27" break="no"/>tare: quia si prohiberet dilectionem dei: illa 
+      es<lb ed="#C" n="28" break="no"/>set mala.
+   </p>
+            <p xml:id="jb2v19-d66483-d1e206">
+      ¶ Respondetur: licet reputem conclusionem 
+      <lb ed="#C" n="29"/>hanc minus rationabilem: tamen vix demonstra 
+      <lb ed="#C" n="30"/>tur oppositum. Concedo ergo quod contingenter ac 
+      <lb ed="#C" n="31"/>ceptat ad vitam eternam. potest ei dare btintudinem et 
+      <lb ed="#C" n="32"/>non dare: sed negatur quod potest de acceptare: id est: 
+      <lb ed="#C" n="33"/>facere quod ille actus sit malus. Ad illud btim hiero 
+      <lb ed="#C" n="34"/>nymi dicitur quod ipse loquitur de facto.
+   </p>
+            <p xml:id="jb2v19-d66483-d1e222">
+      ¶ 
+      Secun<lb ed="#C" n="35" break="no"/>do arguitur. Deus potest non ostendere ei 
+      volun<lb ed="#C" n="36" break="no"/>tatem suam: sed illam ei occultare. quo facto tal 
+      crea<lb ed="#C" n="37" break="no"/>tura transgredietur praeceptum dei: et imputabitur ei ad 
+      cul<lb ed="#C" n="38" break="no"/>pam.
+   </p>
+            <p xml:id="jb2v19-d66483-d1e233">
+      ¶ Respondetur concedendo quod deus non de 
+      necessita<lb ed="#C" n="39" break="no"/>te ostendit illi creature suam voluntatem. sed tunc nichil 
+      <lb ed="#C" n="40"/>imputabitur illi ad culpam: et esto quod non mereatur: sufficit 
+      <lb ed="#C" n="41"/>quod peccare nequeat. Si petas: an erit sbstantia spiritual: an 
+      <lb ed="#C" n="42"/>composita ex corpore et spu: dicitur: vtrumque est deo possibile
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

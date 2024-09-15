@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="33-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d18995"><!-- l2d3q1 -->
+            <head xml:id="jb2v19-d18995-Hd1e101">Quaestio 1</head>
+            <head xml:id="jb2v19-d18995-Hd1e103" type="question-title"/>
+            <p xml:id="jb2v19-d18995-d1e105">
+               <lb ed="#C" n="30"/>IN hac tertia 
+      disti<lb ed="#C" n="31" break="no"/>ctione magister tangit duo 
+      po<lb ed="#C" n="32" break="no"/>tissimum: primum de distinctione 
+      <lb ed="#C" n="33"/>personali angelorum. Secundo: 
+      de<lb ed="#C" n="34" break="no"/>eorum cognitione. conformiter ad 
+      <lb ed="#C" n="35"/>hoc circa douo principaliter in hac 
+      <lb ed="#C" n="36"/>distinctione insistam. Primo de 
+      di<lb ed="#C" n="37" break="no"/>stinctione rerum siue materialium siue immaterialium. 
+      <lb ed="#C" n="38"/>hoc est de principio indinduationis. hoc est de illo 
+      per<lb ed="#C" n="39" break="no"/>quod vnum indiuiduum ab alio distinguitur. Secundo: de 
+      an<lb ed="#C" n="40" break="no"/>gelorum noticia. et quia illam materiam priore puto 
+      vtili<lb ed="#C" n="41" break="no"/>orem: magis circa eam insistere curabo.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e134">
+      ¶ Circa 
+      <lb ed="#C" n="42"/>primum varias essescito inter sapientes positiones: 
+      <lb ed="#C" n="43"/>quarum vna ponit quantitatem esse principium 
+      indindua<lb ed="#C" n="44" break="no"/>tionis. Alia ponit materiam ess principium 
+      indiuidua<lb ed="#C" n="45" break="no"/>tionis. Tertia ponit differentiam indiuidualem siue 
+      hec<lb ed="#C" n="46" break="no"/>ceitatem es principium indiuiduationis. Quarta 
+      opi<lb ed="#C" n="47" break="no"/>nio dicit / quod sicut natura ex se formaliter est natura. 
+      <lb ed="#C" n="48"/>ita ex se formaliter est singularis.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e152">
+      ¶ Queritur ergo at 
+      <lb ed="#C" n="49"/>sit ponendum vnum principium aliud ab indiuiduo quo 
+      <lb ed="#C" n="50"/>vnum indiuidoum distingnitur ab alio.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e160">
+      ¶ Pro quaestionis 
+      so<lb ed="#C" n="51" break="no"/>lutione pono sequentes conclusiones: quarum prima est 
+      <lb ed="#C" n="52"/>Quantitas non est principium indinduationis. Secunda 
+      con<lb ed="#C" n="53" break="no"/>clusio. Materia non est principium quo vna res 
+      distin<lb ed="#C" n="54" break="no"/>guitur ab alia Tertia conclusio. deus potest facere 
+      simul<lb ed="#C" n="55" break="no"/>ouo indindua immaterialia in eadem specie specialissima 
+      <lb ed="#C" n="56"/>Quarta conclusio. hecceitas naturis superaddita non 
+      <lb ed="#C" n="57"/>est pancipium indiuiduationis. Quinta conclusio quaeliet res 
+      <lb ed="#C" n="58"/>mundi est singularis. Serta conclusio quelibet res scipso 
+      <lb ed="#C" n="59"/>sine alio superaddito distinguitur ab alia re. Utor istis
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="60"/>terminis indiuiduum et singulare indifferenter.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e186">
+      ¶ 
+      Prl<lb ed="#C" n="61" break="no"/>ma conclusio probatur. a. suba materialis quanta 
+      distin<lb ed="#C" n="62" break="no"/>guitur a b subam quanta: et non per quantitate. ergo prima 
+      <lb ed="#C" n="63"/>conclusio vera consequentia est nota. probatur antecedens. deuspet 
+      <lb ed="#C" n="64"/>ponere a subam quantam sine quantitate: cum est eius 
+      ac<lb ed="#C" n="65" break="no"/>cidens absolutum. Secundum eos absurdum est dicere quod sint 
+      <lb ed="#C" n="66"/>due res create absolute quarum neutra est pars alterius 
+      <lb ed="#C" n="67"/>et deus non praet separe vnam illarum rerum: quamcumque 
+      volue<lb ed="#C" n="68" break="no"/>rit conseruare: reliqua corrupta. hoc facto: a / subam 
+      <lb ed="#C" n="69"/>non est b. et distinguitur a b et non per quantitatem. ergo 
+      prima<lb ed="#C" n="70" break="no"/>conclusio vera.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e210">
+      ¶ Secunda conclusio patet. vna anima sepata 
+      <lb ed="#C" n="71"/>distinguitur ab alia. et non per materiam. igitur similiter a 
+      ma<lb ed="#C" n="72" break="no"/>teria distinguitur a b. igitur. Oppositum tertie conclusionis 
+      <lb ed="#C" n="73"/>tet scu tho. i. parte. qui. l. arti. iiii. dicit. cum ageli sunt imma 
+      <lb ed="#C" n="74"/>teriales: impossibile est quod sint plures ageli eiusdem 
+      spe<lb ed="#C" n="75" break="no"/>ciei specialissime cum agelus est sine materia: habet totam 
+      <lb ed="#C" n="76"/>perfectionem speciei quae nata est esse in infiniti. Dastcuent omnes 
+      fofa<lb ed="#C" n="77" break="no"/>materialis de se est multiplicabilis: et quaelibet materia 
+      <lb ed="#C" n="78"/>ratione forme. sed quod sit hec et indiuidua: hoc est per mate 
+      <lb ed="#C" n="79"/>riam in qua recipitur et arctatur et per confis indiuiduatur¶ 
+      Pro<lb ed="#C" n="80" break="no"/>batur tertia conclusio. multi sunt ageli eiusdem speciei 
+      speci<lb ed="#C" n="81" break="no"/>alissie. patet: alioquinimlte angelorum integre spes sunt 
+      dam<lb ed="#C" n="82" break="no"/>nate quod videtur inconuenlens. sed diceret hoc non 
+      incon<lb ed="#C" n="83" break="no"/>uenire. Alit arguitur. deus potest annichilare a / angelum et 
+      <lb ed="#C" n="84"/>producerevnum agelum eiusdem specie specialissime 
+      secum<lb ed="#C" n="85" break="no"/>scilicet b quo facto / potest reproducere a / et sic dabuntur duo 
+      <lb ed="#C" n="86"/>ageli eiusdem speciei specialissime entitatiue.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e247">
+      ¶ Dices. 
+      <lb ed="#C" n="87"/>ille doctor negat quod deus possit reproducere idem 
+      cor<lb ed="#C" n="88" break="no"/>ruptum in distinctione. xliiii. quartis sniarum. et sic 
+      argu<lb ed="#C" n="89" break="no"/>metum non cencludit. vel melius in quotlibeto hoc 
+      <lb ed="#C" n="90"/>corrigit tenens oppositum concedo quod potest 
+      reprodu<lb ed="#C" n="91" break="no"/>cere a sed non stante b angelo si reproducat a 
+      neces<lb ed="#C" n="92" break="no"/>se est annihilare b necessitate consequentie: non 
+      consequen<lb ed="#C" n="93" break="no"/>tia. sic dicerent consfir¶ Contra. nulla est repugnantia quin 
+      <lb ed="#C" n="94"/>a / et b simul sint sicut de animabus duabus: vel ostendatur 
+      <lb ed="#C" n="95"/>illa: ergo non est necesse etiam necessitate consequentie 
+      <lb ed="#C" n="96"/>annichilare b si a / reproducatur conclusio 
+      opposi<lb ed="#C" n="97" break="no"/>ta est dampnata in variis articulis parisiensibus. 
+      articu<lb ed="#C" n="98" break="no"/>lus. lxxxi. est ille. quod quia intelligentie non habent matiam 
+      de<lb ed="#C" n="99" break="no"/>us non praet plures eiusdem speciei facere. error. xcvi. et 
+      <lb ed="#C" n="100"/>cxci. idem dicunt. quod alii doicunt: articuli sunt reuocati 
+      pro<lb ed="#C" n="101" break="no"/>quanto tangunt doctrinam sci thome: hoc non intelligo. 
+      <lb ed="#C" n="102"/>non opinor quod aliquis neuter positionem suam in hac parte 
+      <lb ed="#C" n="103"/>existimet probabilem.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e286">
+      ¶ Pro quarte conclusionis 
+      intelli<lb ed="#C" n="104" break="no"/>gentia scito: doctor subtilis in hac distinctione sic 
+      ima<lb ed="#C" n="105" break="no"/>ginatur. ex natura rei duplex est ponenda vnitas in 
+      re<lb ed="#C" n="106" break="no"/>secluso quocumque actu intellectus. vna est nueralis qua 
+      <lb ed="#C" n="107"/>res sic est vna res nunero quod non est pures res nuero: 
+      <lb ed="#C" n="108"/>et illa vnitas sumitur a differentia indiuiduali cuiuscum 
+      <lb ed="#C" n="109"/>que rei: quae differentia realiter idemptificatur cum reipsa / et 
+      <lb ed="#C" n="110"/>hec est vnitas maxima. Alia est vnitas nature quae dicitur 
+      <lb ed="#C" n="111"/>minor vnitate nunerali: et hec conuenit nature secundum 
+      se<lb ed="#C" n="112" break="no"/>considerate prius natura quam contrhatur vel determinetur 
+      per<lb ed="#C" n="113" break="no"/>drtiam indiuidualem. hiuanitas prius natura est talis entitas 
+      <lb ed="#C" n="114"/>homcenus illa quae ei conueniunt in primo modo dicendi per se quam 
+      di<lb ed="#C" n="115" break="no"/>catur concta per differentiam indiuidualem: sicut homo pus nata 
+      <lb ed="#C" n="116"/>ra est rationalis quarisibilis: tunc sic: illa humanitas sic 
+      con<lb ed="#C" n="117" break="no"/>siderata in illo pore vel est vna vel plures. non 
+      plu<lb ed="#C" n="118" break="no"/>res: vt notum essi vna: quaeritur qua vnitate. non 
+      nunera<lb ed="#C" n="119" break="no"/>li: quia in illo priore non habet dortiam indiuidualem sine qua
+      <pb ed="#V" n="33-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>nihil est vnum nunero: ergo aliqua alia vnitate. non 
+      spe<lb ed="#C" n="2" break="no"/>cifica vel generica: quia ille vnitates non conueniunt 
+      ni<lb ed="#C" n="3" break="no"/>si per actum intellectus comparantis huanltatem sub illa 
+      pro<lb ed="#C" n="4" break="no"/>prietate qua nata est ess in intellectu per indifferentiam ad 
+      <lb ed="#C" n="5"/>inferiora vel ad vniuersale. ergo oportet dicere in illo 
+      prio<lb ed="#C" n="6" break="no"/>re est vnitas nature sic considerate. et hec vnitas est 
+      <lb ed="#C" n="7"/>minor vnitate nuncrali: quia illud quod est vnum illa 
+      vnita<lb ed="#C" n="8" break="no"/>te quantum est ex se natum est ess in pluribus per indifferentiam: et 
+      <lb ed="#C" n="9"/>non illud quod est vnum vnitate nuerali. mo quantum aliquid 
+      <lb ed="#C" n="10"/>potest pluribus conuenire tanto est minus vnum io illa humani 
+      <lb ed="#C" n="11"/>tas est minus vnum qua sortes. quia sortes non praet conuenire 
+      <lb ed="#C" n="12"/>pluribus. oc alia vla explicetur: sic. sortes est vnum 
+      nu<lb ed="#C" n="13" break="no"/>mero sua ortria indiuiduali. sepeetur illa a sorte ad 
+      ima<lb ed="#C" n="14" break="no"/>ginationem huanitate remanente: tunc queritur an illa 
+      <lb ed="#C" n="15"/>humanitas est vna aut plures. non plures: quia nihil 
+      ac<lb ed="#C" n="16" break="no"/>quisiuit. si vna: qua vnitate: non nunerali: quia non habet 
+      <lb ed="#C" n="17"/>otfiam indiuidualem ex vypothesi. nec specifica: quia non 
+      <lb ed="#C" n="18"/>comparatur ad inferiora. ergo est vna vnitate minore 
+      <lb ed="#C" n="19"/>quam sit vnltas nuneralis: nec illa vnitas conuenit 
+      illi<lb ed="#C" n="20" break="no"/>nature per intellectum: sed ex natura rei. et in illo 
+      prori<lb ed="#C" n="21" break="no"/>illa humanitas non est de se vna vnitate nunerali: aut 
+      <lb ed="#C" n="22"/>plures pluralitate opposita illi vnitati numerali: 
+      <lb ed="#C" n="23"/>nec communis / nec particularis. sicut iste terminus homo est 
+      ter<lb ed="#C" n="24" break="no"/>minus communis et restringitur per pronomen demonsiratiuum ad 
+      <lb ed="#C" n="25"/>standum pro demonstrato. Ulterius nota: oatria indidualis 
+      <lb ed="#C" n="26"/>ex natura sua est singularis: et illius non est quaerenda cam 
+      sre<lb ed="#C" n="27" break="no"/>singularitatis nisi seipsam. sicut homo per se est rationalis: 
+      <lb ed="#C" n="28"/>et illius non est querenda causa. sed quia est 
+      risibi<lb ed="#C" n="29" break="no"/>lis in secundo modo dicendi per se queritur ratio: 
+      <lb ed="#C" n="30"/>puta quia est animal rationale. sic si queratur 
+      <lb ed="#C" n="31"/>quare sortes est vnum nunero et singularis. Rspondetur. 
+      <lb ed="#C" n="32"/>quia habet dotfiam indiuidualem quae primo es singularis. 
+      hua<lb ed="#C" n="33" break="no"/>nitas secundo modo est singularis et per accecues: ceapiendo 
+      per<lb ed="#C" n="34" break="no"/>accsnus laxato vocabulo pro aliquo quod est etxu naturam 
+      <lb ed="#C" n="35"/>ipsius. quo fit nihil est commune in creaturis per realem 
+      existen<lb ed="#C" n="36" break="no"/>tiam. humanitas quae est in sorte non est in platone. quot sunt 
+      <lb ed="#C" n="37"/>homines tot sunt huanitates. quilibet homo habet suam propriam 
+      <lb ed="#C" n="38"/>humanitatem quam non habet alter. Alio modo aliquid est 
+      <lb ed="#C" n="39"/>commune per indifferentiam: quia quantum est de se sibi non repuent 
+      <lb ed="#C" n="40"/>determinari per quamcumque differentiam indiuidualem: etiam 
+      <lb ed="#C" n="41"/>alia ab illa qua deturminatur. sic humanitas est communis. ana 
+      <lb ed="#C" n="42"/>logiam accipito per nasum cereum vel per terminum homo 
+      de<lb ed="#C" n="43" break="no"/>us tamen non praet facere quod natura mea sit in sorte: quia 
+      iden<lb ed="#C" n="44" break="no"/>tificatur cum Ioamneltate a qua remoueri non praet 
+      Ioan<lb ed="#C" n="45" break="no"/>ne stante. Differentia indiuidualis identificatur cum illa 
+      <lb ed="#C" n="46"/>natura communi realiter. licet sit distictio formalis inter illas 
+   </p>
+            <p xml:id="jb2v19-d18995-d1e427">
+               <lb ed="#C" n="47"/>¶ Contra hanc positionem arguitur seclusa hac 
+      diffe<lb ed="#C" n="48" break="no"/>rentia indiuiduali: scllicet roberteitate ab humanitate 
+      <lb ed="#C" n="49"/>eius ad imaginationem: dicatur illa humanitas a / adhuc 
+      <lb ed="#C" n="50"/>a. non est humanitas platonis. et vtraque est. ergo 
+      distin<lb ed="#C" n="51" break="no"/>guitur ab ea. et non per differentiam indiuidualem. ergo in 
+      <lb ed="#C" n="52"/>anis est differentia indiuidualis tua. Et dato quod non 
+      <lb ed="#C" n="53"/>secludatur: adhuc humanitas in sorte non est humanitas in 
+      <lb ed="#C" n="54"/>platone. et de illa faciam argumentum.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e448">
+      ¶ Insuper: 
+      absur<lb ed="#C" n="55" break="no"/>dum est concedere quod non repugnet humanitati 
+      sor<lb ed="#C" n="56" break="no"/>tis ess in platone quatum est de se: et deus hoc facere non 
+      <lb ed="#C" n="57"/>potest. propterea si concedas humanitati sortis quantum est 
+      <lb ed="#C" n="58"/>de se non repugnat esse in platone: pari ratione 
+      concede<lb ed="#C" n="59" break="no"/>re habes sube sortis non repugnat quantum est de se 
+      <lb ed="#C" n="60"/>ese in quacumque alia subam. et sic non repugnat subem sor¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>tis quantum est de se ese in deo. et sic non repugnar 
+      suben<lb ed="#C" n="62" break="no"/>create esse in deo idemptice. Insuper: sicut dicis: 
+      dif<lb ed="#C" n="63" break="no"/>ferentie indiuiduales sunt primo diuerse: sic dicere 
+      <lb ed="#C" n="64"/>potes de naturis ipsis amplius friuola est hec 
+      for<lb ed="#C" n="65" break="no"/>malis distinctio ad eius mentem. nichil potest affirmari 
+      <lb ed="#C" n="66"/>de natura creata quin ididem affirmabitur de 
+      differen<lb ed="#C" n="67" break="no"/>tia indiuiduali. et contra. licet admittatur differentia 
+      <lb ed="#C" n="68"/>formalis ad sensum aliquem in diuinis: quia nomina siguent 
+      <lb ed="#C" n="69"/>ad placitum: numquam tamen in creaturis aliquid affirmatur 
+      de<lb ed="#C" n="70" break="no"/>vno et negatur de reliquo rebus idemptice eisdem in 
+      sup<lb ed="#C" n="71" break="no"/>positione personali concedimus essentia diuina est res 
+      <lb ed="#C" n="72"/>communicabilis pluribus: pater in diuinis non est res 
+      communi<lb ed="#C" n="73" break="no"/>cabilis. si placet inter talia vocare distinctionem 
+      for<lb ed="#C" n="74" break="no"/>malem quid mali tamen inter intellectum et voluntatem 
+      <lb ed="#C" n="75"/>et inter quaecumque creata identificata numquam ista inuenium 
+      <lb ed="#C" n="76"/>tur: si homo occulte aduertat. sed latius de hac 
+      ma<lb ed="#C" n="77" break="no"/>teria alibi loquendum est.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e503">
+      ¶ Rursus: sorteitati de 
+      se<lb ed="#C" n="78" break="no"/>repugnat esse in pluribus. sorteitas realiter est humanitas. 
+      <lb ed="#C" n="79"/>ergo huanitati repugnat de se ese in pluribus: 
+      exposi<lb ed="#C" n="80" break="no"/>torie.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e512">
+      ¶ Dicis non bene concluditur in maiore pronomen 
+      <lb ed="#C" n="81"/>se aliud refert: et aliud in conclusione arguitur sic. hec 
+      hu<lb ed="#C" n="82" break="no"/>manitas est natura communis. hec humanitas realiter est 
+      sor<lb ed="#C" n="83" break="no"/>teitas. ergo sorteitas est natura communis concedis 
+      conclu<lb ed="#C" n="84" break="no"/>sionem per identitatem: sed non prouenit illud a sorteitate 
+      <lb ed="#C" n="85"/>potes consugere ad hocsi opus sit vt vna premissarum 
+      <lb ed="#C" n="86"/>equiualeat vni de omni. sed hoc grande reputo 
+      inconue<lb ed="#C" n="87" break="no"/>nsens syllogisando in creaturis. natura communis 
+      identifi<lb ed="#C" n="88" break="no"/>catur realiter cum differentia indiuiduali. ergo sunt 
+      eius<lb ed="#C" n="89" break="no"/>dem rationis realiter. ergo si vna sit principium indiuidua 
+      <lb ed="#C" n="90"/>tionis: et alia erit. Ex his vtcumque patet quarta 
+      con<lb ed="#C" n="91" break="no"/>clusio. et vlterius patet inductiue si instes de 
+      na<lb ed="#C" n="92" break="no"/>tura comuni: iam dictum est: illa est singularis. et patet 
+      vlte<lb ed="#C" n="93" break="no"/>rius. quicquid realiter identificatur cum re singulari est res 
+      <lb ed="#C" n="94"/>singularis. natura tua communis est hmoni. igitur.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e545">
+      ¶ 
+      Quin<lb ed="#C" n="95" break="no"/>ta et sexta conclusiones patent et patebunt 
+      ampli<lb ed="#C" n="96" break="no"/>us aliorum obiectionibus efndendo.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e552">
+      ¶ Contra scundam 
+      <lb ed="#C" n="97"/>et tertiam conclusionem arguitur. Illa sunt vnum 
+      nue<lb ed="#C" n="98" break="no"/>ro quorum natura est vna. v. ethaphisice. et 
+      pri<lb ed="#C" n="99" break="no"/>mo ccli. celum non est plurificabile: quia constat 
+      <lb ed="#C" n="100"/>ex materia sua tota. et. xii. Metha. dicit 
+      philoso<lb ed="#C" n="101" break="no"/>phus si essent plures motores primi celi in eis esset 
+      <lb ed="#C" n="102"/>materia. ergo videtur dicere quod nulla natura est 
+      mul<lb ed="#C" n="103" break="no"/>tiplicabilis nisit per materiam.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e570">
+      ¶ Ad primum dicitur quod 
+      <lb ed="#C" n="104"/>materia illic non capitur pro altera parte compositi. stat 
+      <lb ed="#C" n="105"/>duas formas informare eandem materiam nuero 
+      de<lb ed="#C" n="106" break="no"/>potentia dei. aliqui dicunt materia capitur pro 
+      differen<lb ed="#C" n="107" break="no"/>tia quam indiuidualem vocant. Dico quod materia capitur 
+      <lb ed="#C" n="108"/>pro toto composito.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e584">
+      ¶ Ad alias auctoritates 
+      dico<lb ed="#C" n="109" break="no"/>aristoteles putabat quod celum non est plurificabile: sed 
+      <lb ed="#C" n="110"/>ipsum ex tota sua materia possibili constabat: et est 
+      <lb ed="#C" n="111"/>nisi vnum indiuiduum in specie in his quae non informant 
+      <lb ed="#C" n="112"/>materiam: et talia sunt necessaria. et per confis non sunt 
+      <lb ed="#C" n="113"/>dabilia plura indiuidua in eis. non video hoc 
+      concedem<lb ed="#C" n="114" break="no"/>dum vllo modo ab aliquo theologo in lumine fidei: 
+      pro<lb ed="#C" n="115" break="no"/>pterea illas auctoritates missas facio.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e602">
+      ¶ Contra 
+      <lb ed="#C" n="116"/>quartam conclusionem cum duabus sequentibus arguitur 
+      pro<lb ed="#C" n="117" break="no"/>bando quod sit natura communis ad sensum vltime 
+      opini<lb ed="#C" n="118" break="no"/>onis. quicquid inest alicui ex sua ratione per: se in 
+      <lb ed="#C" n="119"/>est ei in quocumque. ergo si natura homins de se est 
+      hec<lb ed="#C" n="120" break="no"/>in quocumque est natara homnis: illud esset hic homo
+      <pb ed="#V" n="34-r"/>
+               <cb ed="#P" n="a"/>
+            </p>
+            <p xml:id="jb2v19-d18995-d1e620">
+               <lb ed="#C" n="1"/>¶ Secundo. quia cui de se conuenit vntm oppositum eidem 
+      <lb ed="#C" n="2"/>de se repugnat aliud oppositum. ergo si natura de 
+      se<lb ed="#C" n="3" break="no"/>est vna numero ex se sibi repugnat multitudo 
+      nu<lb ed="#C" n="4" break="no"/>meralis.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e631">
+      ¶ Ad primum concedo maiorem ad minorem 
+      <lb ed="#C" n="5"/>dico. aliqua natura homonis de se est hec natura homnis 
+      <lb ed="#C" n="6"/>nichil aliud est quam natura que est homo. semper illa 
+      <lb ed="#C" n="7"/>transiriua loco vnius intransitiue capitur. ergo 
+      il<lb ed="#C" n="8" break="no"/>la indefinita est vera: natura homins de se est 
+      hec<lb ed="#C" n="9" break="no"/>demonstrato sorte. habet vnam singularem veram: et 
+      sub<lb ed="#C" n="10" break="no"/>iectum stat determinate. cum hoc concedo: quod 
+      na<lb ed="#C" n="11" break="no"/>tura homins non est de se hec verificatur pro alia 
+      <lb ed="#C" n="12"/>singulari. ille sunt oue subcontrarie que se 
+      compa<lb ed="#C" n="13" break="no"/>tiuntur in veritate. Ex his non sequitur in quocum 
+      <lb ed="#C" n="14"/>que est natura homins illud est hic homo
+   </p>
+            <p xml:id="jb2v19-d18995-d1e655">
+      ¶ Ad secundum 
+      <lb ed="#C" n="15"/>concedo maiorem concedo hanc propositionem aliquae 
+      <lb ed="#C" n="16"/>natura est de se vna numero mmo quelibet 
+      natu<lb ed="#C" n="17" break="no"/>ra de se est vna numero. et concedo quod nature 
+      re<lb ed="#C" n="18" break="no"/>pugnat multitudo: immo cuilibet nature create 
+      re<lb ed="#C" n="19" break="no"/>pugnat multitudo. quia nulla natura creata potest esse 
+      <lb ed="#C" n="20"/>in multissuppositis. ergo nature create repugnat 
+      <lb ed="#C" n="21"/>esse in multis concedo cum his: nature non repugnat 
+      <lb ed="#C" n="22"/>esse in alio. hoc notum est per ascensum termini stam 
+      <lb ed="#C" n="23"/>tis determinate.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e677">
+      ¶ Tertio argultur. decimo 
+      he<lb ed="#C" n="24" break="no"/>thaphisice. in vnoquoque genere est vnum principium 
+      <lb ed="#C" n="25"/>quod est metrum et mensura omnim que sunt in illo 
+      ge<lb ed="#C" n="26" break="no"/>nere: ista vnitas non est singularis: quia nullum est sin 
+      <lb ed="#C" n="27"/>gulare quod est metrum omnim illorum que sunt in illo 
+      ge<lb ed="#C" n="28" break="no"/>nere in indiuiduis elusdem speciet non est hoc prlus et 
+      <lb ed="#C" n="29"/>illud posterius iii. Methaphisice.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e694">
+      ¶ Quarto 
+      ar<lb ed="#C" n="30" break="no"/>guitur. vii. Phisicorum in specie athoma fit 
+      compara<lb ed="#C" n="31" break="no"/>tio: quia est vna natura. non autem in genere. quia genus non 
+      <lb ed="#C" n="32"/>habet talem vnitatem. ergo philosophus illic 
+      inten<lb ed="#C" n="33" break="no"/>dit ibi naturam specificam esse vnam vnitate 
+      natu<lb ed="#C" n="34" break="no"/>respecifice. non autem intendit ipsam sic esse vnam 
+      <lb ed="#C" n="35"/>vnitate numerali: quia in illa non fit comparat o.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e710">
+      ¶ Ad 
+      <lb ed="#C" n="36"/>tertium respondetur distingnendo maiorem ratione 
+      <lb ed="#C" n="37"/>superlatiui gradus propositionem illam 
+      redden<lb ed="#C" n="38" break="no"/>tis exponibilem affirmatiue vel negatiue. 
+      affir<lb ed="#C" n="39" break="no"/>matiue illa est falsa. nichil est in illo genere quolibet 
+      <lb ed="#C" n="40"/>alio prius quod est mensura aliorum quando in specie 
+      supe<lb ed="#C" n="41" break="no"/>ma sunt multe species. negatiue exponendo ila est 
+      <lb ed="#C" n="42"/>vera. in genere colorum capiatnr albedo tamquam color 
+      <lb ed="#C" n="43"/>summus quaelibet albedo est color summus. negatine exponendo 
+      <lb ed="#C" n="44"/>ccterorum colorum perfectiones attenduntur penes hoc quod 
+      <lb ed="#C" n="45"/>accedunt ad albedinem quamcumque: cum nulla albedo sit 
+      <lb ed="#C" n="46"/>alia perfectior specifice vt superius disseruimus. 
+      <lb ed="#C" n="47"/>sic in genere animalium homo est nobilissimum 
+      ani<lb ed="#C" n="48" break="no"/>malium. quilibet homo negatiue exponendo anima 
+      <lb ed="#C" n="49"/>lia quanto homin sunt viciniora tanto sunt 
+      nobilio<lb ed="#C" n="50" break="no"/>ra. sic in predicamento substantie (ponendo deum 
+      <lb ed="#C" n="51"/>in predicamento: quod est probabile: immo est de 
+      ter<lb ed="#C" n="52" break="no"/>mino contendere non ponendo deum in predicamen 
+      <lb ed="#C" n="53"/>to) deus estmetrum et mensura omnim aliorum. et ira in omni 
+      <lb ed="#C" n="54"/>bus aliis.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e754">
+      ¶ Contra hoc arguitur per dictum 
+      vulga<lb ed="#C" n="55" break="no"/>re homim. homo est dignissima creaturarum: et non 
+      sor<lb ed="#C" n="56" break="no"/>tes: nec r allias. ergo homo in communi.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e761">
+      ¶ 
+      Respon<lb ed="#C" n="57" break="no"/>detur. ille homo in cons est chimera si non sit 
+      parti<lb ed="#C" n="58" break="no"/>cularis homo: secundum dictum Aristotelis primo poste 
+      <lb ed="#C" n="59"/>riorum: gaudeant genera et species quandum si sunt 
+      mon<lb ed="#C" n="60" break="no"/>stra sunt: et hoc more platonico: quem aliqui po¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>steriores secutis sunt. dico illa propositio est falia 
+      de<lb ed="#C" n="62" break="no"/>virtute sermonis: angelus est dignior homine. ex 
+      pri<lb ed="#C" n="63" break="no"/>ma distinctione huius non est sermo ui homine chriso: quia non 
+      <lb ed="#C" n="64"/>est creatura proprie loquendo vt in iii. videbitur 
+      <lb ed="#C" n="65"/>Secundo doico. illa est va negatine exponendo inter 
+      crea<lb ed="#C" n="66" break="no"/>turas corporeas. et quelibet singularis illius est 
+      <lb ed="#C" n="67"/>vera: licet ad eius veritatem sufficeret veritas vnius 
+      <lb ed="#C" n="68"/>singularis. iam locutus sum de auctoritate 
+      Ari<lb ed="#C" n="69" break="no"/>stoteliscut fiapud posteros ampliatur. licet ipse 
+      <lb ed="#C" n="70"/>exemplificet in rebus eiusdem speciei: vt patet litteram 
+      <lb ed="#C" n="71"/>intuenti. de rebus elusdem spe ciei que differunt in 
+      <lb ed="#C" n="72"/>magnitudine et paruitate et vult quod minimum sit men 
+      <lb ed="#C" n="73"/>sura aliorum que non sunt ita parua. sicut legista 
+      in<lb ed="#C" n="74" break="no"/>terdum ampliat rationem legis vltra legis 
+      decisio<lb ed="#C" n="75" break="no"/>nem. sic philosophus rationem dicti Phi. applicat 
+      <lb ed="#C" n="76"/>vltra principale consideratum in tali parte.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e809">
+      ¶ Ad 
+      <lb ed="#C" n="77"/>quartum dicitur. in genere etiam interdum fit 
+      compara<lb ed="#C" n="78" break="no"/>tio vt superius diximus. sed res eiusdem speciei 
+      spe<lb ed="#C" n="79" break="no"/>cialissime in pluribus conueniunt: et magis 
+      compa<lb ed="#C" n="80" break="no"/>rantur. sed illa comparatio fit inter duo: quorum 
+      <lb ed="#C" n="81"/>vtrunque est vnum numero: et non quod sit eadem 
+      natu<lb ed="#C" n="82" break="no"/>ra in vtroque illorum.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e825">
+      ¶ Quinto arguitur. secundum 
+      phi<lb ed="#C" n="83" break="no"/>losophum quinto Methaphisice capitulo de ad 
+      <lb ed="#C" n="84"/>aliquid. idem simile et equale fundantur supervnum. 
+      <lb ed="#C" n="85"/>sed relatio non est realis nisi habeat fundamentum 
+      <lb ed="#C" n="86"/>reale et rationem fundandi realem. ergo vnitas quae 
+      requiri<lb ed="#C" n="87" break="no"/>tur in fundamento relationis erit realis et non 
+      rea<lb ed="#C" n="88" break="no"/>lis: quia nichil vnum et idem est simile vel equale sibti 
+   </p>
+            <p xml:id="jb2v19-d18995-d1e842">
+               <lb ed="#C" n="89"/>¶ Sexto arguitur. vnius oppositionis realis sunt 
+      <lb ed="#C" n="90"/>duo prima extrena realia. sed contrarietas est 
+      oppon<lb ed="#C" n="91" break="no"/>realis: quia vnum eorum corrumpit aliud. ergo vtrum 
+      <lb ed="#C" n="92"/>que. primum extremorum huius oppositionis est 
+      rea<lb ed="#C" n="93" break="no"/>le: vt autem extremum est vnum aliqua vnitate 
+      rea<lb ed="#C" n="94" break="no"/>li: et non numerali: quia tunc precise hoc album 
+      r<lb ed="#C" n="95" break="no"/>vel illud album solum esset contrarium nigro: quod 
+      <lb ed="#C" n="96"/>est inconueniens. tunc enim essent tot 
+      contrarie<lb ed="#C" n="97" break="no"/>tates prime quot indiuidua.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e864">
+      ¶ Ad quintum 
+      re<lb ed="#C" n="98" break="no"/>spondetur. quid de relationibus censeam patuit in 
+      <lb ed="#C" n="99"/>prima distinctione hulus. et si ponerem relationes 
+      <lb ed="#C" n="100"/>distingui a fundamento et termino: adhuc non pone 
+      <lb ed="#C" n="101"/>rem naturas communes ad aliorum 
+      intentionem<lb ed="#C" n="102" break="no"/>sed dicerem vnam similitudinem fundari in vna 
+      <lb ed="#C" n="103"/>qualitate cui respondet alia in alia qualitate. et 
+      <lb ed="#C" n="104"/>vtraque istarum qualitatum est vnum numero. 
+   </p>
+            <p xml:id="jb2v19-d18995-d1e882">
+               <lb ed="#C" n="105"/>¶ Ad sextum dico maiorem esse falsam: 
+      potissi<lb ed="#C" n="106" break="no"/>mum si affirmatiue exponatur propositio. 
+      cuili<lb ed="#C" n="107" break="no"/>bet albedini nigredo est contraria. et cuilibet 
+      co<lb ed="#C" n="108" break="no"/>lori quodlibet frigus est contrarium: et hoc 
+      tenen<lb ed="#C" n="109" break="no"/>do quod nulle qualitates eiusdem speciei cum 
+      calo<lb ed="#C" n="110" break="no"/>re copatiantur vllum gradum frigoris / si 
+      tenea<lb ed="#C" n="111" break="no"/>tur alia via: consequer secundum ponem loquendum est illa 
+      op<lb ed="#C" n="112" break="no"/>pinio est vtrique vie communis.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e902">
+      ¶ Et si dicas primo 
+      de<lb ed="#C" n="113" break="no"/>celo et mundo tantum vnum vni est contrarium similiter 
+      <lb ed="#C" n="114"/>contraria maxine distant. duo indiuidua non maxine 
+      di<lb ed="#C" n="115" break="no"/>stant.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e911">
+      ¶ Ad primum or Philo. loquitur de vno secundum 
+      spe<lb ed="#C" n="116" break="no"/>ciem: et non secundum nunerum. ad scunet dico contraria 
+      ma<lb ed="#C" n="117" break="no"/>xime distant. sic duo indiuidua quaecumque 
+      incompossibi<lb ed="#C" n="118" break="no"/>li2: capiendo negatiue Patent he solutiones 
+      per<lb ed="#C" n="119" break="no"/>aduersarium demonstrando viginti albedines a. b. 
+      <lb ed="#C" n="120"/>c. et sic per ordinem: quaero an quaelibet istaruxm huic nigredini
+      <pb ed="#V" n="34-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>demonstrate contrariatur. oportet te dicere quod sic. tunt in 
+      <lb ed="#C" n="2"/>fero. ergo. xx. albedines sunt vni nigredini 
+      oppo<lb ed="#C" n="3" break="no"/>site. breuiter ingeniosus potest retorquere omina 
+      <lb ed="#C" n="4"/>argumenta in arguentem si ea ponderat.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e937">
+      ¶ Septi 
+      <lb ed="#C" n="5"/>mo arguitur. color est primum obiectum visus. sed 
+      <lb ed="#C" n="6"/>nullus color singularis. ergo color in communi habens 
+      <lb ed="#C" n="7"/>vnitatem minorem vnitate numerali¶ Octauo argui 
+      <lb ed="#C" n="8"/>equinitas est tum equinitas quinto Methaphisice: ita quod 
+      <lb ed="#C" n="9"/>nec est vna nec plures / nec vniuersalis nec 
+      par<lb ed="#C" n="10" break="no"/>ticularis. igitur.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e954">
+      ¶ Respondetur: capiendo ly color 
+      <lb ed="#C" n="11"/>prout lucem lumen cum concreto suo includat: 
+      concco<lb ed="#C" n="12" break="no"/>do ad hunc sensum: tantum color videtur. Secundo 
+      <lb ed="#C" n="13"/>dico: illa est vera vt lacet: capiendo superlatiuum 
+      <lb ed="#C" n="14"/>negatiue. respectu sortis cui albedo primo 
+      appli<lb ed="#C" n="15" break="no"/>catur ad videndum: quam si videt partes eius superficia 
+      <lb ed="#C" n="16"/>les etiam videbit. et sic est primum obiectum visui 
+      <lb ed="#C" n="17"/>suo. non autem affirmatiue: cum medietas eius eque 
+      <lb ed="#C" n="18"/>cito ei applicatur. sic de platone et eius prima 
+      vi<lb ed="#C" n="19" break="no"/>sione dicatur.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e976">
+      ¶ Ad octauum dicitur. auicenna vult 
+      <lb ed="#C" n="20"/>dicere vnum vel plura non ponuntur in diffinitione 
+      <lb ed="#C" n="21"/>equinitatis Secundo dico: illa propo estera siue in 
+      sen<lb ed="#C" n="22" break="no"/>su excluso / siue in sensu exclusiuo. vt patet per vniuersale 
+      <lb ed="#C" n="23"/>eius in termins traspo sitis. cum hoc tamen concedo: quod 
+      <lb ed="#C" n="24"/>equinitas est equus: equinitas mordet: equinitas 
+      cum<lb ed="#C" n="25" break="no"/>rit. nichil aliud est equinitas / quam equus: et 
+      quicde<lb ed="#C" n="26" break="no"/>affirmatur ve l ne gatur de vno in suppositione 
+      pe<lb ed="#C" n="27" break="no"/>sonali: illud idem affirmatur vel negatur uod reliquo 
+      <lb ed="#C" n="28"/>interdum aliqua abstracta includunt exvsu loquendi 
+      <lb ed="#C" n="29"/>sincathegoreuma per se vel necessario. et secundum 
+      <lb ed="#C" n="30"/>hoc petuest distingui: quando propositiones vere 
+      viden<lb ed="#C" n="31" break="no"/>ter negari. et secundum hoc est difficultas solum 
+      ver<lb ed="#C" n="32" break="no"/>balis inter realem et nominalem. locutus suin iam 
+      de<lb ed="#C" n="33" break="no"/>virtute sermonis equinitas currit quomodo vtitur 
+      no<lb ed="#C" n="34" break="no"/>minalis: licet secundum eius logicam in predicamentis 
+      <lb ed="#C" n="35"/>docet tales distinguere. et sic debet realis loqui. 
+   </p>
+            <p xml:id="jb2v19-d18995-d1e1013">
+               <lb ed="#C" n="36"/>¶ Nono arguitur. plus conueniunt sortes et plato qa 
+      <lb ed="#C" n="37"/>quod sortes et brunellus seclusa omni operatione in 
+      <lb ed="#C" n="38"/>tellectus. ergo in aliquo plus couenlunt. et non nisi 
+      <lb ed="#C" n="39"/>in humanitate. et non numerali. ergo in aliqua 
+      vni<lb ed="#C" n="40" break="no"/>cate minore.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e1026">
+      ¶ Decimo arguitur. anial diuiditur in 
+      <lb ed="#C" n="41"/>hominem et in brutum. et nullum animal particulare 
+      diuidi<lb ed="#C" n="42" break="no"/>tur in hominem et brutum. nec sortes / nec brunellus 
+      <lb ed="#C" n="43"/>et sic de quolibet alio. igitur siliter substantia 
+      diui<lb ed="#C" n="44" break="no"/>ditur in corpoream et incorpoream. et nulla 
+      singula<lb ed="#C" n="45" break="no"/>ris substantia diuiditur. ergo substantia in 
+      commu<lb ed="#C" n="46" break="no"/>ni diiditur.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e1042">
+      ¶ Ad nonum concedo atecens: et nego consequena: 
+      <lb ed="#C" n="47"/>quod in aliquo plus conueniunt. etiam per te nulla huma 
+      <lb ed="#C" n="48"/>nitas est in vtroque. et breuiter nichil est in vtroqui 
+      <lb ed="#C" n="49"/>in quo conueniant. sed in aliquibus plus comneniun 
+      <lb ed="#C" n="50"/>scilicet seipis et suis partibus conueniunt spe: significantur 
+      <lb ed="#C" n="51"/>per speciem specialissimam. non autem sortes et brunellus. 
+      <lb ed="#C" n="52"/>sed dicis: qualibet spe seclusa plus conueniunt. ver 
+      <lb ed="#C" n="53"/>est vltimate. dico plus conueniunt sortes et plato 
+      que<lb ed="#C" n="54" break="no"/>sortes et brunellus. habent formas eiusdem persectionis 
+      es<lb ed="#C" n="55" break="no"/>sentialis. neutra est perfectior alis: et sic uod eorum matiis. 
+      <lb ed="#C" n="56"/>In materiis: sortes et brunellus tantum conueniunt si 
+      <lb ed="#C" n="57"/>cut sortes et plato. due anime intellectiue plus 
+      conue<lb ed="#C" n="58" break="no"/>niunt / quam anima intellectiua et anima brunelli. sunt eiusden 
+      <lb ed="#C" n="59"/>ratiois et equaliter perfecte: non sic od anima sortis et forma 
+      <lb ed="#C" n="60"/>brunelli. et quia sortes et plato sunt eiusdem rationis et ha¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>bent partes equaliter perfectas: ab eis potest abstra 
+      <lb ed="#C" n="62"/>hi vnus conceptus communis eis et aliis homibus 
+      conueni<lb ed="#C" n="63" break="no"/>ens qui non conuenit brunello. qui non conuenit sic cum eis: 
+      <lb ed="#C" n="64"/>et licet sortes et manus eiuaplus conueniunt: quia habet 
+      <lb ed="#C" n="65"/>eandem formam: sortes et plato tantum specifice 
+      conue<lb ed="#C" n="66" break="no"/>niunt: quod ad speciem specialissimam sufficit: et si non 
+      suffi<lb ed="#C" n="67" break="no"/>ciat: non infringitur via quam sustinemus.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e1092">
+      ¶ Ad decimum 
+      <lb ed="#C" n="68"/>argumentum dico quod ipsum est magis contra arguentem 
+      <lb ed="#C" n="69"/>quero quod animal diuiditur in hominem et brutum nullum da 
+      <lb ed="#C" n="70"/>re potes in coni: nisi quis velit ire ad hanc viam insulsa 
+      <lb ed="#C" n="71"/>qua asserunt Iohem bus in concilio Constantiensi 
+      <lb ed="#C" n="72"/>tenuisse: quod est eadem substantia et animalitas numero 
+      <lb ed="#C" n="73"/>in variis animalibus. et tunc oporteret concedere quod 
+      <lb ed="#C" n="74"/>eadem substantia est dampnata in iuda et saluata in chriso: 
+      <lb ed="#C" n="75"/>quod est indignum auditu. ico ad argumentum si sit 
+      di<lb ed="#C" n="76" break="no"/>uisio realis et prime intentionaliter: quodlibet 
+      animal<lb ed="#C" n="77" break="no"/>potest diuidi in his in que componitur: vt in partes in 
+      <lb ed="#C" n="78"/>tegrales et essentiales. sed sic non capitur in illa 
+      parti<lb ed="#C" n="79" break="no"/>tione. sed diuidi capitur logicaltr: quando terminus 
+      superi<lb ed="#C" n="80" break="no"/>or diuiditur in sua inferiora quidditatiue et essentia 
+      <lb ed="#C" n="81"/>liter: vt animal diuiditur in hotem et brutum: ita quod ste 
+      <lb ed="#C" n="82"/>terminus animal stat materialiter in via nominalium non est 
+      <lb ed="#C" n="83"/>ponendum discrimen inter suppositionem simplicem et 
+      <lb ed="#C" n="84"/>materialem. senius est. homo et brutum tamquom termim 
+      in<lb ed="#C" n="85" break="no"/>feriores euacuant totum ambitum et naturam istius 
+      ter<lb ed="#C" n="86" break="no"/>mini animal. et sic iste terminus animal diuiditur in 
+      <lb ed="#C" n="87"/>ea tanquam in inferiora eius. cum hac stat in veritate 
+      <lb ed="#C" n="88"/>nullum animal diuiditur in hominem et in brutum. subiectum stat 
+      <lb ed="#C" n="89"/>personaliter ratione adiectiui adiuncti: et sic non 
+      contradi<lb ed="#C" n="90" break="no"/>cit alti vere. sed hec: nullum ly animal diuiditur in hominem 
+      <lb ed="#C" n="91"/>et brutum: que est falsa. Si stes in hoc quod nullum est 
+      neu<lb ed="#C" n="92" break="no"/>tri generis sicut dictio materialr sumpta: et non 
+      <lb ed="#C" n="93"/>cogit ipsum stare personaliter. hoc est logicale: non curo. 
+      <lb ed="#C" n="94"/>capiatur hec. nulla substantia diuiditur in corpores 
+      <lb ed="#C" n="95"/>et incorpoream. etiam ex vsu cum additur tale adiectiuum 
+      <lb ed="#C" n="96"/>eiusdem generis cum termino stante materialiter: 
+      capi<lb ed="#C" n="97" break="no"/>mus terminum significatiue: si non ponatur propria 
+      <lb ed="#C" n="98"/>nota matialitatis immediate termino materialiter 
+      <lb ed="#C" n="99"/>sumpto.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e1165">
+      ¶ Undecimo arguitur. si nulla est 
+      sub<lb ed="#C" n="100" break="no"/>stantia communis vel minor vnitas vnitate nunerali. sed 
+      <lb ed="#C" n="101"/>quelibet vnitas est numeralis: sequitur quod nullus est 
+      <lb ed="#C" n="102"/>terminus communis: nec est aliquod vniuersale. sed quilibet 
+      <lb ed="#C" n="103"/>terminus cathegoreumaticus significatione erit 
+      <lb ed="#C" n="104"/>singularis: quia rem singularem significat. terminus non 
+      <lb ed="#C" n="105"/>dicitur communis nisi quia uod significato primario naturam 
+      <lb ed="#C" n="106"/>communem et multis coicabilem siget: et secundario res 
+      parti<lb ed="#C" n="107" break="no"/>culares illius nature. vt ho de siginficato 
+      primario<lb ed="#C" n="108" break="no"/>naturam humanam: et secundario sortem et platonem si 
+      <lb ed="#C" n="109"/>gnificat.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e1189">
+      ¶ Ad vndecimum nego sequela. terminis 
+      <lb ed="#C" n="110"/>non vocatur communis: quia naturam communem sigt: nec singltsaris quia 
+      <lb ed="#C" n="111"/>precise vnam rem sigEt. sortes vel plato: est 
+      termi<lb ed="#C" n="112" break="no"/>nus communis: sortes et plato terminus singularis. et tamen 
+      <lb ed="#C" n="113"/>eque plura significat. terminus vocatur eo communis: quia 
+      <lb ed="#C" n="114"/>ei non repugnat accipi pro pluribus quantum est et 
+      <lb ed="#C" n="115"/>significatione termini: licet sit defectus ex parte 
+      rei<lb ed="#C" n="116" break="no"/>significate. Terminus vocatur singularis pro 
+      eo<lb ed="#C" n="117" break="no"/>quia ei repugnat accipi pro pluribus secundum si 
+      <lb ed="#C" n="118"/>nificatonem secundum qua accipitur. et sic sol sortes / 
+      <lb ed="#C" n="119"/>vel chimera / est terminus communis. ista entia demon 
+      <lb ed="#C" n="120"/>strando omnia entia mundi: est terminus singularis. et per
+      <pb ed="#V" n="35-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>consequens argumentum assutnit falsum / quod terminus 
+      <lb ed="#C" n="2"/>eo di communis quia naturam communem significat. 
+      Uniuersa<lb ed="#C" n="3" break="no"/>le dicitur. quia est vniuocum incomplexum formaliter 
+      <lb ed="#C" n="4"/>commune. vel relinquendo formaliter si volueris. soli 
+      termi<lb ed="#C" n="5" break="no"/>ni sunt communes vniuersalis / et predicabilia: et 
+      <lb ed="#C" n="6"/>potisssimum mentales. iuxta illud commentatoris commen 
+      <lb ed="#C" n="7"/>to. viii. primi de anima: intellectus facit 
+      vniuersa<lb ed="#C" n="8" break="no"/>litatem in rebus: soli tales ponuntur in predicamen 
+      <lb ed="#C" n="9"/>to: soli termini possunt subiici et predicari.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e1239">
+      ¶ Sed 
+      <lb ed="#C" n="10"/>contra illud arguitur. omnes termini vocales et 
+      <lb ed="#C" n="11"/>mentales et aliqui scripti sunt qualitates. ergo non 
+      <lb ed="#C" n="12"/>ponuntur in predicamento substatie similiter 
+      mul<lb ed="#C" n="13" break="no"/>te scripture sunt substantie. ergo omnes tales 
+      re<lb ed="#C" n="14" break="no"/>ponuntur in predicamento substatie.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e1252">
+      ¶ Respondetur 
+      <lb ed="#C" n="15"/>ad has obiectiones si mente tenes que in prima 
+      <lb ed="#C" n="16"/>distinctione huius diximus: et adhuc dico: non om 
+      <lb ed="#C" n="17"/>nis terminus substantiam significans ponitur in 
+      pre<lb ed="#C" n="18" break="no"/>dicamento substantie. nec qualitas omnis (vt 
+      qui<lb ed="#C" n="19" break="no"/>litatem capis) ponitur in predicamento qualitatis 
+      <lb ed="#C" n="20"/>sed termini habentes modum significandi talis 
+      pre<lb ed="#C" n="21" break="no"/>dicamenti in tali predicamento ponuntur: 
+      secum<lb ed="#C" n="22" break="no"/>da intentio non est respectus rationis causatus 
+      tn<lb ed="#C" n="23" break="no"/>actum comparatiuum intellectus vel alterius 
+      poten<lb ed="#C" n="24" break="no"/>tie. quia sic nulla entitas est. Secunda intentio est 
+      ter<lb ed="#C" n="25" break="no"/>minus precise secunde intentionis: qui terminus 
+      <lb ed="#C" n="26"/>dicitur secunde intentionis apud realem (si bene 
+      se<lb ed="#C" n="27" break="no"/>cundum sua principia diffiniat Terminus ille 
+      so<lb ed="#C" n="28" break="no"/>lus est secunda intentio. sic ergo diffinitur 
+      secun<lb ed="#C" n="29" break="no"/>da intentio. est terminus significans rem que est 
+      <lb ed="#C" n="30"/>signum ea ratine qua est signum: vel rem significatam 
+      <lb ed="#C" n="31"/>ea ratione qua est significata sub aliqua 
+      proprie<lb ed="#C" n="32" break="no"/>tate triuialis artis.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e1294">
+      ¶ Sed contra illud arguitur. 
+      <lb ed="#C" n="33"/>tunc vniuersalia aliqua crunt accidentia anime: 
+      ali<lb ed="#C" n="34" break="no"/>qua accidentia aeris: aliqua substantie scripte: ali 
+      <lb ed="#C" n="35"/>qua rubedo vel nigredo eis inherens: et aliqua 
+      cor<lb ed="#C" n="36" break="no"/>poralia: aliqua incorproalia: et per consequens non 
+      <lb ed="#C" n="37"/>erit altissimum huiusmodi negocium: cuius oppositu 
+      <lb ed="#C" n="38"/>dicit porphirius in isagogarum fronte.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e1310">
+      ¶ 
+      Respon<lb ed="#C" n="39" break="no"/>detur concedendo illata: et res est captu facilis dum 
+      <lb ed="#C" n="40"/>modo homo in his parum versatus fuerit. sed in 
+      <lb ed="#C" n="41"/>diebus porphirii grauis erat questio: qui 
+      platoni<lb ed="#C" n="42" break="no"/>cus erat. licet in predicabilibus dicat se velle 
+      imi<lb ed="#C" n="43" break="no"/>tari parapateticos: et potisssimum Aristotelem. et 
+      <lb ed="#C" n="44"/>varie erant tuncopiniones inter philolosophos 
+      <lb ed="#C" n="45"/>sicut hodierno die sunt. sed tenendo hunc nomina 
+      <lb ed="#C" n="46"/>lid modum (quem solum verum opinor) non est magna 
+      dit<lb ed="#C" n="47" break="no"/>ficultas.
+   </p>
+            <p xml:id="jb2v19-d18995-d1e1333">
+      ¶ Epilogando ex industria dicam que in 
+      <lb ed="#C" n="48"/>hac quaestione oratie concipio. nec quantitas nec materia 
+      <lb ed="#C" n="49"/>est principium indiuiduationis: et sine trepidatione 
+      <lb ed="#C" n="50"/>opinor quod tres vel tot quot vult angelos in eadem 
+      <lb ed="#C" n="51"/>specie simul potest creare deus. vlterius dico: 
+      queli<lb ed="#C" n="52" break="no"/>bet res mundi est singularis prime 
+      intentionalio<lb ed="#C" n="53" break="no"/>loquendo. quelibet res mundi est vna et non plures 
+      <lb ed="#C" n="54"/>(nisi loquendo de re habente partes) in 
+      creatu<lb ed="#C" n="55" break="no"/>ris essentia diuina realiter est tres persone. solus 
+      <lb ed="#C" n="56"/>terminus singularis est singulare secunde 
+      inten<lb ed="#C" n="57" break="no"/>tionaliter. nlla est natura communis realiter in 
+      pluri<lb ed="#C" n="58" break="no"/>bus suppositio creatis. Delira est positio oppositum 
+      <lb ed="#C" n="59"/>tenens. Pariforma nulla est substantia communis cui non 
+      <lb ed="#C" n="60"/>repugnat esse in pluribus. dico. cuilibet substantie
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>create repugnat esse in pluribus suppositis. Ut 
+      <lb ed="#C" n="62"/>terius dico. quelibet res distinguitur ab alia seipa. 
+      <lb ed="#C" n="63"/>humanitas lortis realiter est ipe sortes. human 
+      <lb ed="#C" n="64"/>tas sortis et sortes conuertuntur. quicquid signifi 
+      <lb ed="#C" n="65"/>catiue dicitur de vno dicitur de reliquo. sorteltas 
+      <lb ed="#C" n="66"/>realiter est humnanitas sortis: et nullo modo distin 
+      <lb ed="#C" n="67"/>guitur ab humanitate sortis. quicquid est 
+      humani<lb ed="#C" n="68" break="no"/>tas sortis est sorteitas. quid opus est currere ad 
+      pe<lb ed="#C" n="69" break="no"/>grina: cum veritas pre manibus habeatur. hec 
+      quae<lb ed="#C" n="70" break="no"/>artes sapiunt nullo modo hic interseruisse nisi propter 
+      <lb ed="#C" n="71"/>extraneos ab hoc studio: in hoc parisiano 
+      studio<lb ed="#C" n="72" break="no"/>omnes (Suobus conuentibus demptis) hunc 
+      mo<lb ed="#C" n="73" break="no"/>dum nominalium sequuntur: et aliquae vniuersitates 
+      ma<lb ed="#C" n="74" break="no"/>trem alie vniuersitatem imitantes: sed alique alie 
+      vni<lb ed="#C" n="75" break="no"/>uersitates hec non capiunt: pro quibus hec 
+      scrip<lb ed="#C" n="76" break="no"/>simus et vt aliorum obiectionibuas responderemus.
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

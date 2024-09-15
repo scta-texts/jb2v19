@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="46-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d27244"><!-- l2d5q1 -->
+            <head xml:id="jb2v19-d27244-Hd1e101">Quaestio 1</head>
+            <head xml:id="jb2v19-d27244-Hd1e103" type="question-title">
+      Utrum prius angeli meruerint beatitudinem quam ipsam acceperint
+    </head>
+            <p xml:id="jb2v19-d27244-d1e106">
+      ¶ Distinctio quinta. 
+      <lb ed="#C" n="19"/>N hac qutea 
+      distin<lb ed="#C" n="20" break="no"/>ctione inquiram duo circa 
+      an<lb ed="#C" n="21" break="no"/>gelorum meritum et premium. u 
+      <lb ed="#C" n="22"/>rimo vtcumque colorando 
+      mo<lb ed="#C" n="23" break="no"/>dum magistri quem doctores 
+      <lb ed="#C" n="24"/>agminatim relinquunt. In 
+      se<lb ed="#C" n="25" break="no"/>cunda quaestione tractabo 
+      que<lb ed="#C" n="26" break="no"/>stionom sicut sentio secundum propriam opinionem. 
+   </p>
+            <p xml:id="jb2v19-d27244-d1e126">
+               <lb ed="#C" n="27"/>¶ Quantum ad primum quaeritur vtrum prius angeli 
+      me<lb ed="#C" n="28" break="no"/>ruerint beatitudine quod ipsam acceperint. hic sunt 
+      <lb ed="#C" n="29"/>duo moi oppositi quos recitat magister ilittera. 
+      <lb ed="#C" n="30"/>et declinat ad illam positionem quod prius habuerunt 
+      bea<lb ed="#C" n="31" break="no"/>titudinc quod ea meruerunt. sed postca beatitudinem 
+      <lb ed="#C" n="32"/>merentur per obsequia nobis impensa. Quemadmodum 
+      <lb ed="#C" n="33"/>si rex daret primo alicui equum: postea facit em 
+      mili<lb ed="#C" n="34" break="no"/>tari pro eodem. sic est hic quod premium precedit meritum. 
+   </p>
+            <p xml:id="jb2v19-d27244-d1e146">
+               <lb ed="#C" n="35"/>¶ Hec opinio communiter relinquitur ab 
+      omni<lb ed="#C" n="36" break="no"/>bus. Et contra eamsolent esse aliqua argumenta. 
+   </p>
+            <p xml:id="jb2v19-d27244-d1e154">
+               <lb ed="#C" n="37"/>¶ Et primo sic arguitur. Ex isto sequitur quod si homo non 
+      <lb ed="#C" n="38"/>fuisset creatus: angelus non habuisse beatitudinem 
+      con<lb ed="#C" n="39" break="no"/>sequens est falsum. quia angelus non dependet ab 
+      homi<lb ed="#C" n="40" break="no"/>ne in merendo. quia circunscripto omni actu circa hominem 
+      <lb ed="#C" n="41"/>angelus potest habere actum intrinsecum mcrendo. 
+   </p>
+            <p xml:id="jb2v19-d27244-d1e167">
+               <lb ed="#C" n="42"/>¶ Preterea per hoc quod aliquis prieuidetur bene vsurus 
+      ac<lb ed="#C" n="43" break="no"/>cepto: non meretur accipere illud. Tunc em posset 
+      <lb ed="#C" n="44"/>ho mereri primam gratiam: quia praeuidetur a deo dante 
+      <lb ed="#C" n="45"/>eam bene vsurus ea. Et tunc gratia non esset gratia. quia 
+      <lb ed="#C" n="46"/>esset ex meritis: licet non politis ineffectutum a dec 
+      <lb ed="#C" n="47"/>preuisia. igitur angelus non meruit beatitudinem si 
+      <lb ed="#C" n="48"/>tantum habu t eam propter bonum preuisum ipsius in 
+      ob<lb ed="#C" n="49" break="no"/>sequendo circa electos.
+   </p>
+            <p xml:id="jb2v19-d27244-d1e187">
+      ¶ Item: tunc status 
+      beati<lb ed="#C" n="50" break="no"/>tudinis non esset ex se certus. Nam licet de 
+      factofini<lb ed="#C" n="51" break="no"/>etur. et ex hoc numerus obsequiorum sit finitus quae 
+      im<lb ed="#C" n="52" break="no"/>penduntur a quibusdam angelis: tamen posset mundus 
+      di<lb ed="#C" n="53" break="no"/>utius durare plusqua per mille annos: vel quae tumcunque 
+      <lb ed="#C" n="54"/>duretinon propter hoc status beatitudinis est minus 
+      <lb ed="#C" n="55"/>certus. sed hoc pomnito non esset certitudo meriti: quam 
+      <lb ed="#C" n="56"/>tum esset. ergo istud premium de se certum non 
+      respon<lb ed="#C" n="57" break="no"/>det illi merito quod de se non est certum inquantum 
+      me<lb ed="#C" n="58" break="no"/>ritum.
+   </p>
+            <p xml:id="jb2v19-d27244-d1e209">
+      ¶ Sed iste rationes non concludunt.
+   </p>
+            <p xml:id="jb2v19-d27244-d1e211">
+      ¶ Ad primum 
+      <lb ed="#C" n="59"/>nego illam conditionalem deus poterat alium modum 
+      <lb ed="#C" n="60"/>instituisse dato antecedente illius conditionalis.
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>sed iste modus positus est secundum legem.
+   </p>
+            <p xml:id="jb2v19-d27244-d1e222">
+      ¶ Ad 
+      secun<lb ed="#C" n="62" break="no"/>dum quando dicitur per hoc quod aliquis preuidetur bene 
+      vsur<lb ed="#C" n="63" break="no"/>accepto: non meretur accipere illud. negatur assum 
+      <lb ed="#C" n="64"/>ptum. Et ad probationem tunc gratia esset ex meri 
+      <lb ed="#C" n="65"/>tis / et per consequens non esset gratia. Dico quod hoc 
+      argu<lb ed="#C" n="66" break="no"/>mentum est magis contra factorem. gratia in effectum 
+      <lb ed="#C" n="67"/>precedit merita: lilicet merita sint quodammodo caum 
+      <lb ed="#C" n="68"/>sa gratie. sed quo ad illam auctoritatem quae est in 
+      ore<lb ed="#C" n="69" break="no"/>omnim multiphariam eam expono. Primo modo: illie 
+      <lb ed="#C" n="70"/>est sermo de predestinatis et gratia 
+      predestin<lb ed="#C" n="71" break="no"/>nis. Patet manifeste ad Romanos. xi. vbi hec 
+      au<lb ed="#C" n="72" break="no"/>ctoritas originaliter habetur. Secundo sic 
+      expo<lb ed="#C" n="73" break="no"/>nitur. sermo est de gratiapreueniente et auxilio 
+      n<lb ed="#C" n="74" break="no"/>ciali dei sine quo homo non potst facere actu moraliter 
+      <lb ed="#C" n="75"/>bonum secundu modum comem theologoru: de quo 
+      infe<lb ed="#C" n="76" break="no"/>rius prolixior erit sermo. Tertio exponitur de 
+      pri<lb ed="#C" n="77" break="no"/>ma gratia singulari quae homi adulto contertur in 
+      be<lb ed="#C" n="78" break="no"/>mo vel circuncisione illa gratia datur virtute 
+      passio<lb ed="#C" n="79" break="no"/>nis christi: et sine vllis meritis ipsius gratiam 
+      haben<lb ed="#C" n="80" break="no"/>tis. Quarto exponitur in adulto quod gratia datur 
+      <lb ed="#C" n="81"/>sine merito condigni: non sine merito congrui. 
+      <lb ed="#C" n="82"/>Qulto sitc. actus non equiualet gratie: sed gratia 
+      <lb ed="#C" n="83"/>incomparabiliter actum exuperat. et sic dicitur 
+      dari<lb ed="#C" n="84" break="no"/>gratis. habens bonum equum vno scuto: dicitur eum 
+      <lb ed="#C" n="85"/>gratis hatre apud loquentes. Sed quicquid sit de 
+      illo<lb ed="#C" n="86" break="no"/>dicto: argumentum est equale contra aduersarios. 
+   </p>
+            <p xml:id="jb2v19-d27244-d1e280">
+               <lb ed="#C" n="87"/>¶ Ad tertium quando arguitur tunc beatitudo angelorum 
+      <lb ed="#C" n="88"/>esset incerta: hoc negatur. Ipsa est certa in 
+      cospectu<lb ed="#C" n="89" break="no"/>diuino sicut numerus predestinatorum et 
+      reprobo<lb ed="#C" n="90" break="no"/>rum.
+   </p>
+            <p xml:id="jb2v19-d27244-d1e291">
+      ¶ Si ponas aliquem angelum habere 
+      btintudi<lb ed="#C" n="91" break="no"/>nem vt decem ratione actuum meritoriorum quos 
+      eli<lb ed="#C" n="92" break="no"/>ciet: talis adhuc potest non elicere tot actus. ergo non 
+      <lb ed="#C" n="93"/>est certa sua beatitudo. hoc argumentum est nullum: 
+      <lb ed="#C" n="94"/>vt patet ex materia oe futuro contingenti.
+   </p>
+            <p xml:id="jb2v19-d27244-d1e302">
+      ¶ 
+      Se<lb ed="#C" n="95" break="no"/>cundo principaliter arguit quidam in quibus 
+      inue<lb ed="#C" n="96" break="no"/>nitur aliqua perfectio eiusdem rationis in eis est idem 
+      <lb ed="#C" n="97"/>modus acquirendi illam perfectionem. sed in angelis 
+      <lb ed="#C" n="98"/>et homibus est beatitudo eiusdem rationis. Unde 
+      A<lb ed="#C" n="99" break="no"/>pocalip. xxi. dicitur quod in illa celesti hierusalem 
+      men<lb ed="#C" n="100" break="no"/>sura angeli mensura homins. ergo cum homines absque 
+      meri<lb ed="#C" n="101" break="no"/>to non peruenient ad beatitudinem: videtur quod nec 
+      ange<lb ed="#C" n="102" break="no"/>li.
+   </p>
+            <p xml:id="jb2v19-d27244-d1e322">
+      ¶ Et confirmatur. quia actus qui includunt 
+      oppo<lb ed="#C" n="103" break="no"/>sitionem circa statum operantis non possunt esse 
+      si<lb ed="#C" n="104" break="no"/>mul. sed actus premii et meriti includunt 
+      opposi<lb ed="#C" n="105" break="no"/>tionem circa statum operantis. ergo. afis probatur. 
+      <lb ed="#C" n="106"/>quia mereri est illius qui est in statu acquirentis et 
+      tem<lb ed="#C" n="107" break="no"/>dentis ad terminum. Premium autemrespicit statum non 
+      <lb ed="#C" n="108"/>acquirentis: sed iam possidentis. nec tendentis ad 
+      <lb ed="#C" n="109"/>terminum: sed iamexistentis intermino. et hec 
+      ma<lb ed="#C" n="110" break="no"/>nifeste opponuntur.
+   </p>
+            <p xml:id="jb2v19-d27244-d1e342">
+      ¶ Ad secundum dicitur: quod maior e 
+      <lb ed="#C" n="111"/>minor ambe sunt sulpecte. Beatitudo autem 
+      christi<lb ed="#C" n="112" break="no"/>est eiusdem specieret perfectionis cum beatitudine 
+      no<lb ed="#C" n="113" break="no"/>stra: et tamen secundum multos datur sine meritis. secus in 
+      <lb ed="#C" n="114"/>de nostra. Item / quo ad minorem apparet quod 
+      beatitu<lb ed="#C" n="115" break="no"/>do homins et angeli specie oistinguantur. Ratio: 
+      vtro<lb ed="#C" n="116" break="no"/>bique videtur verum tenere quando principia productiua 
+      <lb ed="#C" n="117"/>actuum voluntatis vel intellectus (qui non sunt 
+      ha<lb ed="#C" n="118" break="no"/>bitus) specie distinguuntur: actus producti specie 
+      di<lb ed="#C" n="119" break="no"/>stinguuntur. modo angelus et anima specie 
+      distinguun<lb ed="#C" n="120" break="no"/>tur.
+   </p>
+            <p xml:id="jb2v19-d27244-d1e366">
+      ¶ Ad secundum dicitur quod minor est falsa nulla est op¬
+      <pb ed="#V" n="47-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>positio inter statum meriti et premii nisi ex 
+      volun<lb ed="#C" n="2" break="no"/>tate diuina quo ad nos.
+   </p>
+            <p xml:id="jb2v19-d27244-d1e378">
+      ¶ Istis argumentis contra 
+      <lb ed="#C" n="3"/>magistrum euacuatis adhuc coloratur positio eius sic. 
+      <lb ed="#C" n="4"/>ouem sunt ordines angelorum secundum sanctos ad 
+      <lb ed="#C" n="5"/>quos assumuntur homines: vt apostoli heremite 
+      con<lb ed="#C" n="6" break="no"/>munes mart vres / et hmoni. palam est de beata 
+      vir<lb ed="#C" n="7" break="no"/>gine quod ipsa transcendit angelos: et ita putandum 
+      <lb ed="#C" n="8"/>est de Ioanne baptista quo inter natos mulierum 
+      <lb ed="#C" n="9"/>non surrexit maior: et forte de aliquibus aliis. sed 
+      <lb ed="#C" n="10"/>sufficit. sancti paucos homines admittunt super 
+      ange<lb ed="#C" n="11" break="no"/>los. sed plerisque immo ferme innumeri decesserft et 
+      dece<lb ed="#C" n="12" break="no"/>dent cum centum mille actibus meritoriis: et angeli non 
+      <lb ed="#C" n="13"/>erant vlatores nisi per morulam breuissimam: non secundum 
+      <lb ed="#C" n="14"/>horam vnam immo secundu multos tenentes oppositum 
+      <lb ed="#C" n="15"/>habuerunt beatitudinem vel penam post vnum actum: 
+      <lb ed="#C" n="16"/>et secundum omnes paucos poterant habere actus 
+      meri<lb ed="#C" n="17" break="no"/>torios in tam breui tempore.
+   </p>
+            <p xml:id="jb2v19-d27244-d1e413">
+      ¶ Sed hic 
+      dicere<lb ed="#C" n="18" break="no"/>tur quod habuerunt vnum actum intensum vel 
+      pau<lb ed="#C" n="19" break="no"/>cos itensos: immo vnus actus intensus prestat mille 
+      re<lb ed="#C" n="20" break="no"/>missis.
+   </p>
+            <p xml:id="jb2v19-d27244-d1e422">
+      ¶ Istud non sufficit. patet. circumstantia tem 
+      <lb ed="#C" n="21"/>poris auget meritum. ergo falsum est quod vnus actus 
+      intenm<lb ed="#C" n="22" break="no"/>sus equipolleat mille remissis. actus vt vnum 
+      con<lb ed="#C" n="23" break="no"/>tinuatus per decem decimas vnius hore equiualet 
+      <lb ed="#C" n="24"/>actui vt oecem qui durat precise per vnam decimam 
+      <lb ed="#C" n="25"/>vnius horae. Quod circunstantia temporis augeat 
+      me<lb ed="#C" n="26" break="no"/>ritum pariter et demeritum persuasum est. xvii. 
+      distin<lb ed="#C" n="27" break="no"/>ctio primi. qu. vi.
+   </p>
+            <p xml:id="jb2v19-d27244-d1e440">
+      ¶ Insuper. hoc modo si homo eliciat 
+      <lb ed="#C" n="28"/>actum intensissimum quem potest habere gratia 
+      exen<lb ed="#C" n="29" break="no"/>pli vt decem: continuando ipsum in vna hora. et 
+      <lb ed="#C" n="30"/>angelus eliciat intensissimum actum quem potest habere 
+      <lb ed="#C" n="31"/>vt quadraginta vel centum) continuando illum 
+      <lb ed="#C" n="32"/>actum per illam horam: homo in illa hora tantum mere 
+      <lb ed="#C" n="33"/>bitur ficut angelus: cum equaliter facit quod in se est. 
+      <lb ed="#C" n="34"/>Nullum est defugium nisi currendo ad circumstantiam 
+      <lb ed="#C" n="35"/>persone.
+   </p>
+            <p xml:id="jb2v19-d27244-d1e460">
+      ¶ Sed forte dices: istud argumentum potest 
+      <lb ed="#C" n="36"/>dirigi contra me et contra conclusionem quam 
+      tueri<lb ed="#C" n="37" break="no"/>satago. et patet sic. si non sufficiebat breuis 
+      mora<lb ed="#C" n="38" break="no"/>vie angelo ad merendum vt argumentum imaginatur: 
+      <lb ed="#C" n="39"/>oportet dicere quod angeli merentur adhuc: et 
+      pluri<lb ed="#C" n="40" break="no"/>mi sunt anni ex quo creatis sunt. et nescitur 
+      quan<lb ed="#C" n="41" break="no"/>do erit finis mundi. oportet dicere quemlibet 
+      ange<lb ed="#C" n="42" break="no"/>lum habere plus beatitudinis quam habeat Ioamnes 
+      <lb ed="#C" n="43"/>baptista: immo non erit facile tueri quod beata virgo 
+      <lb ed="#C" n="44"/>plus beatitudinis habeat quam aliqui angeli. sed ipsa 
+      <lb ed="#C" n="45"/>habuit beatitudinem respondentem actibus 
+      merito<lb ed="#C" n="46" break="no"/>rais: et hoc si deus acceptasset illos actus secundum 
+      legen<lb ed="#C" n="47" break="no"/>communem. ergo hoc argumentum tantum impugnat 
+      con<lb ed="#C" n="48" break="no"/>clusionem prefatam sicut eius contradictoriam / ergo 
+      <lb ed="#C" n="49"/>non est ponderandum
+   </p>
+            <p xml:id="jb2v19-d27244-d1e493">
+      ¶ Respondetur. et si hoc 
+      ar<lb ed="#C" n="50" break="no"/>gumentum non concludat: sufficit quod ipsum vtrinque 
+      <lb ed="#C" n="51"/>tanti sit ponderis: et quod rationes contra magistrum 
+      <lb ed="#C" n="52"/>dilui possunt. Secundo dico. non est simile. 
+      For<lb ed="#C" n="53" break="no"/>te homo in minori tempore plus meretur quam angelus 
+      ma<lb ed="#C" n="54" break="no"/>gno: propter appetitum sensitiuum retardantem a 
+      bo<lb ed="#C" n="55" break="no"/>no. Etiam dicetur quod deus imponit eis terminum 
+      <lb ed="#C" n="56"/>merendi: sic quod post illud instans non mereantur amplius 
+      <lb ed="#C" n="57"/>de premio esstentiali: et licet sit eadem periodus 
+      <lb ed="#C" n="58"/>omnibus merendi: non tamen omnes equaliter 
+      <lb ed="#C" n="59"/>tnerentur: vt de vlatoribus contingit.
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

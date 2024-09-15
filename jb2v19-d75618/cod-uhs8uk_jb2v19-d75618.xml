@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="126-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d75618"><!-- l2d29q1 -->
+            <head xml:id="jb2v19-d75618-Hd1e101">Quaestio 1</head>
+            <head xml:id="jb2v19-d75618-Hd1e103" type="question-title">An Adam cum auxilio Dei generali sine gratia Dei, hoc est sine Dei speciali ope poterat actum elicere bonum moraliter</head>
+            <p xml:id="jb2v19-d75618-d1e106">
+               <lb ed="#C" n="55"/>N hac distinctione. 29. magister quaerit 
+      <lb ed="#C" n="56"/>an homo ante peccatum eguerit gratia 
+      operan<lb ed="#C" n="57" break="no"/>Nte et cooperante. Conformiter ad hoce 
+      quae<lb ed="#C" n="58" break="no"/>ro solum vnam quaestionem: an adam cum 
+      auxi<lb ed="#C" n="59" break="no"/>lio dei generali sine gria dei. hoc est sine 
+      <lb ed="#C" n="60"/>dei speciali operatione: poterat actum elicere bonum mora¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>liter.
+   </p>
+            <p xml:id="jb2v19-d75618-d1e126">
+      ¶ Pro hac questione pono conclusiones. 
+   </p>
+            <p xml:id="jb2v19-d75618-d1e128">
+               <lb ed="#C" n="62"/>¶ Prima est. Adam sine gratia gratum faciente 
+      <lb ed="#C" n="63"/>poterat elicere actu bonum moraliter.
+   </p>
+            <p xml:id="jb2v19-d75618-d1e136">
+      ¶ 
+      Secun<lb ed="#C" n="64" break="no"/>da conclusio. Ada in statu innocentie non poterat 
+      eli<lb ed="#C" n="65" break="no"/>cere actum moraliter bonum sine speciali dei 
+      auxi<lb ed="#C" n="66" break="no"/>lio.
+   </p>
+            <p xml:id="jb2v19-d75618-d1e145">
+      ¶ Prior conclo patet. homo sine gratia in statu natu 
+      <lb ed="#C" n="67"/>re lapse potest elicere actum moraliter bonum. ergo adam 
+      <lb ed="#C" n="68"/>in statu nature integre poterat elicere actum bonum. 
+      <lb ed="#C" n="69"/>consequentia tet. Adam erat pro illo statu vigorosior ad 
+      be<lb ed="#C" n="70" break="no"/>ne agendum quam ipse vel alius erat in statu nature 
+      la<lb ed="#C" n="71" break="no"/>pse. Hic non loquor de homine christo vel christifera virgine 
+      <lb ed="#C" n="72"/>antecedens patet ex distinctione praecedenti.
+   </p>
+            <p xml:id="jb2v19-d75618-d1e161">
+      ¶ Secunda 
+      conclusio<lb ed="#C" n="73" break="no"/>probat aucte: quia in lumine naturali probari nequit. 
+      <lb ed="#C" n="74"/>Adam non poterat cum gratia quam acceprat esse bonus. ergo 
+      <lb ed="#C" n="75"/>non poterat cum libero arbitrio sine speciaeli dei 
+      ope<lb ed="#C" n="76" break="no"/>elicere actum bonum consequentia est euidens. antecedens patet per 
+      Au<lb ed="#C" n="77" break="no"/>gustinum de cor. et gratia. c. 417. sic dicentem / ista gratiam 
+      <lb ed="#C" n="78"/>non habuit homo prius quam numquad malus esset. et sine qua 
+      <lb ed="#C" n="79"/>etiam cum libero arbitrio bonus esse non possit. nec 
+      ip<lb ed="#C" n="80" break="no"/>sum ergo deus esse voluit sine sua gratia quam 
+      relio<lb ed="#C" n="81" break="no"/>in eius libero arbitio quin liberum arbitrium ad malum 
+      sut<lb ed="#C" n="82" break="no"/>fiicit. ad bonum autem parum est / nisi adiuuetur ab 
+      omnimpoten<lb ed="#C" n="83" break="no"/>ti bono. quod adiutorium si homo ille per liberum non deseruis 
+      <lb ed="#C" n="84"/>set arbitrium: semper esset bonus. sed deserut: et desertus 
+      <lb ed="#C" n="85"/>est. et Enchiridion. c. 116. Aug. de statu primi 
+      ho<lb ed="#C" n="86" break="no"/>minis ante peccatum loquens: ait. et si peccatum in solo 
+      li<lb ed="#C" n="87" break="no"/>bero arbitrio constitutum esset: non tamen iusticie 
+      reti<lb ed="#C" n="88" break="no"/>nende sufficiebat liberum arbitrium: nisi participatione 
+      <lb ed="#C" n="89"/>immutabilis boni diuinum adiutorium praeberetur. sicut 
+      <lb ed="#C" n="90"/>em mori est in potestate hominis cum velit: et nemo est 
+      <lb ed="#C" n="91"/>quin seipsum nihil aliud dica vel non vescendo 
+      pos<lb ed="#C" n="92" break="no"/>sit occidere. ad tenendum vro vitam voluntas non 
+      sa<lb ed="#C" n="93" break="no"/>tis est. si adiutoria siue alimentorum siue 
+      quorumcun<lb ed="#C" n="94" break="no"/>que tutantium desunt. sic homo in paradiso ad se 
+      occi<lb ed="#C" n="95" break="no"/>dendum relinquendo iusticiam idoneus erat per 
+      volun<lb ed="#C" n="96" break="no"/>tatem: vt autem ab eo teneretur vita iusticie: parum erat 
+      <lb ed="#C" n="97"/>velle nisi cum ille qui fecerat adiuuaret.
+   </p>
+            <p xml:id="jb2v19-d75618-d1e218">
+      ¶ 
+      Terti<lb ed="#C" n="98" break="no"/>egconclusio. Adam in statu innocentie cum gratia gratu 
+      faci<lb ed="#C" n="99" break="no"/>ente poterat cum sola dei influentia genali actum 
+      elice<lb ed="#C" n="100" break="no"/>re moraliter bonum. probatur hec conclusio aucte augu. 
+      ypo<lb ed="#C" n="101" break="no"/>nem. responsione tertia in principio: vbi recitat vnum 
+      <lb ed="#C" n="102"/>errorem pelagii ait. iterum posse dicunt hominem per liberum 
+      <lb ed="#C" n="103"/>arbitrium per se sibi sufficientem implere quod velit. et sel 
+      <lb ed="#C" n="104"/>tur. Respondemus neminem per se posse sibi sufficere 
+      <lb ed="#C" n="105"/>implere quod velit recte dicimus: nisi prothoplamstum 
+      <lb ed="#C" n="106"/>solum potaisse cum voluntas liberi arbitrii fuisset 
+      sa<lb ed="#C" n="107" break="no"/>na. ad hoc scripturam introduxit inquiens. audi quid 
+      <lb ed="#C" n="108"/>dicat scriptura sancta ecclesiastico libro. deus: ab 
+      <lb ed="#C" n="109"/>initio fecit hominem et reliquit eum in manu 
+      consilis<lb ed="#C" n="110" break="no"/>sui et reliqua. Quid est autem: reliquit eum in manu 
+      con<lb ed="#C" n="111" break="no"/>silii sui: nisi dimisit illum in possibilitate arbitri 
+      <lb ed="#C" n="112"/>sui in manu enim possibilitatis intelligitur. ipsa est 
+      pri<lb ed="#C" n="113" break="no"/>ma gratia qua primus homo stare potuisset. si (secudum 
+      na<lb ed="#C" n="114" break="no"/>ture doni madata) voluisset. ergo aug. voluit diciture 
+      <lb ed="#C" n="115"/>quod adam cum gratia: quam habunt a deo collatam: poterat 
+      <lb ed="#C" n="116"/>seruare mandata dei si voluisset sine speciali dei 
+      <lb ed="#C" n="117"/>auxilio.
+   </p>
+            <p xml:id="jb2v19-d75618-d1e264">
+      ¶ Preterea: Augustinus in de bo. perse. 
+      <lb ed="#C" n="118"/>non multum post principium: dicit quod non 
+      inferri<lb ed="#C" n="119" break="no"/>in temptationem et non discedere a deo: non est 
+      <lb ed="#C" n="120"/>omnino in viribus liberi arbitrii quales nunc sunt.
+      <pb ed="#V" n="127-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>fuerat autem in homine antequam caderet.
+   </p>
+            <p xml:id="jb2v19-d75618-d1e280">
+      ¶ 
+      Insu<lb ed="#C" n="2" break="no"/>per arguitur ad idem non debemus illud negare ab 
+      <lb ed="#C" n="3"/>adam nisi doceatur de opposito. sed doceri non potest. 
+   </p>
+            <p xml:id="jb2v19-d75618-d1e288">
+               <lb ed="#C" n="4"/>¶ Finaliter. nos alii in statu nature lapse istud 
+      <lb ed="#C" n="5"/>cotrahimus tamquam penam ratione peccati: sed in 
+      sta<lb ed="#C" n="6" break="no"/>tu nature integre adam adhuc non peccauit. 
+      er<lb ed="#C" n="7" break="no"/>go non congruit penam praecedere peccatum.
+   </p>
+            <p xml:id="jb2v19-d75618-d1e299">
+      ¶ Correla 
+      <lb ed="#C" n="8"/>rie sequitur adam: poterat cum auxilio minore plus 
+      fa<lb ed="#C" n="9" break="no"/>cere in statu nature integre quam lapse potest post 
+      trans<lb ed="#C" n="10" break="no"/>gressionem primi parentis requiratur auxilium dei 
+      spe<lb ed="#C" n="11" break="no"/>ciale ad bene moraliter agendum: et tale auxilium 
+      <lb ed="#C" n="12"/>non require bat in statu nature integre. patet 
+      eti<lb ed="#C" n="13" break="no"/>am correlarium. per augustinum: tertio: de libero 
+      ar<lb ed="#C" n="14" break="no"/>bitrio. capitulo quarto. dicentem quod adam et eua cum 
+      <lb ed="#C" n="15"/>primo peccauissent / et in errorem et in erumpnam et in 
+      mor<lb ed="#C" n="16" break="no"/>tem praecipitatis sunt. hoc magister distinctione 25. c. 
+      sep<lb ed="#C" n="17" break="no"/>timo et octauo prosequitur ad longum: quomo adam in 
+      na<lb ed="#C" n="18" break="no"/>turalibus est vulneratus et in gratuitis spoliatus 
+      <lb ed="#C" n="19"/>de hoc inferius ioquimur an per peccatum 
+      natu<lb ed="#C" n="20" break="no"/>ralia diminuantur. dignus erat priuari parte 
+      scien<lb ed="#C" n="21" break="no"/>tie quam habuit qui vxori consentit quae volebat scire 
+      <lb ed="#C" n="22"/>sicut deus creatore suo relicto.
+   </p>
+            <p xml:id="jb2v19-d75618-d1e334">
+      ¶ Contra ista 
+      ar<lb ed="#C" n="23" break="no"/>guitur. adam habebat idem ingenium post 
+      pec<lb ed="#C" n="24" break="no"/>catum quod ante peccatum habebat. ergo 
+      pote<lb ed="#C" n="25" break="no"/>rat ita bene iudicare post peccatum sicut ante 
+      pec<lb ed="#C" n="26" break="no"/>catum et ita bene agere cum equali ope. 
+   </p>
+            <p xml:id="jb2v19-d75618-d1e345">
+               <lb ed="#C" n="27"/>¶ Secundo arguitur. ignorantia inuincibilis ex 
+      <lb ed="#C" n="28"/>cusat a toto. et omnis ignorantia quam quis non 
+      <lb ed="#C" n="29"/>potest vincere est viro inuincibilis vt superius 
+      dixi<lb ed="#C" n="30" break="no"/>distinctione 22. sed adam vel alius homo in 
+      sta<lb ed="#C" n="31" break="no"/>tu nature corrupte sine dei ope non poterat 
+      vin<lb ed="#C" n="32" break="no"/>cere quid agendum quid vero relinquendum. 
+   </p>
+            <p xml:id="jb2v19-d75618-d1e361">
+               <lb ed="#C" n="33"/>¶ Ad primum istorum nego consequentiam vt patet 
+      <lb ed="#C" n="34"/>de infirmo non sic vidente a remotis vel a 
+      propi<lb ed="#C" n="35" break="no"/>quis sicut sanus videt. naturalia ade erant multum 
+      <lb ed="#C" n="36"/>depressa in penam peccati commissi sicut naturalia demo 
+      <lb ed="#C" n="37"/>nis: de quibus scilicet angelo et homine loquitur augus 
+      En<lb ed="#C" n="38" break="no"/>chi. c. 28 sic inquiens eis volentibus substeintrauit 
+      igno<lb ed="#C" n="39" break="no"/>rantia rerum agendarum et concupiscentia noxiarum. 
+   </p>
+            <p xml:id="jb2v19-d75618-d1e379">
+               <lb ed="#C" n="40"/>¶ Ad secundum concedo quod ignorantia inuincibilis 
+      <lb ed="#C" n="41"/>excusat a toto Ad aliam propositionem / Omnis 
+      igno<lb ed="#C" n="42" break="no"/>rantia quam quis non potest vicere est ei inuincibilis: 
+      <lb ed="#C" n="43"/>aliqui hoc negarent. patet de illo qui ex culpa 
+      ca<lb ed="#C" n="44" break="no"/>dit in amentiam vel temulentiam: sed quia non 
+      opi<lb ed="#C" n="45" break="no"/>nor ita cum eis / concedo illam propositionem 
+      di<lb ed="#C" n="46" break="no"/>co homo cum adiutorio dei potest hanc ignoram 
+      <lb ed="#C" n="47"/>tiam vincere quam deus ei dabit: nec ab eo quod tollit 
+      <lb ed="#C" n="48"/>sine culpa: et quidem graui vel multiplici: previa.
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 7</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 7</title>
+          <date when="2024-09-15">September 15, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-09-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="9-r"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jb2v19-d04902"><!-- l2d1q7 -->
+        <head xml:id="jb2v19-d04902-Hd1e101">Quaestio 7</head>
+        <head xml:id="jb2v19-d04902-Hd1e103" type="question-title">Utrum Deus habeat vim conservativam et effectivam respectu omnium</head>
+        <p xml:id="jb2v19-d04902-d1e106">
+          <lb ed="#C" n="77"/>SEptimo circa hanc 
+          <lb ed="#C" n="78"/>distinctionem queritur: vtrum 
+          <lb ed="#C" n="79"/>deus habeat vim conseruatiuam 
+          <lb ed="#C" n="80"/>et effectiuam respectu omnium. 
+        </p>
+        <p xml:id="jb2v19-d04902-d1e117">
+          <lb ed="#C" n="81"/>¶ Pro solutione huius quaestionis 
+          <lb ed="#C" n="82"/>ponuntur due conclusiones. 
+          Qua<lb ed="#C" n="83" break="no"/>rum prima est. deus est causa 
+          com<lb ed="#C" n="84" break="no"/>seruatiua omnium. patet hec conclusio 
+          auctorita<lb ed="#C" n="85" break="no"/>te Augustini quarto capitulo super Genesim 
+          di<lb ed="#C" n="86" break="no"/>centis. creatoris potentia et omnipotentis atque 
+          <lb ed="#C" n="87"/>omnitenentis virtus est causa subsistendi 
+          omni<lb ed="#C" n="88" break="no"/>creature: que virtus ab eis (que creata sunt) 
+          regen<lb ed="#C" n="89" break="no"/>dis si aliquando cessaret: simul et illorum cessaret 
+          <lb ed="#C" n="90"/>species omnisque natura concideret. domus 
+          absen<lb ed="#C" n="91" break="no"/>te artifice stat. non sic de opere dei. Ad hoc 
+          scri<lb ed="#C" n="92" break="no"/>pturam introducit sapientie octauo. attingit a 
+          fi<lb ed="#C" n="93" break="no"/>ne vsque ad finem fortiter et disponit omnia 
+          sua<lb ed="#C" n="94" break="no"/>uiter. et auctoritatem apostoli. Actuum 
+          decimo<lb ed="#C" n="95" break="no"/>septimo introducit: in illo viuimus / mouemur / et 
+          <lb ed="#C" n="96"/>sumus. et libro nono capitulo secundo dicit. si 
+          ve<lb ed="#C" n="97" break="no"/>re substrahit deus intimam operationem qua eam 
+          <lb ed="#C" n="98"/>retinet et facit continuo tanquam extincta nulla 
+          re<lb ed="#C" n="99" break="no"/>manebit. et capitulo tertio dicit quod deus illud quod 
+          <lb ed="#C" n="100"/>fecit ita continuatum operatur vt nec vlla 
+          alia<lb ed="#C" n="101" break="no"/>rum rerum nec illorum angelorum natura 
+          sub<lb ed="#C" n="102" break="no"/>sistat si non operatur. hoc patet ad hebreos 
+          vn<lb ed="#C" n="103" break="no"/>decimo. portans omnia verbo virtutis: vbi 
+          glo<lb ed="#C" n="104" break="no"/>sa: sicut ab eo creata sunt omnia: ita per eum 
+          im<lb ed="#C" n="105" break="no"/>mutabilem conseruantur: et ad Collocenses 
+          pri<lb ed="#C" n="106" break="no"/>mo. omnia per ipsum et in ipso creata sunt et 
+          om<lb ed="#C" n="107" break="no"/>nia in ipso constant. vbi glosa: que omnibus secundum 
+          <lb ed="#C" n="108"/>diuinitatem infusus omnia sustinet. hoc ponit Aug. 
+          <lb ed="#C" n="109"/>de trinitate capitulo. xiiii. et Anselmus de casu 
+          dia<lb ed="#C" n="110" break="no"/>boli capitulo primo. non solum non est alia aliqua 
+          es<lb ed="#C" n="111" break="no"/>sentia nisi illo faciente: sed nec aliquatenus 
+          mane<lb ed="#C" n="112" break="no"/>re potest que facta est nisi eodem ipso seruante. non 
+          <lb ed="#C" n="113"/>aliter angelus vel anima intellectiua potest desinere 
+          <lb ed="#C" n="114"/>esse. multo magis creatura quelibet a deo 
+          depen<lb ed="#C" n="115" break="no"/>det quam lumen a corpore luminoso vel accidens a 
+          sub<lb ed="#C" n="116" break="no"/>iecto secundum Aristotelem.
+        </p>
+        <p xml:id="jb2v19-d04902-d1e198">
+          ¶ Secunda conclusio 
+          conser<lb ed="#C" n="117" break="no"/>uari a deo vel ab aliqua causa est causaliter et 
+          effe<lb ed="#C" n="118" break="no"/>ctiue dependere ab illa. probatio: absentia corporis 
+          <lb ed="#C" n="119"/>luminosi est causa extinctionis luminis in medio: et
+          <pb ed="#V" n="9-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#C" n="1"/>go presentia corporis luminosi respectu luminis 
+          <lb ed="#C" n="2"/>est actualis causatio illius luminis: licet non de 
+          no<lb ed="#C" n="3" break="no"/>uo. tenet consequentia secundo phisicorum. ad idem 
+          <lb ed="#C" n="4"/>genus cause reducitur praesentia cause respectu 
+          po<lb ed="#C" n="5" break="no"/>sitionis effectus et remotio cause respectu non 
+          es<lb ed="#C" n="6" break="no"/>se effectus: seu affirmatio respectu affirmationis et 
+          <lb ed="#C" n="7"/>negatio respectu negationis.
+        </p>
+        <p xml:id="jb2v19-d04902-d1e228">
+          ¶ Secundo arguitur 
+          <lb ed="#C" n="8"/>ad idem: omnis res creata dependet a suis causis 
+          <lb ed="#C" n="9"/>sufficienter. et conseruans non est causa intrinseca 
+          con<lb ed="#C" n="10" break="no"/>seruati: quia nec materia: nec forma nec finalis: ergo 
+          <lb ed="#C" n="11"/>efficiens.
+        </p>
+        <p xml:id="jb2v19-d04902-d1e239">
+          ¶ Tertio arguitur: non alias saluatur 
+          cor<lb ed="#C" n="12" break="no"/>pus luminosum semper tantum facere in 
+          conseruatio<lb ed="#C" n="13" break="no"/>ne sui luminis sicut in eius prima productione. 
+        </p>
+        <p xml:id="jb2v19-d04902-d1e246">
+          <lb ed="#C" n="14"/>¶ Quarto: non alias arguimus causalitatem 
+          effe<lb ed="#C" n="15" break="no"/>ctiuam naturalem: nisi ad positionem illius 
+          natura<lb ed="#C" n="16" break="no"/>liter sequitur talis effectus: et ad eius absentiam 
+          <lb ed="#C" n="17"/>extinguitur. sic calorem et ignem causam caloris 
+          ar<lb ed="#C" n="18" break="no"/>guimus: et ita est in omni causa efficiente.
+        </p>
+        <p xml:id="jb2v19-d04902-d1e259">
+          ¶ Contra 
+          <lb ed="#C" n="19"/>priorem conclusionem arguitur: ex ea sequitur quod 
+          <lb ed="#C" n="20"/>nulla creatura potest aliam corrumpere. et sic calor 
+          <lb ed="#C" n="21"/>magnus non potest corrumpere frigus paruum 
+          con<lb ed="#C" n="22" break="no"/>tra experientiam. Quod sequatur arguitur sic. nichil 
+          po<lb ed="#C" n="23" break="no"/>test destruere effectum conseruatum ab aliqua 
+          cau<lb ed="#C" n="24" break="no"/>sa nisi vincendo et superando potentiam conseruatiuam. 
+          <lb ed="#C" n="25"/>hoc sic declaratur. quamdiu aqua calefacta stat prope 
+          <lb ed="#C" n="26"/>ignem: nichil potest corrumpere illum calorem 
+          pre<lb ed="#C" n="27" break="no"/>sente igne nisi praedominando potentie ignis 
+          conser<lb ed="#C" n="28" break="no"/>uatiue: sed nulla creatura potest superare potentiam 
+          <lb ed="#C" n="29"/>dei: igitur.
+        </p>
+        <p xml:id="jb2v19-d04902-d1e285">
+          ¶ Respondetur negando sequelam. 
+          vn<lb ed="#C" n="30" break="no"/>de duplex est conseruatiuum: quoddam particulare: 
+          <lb ed="#C" n="31"/>quod hunc effectum conseruat et non sua contraria 
+          <lb ed="#C" n="32"/>nec eis coagit: sed eis resistit. et de tali agente est 
+          <lb ed="#C" n="33"/>propositio assumpta vera: scllicet: nichil potest 
+          de<lb ed="#C" n="34" break="no"/>struere effectum conseruatum ab aliqua causa 
+          ni<lb ed="#C" n="35" break="no"/>si vincendo potentiam conseruatiuam illius cause 
+          <lb ed="#C" n="36"/>simpliciter. vel vt exercetur circa illum effectum. 
+          <lb ed="#C" n="37"/>stat quod frigus minoris actiuitatis quam ignis sit 
+          resi<lb ed="#C" n="38" break="no"/>stentie prope se corrumpat calorem productum 
+          ab<lb ed="#C" n="39" break="no"/>igne in bona distantia. Aliud est conseruans 
+          vniuer<lb ed="#C" n="40" break="no"/>sale quod hanc rem conseruat et suum oppositum 
+          <lb ed="#C" n="41"/>et cum vtraque agit et coagit: vt deus: de tali 
+          cau<lb ed="#C" n="42" break="no"/>sa conseruante propositio assumpta non habet 
+          ve<lb ed="#C" n="43" break="no"/>rum.
+        </p>
+        <p xml:id="jb2v19-d04902-d1e318">
+          ¶ Secundo arguitur: lumen conseruatur a 
+          <lb ed="#C" n="44"/>corpore luminoso similiter species ab obiecto 
+          pro<lb ed="#C" n="45" break="no"/>ductio illius. ergo non conseruatur a deo. tenet 
+          conse<lb ed="#C" n="46" break="no"/>quentia. si conseruaretur a deo lumen: non 
+          indige<lb ed="#C" n="47" break="no"/>ret corpore luminoso ad existentiam eius plusquam 
+          ca<lb ed="#C" n="48" break="no"/>lor: qui potest stare sine causa productiua eius. 
+        </p>
+        <p xml:id="jb2v19-d04902-d1e332">
+          <lb ed="#C" n="49"/>¶ Ad secundum concedo antecedens conseruatur a 
+          <lb ed="#C" n="50"/>corpore luminoso: et cum hoc immediate a deo. 
+          <lb ed="#C" n="51"/>sed consequentia est nulla. argumentum imaginatur 
+          <lb ed="#C" n="52"/>vnum falsum: scilicet: quod si conseruaretur a deo. non 
+          ege<lb ed="#C" n="53" break="no"/>ret conseruatione creature: ac si deus egeret 
+          ope<lb ed="#C" n="54" break="no"/>cause secunde in conseruatione rei. deus potest 
+          om<lb ed="#C" n="55" break="no"/>nia creare se solo et conseruare se solo. nec creatum 
+          <lb ed="#C" n="56"/>re concurrunt cum deo in actione sua: ac si deus 
+          ege<lb ed="#C" n="57" break="no"/>at opeearum. sed sic: scilicet: quod deus liberaliter 
+          com<lb ed="#C" n="58" break="no"/>municat creaturis entitatem: productionem: et 
+          cau<lb ed="#C" n="59" break="no"/>salitatem tam naturalem quam liberam: et permittit 
+          <lb ed="#C" n="60"/>eas secum comproducere: licet omnia solus potest:
+          <cb ed="#P" n="b"/>
+          <lb ed="#C" n="61"/>ad dandum nobis exemplum vt alter alterius 
+          one<lb ed="#C" n="62" break="no"/>ra portet et iuuemus nos inuicem: et superiores et 
+          <lb ed="#C" n="63"/>ditiores dirigant pauperiores et inferiores 
+          libera<lb ed="#C" n="64" break="no"/>liter: et non ad vtilitatem superiorum: cuius 
+          oppo<lb ed="#C" n="65" break="no"/>situm multi superiores et principes faciunt. diligunt 
+          <lb ed="#C" n="66"/>virum vel se diligere fingunt quando sua opera 
+          e<lb ed="#C" n="67" break="no"/>gent: et quando non egent eius opera tergum 
+          ver<lb ed="#C" n="68" break="no"/>tunt. Sed quare vna creatura dependet a solo deo  
+          <lb ed="#C" n="69"/>in conseruatione et alia a deo. et creatura simul: vel 
+          <lb ed="#C" n="70"/>est imperfectio creature vel ex natura rei ipsius 
+          crea<lb ed="#C" n="71" break="no"/>ture: non videtur quod lumen et species sensibiles sint 
+          <lb ed="#C" n="72"/>imperfectiores quibuscunque rebus que a solo deo 
+          <lb ed="#C" n="73"/>dependent. voluit enim deus quod alique creature 
+          <lb ed="#C" n="74"/>dependerent sensibiliter a creaturis aliis: vt esset 
+          <lb ed="#C" n="75"/>manuductio sensibilis nobis quod creatura quelibet 
+          <lb ed="#C" n="76"/>a deo conseruatur: eo modo quo possumus 
+          decla<lb ed="#C" n="77" break="no"/>rare de lumine et corpore luminoso.
+        </p>
+        <p xml:id="jb2v19-d04902-d1e400">
+          ¶ Tertio 
+          <lb ed="#C" n="78"/>arguitur: sequitur ex dictis si creatura quelibet a 
+          <lb ed="#C" n="79"/>deo conseruaretur: et a deo dependeret: quod 
+          quan<lb ed="#C" n="80" break="no"/>to creatura esset perfectior: tanto plus dependeret 
+          <lb ed="#C" n="81"/>a deo. consequens est inconueniens. plus dependet 
+          ac<lb ed="#C" n="82" break="no"/>cidens et ens imperfectum a deo quam vna 
+          intelligen<lb ed="#C" n="83" break="no"/>tia motrix orbis. sequela tamen patet: creatura 
+          <lb ed="#C" n="84"/>maior est res perfectior: et est dependentia et 
+          con<lb ed="#C" n="85" break="no"/>seruatio passiua et productio nobilior: ergo est 
+          ma<lb ed="#C" n="86" break="no"/>ior dependentia a deo: et maior conseruatio quam res 
+          <lb ed="#C" n="87"/>inferior.
+        </p>
+        <p xml:id="jb2v19-d04902-d1e424">
+          ¶ Respondetur: consequentia est nulla. 
+          li<lb ed="#C" n="88" break="no"/>cet eadem res sit conseruatio passiua 
+          dependen<lb ed="#C" n="89" break="no"/>tia: et maior entitas in perfectione: non oportet 
+          <lb ed="#C" n="90"/>quod sit maior dependentia vel maior conseruatio. 
+          <lb ed="#C" n="91"/>penes vnum attenditur latitudo dependentie et 
+          <lb ed="#C" n="92"/>conseruationis: et penes aliud latitudo 
+          perfectio<lb ed="#C" n="93" break="no"/>nis. et maior causalitas maior perfectio et maior 
+          <lb ed="#C" n="94"/>causalitas attenditur: penes nobilitatem effectus 
+          <lb ed="#C" n="95"/>producti. Maior dependentia attenditur penes 
+          <lb ed="#C" n="96"/>hoc quod res eget maiore manutenentia ab alio. 
+          <lb ed="#C" n="97"/>Ex illo infero quod compositum plus dependet quam 
+          <lb ed="#C" n="98"/>substantia simplex. patet. dependet a suis 
+          parti<lb ed="#C" n="99" break="no"/>bus intrinsecis et ab extrinsecis. Secundo sequitur 
+          <lb ed="#C" n="100"/>quod accidens plus dependet quam substantia. patet. eget 
+          <lb ed="#C" n="101"/>substantia quae est suum subiectum secundum legem 
+          commu<lb ed="#C" n="102" break="no"/>nem: et deo. substantia non tot eget. Ulterius sequitur: 
+          no<lb ed="#C" n="103" break="no"/>ticia intuitiua et lumen plus dependet quam calor
+        </p>
+        <p xml:id="jb2v19-d04902-d1e461">
+          ¶ 
+          Se<lb ed="#C" n="104" break="no"/>cundo arguitur contra secundam conclusionem: 
+          mul<lb ed="#C" n="105" break="no"/>ta conseruant aliqua que nullam causalitatem 
+          ha<lb ed="#C" n="106" break="no"/>bent in illa quae conseruant. ergo secunda conclusio 
+          fal<lb ed="#C" n="107" break="no"/>sa. antecedens patet. canis conseruat domum. 
+          ve<lb ed="#C" n="108" break="no"/>stis virum a frigore: et arma conseruant virum ab ictu 
+          <lb ed="#C" n="109"/>letali: et locus locatum. quarto phisicorum. non 
+          ob<lb ed="#C" n="110" break="no"/>aliud res naturalis ad suum locum moueretur. 
+          Re<lb ed="#C" n="111" break="no"/>spondetur: conseruare bifariam capitur: vnomodo 
+          pro<lb ed="#C" n="112" break="no"/>prie sicut in conclusionibus capimus: pro illo quod rem 
+          <lb ed="#C" n="113"/>manutenet inesse: nec res duraret sine illo vllomodo 
+          <lb ed="#C" n="114"/>naturaliter. Aliomodo laxato vocabulo: et tamen 
+          sa<lb ed="#C" n="115" break="no"/>tis vsitato: capitur pro illo quod protegit rem a 
+          con<lb ed="#C" n="116" break="no"/>trariis corruptuis. et sic canis domum / vestis virum 
+          <lb ed="#C" n="117"/>a frigore conseruat: et locus locatum. ad 
+          conserua<lb ed="#C" n="118" break="no"/>tionem hoc modo sumptam nulla requiritur 
+          causa<lb ed="#C" n="119" break="no"/>litas in conseruato.
+        </p>
+        <p xml:id="jb2v19-d04902-d1e498">
+          ¶ Tertio arguitur: calor in 
+          a<lb ed="#C" n="120" break="no"/>qua calefacta ab a. igne conseruatur. a. b. igne.
+          <pb ed="#V" n="10-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#C" n="1"/>et .b. ignis non causat calorem productum ab .a. igne. 
+          <lb ed="#C" n="2"/>igitur.
+        </p>
+        <p xml:id="jb2v19-d04902-d1e511">
+          ¶ Respondetur: dici potest quod .b. ignis non 
+          con<lb ed="#C" n="3" break="no"/>seruat calorem productum ab .a. igne. sed producit 
+          <lb ed="#C" n="4"/>alium de nouo. et tamen productus ab .a. igne 
+          re<lb ed="#C" n="5" break="no"/>mittitur a forma aque in absentia .a. ignis. Secundo 
+          <lb ed="#C" n="6"/>concedo quod .b. ignis conseruat calorem productum 
+          <lb ed="#C" n="7"/>ab .a. igne. et concedo quod idem calor cantur ab .a. et 
+          <lb ed="#C" n="8"/>b. successiue capiendo causari pro conseruari.
+        </p>
+        <p xml:id="jb2v19-d04902-d1e528">
+          ¶ 
+          Quar<lb ed="#C" n="9" break="no"/>to arguitur: Ex illo sequitur quod continuo res fieret. 
+          <lb ed="#C" n="10"/>et ex illo sequitur quod non est facta: patet per 
+          Augu<lb ed="#C" n="11" break="no"/>stinum octauo super Genesi. aer praesente lumine 
+          <lb ed="#C" n="12"/>non est factus lucidus: sed fit si enim factus esset 
+          <lb ed="#C" n="13"/>etiam absente lumine. lucidus maneret. Et secundum 
+          <lb ed="#C" n="14"/>magistrum primo sententiarum distinctione nona 
+          con<lb ed="#C" n="15" break="no"/>uenientius dicitur filius dei semper esse natus quam semper 
+          <lb ed="#C" n="16"/>nasci: quia qui semper nascitur numquod natus esse 
+          vide<lb ed="#C" n="17" break="no"/>tur.
+        </p>
+        <p xml:id="jb2v19-d04902-d1e550">
+          ¶ Respondetur concedendo quod continuo res 
+          <lb ed="#C" n="18"/>fieret. sic capiendo fieri pro illo quod manutenetur et 
+          <lb ed="#C" n="19"/>nichil eius restat producendum. ad Augustinum. 
+          <lb ed="#C" n="20"/>dicitur quod aer fit continue lucidus. si esse factus 
+          lu<lb ed="#C" n="21" break="no"/>cidus / sic quod non continue fieret lucidus / a 
+          lumino<lb ed="#C" n="22" break="no"/>so: tantum maneret lucidus / absente luminoso. sic 
+          <lb ed="#C" n="23"/>quamdiu res durat / fit a deo. non ergo negat 
+          augusti<lb ed="#C" n="24" break="no"/>nus quin aer est factus lucidus. Magister etiam 
+          <lb ed="#C" n="25"/>non negat quin filius dei semper gignatur 
+          nasci<lb ed="#C" n="26" break="no"/>tur / et producitur. sed conuenientius dicitur 
+          sen<lb ed="#C" n="27" break="no"/>er natus quam continuo nasci quia in comuni modo 
+          <lb ed="#C" n="28"/>loquendi in creaturis aliquid dicitur nasci. tamen 
+          <lb ed="#C" n="29"/>non totaliter natum est. Sed aliquid restat 
+          nascen<lb ed="#C" n="30" break="no"/>dum: vt generando vna pars fetus / est in vtero. et 
+          <lb ed="#C" n="31"/>alia pars extra vterum. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

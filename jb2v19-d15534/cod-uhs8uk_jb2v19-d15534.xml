@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 8</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 8</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="27-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d15534"><!-- l2d2q8 -->
+            <head xml:id="jb2v19-d15534-Hd1e101">Quaestio 8</head>
+            <head xml:id="jb2v19-d15534-Hd1e103" type="question-title">An angelus sit in loco</head>
+            <p xml:id="jb2v19-d15534-d1e106">
+      ¶ Questio. viii. 
+      <lb ed="#C" n="63"/>Cta o queritur: qugn 
+      an<lb ed="#C" n="64" break="no"/>gelus sit in loco. Pro huius questionis 
+      <lb ed="#C" n="65"/>gt solutione primo videndum est de 
+      essen<lb ed="#C" n="66" break="no"/>tia loci: et quot modis res dicitur esse in 
+      <lb ed="#C" n="67"/>loco. postea ad titulum quaestionis respondebimus. 
+      pro<lb ed="#C" n="68" break="no"/>primi expeditione scito aristoteles iiii. Phisicorum 
+      <lb ed="#C" n="69"/>ponit aliquas proprietates loc vt loci quidditas: 
+      <lb ed="#C" n="70"/>hoc est natura: cognoscatur. quia sicut dicit pormo 
+      de<lb ed="#C" n="71" break="no"/>anima / accidentia magna partem conferunt ad 
+      cogno<lb ed="#C" n="72" break="no"/>scendum quod quid est. vna loci proprietas est quod locus / 
+      <lb ed="#C" n="73"/>oatet continere locatum. quia omnes vno ore dicunt locatum 
+      <lb ed="#C" n="74"/>esse in suo loco. Secunda proprietas est quod locus 
+      <lb ed="#C" n="75"/>non est aliquid ipsius locati: scilicet tanquod pars eius vel 
+      <lb ed="#C" n="76"/>accidens eius sibi inherens. quia tale opet moueri cum 
+      <lb ed="#C" n="77"/>locato ad motum eius. locum autem non opet moueri cum 
+      <lb ed="#C" n="78"/>locato limo cum locatum mouetur: dicimus ipsum 
+      mu<lb ed="#C" n="79" break="no"/>tare locum: et recedere ab vno loco et alium adire 
+      lo<lb ed="#C" n="80" break="no"/>cum. Tertia proprietas. locus debet ess equalis 
+      lo<lb ed="#C" n="81" break="no"/>cato. et illud intelligitur de loco proprio: et non 
+      loco<lb ed="#C" n="82" break="no"/>communi. locus proprlus alicui est qui continet illud 
+      <lb ed="#C" n="83"/>totum: et cum hoc non continet aliud corpus / saltem quod 
+      <lb ed="#C" n="84"/>non sit pars illius. per hoc differt a loco communi: qui cum 
+      <lb ed="#C" n="85"/>hoc quod continet suum locatum continet aliud separatum 
+      <lb ed="#C" n="86"/>ab illo. vt ecclesia continet sortem. cum hoc quod est locus 
+      <lb ed="#C" n="87"/>sortis est locus aliorum non tamen inconuenit idem 
+      <lb ed="#C" n="88"/>esse locum proprium respectu vnius et communem 
+      <lb ed="#C" n="89"/>respectu alterius. patet. concauum orbis lune est 
+      <lb ed="#C" n="90"/>locus communis terre: et est locus proprius aggregato 
+      <lb ed="#C" n="91"/>ex omnibus elementis et mixtis. Alia proprietas. 
+      <lb ed="#C" n="92"/>corpus facit latera loci distare secundum exigentiam 
+      ma<lb ed="#C" n="93" break="no"/>gnitudinis eius non habendo oculum ad qualitates 
+      <lb ed="#C" n="94"/>eius. et propterea dicit aristoteles quod si corpus 
+      ma<lb ed="#C" n="95" break="no"/>thematicum quod a qualitate abstrahit vt corpus 
+      <lb ed="#C" n="96"/>cubum ponatur in acre vel in aqua facit latera 
+      lo<lb ed="#C" n="97" break="no"/>ci distare secundum exigentiam magnitudinis eius. sed 
+      <lb ed="#C" n="98"/>inquantum est naturale et habet illam formam 
+      sub<lb ed="#C" n="99" break="no"/>stantialem et tales quantitates dicitur naturaliter 
+      <lb ed="#C" n="100"/>locari vel violenter: secundum quod est in loco in quo 
+      be<lb ed="#C" n="101" break="no"/>ne conseruatur vel male.
+   </p>
+            <p xml:id="jb2v19-d15534-d1e193">
+      ¶ Postea ponit 
+      aristote<lb ed="#C" n="102" break="no"/>teles diffinitionem loci: scilicet hanc. locus est 
+      su<lb ed="#C" n="103" break="no"/>perficies corporis continentis immobilis primum 
+      <lb ed="#C" n="104"/>Illa diffinitio varie a variis exponitur. sed eam 
+      <lb ed="#C" n="105"/>sic expono. locus est superficies concaua 
+      corpo<lb ed="#C" n="106" break="no"/>ris locantis immobilis primum. hoc est: locus 
+      espri<lb ed="#C" n="107" break="no"/>ma superficies et proxima locato de cuius 
+      ratio<lb ed="#C" n="108" break="no"/>ne non est quod moueatur. et si teneatur superficies esse 
+      <lb ed="#C" n="109"/>accidens profunditatis expers habens precise lon 
+      <lb ed="#C" n="110"/>gitudinem cum latitudine: tunc locus est proxima 
+      superfi<lb ed="#C" n="111" break="no"/>cies exponendo suplatiuum proxima assrmatiue: et est 
+      <lb ed="#C" n="112"/>nisi vnus locus proprius locati. si teneatur quod omnia 
+      <lb ed="#C" n="113"/>superficies est corpus: tunc clusdem locati multa 
+      <lb ed="#C" n="114"/>erunt loca propria. patet. tunc vna millesima pars orbis 
+      <lb ed="#C" n="115"/>lune proxima sgni erit locus proprius elementorum 
+      <lb ed="#C" n="116"/>et mixtorum in eis contentorum: et etiam pars illius. et sic 
+      di<lb ed="#C" n="117" break="no"/>uidendo per partes proportionales desciendendo ad 
+      <lb ed="#C" n="118"/>ignem: nulla illarum partium erit proxior igni quam alia. non ob 
+      <lb ed="#C" n="119"/>sat o illa os ouisols sohere lue conietalo ta¬
+      <pb ed="#V" n="27-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>quam partem eius: cum locus oaet esse diuisus a corpore 
+      lo<lb ed="#C" n="2" break="no"/>cato. sed quia de ratione loci est saltem respectu locati 
+      <lb ed="#C" n="3"/>circunscriptiue quod locus attingat locatum secundum 
+      longi<lb ed="#C" n="4" break="no"/>tudinem et latitudinem / et non secundum profunditatem: 
+      <lb ed="#C" n="5"/>quia tunc esset corporum penetratio / quae est impossibilis 
+      <lb ed="#C" n="6"/>naturaliter: conuenienter posuit aristoteles ly 
+      su<lb ed="#C" n="7" break="no"/>perficies et non ly corpus. quecumque istarum duarum 
+      <lb ed="#C" n="8"/>viarum dicatur de superficie: siue locus sit de 
+      predica<lb ed="#C" n="9" break="no"/>mento ad aliquid: siue de predicamento 
+      quantita<lb ed="#C" n="10" break="no"/>tis: non impedit. termini solum ponuntur in 
+      predicamio<lb ed="#C" n="11" break="no"/>to ratione significati formalis. quando sunt connotatiui 
+      <lb ed="#C" n="12"/>non inconuenit terminum vnius predicamenti ess 
+      su<lb ed="#C" n="13" break="no"/>perius denominatiue ad terminum alterius 
+      pre<lb ed="#C" n="14" break="no"/>dicamenti. immobilis prlmum: non est de 
+      ratio<lb ed="#C" n="15" break="no"/>ne loci quod moueatur ad motum locati. sed hoc ad vas 
+      <lb ed="#C" n="16"/>spectat. dicit aristoteles vas mouetur ad motum 
+      <lb ed="#C" n="17"/>contenti in vase: non autem locus ad motum localem 
+      loca<lb ed="#C" n="18" break="no"/>ti: puta non est de ratione loci quod moueatur: et raro 
+      lo<lb ed="#C" n="19" break="no"/>co conuenilt. quando aliqui d mouetur circulariter non 
+      <lb ed="#C" n="20"/>oportet locum moueri: et tamen locatum mouetur. si 
+      <lb ed="#C" n="21"/>sphera mercurii quiesceret: stat spheram lune 
+      moue<lb ed="#C" n="22" break="no"/>ri. an corpus christi moueatur: eucharistia mota cit 
+      <lb ed="#C" n="23"/>ca suum centrum: dictum est in quaerto in materia eucharistie 
+      <lb ed="#C" n="24"/>Similiter quando aliquid mouetur localiter motu 
+      re<lb ed="#C" n="25" break="no"/>cto non oportet locum moueri. licet aer proximus vel 
+      <lb ed="#C" n="26"/>aqua agitetur in parte propinqua: tamen maior pars 
+      <lb ed="#C" n="27"/>non mouetur: et sic locus non mouetur localiter. a 
+      <lb ed="#C" n="28"/>maiori parte est denominatio. et quia maior pars loci 
+      quie<lb ed="#C" n="29" break="no"/>scit a motu locali: totus locus cathegoreumatice non 
+      <lb ed="#C" n="30"/>mouetur localiter. vel si locus aliquando mouetur: 
+      <lb ed="#C" n="31"/>hoc est raro / et non vt in pluribus. propteea dicitur 
+      lo<lb ed="#C" n="32" break="no"/>cus immobilis: ga non est de ratione loci quod moueatur 
+      <lb ed="#C" n="33"/>ad motum sui locati. tamen quilibet locus est mobilis. 
+      <lb ed="#C" n="34"/>vas mouetur ad motum locati: vt quando vinum / oleum / 
+      sac<lb ed="#C" n="35" break="no"/>cus graui / et hmoni de loco ad locum deferuntur. 
+   </p>
+            <p xml:id="jb2v19-d15534-d1e315">
+               <lb ed="#C" n="36"/>¶ Contra ista arguitur. ex dictis sequitur quod locus non 
+      <lb ed="#C" n="37"/>est equalis locato: cuius oppositum recitauimus ex 
+      <lb ed="#C" n="38"/>vna proprietate quam aristoteles loco assignat. 
+      co<lb ed="#C" n="39" break="no"/>sequentia patet. dolium continens vinum non est tante 
+      ma<lb ed="#C" n="40" break="no"/>gnitudinis sicut vinum si latera asseris essent 
+      fracta<lb ed="#C" n="41" break="no"/>et mutuo collecta: non tantum extenderentur sicut vi 
+      <lb ed="#C" n="42"/>num: licet essent longa vel longiora vino. magnitu 
+      <lb ed="#C" n="43"/>do corporis non attenditur penes vnam 
+      dimensio<lb ed="#C" n="44" break="no"/>nen tantum: sed penes tres mutuo. virga tenuis ita lon 
+      <lb ed="#C" n="45"/>ga sicut dolium: licet sit ita longa sicut dolium: non tamen 
+      <lb ed="#C" n="46"/>es ita magna sicut dolium vel bos. similiter superficies 
+      <lb ed="#C" n="47"/>illa impartibilis locatum ambiens non est tante 
+      ma<lb ed="#C" n="48" break="no"/>gnitudis sicut locatum. igitur.
+   </p>
+            <p xml:id="jb2v19-d15534-d1e347">
+      ¶ Secundo. aliquid quiescit 
+      <lb ed="#C" n="49"/>et tamen est continuo in alio et alio loco. patet de 
+      pinacu<lb ed="#C" n="50" break="no"/>lo sctem genouefes parisii quod est in alio et alio 
+      ae<lb ed="#C" n="51" break="no"/>re. et per consequens in alio et alio loco. et tamen pinnaculum 
+      <lb ed="#C" n="52"/>illud non mouetur localiter. similiter si aqua in 
+      va<lb ed="#C" n="53" break="no"/>se cadat de tecto ad terram semper manet in eodem 
+      <lb ed="#C" n="54"/>loco. et tamen mouetur localiter. non est discrimen 
+      reale<lb ed="#C" n="55" break="no"/>inter vas et locum. sed solum discrimen rationis.
+   </p>
+            <p xml:id="jb2v19-d15534-d1e365">
+      ¶ Ad 
+      <lb ed="#C" n="56"/>primum respondetur: locus non est equalis lo cato 
+      enti<lb ed="#C" n="57" break="no"/>tatiue vt argumentum probat. interdum locus est minor 
+      <lb ed="#C" n="58"/>locato: interdum maior: vt capiendo bonam 
+      pro<lb ed="#C" n="59" break="no"/>funditatem acris granum millii locantis. nonnumquam equa 
+      <lb ed="#C" n="60"/>lis entitatiue. sed locus est equalis locato: quia con¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>tinet locatum et nichil aliud quod non est in eo: 
+      lo<lb ed="#C" n="62" break="no"/>quendo de loco proprio. vel si ducatur diameter a 
+      cen<lb ed="#C" n="63" break="no"/>tro locati: ille tangeret in eodem puncto superficiem 
+      conue<lb ed="#C" n="64" break="no"/>cam locati et superficiem concaua loci. faber lignari 
+      <lb ed="#C" n="65"/>us faciens circulum dolio capit virgam flexibile: et vi 
+      <lb ed="#C" n="66"/>det si est equelitas inter circulum quo ad superficiem 
+      conuexam<lb ed="#C" n="67" break="no"/>qui debet circundare dolium et concauam dolii. et tunc 
+      <lb ed="#C" n="68"/>scit se habere aptum circulum pro dolio. vel si ponatur 
+      <lb ed="#C" n="69"/>superficies omnis crassitudis expers: tunc superficies 
+      con<lb ed="#C" n="70" break="no"/>caua locantis et conuexa locatis sunt in eodem 
+      loco<lb ed="#C" n="71" break="no"/>adequato. non inconuenit superficies duorum corporum 
+      <lb ed="#C" n="72"/>esse simul. sic de duobus punctis diuersarum linearu. 
+      <lb ed="#C" n="73"/>sed cum vna est terminus corporis ambientis: dicitur illa 
+      <lb ed="#C" n="74"/>superficies locus et non alia. nec locutus est aristote 
+      <lb ed="#C" n="75"/>les de superficie a corpore separata: quia hoc naturam 
+      <lb ed="#C" n="76"/>transcendit.
+   </p>
+            <p xml:id="jb2v19-d15534-d1e415">
+      ¶ Ad secundum concedo: quod aliquid quiescit a 
+      <lb ed="#C" n="77"/>motu locali: et tamen est in alio et alio loco. similiter 
+      <lb ed="#C" n="78"/>aliquid semper est in eodem loco: et tamen mouetur localiter 
+      <lb ed="#C" n="79"/>patet de aqua cadente in dolio. idem patet de saturno. Et 
+      <lb ed="#C" n="80"/>si dicas nunc est sub vna parte celi: nunc sub alia: eas 
+      <lb ed="#C" n="81"/>ad locatum quod habet locum eundem semper ei respondentem. 
+      <lb ed="#C" n="82"/>ad hoc quod aliquid quiescat a motu locali sufficit quod in 
+      <lb ed="#C" n="83"/>ordine ad alia fixa vel ad aliud sper sit in equali vel 
+      <lb ed="#C" n="84"/>simili distantia sic pinnaculum snctem genouefes quiescit. 
+      <lb ed="#C" n="85"/>quia in ordine ad collegium montisacuti et alia 
+      loca<lb ed="#C" n="86" break="no"/>vicina fixa semper equaliter distat per oppositum quando 
+      ali<lb ed="#C" n="87" break="no"/>quid inequeliter distat ad fixa vera vel imagiaria. si 
+      po<lb ed="#C" n="88" break="no"/>nas preter legem omnia moueri: tunc mouetur localiter 
+      <lb ed="#C" n="89"/>siue maneat semper in eodem loco siue non. et hoc si 
+      <lb ed="#C" n="90"/>locum habeat. quia non omne corpus est in loco. patet de vltina 
+      <lb ed="#C" n="91"/>sphera. licet commentator ilii. Phisicorum textu 
+      commen<lb ed="#C" n="92" break="no"/>ti. xliii. recitet varias super hoc philosophorum sentem 
+      <lb ed="#C" n="93"/>tias: in reest nisi verbale discrimen. Ioanes 
+      gran<lb ed="#C" n="94" break="no"/>maticus dicit / quod vltima sphera non est in loco sed 
+      <lb ed="#C" n="95"/>in vacuo. Auempace dicit vltimam spheram esse in loco: 
+      <lb ed="#C" n="96"/>hoc est: in superficie conuexa eius. et licet mobilia que 
+      <lb ed="#C" n="97"/>mouentur motu recto habeant locum extra se: non tamen 
+      <lb ed="#C" n="98"/>illa quae circulariter mouentur. Alexander pepateticus 
+      <lb ed="#C" n="99"/>dicit quod non est in loco. et per confis nec circulariter 
+      <lb ed="#C" n="100"/>mouetur. et quicquid dicat commentator: dico non est 
+      di<lb ed="#C" n="101" break="no"/>scrimen inter alexandrum et sioannem grammaticum. et 
+      abo<lb ed="#C" n="102" break="no"/>recte dicunt. Secundum ioannem illic non est locus: et aptus 
+      na<lb ed="#C" n="103" break="no"/>tus ess locus. ergo est vacuum in vna significatione 
+      <lb ed="#C" n="104"/>termini qua vsi sunt antiqui ante aristotelem. 
+      re<lb ed="#C" n="105" break="no"/>cte dicit alexander. Auempace pelus dicit 
+      fin<lb ed="#C" n="106" break="no"/>git sibi in aere vnam acceptionem loci contra modum 
+      <lb ed="#C" n="107"/>philosophicum. et aristoteles dicit locus debet esse 
+      <lb ed="#C" n="108"/>separatus a locato. si esset pars vel accidens eius: 
+      <lb ed="#C" n="109"/>semper moueretur motu locali. Secundo: pars in 
+      lo<lb ed="#C" n="110" break="no"/>co aliis partibus continuata non mouetur locali 
+      <lb ed="#C" n="111"/>ter: quia locus debet esse continens diuisum a 
+      lo<lb ed="#C" n="112" break="no"/>cato / vt dicit aristoteles ponens diffinitionem 
+      <lb ed="#C" n="113"/>eius. ergo sic aliquis locus est locus vnus: et non 
+      <lb ed="#C" n="114"/>est res vna. Probatio. baculus cuius vna 
+      medie<lb ed="#C" n="115" break="no"/>tas est in aqua vel in terra et alia in aere: habet 
+      <lb ed="#C" n="116"/>vnum locum. et ille locus non est vna res. sicut. xi. 
+      <lb ed="#C" n="117"/>milia hominum sunt vnus exercitus: et tamen non 
+      <lb ed="#C" n="118"/>sunt vna res. aliquis tamen locus est vna res. et 
+      <lb ed="#C" n="119"/>per consequens locus capitur diuisiue et collecti 
+      <lb ed="#C" n="120"/>ue: vt multitudo / quantitas discreta / ordo.
+      <pb ed="#V" n="28-r"/>
+               <cb ed="#P" n="a"/>
+            </p>
+            <p xml:id="jb2v19-d15534-d1e517">
+               <lb ed="#C" n="1"/>¶ Pretera notabis: multip hariam aliquid dicitur 
+      cen<lb ed="#C" n="2" break="no"/>in loco. Uno modo circunscriptiue et 
+      dimensiona<lb ed="#C" n="3" break="no"/>liter: vt corpus quod sic est in loco quod vna pars locati est 
+      <lb ed="#C" n="4"/>in vna parte loci et alia pars in alia parte loci: et 
+      <lb ed="#C" n="5"/>sic locatum facit latera loci distare. Secundo modo 
+      <lb ed="#C" n="6"/>aliquid est in loco diffinitiue: quando sic est in loco et 
+      <lb ed="#C" n="7"/>non est alibi: vt angelus. hoc modo esse diffinitiue 
+      <lb ed="#C" n="8"/>in loco est superlus ad esse circuscriptiue in loco 
+      si<lb ed="#C" n="9" break="no"/>ne miraculo. Tertio modo aliquid est in loco 
+      sacra<lb ed="#C" n="10" break="no"/>mentaliter: vt corpus christi est in speciebus panis 
+      <lb ed="#C" n="11"/>et vini: sic scilicet quod totum corpus et quelibet eius pars 
+      <lb ed="#C" n="12"/>est in tota specie: et in qualibet elus parte. et per 
+      con<lb ed="#C" n="13" break="no"/>sequens corpus christi in eucharistia / nec est 
+      diffi<lb ed="#C" n="14" break="no"/>nitiue nec circumscriptiue in loco. Quarto 
+      mo<lb ed="#C" n="15" break="no"/>do aliquid est repletiue in loco: vt deus: secundum illud 
+      <lb ed="#C" n="16"/>veni sancte spiritus reple tuorum corda fidelium. sed 
+      <lb ed="#C" n="17"/>proprie inlocabilis est et in nullo loco continetur: vt 
+      <lb ed="#C" n="18"/>magister sententiarum deducit. di. xxxvii. primi. 
+   </p>
+            <p xml:id="jb2v19-d15534-d1e559">
+               <lb ed="#C" n="19"/>¶ His suppositis scito adhuc partitas esse positi 
+      <lb ed="#C" n="20"/>ones: an angelus est in loco. vna est scti thome 
+      te<lb ed="#C" n="21" break="no"/>nentis prima secunde. qui lii. argumento primo: quod angelus 
+      <lb ed="#C" n="22"/>est in loco per solam applicationem vel 
+      operatio<lb ed="#C" n="23" break="no"/>nem sue virtutis ad locum. non autem per suam 
+      sub<lb ed="#C" n="24" break="no"/>stantiam.
+   </p>
+            <p xml:id="jb2v19-d15534-d1e575">
+      ¶ Sed pro huius positionis 
+      reprobatio<lb ed="#C" n="25" break="no"/>ne pono duas conclusiones. Prior est angelus non 
+      <lb ed="#C" n="26"/>est in loco circunscriptiue et dimensionaliter. hec 
+      con<lb ed="#C" n="27" break="no"/>clusio est clara ex ecxplicatione terminorum.
+   </p>
+            <p xml:id="jb2v19-d15534-d1e585">
+      ¶ 
+      Se<lb ed="#C" n="28" break="no"/>cunda conclusio. substantia angeli est in leco 
+      diffi<lb ed="#C" n="29" break="no"/>nitiue dato quod nichil opetur. probatur hec conclusio: 
+      <lb ed="#C" n="30"/>prius natura substatia angeli est in a. loco ancequam 
+      ope<lb ed="#C" n="31" break="no"/>retur in a loco. quia angelus non opatur in remotum 
+      <lb ed="#C" n="32"/>nisi prius opetur in propinquum. Secundo arguitur. an 
+      <lb ed="#C" n="33"/>geli beati et anime separate sunt in celo empireo. et 
+      <lb ed="#C" n="34"/>go sunt in loco. et tamen nullam opationem transeun 
+      <lb ed="#C" n="35"/>tem habent in celo. nec est necesse quod angeli habeant 
+      vel<lb ed="#C" n="36" break="no"/>lam operationem. patet. deus potest non concurrere ad 
+      vel<lb ed="#C" n="37" break="no"/>lam opeationem. et si sic: tunc sunt in celo et non 
+      per<lb ed="#C" n="38" break="no"/>operationem. Tertio arguitur. substantia corporeas 
+      <lb ed="#C" n="39"/>iam est in loco: vt totum vinum in dolio. separetur 
+      <lb ed="#C" n="40"/>tota quantitas continua a substantia vini: sic quod quelet 
+      <lb ed="#C" n="41"/>pars vinis erit cum qualibet alia parte: adhuc 
+      illa<lb ed="#C" n="42" break="no"/>substantia erit in loco. quia non egreditur circunterentiam 
+      <lb ed="#C" n="43"/>dolii ex vpothesi. sic est de corpore christi execete 
+      <lb ed="#C" n="44"/>in eucharistia: vel in ordine ad locum solum secundum 
+      <lb ed="#C" n="45"/>vnam positionem: vel secundum ordinem loci et corporis 
+      se<lb ed="#C" n="46" break="no"/>cundum aliam vt patet. ex. x. dist. quarti.
+   </p>
+            <p xml:id="jb2v19-d15534-d1e629">
+      ¶ Quarto 
+      <lb ed="#C" n="47"/>arguitur. possibile est animam esse in loco: et quis 
+      fa<lb ed="#C" n="48" break="no"/>cile potest illud imaginari. sed non est 
+      intelligibi<lb ed="#C" n="49" break="no"/>le dicere quod angelus sit in loco per solam 
+      operatio<lb ed="#C" n="50" break="no"/>nem (supposito quod sit in vniuerso) et non sit in 
+      loco<lb ed="#C" n="51" break="no"/>per suam substantiam. hoc tenet magister 
+      distin<lb ed="#C" n="52" break="no"/>ctione. xxxvii. primi: et ad longum prosequitur. et da 
+      <lb ed="#C" n="53"/>mascenus li ii. capitulo quinto. celum est continen 
+      <lb ed="#C" n="54"/>tia visibilium et inuisibilium creaturarum. intra ipsm et 
+      <lb ed="#C" n="55"/>intellectuales angelorum virtutes et omnia sensibilia 
+      <lb ed="#C" n="56"/>concluduntur. et Aristoteles primo celi et mundi 
+      te<lb ed="#C" n="57" break="no"/>xtu commenti. xxii omnes homines conueniunt in loco 
+      cor<lb ed="#C" n="58" break="no"/>poris huius primi mobilis: quia est locus spirituali 
+      <lb ed="#C" n="59"/>um: scilicet greci / et latinis et aliorum qui ex gentibus 
+      de<lb ed="#C" n="60" break="no"/>um confitentur. et Strabus in glosa oen. primo
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>celum empireum statim angelis repletum est. hanc 
+      <lb ed="#C" n="62"/>positionemlugo i de sacramentis parte ili. c. xviii. 
+      <lb ed="#C" n="63"/>ex industria reprobat dicens: sic non ignoro quos 
+      <lb ed="#C" n="64"/>dam ab omni spiritu locum vniuersaliter remouere 
+      <lb ed="#C" n="65"/>voluisse: qui scuum dimensionem solum et circumscripti 
+      <lb ed="#C" n="66"/>onem corporalem locum constare comprobauerunt 
+      <lb ed="#C" n="67"/>sed horum consideratio nimis a comuni estimatone et 
+      pos<lb ed="#C" n="68" break="no"/>sibilitate recessit finaliter hec positio in articulis 
+      <lb ed="#C" n="69"/>prisiensibus est improbata. Unus articulussic dicit 
+      <lb ed="#C" n="70"/>quod substantie separate sint alicubi per opationem 
+      <lb ed="#C" n="71"/>et quod non possunt moueri de extremo in extremum 
+      <lb ed="#C" n="72"/>nec in medium: nisi quia possunt velle operari in 
+      me<lb ed="#C" n="73" break="no"/>dio vel extremis error. est articulus. xxiii.
+   </p>
+            <p xml:id="jb2v19-d15534-d1e692">
+      ¶ 
+      Con<lb ed="#C" n="74" break="no"/>tra secundam conclusionem arguitur sic per boetium li. de 
+      eb<lb ed="#C" n="75" break="no"/>domadibus: dicentem incorporalia non esse in loco: est 
+      con<lb ed="#C" n="76" break="no"/>munis animi conceptio: quam non vulgus sed docti 
+      con<lb ed="#C" n="77" break="no"/>probant. sed angelus est incorporalis.
+   </p>
+            <p xml:id="jb2v19-d15534-d1e703">
+      ¶ Secundo at 
+      <lb ed="#C" n="78"/>guitur per aug. li. lxxxiii. qu. qu ii. sic dicentem. quod 
+      alicu<lb ed="#C" n="79" break="no"/>bi est continetur loco. quod loco continetur est 
+      cor<lb ed="#C" n="80" break="no"/>pus. sed angelus non est corpus.
+   </p>
+            <p xml:id="jb2v19-d15534-d1e712">
+      ¶ Rspondetur: ille 
+      au<lb ed="#C" n="81" break="no"/>ctoritates et similes intelliguntur: quod angeli non 
+      <lb ed="#C" n="82"/>sunt in loco circumscriptiue et bimensionaliter. non 
+      <lb ed="#C" n="83"/>lunt negare quod angeli sunt in loco diffinitiue: immo 
+      <lb ed="#C" n="84"/>sunt in determinato loco et in partibus illius 
+      loci<lb ed="#C" n="85" break="no"/>sicut anima est cum corpore meo. sed discrimen est anima 
+      <lb ed="#C" n="86"/>mea corpus meum informat. angelus vel anima 
+      sepa<lb ed="#C" n="87" break="no"/>rata non informat suum locum.
+   </p>
+            <p xml:id="jb2v19-d15534-d1e730">
+      ¶ Tertio 
+      argui<lb ed="#C" n="88" break="no"/>tur per articulum alium parisiensem dicentem: 
+      ange<lb ed="#C" n="89" break="no"/>lus non est in loco per suam substantiam: sic dicit 
+      at<lb ed="#C" n="90" break="no"/>ticulus. ccxviii. substantia angeli non est ei ratio 
+      es<lb ed="#C" n="91" break="no"/>sendi in loco
+   </p>
+            <p xml:id="jb2v19-d15534-d1e742">
+      ¶ Respondet godefredus fotanus: quod 
+      <lb ed="#C" n="92"/>ille articulus repugnat alteri. propterea cprius 
+      pa<lb ed="#C" n="93" break="no"/>siensis male agit non castigando articulos. quia 
+      ali<lb ed="#C" n="94" break="no"/>qui stant simul: aliqui sibi contradicunt. et qui sunt 
+      <lb ed="#C" n="95"/>contra doctrinam sancti thome qui fuit sal terre 
+      <lb ed="#C" n="96"/>Henricus dicit se non intelligere multos illorum 
+      ar<lb ed="#C" n="97" break="no"/>ticulorum. Egidius roamnus dicit articuli erant coditi 
+      <lb ed="#C" n="98"/>ab aliquibus capitosis sine consensu totus 
+      sacul<lb ed="#C" n="99" break="no"/>tatis. Capolus dicit robur non habent pro quanto 
+      <lb ed="#C" n="100"/>aduersantur doctrine sancti thome que est 
+      appro<lb ed="#C" n="101" break="no"/>bata ab vrbano quinto et iohamne. xxii. Alii 
+      dice<lb ed="#C" n="102" break="no"/>rent articuli parisienses non pertranseunt sequana 
+      <lb ed="#C" n="103"/>ico goderredo non est danda fides vlla hic: quia 
+      te<lb ed="#C" n="104" break="no"/>nuit negligenter positionem reprobatam in 
+      articulo<lb ed="#C" n="105" break="no"/>sub aliis verbis idem cum sancto thoma: propteres 
+      <lb ed="#C" n="106"/>sto machose loquutus est in articulos. Egidius erat 
+      <lb ed="#C" n="107"/>auditor sancti thome. Henricus dicit se multos 
+      il<lb ed="#C" n="108" break="no"/>lorum articulorum non intelligere. hoc potest bene 
+      fie<lb ed="#C" n="109" break="no"/>ri: sic sunt multa vera non facile intelligibilia. 
+      ar<lb ed="#C" n="110" break="no"/>ticuli erant contra errores tempore quo fiebant 
+      pul<lb ed="#C" n="111" break="no"/>lulantes si homo videret errores: et ad quod 
+      pro<lb ed="#C" n="112" break="no"/>positum articuli scti sunt: credo quod facile eos 
+      cape<lb ed="#C" n="113" break="no"/>ret. video multos illorum vtilissimos. et si in ant 
+      <lb ed="#C" n="114"/>simis illis diebus non erant tot viri nostra in 
+      fa<lb ed="#C" n="115" break="no"/>cultate sicut hodierna doie: opinor nichil posueruft 
+      <lb ed="#C" n="116"/>nisi admittendum hodierna diescio nostra in facul 
+      i<lb ed="#C" n="117" break="no"/>tate nichil cudi pro articulo nisi maturo librami 
+      <lb ed="#C" n="118"/>ne priuio: conius per. xx. vel. xxiiii. deputatos viros 
+      <lb ed="#C" n="119"/>exercitatos et promptos: ita quod quilibet seriatim 
+      <lb ed="#C" n="120"/>motiua sua hinc inde et quid sentiendum sit demum
+      <pb ed="#V" n="28-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>apponit. et secunde rationes primi: et tertlus rationes duo 
+      <lb ed="#C" n="2"/>rum primorum: et sic ad nouissimum vsque inclusiue: 
+      <lb ed="#C" n="3"/>exanimat. et ab his conclusum rursus in tota 
+      faculta<lb ed="#C" n="4" break="no"/>te scribatur et discutitur antequom aliquid concludatur 
+      <lb ed="#C" n="5"/>et patres nostri iam a multis annis in magno 
+      nu<lb ed="#C" n="6" break="no"/>mero existentes hoc modo vst sunt: nec sctus 
+      tho<lb ed="#C" n="7" break="no"/>mas vel henricus gandensis hos contempsit arti 
+      <lb ed="#C" n="8"/>culos: in quorum diebus actus sorbonicus 
+      publice<lb ed="#C" n="9" break="no"/>disputabilis sine praesidente nundum ecrat inuentus: 
+      <lb ed="#C" n="10"/>nec tantus theologorum numerus sicut ab istis 
+      an<lb ed="#C" n="11" break="no"/>nis ducentes. scio facultatis determinationem es 
+      hu<lb ed="#C" n="12" break="no"/>manam. sed plura vident oculi( potissimumvbi ferrum 
+      <lb ed="#C" n="13"/>ferro acuitur quod oculus non est leue argumentum ex 
+      ar<lb ed="#C" n="14" break="no"/>ticulis famate vniuersitatis assumendum: licet epres 
+      <lb ed="#C" n="15"/>parisianus non potest non suos in suis statutis ob 
+      <lb ed="#C" n="16"/>ligare. quo ad sanctum thomam nusquam leci dooctrinam eius 
+      <lb ed="#C" n="17"/>approbata ab ecclesia. bene legi cum cathalogo 
+      <lb ed="#C" n="18"/>sanctorum ascriptum a iohane. xxii. et scio virum 
+      mu<lb ed="#C" n="19" break="no"/>tiscium extitisse: et de re litteraria opttne meritum. 
+      <lb ed="#C" n="20"/>suam ooctrinam. vrbanus quintus oixit vtilem et 
+      <lb ed="#C" n="21"/>legendam: quod negat nemo sapiens. sed minime 
+      <lb ed="#C" n="22"/>est approbata in omn sui parte vera. vt petet de 
+      con<lb ed="#C" n="23" break="no"/>ceptione btem vgis in originali delicto: et 
+      inpluri<lb ed="#C" n="24" break="no"/>mis aliis materiis quas alii sapientes: indies 
+      exa<lb ed="#C" n="25" break="no"/>minant et refellunt. et hoc sine peccato esse potest 
+      <lb ed="#C" n="26"/>quando fit gratia veritatis habende. nec illic 
+      timen<lb ed="#C" n="27" break="no"/>dum est de hoc in prologo quarti. qu ii. locuti sumus 
+      <lb ed="#C" n="28"/>in proposito dico opinio ne mes minus 
+      probabili<lb ed="#C" n="29" break="no"/>ter dicit: et ita arbitror omnes neutros dicturos. ad 
+      <lb ed="#C" n="30"/>sue professionis viros non respicio: nisi rat ionem. 
+   </p>
+            <p xml:id="jb2v19-d15534-d1e877">
+               <lb ed="#C" n="31"/>¶ His dictis respondeo ad iii. argumentum. dico o 
+      <lb ed="#C" n="32"/>falsum est quod dicit godefridus: quod hic articulus in 
+      <lb ed="#C" n="33"/>argumento assumptus alteri repugnet. sic 
+      intelli<lb ed="#C" n="34" break="no"/>gitur: substantia angeli non est ei ratio essendi in 
+      <lb ed="#C" n="35"/>loco. quia non repugnat substantie angeli esse et non 
+      <lb ed="#C" n="36"/>esse in loco. et hoc de potentia dei: vel si relinqua 
+      <lb ed="#C" n="37"/>tur sue nature cum dei concursu generali potest se 
+      <lb ed="#C" n="38"/>ponere extra locum et extra vniuersum. sic Arisic 
+      <lb ed="#C" n="39"/>eeles diceret de intelligentia primi mobilis motrici 
+      <lb ed="#C" n="40"/>qui ait extra celum sunt entia optimam vitam ducentia 
+      <lb ed="#C" n="41"/>quam toto euo complent. Alic modo intelligitur 
+      ar<lb ed="#C" n="42" break="no"/>ticulus de loco determinato. ita quod articulus 
+      dice<lb ed="#C" n="43" break="no"/>re vult substantia angeli non est ei ratio magis 
+      essen<lb ed="#C" n="44" break="no"/>di in hoc loco quam in illo. sed inquantum est ex parte 
+      <lb ed="#C" n="45"/>substantie eius: omnis locus est ei indifferens: et 
+      <lb ed="#C" n="46"/>per hoc ab elementiset mixtis selungitur: que 
+      ha<lb ed="#C" n="47" break="no"/>bent loca sua naturalia in quibus melius conser. 
+      <lb ed="#C" n="48"/>uantur quam alibi. de elementis patet. cum 
+      sintextra<lb ed="#C" n="49" break="no"/>suum locumnaturalem: ad illum (si non impediantur) citissime 
+      <lb ed="#C" n="50"/>tendunt: et in illo quiescunt: et solum violente 
+      ab<lb ed="#C" n="51" break="no"/>illo dimouentur. et sic mixta secundum naturam 
+      elemen<lb ed="#C" n="52" break="no"/>tiin eis praedominantis. herba aliqua bene stat in 
+      ac<lb ed="#C" n="53" break="no"/>re et terra: sine illis non naturaliter conseruatur. et 
+      <lb ed="#C" n="54"/>sic homo eget terra ad hoc quod sustentetur pro hac 
+      <lb ed="#C" n="55"/>mortali via: et aere eget ad hoc quod viuat. piscis vi 
+      <lb ed="#C" n="56"/>olenter extra aquam degit hirundines 
+      naturali<lb ed="#C" n="57" break="no"/>ter viuunt nobiscum in estate: et innaturaliter in 
+      <lb ed="#C" n="58"/>hyeme: sed naturaliter in regionibus calidioribus. 
+      <lb ed="#C" n="59"/>sic de anseribus siluestribus apud nos in rupe 
+      de<lb ed="#C" n="60" break="no"/>bassis. non sic autem de angelis vel anima separata qu
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>ad substantiam elus. Eccc quomodo angeli sunt in 
+      <lb ed="#C" n="62"/>loco diffinitiue. et realiter substatia angeli est in 
+      lo<lb ed="#C" n="63" break="no"/>co: que non est ei relatio essendi in loco ad sensum 
+      <lb ed="#C" n="64"/>alterus articuli. sicut sortes albus est in loco: cuius 
+      <lb ed="#C" n="65"/>albedo non est sorti ratio essendi in loco. et quo 
+      <lb ed="#C" n="66"/>modo articuli parisienses non sunt temere abiici 
+      <lb ed="#C" n="67"/>endi quicquid ooctores hi prienominati dixerint 
+      hu<lb ed="#C" n="68" break="no"/>ius studii alumni eruditi: quia in hac materia 
+      suspe<lb ed="#C" n="69" break="no"/>ctierant. vbi dominus Egidius dicit: non erant omnes 
+      con<lb ed="#C" n="70" break="no"/>diti tota facultate collecta. de tempore circa dies 
+      <lb ed="#C" n="71"/>suos potest a me melius meditari. scio nunc tamen 
+      <lb ed="#C" n="72"/>nichil transire sub nomne facultatis facultate non 
+      so<lb ed="#C" n="73" break="no"/>lenniter congregata. bene autem sub nomine deputato 
+      <lb ed="#C" n="74"/>rum vel quod minus est) sub nomine priuato:um 
+      <lb ed="#C" n="75"/>inagistrorum nisi essent multi: notabiliter multi: et 
+      <lb ed="#C" n="76"/>eruditi et in maiori nuero quom deputati: tunc tantum vel 
+      <lb ed="#C" n="77"/>plus eis crederetur quam deputatis facultatis. addo 
+      <lb ed="#C" n="78"/>vbi agitaretur materia tangens vnam particula 
+      <lb ed="#C" n="79"/>rem domum vniuersitatis: vt pote fratrum 
+      predica<lb ed="#C" n="80" break="no"/>torum tantum: minorum tantum: sufficere videtur ea in parte 
+      de<lb ed="#C" n="81" break="no"/>liberatio relique partis quemadmodum vna natione 
+      <lb ed="#C" n="82"/>inter artistas pro aliqua materia litigante: et ad 
+      <lb ed="#C" n="83"/>facultatemartium udicem immediatam appellatur 
+      <lb ed="#C" n="84"/>relique tres nationes deliberant: cuius 
+      conclusio<lb ed="#C" n="85" break="no"/>reputatur conclusio facultatis de doctore sancto 
+      <lb ed="#C" n="86"/>dico. eius sanctimoniam veneror: et sicut ceteros 
+      ca<lb ed="#C" n="87" break="no"/>nonisatos sctos in suo ordine adoro virum sane 
+      plu<lb ed="#C" n="88" break="no"/>rima lectione et excellentis eruditione plenum sem 
+      <lb ed="#C" n="89"/>per dicere soleo: et nostre facultatis fuisse alumpnum 
+      <lb ed="#C" n="90"/>qui a matre honestabatur. et acsi per 
+      inspirati<lb ed="#C" n="91" break="no"/>onem diuinam specialius infusam illud proueniret: sed in 
+      <lb ed="#C" n="92"/>omnibus benedicere: et semper probabilius loqui: non 
+      <lb ed="#C" n="93"/>est humanis sensibus concessum. Nec sue sctimo 
+      <lb ed="#C" n="94"/>nie nec honori derogatur in vllo vbi probabilius eiyel 
+      <lb ed="#C" n="95"/>probabiliter contradicitur. datur materia suis magis 
+      <lb ed="#C" n="96"/>veritatem elucidare: et eiicere in lucom que erant 
+      <lb ed="#C" n="97"/>in tenebris. erudite scribentium mos est non cppuo 
+      <lb ed="#C" n="98"/>nare fame obscure viros: sed eos siliter pertransi 
+      <lb ed="#C" n="99"/>re heroicorum viroru scripta argementis 
+      inuade<lb ed="#C" n="100" break="no"/>re: et opposita probabilius tenendo decorum 
+      exi<lb ed="#C" n="101" break="no"/>stimant. viri prudentes hoc in henigniorem 
+      par<lb ed="#C" n="102" break="no"/>tem accipere debent. hec tam pro me quam pro aliis 
+      do<lb ed="#C" n="103" break="no"/>ctori sancto Gonauenture et similibus contr. 
+      <lb ed="#C" n="104"/>centibus dicere volui. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

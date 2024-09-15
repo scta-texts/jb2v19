@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 4</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 4</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="131-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d78780"><!-- l2d30q4 -->
+            <head xml:id="jb2v19-d78780-Hd1e101">Quaestio 4</head>
+            <head xml:id="jb2v19-d78780-Hd1e103" type="question-title">An beata Dei genitrix fuit concepta in peccato originali</head>
+            <p xml:id="jb2v19-d78780-d1e106">
+               <lb ed="#C" n="119"/>QUarto quaeritur circa hanc distinctionem An btam 
+      <lb ed="#C" n="120"/>dei genitrix fuit concepta in peccato originali
+      <pb ed="#V" n="132-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>ec quaestio vtrinque defensores habet. Propterea rite 
+      <lb ed="#C" n="2"/>de hoc peccato loquens Baptista ipsam 
+      compa<lb ed="#C" n="3" break="no"/>rat / vel questionem hanc potius nexibus lororum 
+      <lb ed="#C" n="4"/>Gordii: vel errori pasiphaeo: inquiens. Sed quia 
+      <lb ed="#C" n="5"/>longeuam fecit discordia litem. Assimilemque 
+      iu<lb ed="#C" n="6" break="no"/>gi loris que Gordius olim. Nexuit: atque Iouis 
+      <lb ed="#C" n="7"/>phrygii suspendit ad aram Dedaleeque domus 
+      er<lb ed="#C" n="8" break="no"/>rori Pasiphaeo. Conceptus ne sacer fuerit vel 
+      sor<lb ed="#C" n="9" break="no"/>de paterna Illitus: Ita quod tanta est controuersia inter 
+      re<lb ed="#C" n="10" break="no"/>ligiosos in hac quaestione quod pro ioco dyaletico 
+      lo<lb ed="#C" n="11" break="no"/>cum non inuentum ab Aristotele nec a philosophis 
+      <lb ed="#C" n="12"/>introduciut / locum ab iniuriis.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e143">
+      ¶ Pro responsione 
+      <lb ed="#C" n="13"/>ad questionem. pona aliquas conclusiones.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e148">
+      ¶ Prima. 
+      <lb ed="#C" n="14"/>Deus poterat beatam virginem praeseruare a peccato 
+      <lb ed="#C" n="15"/>originali.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e156">
+      ¶ Secunda conclusio. Ipsa poterat 
+      ste<lb ed="#C" n="16" break="no"/>tisse in peccato originali per vnum instans.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e161">
+      ¶ 
+      Ter<lb ed="#C" n="17" break="no"/>tia conclusio. Ipsa nunquam erat in peccato 
+      origi<lb ed="#C" n="18" break="no"/>nali per instans vel tempus. et per consequens non erat 
+      <lb ed="#C" n="19"/>concepta in peccato originali.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e170">
+      ¶ Prima 
+      conclusio<lb ed="#C" n="20" break="no"/>patet. Deus potest facere omne illud quod non claudit 
+      <lb ed="#C" n="21"/>contradictionem (quia apud deum non est impossibile 
+      <lb ed="#C" n="22"/>omne verbum) sed christiferam virginem non fuisse 
+      con<lb ed="#C" n="23" break="no"/>ceptam in peccato originali non includit 
+      contradi<lb ed="#C" n="24" break="no"/>ctionem. igitur consequentia tenet cum maiore. Et arguitur 
+      mi<lb ed="#C" n="25" break="no"/>nor. humanitas christi eiusdem speciei cum beata 
+      <lb ed="#C" n="26"/>virgine non erat concepta in peccato originali: vt 
+      proli<lb ed="#C" n="27" break="no"/>xe deducit Anselmus in suo libro de conceptu 
+      vir<lb ed="#C" n="28" break="no"/>ginali: nec vnquam de hoc dubitatum est apud doctores 
+   </p>
+            <p xml:id="jb2v19-d78780-d1e192">
+               <lb ed="#C" n="29"/>¶ Secunda conclusio est alibi probata.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e197">
+      ¶ Difficultas est 
+      <lb ed="#C" n="30"/>ergo probare tertiam conclusionem. Nec contra aduersarios 
+      <lb ed="#C" n="31"/>scirem illam efficaciter deducere seclusis determina 
+      <lb ed="#C" n="32"/>tionibus patrum: et in primis adducam rationes 
+      co<lb ed="#C" n="33" break="no"/>terraner hanc conclusionem etiam tenentis. Sic arguit. 
+      <lb ed="#C" n="34"/>perfectissimus mediator habet perfectissimum actum 
+      <lb ed="#C" n="35"/>mediandi possibilem respectu alicuius persone 
+      pro<lb ed="#C" n="36" break="no"/>qua mediat. ergo christs habuit sic respectu. et constat quod 
+      re<lb ed="#C" n="37" break="no"/>spectu nullius habuit excellent iorem quam respectu 
+      Ma<lb ed="#C" n="38" break="no"/>rie. igitur respectu eius habuit sic perfectum actum 
+      me<lb ed="#C" n="39" break="no"/>diandi. Non esset autem hoc verum si non praeseruasset eam 
+      <lb ed="#C" n="40"/>a peccato originali. quod patet Tum quia non perfectissime 
+      placas<lb ed="#C" n="41" break="no"/>set trinitatem nisi preuenisset omnem nouam offensam. 
+      <lb ed="#C" n="42"/>Perfectius enim placatur offensus si omnis alia 
+      offensa<lb ed="#C" n="43" break="no"/>precauetur quam si iterum offendatur: et postea pro toto 
+      pla<lb ed="#C" n="44" break="no"/>catur.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e232">
+      ¶ Constat autem quod deus offenditur in culpa origi 
+      <lb ed="#C" n="45"/>nali quam contrahit anima. Tum quia perfectissimus mediator 
+      <lb ed="#C" n="46"/>meretur ammotionem omnis pene ab eo quem reconciliat 
+      <lb ed="#C" n="47"/>Sed culpa originalis est magna pena: immo 
+      ma<lb ed="#C" n="48" break="no"/>ior vt dicit quam carentia visionis diuine. igitur etc. Tum 
+      <lb ed="#C" n="49"/>quia chris in mediatius fuit reparator ab originali quam 
+      ac<lb ed="#C" n="50" break="no"/>tuali: quia necessitas incarnations christi conster 
+      assigna<lb ed="#C" n="51" break="no"/>tur ex peccato originali. Sed supponitur coniter quod ipse 
+      <lb ed="#C" n="52"/>ita fuit mediator perfectus respectu Marie quod 
+      praeser<lb ed="#C" n="53" break="no"/>uauit eam ab omni actuali. igitur etc. Tum quarto: quia 
+      <lb ed="#C" n="54"/>persona reconciliata non summe obligatur 
+      mediato<lb ed="#C" n="55" break="no"/>ri nisi ab ipso summum bonum habeat quod potest per 
+      me<lb ed="#C" n="56" break="no"/>diatorem habere. Sed innocentia ista: scilicet 
+      praeseruatio<lb ed="#C" n="57" break="no"/>a culpa contracta vel contrahenda: potest haberi 
+      per<lb ed="#C" n="58" break="no"/>mediatorem: ergo nulla persona summe tenebitur christo vt 
+      <lb ed="#C" n="59"/>mediatori si nullam perseruauit a pecato originali. 
+   </p>
+            <p xml:id="jb2v19-d78780-d1e268">
+               <lb ed="#C" n="60"/>¶ has rationes in hac distinctione refellit Grego¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>rius dicens. quod illud antecedens non habet maiorem euidentiam 
+      <lb ed="#C" n="62"/>quam si diceretur: perfectissimus mediator habet respectu 
+      cu<lb ed="#C" n="63" break="no"/>iuslibet persone pro qua mediat perfectissimum actum 
+      me<lb ed="#C" n="64" break="no"/>diandi: vt clarum est: et sic secundum illum modum arguendi 
+      <lb ed="#C" n="65"/>probaretur quod etiam omnes alios christs praeseruat ab 
+      origi<lb ed="#C" n="66" break="no"/>nali a pccato: quod non est dicendum.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e288">
+      ¶ Preterea: iuxta 
+      se<lb ed="#C" n="67" break="no"/>cundam probationem deduceretur quod btam virgo fuit etiam 
+      <lb ed="#C" n="68"/>preseruata ab omni pena temporali corporis et animae: et 
+      <lb ed="#C" n="69"/>ab ipsa etiam corporali morte: quod vtique est falsum. 
+      <lb ed="#C" n="70"/>et quod ita deduceretur clarum est.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e299">
+      ¶ Item secundum tertiam 
+      <lb ed="#C" n="71"/>probaretur quod plures alios praeseruauit a culpa origi 
+      <lb ed="#C" n="72"/>nali: quod tamen non dicitur ab aliquo doctore. patet 
+      dedu<lb ed="#C" n="73" break="no"/>ctio. nam christs: vt ait: fuit reparator immediatius 
+      re<lb ed="#C" n="74" break="no"/>spectu originalis quam respectu actualis peccati. et 
+      per<lb ed="#C" n="75" break="no"/>consequens quod respectu actualis mortalis: et satis 
+      con<lb ed="#C" n="76" break="no"/>muniter creditur quod plures alios praeseruauit ab orni 
+      ac<lb ed="#C" n="77" break="no"/>tuali mortali: vt Ioannem baptista et hieremia: qui 
+      <lb ed="#C" n="78"/>fuerunt in vtero snctificati. igitur etc.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e319">
+      ¶ Amplius. secundum 
+      <lb ed="#C" n="79"/>quarta permo probaretur quod btam virgo in primo 
+      instan<lb ed="#C" n="80" break="no"/>ti sue conceptionis fuit btam. quaniam et tale bonum potuit 
+      <lb ed="#C" n="81"/>habere per christum mediatorem: et similiter quod fuit in 
+      <lb ed="#C" n="82"/>corpore glificata: quae falsa sunt. Fateor: iste rationes 
+      <lb ed="#C" n="83"/>non concludunt: sunt tamen suasiones secundum materia 
+      subie<lb ed="#C" n="84" break="no"/>ctam: nec plene euacuat primum argumentum respondens: 
+      <lb ed="#C" n="85"/>quia non est simile de tota muititudine: et de vna 
+      perso<lb ed="#C" n="86" break="no"/>na. nec sufficienter respondet ad secundum argumentum: quia 
+      <lb ed="#C" n="87"/>multum refert vt intelligenti patet: inter penam et culpa. 
+   </p>
+            <p xml:id="jb2v19-d78780-d1e341">
+               <lb ed="#C" n="88"/>¶ Nunc aliquas persuasiones ad eandem conclusionem 
+      in<lb ed="#C" n="89" break="no"/>troducam. et arguitur sic. primo per vnam regulam qua vti 
+      <lb ed="#C" n="90"/>tur btus Augustinus. de assumptione corporis btem 
+      <lb ed="#C" n="91"/>virginis. Quicquid est honestatis et decentie: hoc est 
+      <lb ed="#C" n="92"/>dei matri attribuendum vbi non constat de oppositor 
+      <lb ed="#C" n="93"/>per hoc probat ipe christifere vginis corpous non fuisse 
+      <lb ed="#C" n="94"/>incineratum sed ipam fuisse assumptam in corpore et / 
+      <lb ed="#C" n="95"/>anima. appono minore: sed decentius est 
+      attribue<lb ed="#C" n="96" break="no"/>re btem virgini quod ipsa non erat concepta in peccato 
+      origi<lb ed="#C" n="97" break="no"/>nali. Quod probo: quia si non decentius: hoc esset / quia esset 
+      <lb ed="#C" n="98"/>contra scripturam canonicam / vel contra determinatio 
+      <lb ed="#C" n="99"/>nes sactorum nos obligantium / vel quia ipsa per hoc 
+      equipa<lb ed="#C" n="100" break="no"/>rabitur christo: vel christs tunc non passus fuisset proea. 
+      <lb ed="#C" n="101"/>Iste sunt potissime rationes aduersariorum: sed hoc non: 
+      <lb ed="#C" n="102"/>quia ad illa et ad alia respondebitur: ergo si 
+      suffi<lb ed="#C" n="103" break="no"/>cienter respondeatur / minor est vera. et per 
+      com<lb ed="#C" n="104" break="no"/>sequens conclusio est ponenda.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e380">
+      ¶ Secundo arguitur ad idem 
+      <lb ed="#C" n="105"/>Decuit filium honorare matrem: ex cuius solo corpore si 
+      <lb ed="#C" n="106"/>ne semine viri corpous assumpsit: quia hoc est de 
+      praece<lb ed="#C" n="107" break="no"/>pto legis parentes honorare. et Actuum primo. 
+      Ince<lb ed="#C" n="108" break="no"/>pit Iesus facere et docere. et hoc quod docuit aliis 
+      <lb ed="#C" n="109"/>erga suos parentes decens erat quod in se practica 
+      <lb ed="#C" n="110"/>ret: non dico quod ad hoc tenebatur sicut aliqui 
+      in<lb ed="#C" n="111" break="no"/>sulsi assumunt quod christus tenebatur ad illud: quod 
+      <lb ed="#C" n="112"/>est hereticum. Christus est deus. et ad nihil 
+      tene<lb ed="#C" n="113" break="no"/>batur diue virgini. Unde in miraculo in 
+      chana<lb ed="#C" n="114" break="no"/>galilee dicebat. quid mihi et tibi mulier: ac si 
+      dixis<lb ed="#C" n="115" break="no"/>set: meum est istud facere: et ad tuam partem domus / 
+      <lb ed="#C" n="116"/>hoc non competit. Non obstante decuit pro 
+      tene<lb ed="#C" n="117" break="no"/>ra virgine et sua matre quod paruisset: nec quicqua eius 
+      <lb ed="#C" n="118"/>negasset. et propterea congruentia sufficit. 
+   </p>
+            <p xml:id="jb2v19-d78780-d1e414">
+               <lb ed="#C" n="119"/>¶ Tertio arguitur per multa miracula que fiunt 
+      <lb ed="#C" n="120"/>et in mari et in terra pro celebrando festo conce¬
+      <pb ed="#V" n="132-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>ptionis diue virginis.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e427">
+      ¶ Ad hoc respondent aliqui 
+      <lb ed="#C" n="2"/>eorum dicentes: patet intuenti eorum scripta: quod 
+      <lb ed="#C" n="3"/>non sunt miracula: sed adinuenta a satore 
+      mali<lb ed="#C" n="4" break="no"/>cie: scllicet diabolo qui est mendax et pater eius: 
+      <lb ed="#C" n="5"/>ad ponendum scisma inter religiosos. 
+   </p>
+            <p xml:id="jb2v19-d78780-d1e438">
+               <lb ed="#C" n="6"/>¶ Hec responsio nihil valet: si ipsi quiescerent 
+      scis<lb ed="#C" n="7" break="no"/>ma nullum foret. et ipsi sunt causa illius 
+      clamo<lb ed="#C" n="8" break="no"/>ris: sed vestigio dicent mihi non possunt reniten- 
+      <lb ed="#C" n="9"/>te scriptura et eorum doctoribus. hoc non valet. 
+      <lb ed="#C" n="10"/>opposite partis viri idem dicerent: et cum hoc 
+      <lb ed="#C" n="11"/>scriptura nulla est pro eis: vt videre possunt: et 
+      con<lb ed="#C" n="12" break="no"/>stabit ex dicendis. De doctoribus pudet loqui. 
+      <lb ed="#C" n="13"/>multi eorum magis sunt doctrine vel dictis 
+      po<lb ed="#C" n="14" break="no"/>tius suorum doctorum addicti quam famatissimis 
+      san<lb ed="#C" n="15" break="no"/>ctis patribus pariter et eruditissimis: 
+      dummo<lb ed="#C" n="16" break="no"/>do manuteneant suos: non est eis cure quid 
+      sen<lb ed="#C" n="17" break="no"/>serit Aristoteles in naturalibus vel Augustinus 
+      <lb ed="#C" n="18"/>in sacris eloquiis: eorum doctores si 
+      supersti<lb ed="#C" n="19" break="no"/>tes forent rationi acquiescerent.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e471">
+      ¶ Quarto 
+      ar<lb ed="#C" n="20" break="no"/>guitur. Ecclesia celebrat festum conceptionis 
+      di<lb ed="#C" n="21" break="no"/>ue virginis. ergo ipsa fuit concepta sancta. quid 
+      <lb ed="#C" n="22"/>absurdius quam ecclesiam celebrare in honore alicuius 
+      <lb ed="#C" n="23"/>pro tempore quo non erat sancta: Non valet 
+      con<lb ed="#C" n="24" break="no"/>fugere ad natiuitatem: quia illud est vnum aliud 
+      <lb ed="#C" n="25"/>celebre festum ad partem. Nec valet iterum cur: 
+      <lb ed="#C" n="26"/>rere ad tempus quo ipsa erat sanctificata in vte 
+      <lb ed="#C" n="27"/>ro: quia tunc deberet dici festum sanctificationis 
+      <lb ed="#C" n="28"/>in vtero. Nec valet currere ad conceptionem virgi 
+      <lb ed="#C" n="29"/>nis extra vterum: quia hoc est coincidere cum 
+      <lb ed="#C" n="30"/>natiuitate.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e497">
+      ¶ Quinto arguitur sic. Ista est deter 
+      <lb ed="#C" n="31"/>minatio sacre facultatis parrhisiensis: Ita quod 
+      qui<lb ed="#C" n="32" break="no"/>libet bacchalariorum et doctorandorum in 
+      theolo<lb ed="#C" n="33" break="no"/>gia est obligatus iurare tenere illam doctrinam 
+      <lb ed="#C" n="34"/>quod beata virgo non erat concepta in peccato 
+      ori<lb ed="#C" n="35" break="no"/>ginali. hoc Colonie etiam conclusum est. 
+   </p>
+            <p xml:id="jb2v19-d78780-d1e510">
+               <lb ed="#C" n="36"/>¶ Sed dices. articuli parrhisienses et 
+      colonien<lb ed="#C" n="37" break="no"/>ses non pertranseunt Rhenum et Sequanam: 
+      <lb ed="#C" n="38"/>immo non vagantur per illas vniuersitates: quia 
+      <lb ed="#C" n="39"/>non erant conditi ab episcopis: sed a facultatibus: 
+      <lb ed="#C" n="40"/>que non habent obligare non subiectos. 
+   </p>
+            <p xml:id="jb2v19-d78780-d1e524">
+               <lb ed="#C" n="41"/>¶ Contra. saltem sequitur erit magna 
+      presumptio<lb ed="#C" n="42" break="no"/>pro hac parte: cum sapientissimisenatus pro ista 
+      <lb ed="#C" n="43"/>parte ad longos annos sincere / et immobiliter 
+      <lb ed="#C" n="44"/>steterunt.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e535">
+      ¶ Sexto arguitur. Concilium 
+      basilien<lb ed="#C" n="45" break="no"/>se hoc conclusit. dicis: illud concilium peperit 
+      ba<lb ed="#C" n="46" break="no"/>siliscum. Contra: istud erat conclusum ante scisma 
+      <lb ed="#C" n="47"/>in concilio.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e544">
+      ¶ Septimo arguitur. Sixtus 
+      quar<lb ed="#C" n="48" break="no"/>tus concessit indulgentias celebrantibus 
+      conce<lb ed="#C" n="49" break="no"/>prtionem diue virginis. ergo est contradicere 
+      ma<lb ed="#C" n="50" break="no"/>ximo pontifici negare quod beata virgo erat 
+      conce<lb ed="#C" n="51" break="no"/>pta in gratia. Sed dices sicut dicunt. non 
+      diffini<lb ed="#C" n="52" break="no"/>uit hoc pontificaliter et sic aberrare poterat: et 
+      <lb ed="#C" n="53"/>multi meliores eo dicunt ante eum non 
+      diffiniue<lb ed="#C" n="54" break="no"/>runt. Istud non valet. non est verisimile quod ipse 
+      so<lb ed="#C" n="55" break="no"/>lus suo nutu hoc conclusit. sed concilio fratrum 
+      du<lb ed="#C" n="56" break="no"/>ctus: cum inuocatione spiritus sancti. Secundum 
+      <lb ed="#C" n="57"/>dictum nihil valet: locus a non concludere 
+      nega<lb ed="#C" n="58" break="no"/>tiue est nullus: multe veritates successu temporum 
+      <lb ed="#C" n="59"/>patefacte sunt de quibus nullam mentionem 
+      ma<lb ed="#C" n="60" break="no"/>iores eorum fecerunt: nec de sanctimonia loquen¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>dum est: quia sic diceres de quacunque determina 
+      <lb ed="#C" n="62"/>tione alicuius pontificis / quod ipsa esset nulla: quia 
+      <lb ed="#C" n="63"/>dicam petrus non conclusit hoc: quo nullus alius 
+      <lb ed="#C" n="64"/>adhuc maximus pontifex surrexit sanctior. 
+   </p>
+            <p xml:id="jb2v19-d78780-d1e586">
+               <lb ed="#C" n="65"/>¶ Alias suasiones multas adducere possumus: 
+      <lb ed="#C" n="66"/>sed non conducit: quia iste sunt potiores que 
+      mee<lb ed="#C" n="67" break="no"/>menti occurrunt. inter respondendum ad 
+      ratio<lb ed="#C" n="68" break="no"/>nes aduersariorum aliqua dicam.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e597">
+      ¶ Sed contra istam 
+      <lb ed="#C" n="69"/>conclusionem arguitur sic. Romanorum tertio. 
+      Om<lb ed="#C" n="70" break="no"/>nes peccauerunt. et c. Et Romanorum quinto. e 
+      <lb ed="#C" n="71"/>vnum hominem peccatum intrauit in mundo. Et 
+      <lb ed="#C" n="72"/>Augustinus quinto libro contra Iuil. Omnes 
+      ho<lb ed="#C" n="73" break="no"/>mines vulneratos esse pccato prothoplasti 
+      Apo<lb ed="#C" n="74" break="no"/>stolus approbat cum dicit. Omnes enim 
+      pecca<lb ed="#C" n="75" break="no"/>uerunt / et egent gratia dei: et tamen ibi de beata 
+      <lb ed="#C" n="76"/>virgine nulla fit exceptio. et in libro de natura et 
+      <lb ed="#C" n="77"/>gratia: Et recitatur a magistro distinctione 
+      ter<lb ed="#C" n="78" break="no"/>tia tertii libri. Si omnes sancti et sancte cum his 
+      <lb ed="#C" n="79"/>viuerent interrogati fuissent: an peccatum 
+      habe<lb ed="#C" n="80" break="no"/>rent: omnes vna voce clamassent. Si dixerimuas 
+      <lb ed="#C" n="81"/>quia peccatum non habemus ipsi nos seducimus: 
+      <lb ed="#C" n="82"/>et veritas in nobis non est. Et Gregorius 
+      duode<lb ed="#C" n="83" break="no"/>cimo moralium. Nullus sine peccato fuit: nisi ille qui 
+      <lb ed="#C" n="84"/>in hoc mundo venit sine peccatuo. et Psalmo 
+      duode<lb ed="#C" n="85" break="no"/>cimo hieronymus. vnica est anima christi: quia sola 
+      <lb ed="#C" n="86"/>sine peccato. et Luce secundo. Ambrosius dicit 
+      <lb ed="#C" n="87"/>quod enim ex te nascetur sanctum: solus enim 
+      per<lb ed="#C" n="88" break="no"/>omnia est natus de femina sanctus dominus Iesus. 
+      <lb ed="#C" n="89"/>Et psalmo tertio. Omnes filii hominum 
+      corru<lb ed="#C" n="90" break="no"/>pti: et abhominabiles facti sunt: non est qui faciat 
+      <lb ed="#C" n="91"/>bonum vsque ad vnum. et Augustinus de fide ad 
+      <lb ed="#C" n="92"/>petrum Firmissime tene: et nullatenus dubites: 
+      <lb ed="#C" n="93"/>omnem hominem qui per concubitum viri et 
+      mu<lb ed="#C" n="94" break="no"/>lieris concipitur in originali peccato nasci: 
+      impie<lb ed="#C" n="95" break="no"/>tati subditum: mortique subiectu: et ob hoc naturali 
+      <lb ed="#C" n="96"/>ter nasci ire filium. De qua dicit apostolus. eramus 
+      <lb ed="#C" n="97"/>aliquando natura filii ire: sicut et ceteri. De qua 
+      <lb ed="#C" n="98"/>nullus liberatur nisi per gratiam et fidem dei et 
+      ho<lb ed="#C" n="99" break="no"/>minis Iesu christi.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e667">
+      ¶ Sed he auctoritates non 
+      <lb ed="#C" n="100"/>mouent. Sacre littere patiuntur expositionem et 
+      mul<lb ed="#C" n="101" break="no"/>tum fidei patribus in his expositionibus exhibere: et 
+      <lb ed="#C" n="102"/>merito: solemus. ad scripta patrum ergo respondere 
+      suffi<lb ed="#C" n="103" break="no"/>ciet. Et istos patres in oppositum adducam. et per 
+      conse<lb ed="#C" n="104" break="no"/>quens dicere oportebit eos sibi contradixisse. et ex conse 
+      <lb ed="#C" n="105"/>quenti nullam fidem eis esse dandam. vel oportet 
+      ite<lb ed="#C" n="106" break="no"/>rum eos exponere. Dicit enim Augustinus in 
+      li<lb ed="#C" n="107" break="no"/>bro de natura et gratia. quod hac virgie excepta si omnes 
+      <lb ed="#C" n="108"/>sancti et sancte congregari possent: et quareret ab 
+      <lb ed="#C" n="109"/>peccatum haberent / quid possunt repod. 
+      <lb ed="#C" n="110"/>Io annes anit Si dixeremus quod peccatum non 
+      habe<lb ed="#C" n="111" break="no"/>mus nos ipsos seducimus: et veritas in nobis non 
+      <lb ed="#C" n="112"/>est. ergo Augusti. asserit virginem omnis peccati ex 
+      <lb ed="#C" n="113"/>pertem. Et iterum cum de peccatis agitur de virgi 
+      <lb ed="#C" n="114"/>ne Maria nulla prorsus intendo mentionem agere 
+      <lb ed="#C" n="115"/>scimus enim tantum gratiae ad vincendum ex omni parte 
+      pec<lb ed="#C" n="116" break="no"/>catum illi fuisse collatum: quam illum meruit parere 
+      <lb ed="#C" n="117"/>quem constat nullum habuisse peccatum. Ex qui patet 
+      <lb ed="#C" n="118"/>quod negat eam vnquam fuisse in peccato. Et in secundo 
+      <lb ed="#C" n="119"/>sermone de natiuitate eiusdem super illo verbo 
+      <lb ed="#C" n="120"/>angeli. Aue gratia plena: dicit. quid iustitie: quid
+      <pb ed="#V" n="133-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>fanctitatis hec vlrgo indigere potult: que 
+      effica<lb ed="#C" n="2" break="no"/>cis ad omnia gratie plenitudinem accepit: aut quis vnquam 
+      <lb ed="#C" n="3"/>in eius anima vel corpore locus potuit inueniri 
+      pec<lb ed="#C" n="4" break="no"/>cati: que ad instar celi continentis omnia: templum 
+      <lb ed="#C" n="5"/>domini est effecta. hec est domus: de qua per 
+      Salo<lb ed="#C" n="6" break="no"/>monem dicitur. sapientia edificauit sibi domum 
+      <lb ed="#C" n="7"/>hanc profecto domum diuina sapientia edific aui¬ um 
+      <lb ed="#C" n="8"/>De qua carnem assumeret. cui nullus 
+      patriarcha<lb ed="#C" n="9" break="no"/>rum: nullus prophetarum est conferendus. Nec mirum 
+      <lb ed="#C" n="10"/>si hec virgo puritate / cunctorum celsitudinem 
+      trans<lb ed="#C" n="11" break="no"/>cendit mortalium: cum partu omnium merita 
+      exce<lb ed="#C" n="12" break="no"/>dat angelorum. Item magis exprimit hoc btus hie 
+      <lb ed="#C" n="13"/>ronymus super illud Psalmi septuagesimi 
+      septi<lb ed="#C" n="14" break="no"/>mi. Deduxit eos in nube diei: et tota nocte in 
+      illumi<lb ed="#C" n="15" break="no"/>natione ignis. vbi dicit hieronymus quam per illam 
+      <lb ed="#C" n="16"/>nubem possumus intelligere sanctam Mariam. 
+      <lb ed="#C" n="17"/>illa enim nullo humano pondere praegrauata semper 
+      <lb ed="#C" n="18"/>fuit in die: et nunquam in nocte: et semper in luce: et 
+      nu<lb ed="#C" n="19" break="no"/>quam in tenebris Ex quo patet quod tam de mente hie 
+      <lb ed="#C" n="20"/>ronymi quam de mente Augustini fuit quod virgo 
+      Ma<lb ed="#C" n="21" break="no"/>ria non solum ab actuali et veniali: sed etiam ab 
+      <lb ed="#C" n="22"/>originali peccato fuit per gratiam preseruata. 
+      Nan<lb ed="#C" n="23" break="no"/>Augustinus dicit quod nullus preter ipsam potuit 
+      di<lb ed="#C" n="24" break="no"/>cere nullum habuisse peccatum: et quod vicerit ex 
+      omni<lb ed="#C" n="25" break="no"/>partem peccatum: et quod nunquam in eius corpore vel 
+      a<lb ed="#C" n="26" break="no"/>nima locus potuit inueniri peccati. Beatus vero 
+      <lb ed="#C" n="27"/>Hieron ymus dicit quod ipsa nunquam fuit in nocte 
+      pe<lb ed="#C" n="28" break="no"/>cati: sed semper in die gratie: et nunquam in tenebris: 
+      <lb ed="#C" n="29"/>sed in luce. ergo ab omni peccato fuit preseruata. E 
+      <lb ed="#C" n="30"/>hiis patet quod isti sacti exponunt se in vno loco de 
+      ho<lb ed="#C" n="31" break="no"/>quod dicunt in alio
+   </p>
+            <p xml:id="jb2v19-d78780-d1e788">
+      ¶ Sed dicis / quod in istis aucto 
+      <lb ed="#C" n="32"/>ritatibus loquuntur de peccato actuali. Et ego 
+      <lb ed="#C" n="33"/>dico de quolibet peccato. cum nullum excipiat: 
+      <lb ed="#C" n="34"/>et peccatum originale est peccatum simpliciter secundum 
+      <lb ed="#C" n="35"/>Anselmum: et veritatem.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e799">
+      ¶ Ulterius ex isto 
+      pa<lb ed="#C" n="36" break="no"/>tet ad minus oportet dicta istorum exponere 
+      se<lb ed="#C" n="37" break="no"/>cundum rationem: et tunc erunt pro conclusione nostra. vel 
+      <lb ed="#C" n="38"/>dicere quod exponunt se in istis locis vltimis in qui 
+      <lb ed="#C" n="39"/>bus est specialis mentio de beata virgine: quia speciale 
+      <lb ed="#C" n="40"/>rescriptum derogat generali: vt patet extra: de 
+      <lb ed="#C" n="41"/>rescriptis. Et sic iterum habebitur conclusio. 
+   </p>
+            <p xml:id="jb2v19-d78780-d1e815">
+               <lb ed="#C" n="42"/>¶ Tertio dicitur quod isti patres nullo pacto 
+      cogi<lb ed="#C" n="43" break="no"/>tarunt an beata virgo est concepta in peccato origi 
+      <lb ed="#C" n="44"/>nali vel ne. Propterea loquebantur de his que 
+      <lb ed="#C" n="45"/>communiter contingebant. si occurrisset eis in mentem 
+      <lb ed="#C" n="46"/>non vmbratice: sed lucide suas sententias: sicut in 
+      <lb ed="#C" n="47"/>multis aliis materiis deprompsissent.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e831">
+      ¶ 
+      Quar<lb ed="#C" n="48" break="no"/>to dicitur propter auctoritates scripture et alias 
+      <lb ed="#C" n="49"/>quod secundum iegem communem quilibet 
+      propaga<lb ed="#C" n="50" break="no"/>tus per commixtionem duorum seminum est conceptus 
+      <lb ed="#C" n="51"/>in peccato originali: sed nulla lex est vel pauce 
+      sut<lb ed="#C" n="52" break="no"/>leges extra egem nature que nullam patiantur in 
+      <lb ed="#C" n="53"/>stantiam: sed beata virgo erat preseruata ab illa 
+      le<lb ed="#C" n="54" break="no"/>ge: et hoc rationabiliter. si Ioannes baptista et 
+      <lb ed="#C" n="55"/>Hieremias erant sanctificati in vtero: quanto 
+      for<lb ed="#C" n="56" break="no"/>tius debeat mater christi esse sanctificata in 
+      primo<lb ed="#C" n="57" break="no"/>instanti: sicut videmus in legibus positiuis quod conditor 
+      <lb ed="#C" n="58"/>legis dispensat pro rationabili causa in aliquibus personis 
+      <lb ed="#C" n="59"/>vt patet de Hester a proud Assuerum: et in aliis legibus 
+      posi<lb ed="#C" n="60" break="no"/>tiuis regum.
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>bus nec imperatrix mon beata virgo est imperatrix 
+      to<lb ed="#C" n="62" break="no"/>tius mundi. ergo nescis eam conarctare legibus 
+      cete<lb ed="#C" n="63" break="no"/>rorum: si bene de ea iudices.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e870">
+      ¶ Secundo arguitur. 
+      <lb ed="#C" n="64"/>beatus Bernardus ad canonicos Lugdunm 
+      <lb ed="#C" n="65"/>(vt patet in ista epistola) concedit ea esse conceptam in 
+      pec<lb ed="#C" n="66" break="no"/>cato originali: nec festu conceptionis est celebrandi 
+      <lb ed="#C" n="67"/>Ide tenet multi sancti patres. patet de doctore 
+      <lb ed="#C" n="68"/>seraphico: et de doctore sancto. ergo tenere 
+      opposi<lb ed="#C" n="69" break="no"/>tum est contradicere sanctis: et dicere quod ipsi in hoc 
+      pec<lb ed="#C" n="70" break="no"/>carunt. Multi alii ad hoc possunt introduci.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e888">
+      ¶ 
+      Respon<lb ed="#C" n="71" break="no"/>detur concedendo quod hoc dicat beatus Bernardus: 
+      <lb ed="#C" n="72"/>sed Thomas tenuit hanc conclusionem distinc. 44. 
+      <lb ed="#C" n="73"/>primi sententiarum quaestione prima in solutione ad 
+      ter<lb ed="#C" n="74" break="no"/>tium. Et doctor seraphicns duas positiones 
+      probabi<lb ed="#C" n="75" break="no"/>les in hac materia recitat dans modum sustinendi 
+      hu<lb ed="#C" n="76" break="no"/>ius conclusionis per argumenta virorum qui eum 
+      precesse<lb ed="#C" n="77" break="no"/>runt: licet magis declinauerit in contradictorium 
+      hu<lb ed="#C" n="78" break="no"/>ius conclusionis. Non reprobat modum celebrandi 
+      <lb ed="#C" n="79"/>de conceptione multum sobrie (suo more) in hac 
+      <lb ed="#C" n="80"/>parte loquutus est.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e913">
+      ¶ Pro omnibus istis negentur 
+      pe<lb ed="#C" n="81" break="no"/>de fixo: et tot quot adduxeris: et quod non 
+      volunta<lb ed="#C" n="82" break="no"/>rie loquar patet. multe erant opiniones in diebus 
+      <lb ed="#C" n="83"/>beati Augustini celebres quae nunc in nichilum 
+      con<lb ed="#C" n="84" break="no"/>uerse sunt tanquam inopinabiles: et tu colligis mihi 
+      <lb ed="#C" n="85"/>Ioannem Andream et ei similes in iure et alios 
+      con<lb ed="#C" n="86" break="no"/>cionatores et hystoricos qui parum etatis in 
+      theolo<lb ed="#C" n="87" break="no"/>gia consumpserunt: ac si ex multitudine populti 
+      <lb ed="#C" n="88"/>staret victoria belli: et non ex virtute eius / qui d 
+      <lb ed="#C" n="89"/>celo es: cuius oppositum senserat magnanimus 
+      Ma<lb ed="#C" n="90" break="no"/>chabeus. Hec conclusio ex fote puriori (vt ex 
+      prae<lb ed="#C" n="91" break="no"/>missis patuit) collecta est quod opposita. mon habe 
+      <lb ed="#C" n="92"/>mus in schola modum negare doctores 
+      scholasti<lb ed="#C" n="93" break="no"/>cons omnes qui scripserunt per arguitur sic: vt ita 
+      loquar<lb ed="#C" n="94" break="no"/>quando nostre positioni contradicut. tam auctoritatis 
+      ha<lb ed="#C" n="95" break="no"/>bent quantum eorum rationes valet. hoc patet apud 
+      <lb ed="#C" n="96"/>eos quae schola parrhissese visitarunt.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e950">
+      ¶ Insuper. 
+      nul<lb ed="#C" n="97" break="no"/>lum istorum famatu dabis quin illum ab aliquo poste 
+      <lb ed="#C" n="98"/>riorum (et merito crebro) tibi ostendam impugnatum 
+      De<lb ed="#C" n="99" break="no"/>beato Bernardo et similibus: et de his magnis per 
+      <lb ed="#C" n="100"/>tribus quorum aliqui erat scholastici. dicat quod eorum 
+      se<lb ed="#C" n="101" break="no"/>ctimonie non obuiat error in intellectu.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e963">
+      ¶ Non 
+      con<lb ed="#C" n="102" break="no"/>cedo more multorum quod patres tenctes contradicto 
+      <lb ed="#C" n="103"/>riam peccarunt: eo quod nimis leuiter asseruerunt aliquid 
+      <lb ed="#C" n="104"/>ad quod non habuerunt motiua. Dico ei quod motiua 
+      <lb ed="#C" n="105"/>habebant sufficientia: et pro illa tempestate habebant 
+      <lb ed="#C" n="106"/>ignorantiam inuincibilem. nunc autem qui teneret 
+      conclusio<lb ed="#C" n="107" break="no"/>nem eorum / male ageret et haberet errorem vincibilem 
+      <lb ed="#C" n="108"/>qui a toto non excusat: stat quod quis volendo assentire 
+      <lb ed="#C" n="109"/>falso: vel falso volendo assentire tantum mereatur 
+      si<lb ed="#C" n="110" break="no"/>cut volens assentire vero: vtraque pars habuit iustam 
+      <lb ed="#C" n="111"/>causam: nunc autem vna sola habet iusta alia autem in 
+      <lb ed="#C" n="112"/>iusta: quod si neges et oppositum hic tenere tent 
+      <lb ed="#C" n="113"/>ris: vide quod honestum fine cosequeris. Ex hoc 
+      pa<lb ed="#C" n="114" break="no"/>aliquorum inscitia beatum Bernardum / 
+      <lb ed="#C" n="115"/>tium vni deuoto apparuisse cum macusa in 
+      fron<lb ed="#C" n="116" break="no"/>te. Propterea quia tenuerat quod beata virgo erat. 
+      <lb ed="#C" n="117"/>concepta in peccato originali. Falsitas illius quod 
+      <lb ed="#C" n="118"/>relarit patet ex dictis.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e1002">
+      ¶ Secundum patet fictio es 
+      <lb ed="#C" n="119"/>dicere quod fratres praedicatores habent cucullam brevio 
+      <lb ed="#C" n="120"/>rem super tunicam albam: et arcentur dicere
+      <pb ed="#V" n="133-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>ue regina / in corpore ecclesie / in penam illus quod to 
+      <lb ed="#C" n="2"/>nuerunt nostram dominam in peccato originali fuisa 
+      <lb ed="#C" n="3"/>se conceptam: licet apud plebeos: potissimum 
+      no<lb ed="#C" n="4" break="no"/>istrates: immo populares: est vnum figmentum. 
+      tem<lb ed="#C" n="5" break="no"/>pore quo ista fecernnt in templo: et vestes sic 
+      dispo<lb ed="#C" n="6" break="no"/>sitas primo deferebant: non peccarunt.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e1026">
+      ¶ Tertio 
+      <lb ed="#C" n="7"/>patet. imprudenter agunt iidem religiosi si ori non 
+      <lb ed="#C" n="8"/>mponunt silentium / et digito compescant 
+      label<lb ed="#C" n="9" break="no"/>la: tenere vlterius quad dei genitrix in peccato 
+      ori<lb ed="#C" n="10" break="no"/>ginali est concepta. in hoc non edificant: sed 
+      peru<lb ed="#C" n="11" break="no"/>nicaciam ostendunt: vt vincant. scisma excitant in 
+      po<lb ed="#C" n="12" break="no"/>pulo: et populus (vt par est) repugnat. teste 
+      Salu<lb ed="#C" n="13" break="no"/>stio. Frustra niti: et nil nisi odium querere extreme 
+      <lb ed="#C" n="14"/>dementie est.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e1046">
+      ¶ Quarto patet. inanem esse 
+      colle<lb ed="#C" n="15" break="no"/>ctionem multorum doctorum apud concionatores 
+      pro<lb ed="#C" n="16" break="no"/>parte contradictoria. Patet. colligunt doctores 
+      per<lb ed="#C" n="17" break="no"/>superficiem littere qui de hac materia nihil 
+      cogi<lb ed="#C" n="18" break="no"/>tarunt: vel si sonum verborum capiunt in vna 
+      par<lb ed="#C" n="19" break="no"/>te non respiciunt ad partem opposita. computa 
+      <lb ed="#C" n="20"/>vt aiut sine hospite. et sic maet auditorium 
+      turba<lb ed="#C" n="21" break="no"/>tum: immo concionatores / qui ad hanc conclusionem qua 
+      <lb ed="#C" n="22"/>tenemus etiam superuacanee colligunt doctores 
+      pro<lb ed="#C" n="23" break="no"/>hac parte: quia expresse oppositum tenuerunt / vel de 
+      <lb ed="#C" n="24"/>conclusione nichil cogitarunt.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e1071">
+      ¶ Tertio arguitur 
+      <lb ed="#C" n="25"/>beata virgo mortua est. et ille est effectus pccati 
+      ori<lb ed="#C" n="26" break="no"/>ginalis. Insuper. hac via ipsa equaretur chriso: quia 
+      <lb ed="#C" n="27"/>esset concepta sine peccato originali: sicut chrisi 
+   </p>
+            <p xml:id="jb2v19-d78780-d1e1080">
+               <lb ed="#C" n="28"/>¶ Ad primum concedo antecedens eius morti apostoli in 
+      <lb ed="#C" n="29"/>terfuerunt. mors non est effectus peccati origina 
+      <lb ed="#C" n="30"/>lis: sed conditio nature: nec ex aliqua cuipa 
+      sequi<lb ed="#C" n="31" break="no"/>tur.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e1091">
+      ¶ Ad secundum nego assumptum Christus 
+      <lb ed="#C" n="32"/>est deus: ipsa autem creatura: quam ob 
+      humilita<lb ed="#C" n="33" break="no"/>tem benedicunt omnes generationes. Si sit sermo 
+      <lb ed="#C" n="34"/>de humanitate christi: Ille non erat conceptus ex 
+      <lb ed="#C" n="35"/>commixtione seminum. secus est de beata virgine 
+      <lb ed="#C" n="36"/>quae concepta est ex Ioachim et Anna. in gratia et. 
+      <lb ed="#C" n="37"/>multis gratuitis beatam virginem longe anteibat: 
+      ani<lb ed="#C" n="38" break="no"/>ma eius erat beata in primo instanti quo erat in 
+      <lb ed="#C" n="39"/>re rum natura omnia sciens: infinitam gratiam 
+      intensiue<lb ed="#C" n="40" break="no"/>habens. Ista non competebant beate virgini. Insuper 
+      <lb ed="#C" n="41"/>honorem beate virgini tribuimus propter filium: non 
+      <lb ed="#C" n="42"/>autem econuerso.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e1117">
+      ¶ Quarto arguitur. ordo 
+      Carthu<lb ed="#C" n="43" break="no"/>siensium (sicut aduersarii asserut) festu 
+      concepti<lb ed="#C" n="44" break="no"/>onis per orbem totum non celebrat nisi sub nomie 
+      <lb ed="#C" n="45"/>anctifications dicens in prima oratione. 
+      Suppli<lb ed="#C" n="46" break="no"/>cationem seruorum tuorum deus mis. exaudi: vt qui in 
+      sam<lb ed="#C" n="47" break="no"/>ctificatione.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e1130">
+      ¶ Ulterius si ipsa non erat concepta 
+      <lb ed="#C" n="48"/>in pecccato originali / non fuisset obligata 
+      pecca<lb ed="#C" n="49" break="no"/>to: nec pene: nec habuisset reatum peccati: sed qui 
+      <lb ed="#C" n="50"/>non habet reatum peccati non indiget redemptio 
+      <lb ed="#C" n="51"/>ne: quia redemptio est solum propter 
+      obligatio<lb ed="#C" n="52" break="no"/>nem peccati vel pene: et propter reatum peccati. 
+      <lb ed="#C" n="53"/>ergo beata virgo non indiguisset redemptione 
+      fa<lb ed="#C" n="54" break="no"/>cta per christum. Et hec est ratio Alexandri halensis.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e1148">
+      ¶ Ad 
+      <lb ed="#C" n="55"/>quartum non credo illud esse verum: potissimum de 
+      Ca<lb ed="#C" n="56" break="no"/>thusiensibus citra alpes. Et si verum esset: responsionem 
+      <lb ed="#C" n="57"/>habeno inm proptu / certe non eos excusando.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e1158">
+      ¶ Ad aliud 
+      <lb ed="#C" n="58"/>dicitur. quod passio christi profuit beate virgini sicut 
+      <lb ed="#C" n="59"/>aliis: quia ratione illius actus eius erant magis 
+      accep<lb ed="#C" n="60" break="no"/>ti quod fuissent sine passione: sed quo ad liberatione
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>culpe nullo pacto.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e1171">
+      ¶ Quinto arguitur. beata 
+      vir<lb ed="#C" n="62" break="no"/>go decepta est quod non conuenit ante peccatum: vt / 
+      <lb ed="#C" n="63"/>perius probatum est de primis parentibus. antecedens 
+      pa<lb ed="#C" n="64" break="no"/>tet. Luce secundo. Ipsa existimabat christum esse in 
+      co<lb ed="#C" n="65" break="no"/>mitatu Ioseph: et tamen non erat. sed mansit disputans 
+      <lb ed="#C" n="66"/>Hierosolymis cum doctoribus: quia cum modus 
+      <lb ed="#C" n="67"/>erat cum Hierosolymam adibant viri incedebant 
+      sep<lb ed="#C" n="68" break="no"/>ratim a mulieribus euntes et redeuntes: et paruuli 
+      po<lb ed="#C" n="69" break="no"/>terant incedere: cum hac parte vel illa. Beata virgo 
+      <lb ed="#C" n="70"/>egressa est hierosolymam. ergo oportet dicere quod 
+      <lb ed="#C" n="71"/>sa putabat christum esse in comitatu Ioseph et post 
+      <lb ed="#C" n="72"/>iter diei putabant eum egressum fuisse a 
+      Hierosoly<lb ed="#C" n="73" break="no"/>ma: et tamen ita non erat a parte rei. quod ita sit: al 
+      <lb ed="#C" n="74"/>legabo verba euangeliste ad litteram. Et cum 
+      fa<lb ed="#C" n="75" break="no"/>ctus esset annorum duodecim ascendentibus 
+      il<lb ed="#C" n="76" break="no"/>lis Hierosolymam secundum consuetudinem diei festi: 
+      <lb ed="#C" n="77"/>consummatisque diebus cum redirent / remansit puer 
+      Ie<lb ed="#C" n="78" break="no"/>sus in Hierusalem et non cognouerunt parentes 
+      <lb ed="#C" n="79"/>eius. Existimantes autem illum esse in comitatu 
+      ve<lb ed="#C" n="80" break="no"/>nerunt iter diei: et requirebant eum inter 
+      cogna<lb ed="#C" n="81" break="no"/>tos / et notos. Et non inuenientes regressi sunt in 
+      <lb ed="#C" n="82"/>Hierlum requirentes eum. Et factum est post 
+      tri<lb ed="#C" n="83" break="no"/>duum inuenerunt illum in templo sedentem in medio 
+      <lb ed="#C" n="84"/>doctorum: et audientem illos / et interrogantem. 
+      Stu<lb ed="#C" n="85" break="no"/>pebant autem omnes qui eum audiebant super 
+      pruden<lb ed="#C" n="86" break="no"/>tia / et responsis eius / et videntes admirati sunt. Et 
+      <lb ed="#C" n="87"/>dixit mater eius ad illum. Fili quid fecisti nobis 
+      <lb ed="#C" n="88"/>sic: Ecce pater tuus et ego dolentes quaerebamus te. 
+   </p>
+            <p xml:id="jb2v19-d78780-d1e1232">
+               <lb ed="#C" n="89"/>¶ Ad hoc argumentum in primis respondetur: consequentia est 
+      nul<lb ed="#C" n="90" break="no"/>la: licet ita sit quod primi parentes ante primum peccatum 
+      <lb ed="#C" n="91"/>non errarunt: et sancti hoc pro inconuenienti 
+      ha<lb ed="#C" n="92" break="no"/>buerunt ante tempus nature destitute: modo 
+      be<lb ed="#C" n="93" break="no"/>ata virgo venit tempore nature destitute. Deus 
+      <lb ed="#C" n="94"/>preseruauit eam ab omni culpa. quis potest erra 
+      <lb ed="#C" n="95"/>re tamen sine culpa: ergo errare non concludit ea 
+      fuis<lb ed="#C" n="96" break="no"/>se conceptam in peccato originali. Sed tentemus 
+      <lb ed="#C" n="97"/>an littera Luce: potest exponi veniendo ad 
+      parti<lb ed="#C" n="98" break="no"/>culas que aliquid difficultatis habent: de illo 
+      ver<lb ed="#C" n="99" break="no"/>bo: et non cognouerunt parentes eius. hoc potest 
+      <lb ed="#C" n="100"/>verificari duobus modis. Unomodo sic: quia 
+      Io<lb ed="#C" n="101" break="no"/>seph non cognouit. ergo parentes eius non 
+      cogno<lb ed="#C" n="102" break="no"/>uerunt: sicut demonstrando cecum et videntem vn 
+      <lb ed="#C" n="103"/>re dicimus: isti non vident. sic in proposito: sed 
+      po<lb ed="#C" n="104" break="no"/>est nimis lophisticum. Aliomodo sic. non cogno 
+      <lb ed="#C" n="105"/>uerunt parentes eius beatam virginem. multa 
+      la<lb ed="#C" n="106" break="no"/>tent: ipsa nescit omnia distincte: solum deus et 
+      ani<lb ed="#C" n="107" break="no"/>ma christi omnia cognoscunt distincte: sed postea 
+      <lb ed="#C" n="108"/>sequitur particula. Existimantes autem illum esse e 
+      <lb ed="#C" n="109"/>comitatu venerunt iter diei: et requirebant eum 
+      <lb ed="#C" n="110"/>inter cognatos et notos. ergo Ioseph 
+      existima<lb ed="#C" n="111" break="no"/>bat christum fuisse in comitatu diue virginis: et 
+      <lb ed="#C" n="112"/>de errore Ioseph nullam difficultatem facimus 
+      <lb ed="#C" n="113"/>Et rursus: beata virgo putabat puerum Iesum 
+      es<lb ed="#C" n="114" break="no"/>se in comitatu Ioseph: quia quid est existimare 
+      <lb ed="#C" n="115"/>nisi assensum habere sic ad herendo: Si dicas: 
+      tamten<lb ed="#C" n="116" break="no"/>valet sicut dubito. Contra. Si btam virgo dubitasset 
+      <lb ed="#C" n="117"/>an christus fuisset in societate Ioseph: eum non 
+      reliqui<lb ed="#C" n="118" break="no"/>set: nec egressa fuisset hierosolyma. ergo oportuit 
+      di<lb ed="#C" n="119" break="no"/>cere quod ipsa assentiebat quod puer Iesus erat in comitatur 
+      <lb ed="#C" n="120"/>putatiui prtis: scilicet Ioseph. in societate virorum. Epad
+      <pb ed="#V" n="134-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>hoc tendit Glosa marginalis que est ipsius vene 
+      <lb ed="#C" n="2"/>rabilis Bede. ergo erat perdifficile saluare 
+      quin<lb ed="#C" n="3" break="no"/>in illo casu beata virgo habuit assensum falsum: 
+      <lb ed="#C" n="4"/>nisi violentam glosam euangeliste dederimus: 
+      pro<lb ed="#C" n="5" break="no"/>pter verbum existimabant. Sed si oporteat in 
+      dis<lb ed="#C" n="6" break="no"/>iunctiuam hanc incidere: quod christifera virgo 
+      ha<lb ed="#C" n="7" break="no"/>buit assensum falsum de filio: vel quod euangeliste. 
+      <lb ed="#C" n="8"/>oportet nos elongare a scylla. scilicet maiori 
+      dis<lb ed="#C" n="9" break="no"/>crimine: et appropinquare Caribdi. Maius 
+      dis<lb ed="#C" n="10" break="no"/>crimen est dare glosam violentam beato 
+      Luce<lb ed="#C" n="11" break="no"/>quam admittere christiferam virginem deceptionem 
+      <lb ed="#C" n="12"/>aliquam incurrisse: quia hoc nullo pacto arguit 
+      pec<lb ed="#C" n="13" break="no"/>catum originale in ea: nec vllo modo peccatum. quia 
+      <lb ed="#C" n="14"/>hoc ipsa non tenebatur scire: vt palam est. Insuper 
+      <lb ed="#C" n="15"/>quod diximus de primis parentibus quod ante 
+      pec<lb ed="#C" n="16" break="no"/>catum non poterant errare: hoc diximus propter 
+      au<lb ed="#C" n="17" break="no"/>ctoritatem beati Augustini: sed illa probatio est bene 
+      <lb ed="#C" n="18"/>tenuis. cum ipse sufficienter ratione suum dictum non 
+      <lb ed="#C" n="19"/>probet. nec auctoritate. et illud negando nulla est 
+      ap<lb ed="#C" n="20" break="no"/>parentia in argumento. Et licet hoc argumentum 
+      <lb ed="#C" n="21"/>ali a via est solutum. Forte secunda solutio potest 
+      <lb ed="#C" n="22"/>esse quod non inconuenit primos parentes ante 
+      om<lb ed="#C" n="23" break="no"/>ne peccatum errasse: errore quidam quem non tenebantur 
+      <lb ed="#C" n="24"/>scire: et hoc dico nisi aliunde solidior probatio 
+      eue<lb ed="#C" n="25" break="no"/>niat. Forte etiam non actualiter cogitabat 
+      bea<lb ed="#C" n="26" break="no"/>ta virgo de christo quando discessit a Hierosoly 
+      <lb ed="#C" n="27"/>ma: sed in itinere existimabat eum esse in comita 
+      <lb ed="#C" n="28"/>tu Ioseph: id est dubitabat: et celeriter disposuit 
+      <lb ed="#C" n="29"/>se ad obuiandum Ioseph: vt exitum rei videret: quo 
+      <lb ed="#C" n="30"/>cognito statim rediit hierosolymam: etiam in 
+      litte<lb ed="#C" n="31" break="no"/>ra ponitur pater tuus et ego. et palam est quod Ioseph 
+      <lb ed="#C" n="32"/>non erat pater eius: sed solum putatiuus: sed alia 
+      <lb ed="#C" n="33"/>verba euangeliste exponunt hoc. de isto tertio 
+      pro<lb ed="#C" n="34" break="no"/>nunc nichil assero: alias fortasse loquendum erit. 
+   </p>
+            <p xml:id="jb2v19-d78780-d1e1382">
+               <lb ed="#C" n="35"/>¶ Sed dicis. Romanus pontifex prohibet mouere 
+      <lb ed="#C" n="36"/>litem contra predicatores. ergo nichil de hac 
+      ma<lb ed="#C" n="37" break="no"/>teria voluit dicere. antecedens patet in quadam 
+      extraua<lb ed="#C" n="38" break="no"/>gante Sixti.
+   </p>
+            <p xml:id="jb2v19-d78780-d1e1393">
+      ¶ Respondetur hoc non concludit: quia 
+      i<lb ed="#C" n="39" break="no"/>se tenebat hanc conclusionem: sed ad cauendum a 
+      <lb ed="#C" n="40"/>lite prohibebat aliis maledicere.
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

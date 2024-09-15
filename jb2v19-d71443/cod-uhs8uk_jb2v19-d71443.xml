@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 3</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 3</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="119-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d71443"><!-- l2d26q3 -->
+            <head xml:id="jb2v19-d71443-Hd1e101">Quaestio 3</head>
+            <head xml:id="jb2v19-d71443-Hd1e103" type="question-title">Utrum actus meritorius et non meritorius sunt eiusdem speciei in genere naturae</head>
+            <p xml:id="jb2v19-d71443-d1e106">
+               <lb ed="#C" n="97"/>CIrca istam eandem distinctionem 
+      <lb ed="#C" n="98"/>rgat queritur tertio Utrum actus 
+      me<lb ed="#C" n="99" break="no"/>ritorius et non meritorius sunt 
+      <lb ed="#C" n="100"/>eiusdem speciei in genere nature qae 
+      <lb ed="#C" n="101"/>UN hic tenet sanctus doctorquod non. 
+      <lb ed="#C" n="102"/>x et propterea dicit in septimade 
+      <lb ed="#C" n="103"/>cima distinctione quod attritio et contritio specie 
+      di<lb ed="#C" n="104" break="no"/>stinguuntur. licet sint circa idem obiectum 
+      adequa<lb ed="#C" n="105" break="no"/>tum: et hoc Dionysius cisterciensis insequitur. 
+      <lb ed="#C" n="106"/>heresim addens: quod actus reproborum non sunt 
+      <lb ed="#C" n="107"/>meritorii: quod Guido Carmelita cogebatur re 
+      <lb ed="#C" n="108"/>trahere: vt ex articulis parisiensibus patet: et 
+      eoden<lb ed="#C" n="109" break="no"/>modo dicere debebat / quod Magdalena et nullus 
+      <lb ed="#C" n="110"/>predestinatus demeruit: quod iterum est 
+      secun<lb ed="#C" n="111" break="no"/>da heresis: sed quia hoc alibi improbaui 
+      institu<lb ed="#C" n="112" break="no"/>tum principale ratione prosequamur. 
+   </p>
+            <p xml:id="jb2v19-d71443-d1e143">
+               <lb ed="#C" n="113"/>¶ Contra istam positionem arguitur probando 
+      <lb ed="#C" n="114"/>quod actus meritorius et non meritorius sunt eiusdem 
+      <lb ed="#C" n="115"/>speciei in genere nature: de genere moris non 
+      con<lb ed="#C" n="116" break="no"/>tenditur: quia clara est responsio in illo. 
+      Pona<lb ed="#C" n="117" break="no"/>tur quod Sortes diligat deum in peecato 
+      mortali<lb ed="#C" n="118" break="no"/>sic scilicet quod illa dilectio erit actus bonus 
+      mora<lb ed="#C" n="119" break="no"/>liter: penitudine ducatur Sortes: et continuet eundem 
+      <lb ed="#C" n="120"/>actum scilicet illam dilectionem. tunc ille idem actus qui
+      <pb ed="#V" n="120-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>prius erat non meritorius efficitur meritorius: et 
+      <lb ed="#C" n="2"/>de specie essentiali in speciem essentialem non 
+      la<lb ed="#C" n="3" break="no"/>bitur actus.
+   </p>
+            <p xml:id="jb2v19-d71443-d1e174">
+      ¶ Secundo arguitur ad idem. si actus 
+      <lb ed="#C" n="4"/>meritorius et non meritorius non essent eiusdem 
+      <lb ed="#C" n="5"/>speciei: hoc propterea foret: quia cause effectiue 
+      il<lb ed="#C" n="6" break="no"/>lorum actuum specie distinguuntur: sed hoc non 
+      suffi<lb ed="#C" n="7" break="no"/>cit: quia illo dato: actus precedens habitum et actus 
+      <lb ed="#C" n="8"/>sequens hahitum non essent eiusdem speciei. Et 
+      vl<lb ed="#C" n="9" break="no"/>tra sequitur. habitus productus ab aliquo actu non 
+      <lb ed="#C" n="10"/>inclinat in similes actus in specie specialissima cum 
+      <lb ed="#C" n="11"/>actu a quo emersit. Et vlterius sequitur. si secundus 
+      <lb ed="#C" n="12"/>actus sequens habitum distinguitur specie ab actu 
+      <lb ed="#C" n="13"/>precedente habitum: quod habitus productus a 
+      secun<lb ed="#C" n="14" break="no"/>do actu specie differret ab habitu producto a primo 
+      <lb ed="#C" n="15"/>actu. Patet per fundamentum: quando cause effectiue in 
+      <lb ed="#C" n="16"/>actibus vel habitibus intellectus vel voluntatis 
+      <lb ed="#C" n="17"/>distinguuntur / tunc effectus distiguuntur. Et denique 
+      <lb ed="#C" n="18"/>sequitur quod semper posteriores actus et habitus 
+      spe<lb ed="#C" n="19" break="no"/>cie distinguuntur a precedentibus. Iste 
+      conclusi<lb ed="#C" n="20" break="no"/>ones sunt absone in morali philosophia: et contra 
+      <lb ed="#C" n="21"/>doctrinam Aristo 2. ethicorum.
+   </p>
+            <p xml:id="jb2v19-d71443-d1e217">
+      ¶ Sed hic dicis quae 
+      <lb ed="#C" n="22"/>actus precedens habitum et sequens ipsum (dum 
+      mo<lb ed="#C" n="23" break="no"/>naturaliter acquiritur) sunt eiusdem speciei: quia 
+      <lb ed="#C" n="24"/>licet voluntas non potest ita intensum actum habere 
+      <lb ed="#C" n="25"/>sine habeintu sicu cum hbeintu: tamen partem illius actus potest tenere sine 
+      <lb ed="#C" n="26"/>habitu. Secus est autem de actu meritorio: a quo 
+      <lb ed="#C" n="27"/>subtracta gratia voluntas nec potest totum actum 
+      <lb ed="#C" n="28"/>nec partem eius continuare. Uere istud est 
+      volun<lb ed="#C" n="29" break="no"/>tarium: ita facile potest dicere quod voluntas potest 
+      <lb ed="#C" n="30"/>actum productum a gratia secundum totum vel 
+      secun<lb ed="#C" n="31" break="no"/>dum partem continuare in absentia gratie: non 
+      <lb ed="#C" n="32"/>autem potest continuare actum in toto vel in parte 
+      <lb ed="#C" n="33"/>ab habitu naturali productum. Nullum videtur 
+      discri<lb ed="#C" n="34" break="no"/>men. Tertio arguitur: diligat aliquis crebro 
+      Pla<lb ed="#C" n="35" break="no"/>tonem charitatiue propter deum. a plerisque talibus 
+      <lb ed="#C" n="36"/>generatur habitus charitatis. Modo habitus 
+      in<lb ed="#C" n="37" break="no"/>clinant ad similes actus actibus a quibus 
+      ema<lb ed="#C" n="38" break="no"/>nauerunt.
+   </p>
+            <p xml:id="jb2v19-d71443-d1e256">
+      ¶ Quarto arguitur ad idem. ex ista 
+      po<lb ed="#C" n="39" break="no"/>sitione sequitur quod actus charitatis est intrinsece 
+      bo<lb ed="#C" n="40" break="no"/>nus: sed nullus talis est dandus: prout nunc 
+      suppo<lb ed="#C" n="41" break="no"/>nitur. Et quod sequatur / patet sic. non stat illum actum esse 
+      <lb ed="#C" n="42"/>quiet eliciatur a gratia: et si sic / est bonus: et 
+      essentia<lb ed="#C" n="43" break="no"/>liter talis: cum non stat ipsum esse quin sit talis.
+   </p>
+            <p xml:id="jb2v19-d71443-d1e269">
+      ¶ 
+      Quin<lb ed="#C" n="44" break="no"/>to: ex ista positione sequitur quod aliquis actus a nobis 
+      <lb ed="#C" n="45"/>libere elicitus habet vltimum instans sui esse 
+      com<lb ed="#C" n="46" break="no"/>pletum. hoc consequens non admittitur: quod patet 
+      <lb ed="#C" n="47"/>octauo physicorum. Probo tamen consequentiam. 
+      <lb ed="#C" n="48"/>diligat Sortes Platonem actu intenso: vt octo / 
+      cha<lb ed="#C" n="49" break="no"/>ritatiue. interea temporis peccet mortaliter per 
+      <lb ed="#C" n="50"/>remotionem de presenti: et sit hoc instans 
+      remo<lb ed="#C" n="51" break="no"/>tio de presenti: tunc gratia vt octo est in hoc 
+      instan<lb ed="#C" n="52" break="no"/>ti: que in nullo instanti post hoc erit secundum se 
+      <lb ed="#C" n="53"/>vel aliquid eius: semper loquor de actu producto 
+      <lb ed="#C" n="54"/>a gratia et de actu ab ea non producto: quia si actum 
+      eli<lb ed="#C" n="55" break="no"/>citum a gratia platonis deus non acceptaret / non 
+      <lb ed="#C" n="56"/>esset meritorius: et esset eiusdem speciei cum 
+      actu<lb ed="#C" n="57" break="no"/>meritorio sortis: sed hoc non est contra principa 
+      <lb ed="#C" n="58"/>le.
+   </p>
+            <p xml:id="jb2v19-d71443-d1e304">
+      ¶ Propterea. Sexto ex hac positione sequitur 
+      <lb ed="#C" n="59"/>quod aliquis potest mereri praiemium infinitum secundum legem: 
+      <lb ed="#C" n="60"/>hocconsequens est falsum. Nullum em tale alicui viato¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>ri vnquam dabitur: ostenditur tamen consequentia. eliciat aliquis 
+      <lb ed="#C" n="62"/>actum in instanti diligendi deum (sic doctor cuius 
+      <lb ed="#C" n="63"/>est hec positio admittit) tunc si homo eliciat actum 
+      <lb ed="#C" n="64"/>de necessitate continuat per tempus: alioquin non 
+      <lb ed="#C" n="65"/>videtur quomodo aliquis potest euitare infinitatem 
+      <lb ed="#C" n="66"/>meriti vel demeriti. Sed hac via euadere nequis 
+      <lb ed="#C" n="67"/>quod probo. sicut ille actus in instanti elicitionis 
+      li<lb ed="#C" n="68" break="no"/>ber est: ita est in quolibet instanti continuationis 
+      <lb ed="#C" n="69"/>cuius probatio est: quia in facultate sua est peccare 
+      <lb ed="#C" n="70"/>mortaliter: quocunque instanti dato inchoare 
+      po<lb ed="#C" n="71" break="no"/>terit illum actum: et quod primum peccabit mortaliter 
+      <lb ed="#C" n="72"/>actus desinet esse: quia erat meritorius. ergo sponte iste 
+      <lb ed="#C" n="73"/>actus continuatur.
+   </p>
+            <p xml:id="jb2v19-d71443-d1e341">
+      ¶ Septimo sic arguitur. idem actus 
+      <lb ed="#C" n="74"/>credendi est elicitus a fide infusa et non a fide 
+      in<lb ed="#C" n="75" break="no"/>fusa in intellectu continuatus. ergo voluntas potest 
+      <lb ed="#C" n="76"/>habere eundem actum numero vel in specie cum 
+      <lb ed="#C" n="77"/>charitate et sine charitate: consequentia tenet. Tum primo 
+      <lb ed="#C" n="78"/>non minor est voluntas in suo actu in hoc posse 
+      <lb ed="#C" n="79"/>quam intellectus in suo. Tum secundo: principium 
+      su<lb ed="#C" n="80" break="no"/>stinendi positionem in vtroque habet equale 
+      roburu<lb ed="#C" n="81" break="no"/>Probatur antecedens. si quis assensisset huic christs morietur 
+      <lb ed="#C" n="82"/>per breuem morulam ante mortem: et sic continuando 
+      <lb ed="#C" n="83"/>vnum assensum post mortem christi: iam fides 
+      infusa<lb ed="#C" n="84" break="no"/>post mortem non inclinabit: quia non est actus 
+      <lb ed="#C" n="85"/>fidei / sed erroneus: ante mortem tamen bene in 
+      <lb ed="#C" n="86"/>clinabat.
+   </p>
+            <p xml:id="jb2v19-d71443-d1e372">
+      ¶ Octauo arguitur. idem est actus fidei 
+      <lb ed="#C" n="87"/>informis et fidei formate. ergo idem actus est 
+      me<lb ed="#C" n="88" break="no"/>ritorius et non meritorius. Propterea teneo quod 
+      <lb ed="#C" n="89"/>actus meritorius et non meritorius sunt eiusdem 
+      <lb ed="#C" n="90"/>speciei.
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

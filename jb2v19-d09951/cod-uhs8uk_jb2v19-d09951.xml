@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="17-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d09951"><!-- l2d2q2 -->
+            <head xml:id="jb2v19-d09951-Hd1e101">Quaestio 2</head>
+            <head xml:id="jb2v19-d09951-Hd1e103" type="question-title">An motus alterationis sit aliquis fluxus distinctus a mobili et qualitate quae in motu acquiritur</head>
+            <p xml:id="jb2v19-d09951-d1e106">
+               <lb ed="#C" n="83"/>Ecttndo quexictx: 
+      <lb ed="#C" n="84"/>an motus alterationis sit aliquis 
+      <lb ed="#C" n="85"/>fluxus distinctus a mobili et quae 
+      <lb ed="#C" n="86"/>litate que in motu acquiritur. 
+   </p>
+            <p xml:id="jb2v19-d09951-d1e117">
+               <lb ed="#C" n="87"/>¶ Pro solutione questionis 
+      ite<lb ed="#C" n="88" break="no"/>rum hic scias esse positiones. 
+      na<lb ed="#C" n="89" break="no"/>aliqui dicunt praeter mobile quod 
+      mo<lb ed="#C" n="90" break="no"/>uetur / et formam que per motum acquiritur est 
+      qui<lb ed="#C" n="91" break="no"/>dam fluxus qui est successio: a qua vna paradoiter forma 
+      <lb ed="#C" n="92"/>liter alteri succedere: que secundum aliquos est relatio 
+      so<lb ed="#C" n="93" break="no"/>lum partis prioris ad posteriorem vel econuerso. et 
+      <lb ed="#C" n="94"/>ille est motus formalis: motus materialis est ipsa 
+      <lb ed="#C" n="95"/>forma fluens. alii dicunt quod motus formaliter non 
+      <lb ed="#C" n="96"/>est relatio. sed res aboluta: distincta tamen a for 
+      <lb ed="#C" n="97"/>ma que acquiritur per motum.
+   </p>
+            <p xml:id="jb2v19-d09951-d1e143">
+      ¶ Pono tres 
+      conclu<lb ed="#C" n="98" break="no"/>siones: quarum prima est. motus alterationis non 
+      <lb ed="#C" n="99"/>est talis relatio.
+   </p>
+            <p xml:id="jb2v19-d09951-d1e151">
+      ¶ Secunda conclusio. motus 
+      altera<lb ed="#C" n="100" break="no"/>tions nichil aliud est a forma que acquiritur: vel 
+      <lb ed="#C" n="101"/>a mobili.
+   </p>
+            <p xml:id="jb2v19-d09951-d1e158">
+      ¶ Tertia conclusio. motus alterationis 
+      <lb ed="#C" n="102"/>est forma que successiue acquiritur in mobili. prima 
+      <lb ed="#C" n="103"/>conclusio probatur. nulla est talis relatio ponenda 
+      <lb ed="#C" n="104"/>ex distinctione precedenti questione. xi. Secunda 
+      con<lb ed="#C" n="105" break="no"/>clusio patet. omnia optine saluantur nichil aliud ponendo 
+      <lb ed="#C" n="106"/>vtraque istarum conclusionum amplius patebit per 
+      pro<lb ed="#C" n="107" break="no"/>bationem secunde conclusionis: que sic probatur. deus 
+      pro<lb ed="#C" n="108" break="no"/>ducere potest partibiliter calorem in aquam absque hoc quod 
+      <lb ed="#C" n="109"/>aliquid aliud producatur: et tunc tali calori conuenit 
+      dif<lb ed="#C" n="110" break="no"/>finitio motus iii. Phisico u: motus est actus 
+      en<lb ed="#C" n="111" break="no"/>tis in potentia secundum quod in potentia. et si deus hoc 
+      po<lb ed="#C" n="112" break="no"/>test: idem potest ignis cum dei influentia generali. 
+   </p>
+            <p xml:id="jb2v19-d09951-d1e184">
+               <lb ed="#C" n="113"/>¶ Secundo arguitur. motus est eiusdem rationis cum 
+      <lb ed="#C" n="114"/>forma que acquiritur. sed forma que acquiritur est 
+      <lb ed="#C" n="115"/>quaelitas / calor / albedo / sancia vel hmoni. igit. maior 
+      <lb ed="#C" n="116"/>est commentatoris iin. Phisicorum commento quarto. 
+      di<lb ed="#C" n="117" break="no"/>centis opinionem illam esse veriorem que dicit quod 
+      <lb ed="#C" n="118"/>motus non differt a perfectione ad quam vadit 
+      ni<lb ed="#C" n="119" break="no"/>si secundum magis et minus: id est secundum copletum et in¬
+      <pb ed="#V" n="18-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>completum. nam motus est acius incomplexus et lmperfecius: 
+      <lb ed="#C" n="2"/>hoc est in tempore acquisitionis forme dicitur 
+      mo<lb ed="#C" n="3" break="no"/>tus: et tunc adhuc forma est incompleta. et. v. phisico 
+      <lb ed="#C" n="4"/>rum commento. xvit. dicit quod illud ad quod est motus est 
+      de<lb ed="#C" n="5" break="no"/>natura motus. et commento. xlvii. dicit conuersam: 
+      <lb ed="#C" n="6"/>scilicet: substantia motus est de natura eius ad quod est. 
+      <lb ed="#C" n="7"/>et commentator iii. Phisicorum commento sexto sic 
+      mo<lb ed="#C" n="8" break="no"/>tum diffinit. motus est acquisitio partis post 
+      par<lb ed="#C" n="9" break="no"/>tem termini ad quem tendit res mota.
+   </p>
+            <p xml:id="jb2v19-d09951-d1e226">
+      ¶ Tertio 
+      ar<lb ed="#C" n="10" break="no"/>guitur. si sit ponendus talis fluxus in motu et ad 
+      <lb ed="#C" n="11"/>hoc quod aliquid successiue producatur: cum iste 
+      fluxu<lb ed="#C" n="12" break="no"/>successiue producatur: oportet alium ponere fluxum. 
+      <lb ed="#C" n="13"/>dicatur prior fluxus a. secundus. b. et ad hoc quod b. 
+      flu<lb ed="#C" n="14" break="no"/>eus stat requiritur. c. fluxus: et sic in infinitum. hic 
+      <lb ed="#C" n="15"/>potest quis euadere sicut in solutione ad tertium 
+      <lb ed="#C" n="16"/>fecimus contra primam opinionem.
+   </p>
+            <p xml:id="jb2v19-d09951-d1e244">
+      ¶ Quarto: ad hoc 
+      <lb ed="#C" n="17"/>res producatur in hoc instanti non requiritur aliquid 
+      <lb ed="#C" n="18"/>aliud a producente et forma quae producitur. ergo eodem 
+      <lb ed="#C" n="19"/>modo quando aliquid successiue producitur.
+   </p>
+            <p xml:id="jb2v19-d09951-d1e253">
+      ¶ Quito 
+      argui<lb ed="#C" n="20" break="no"/>tur: vel ille fluxus praerequiritur tanquam causa prior ad 
+      <lb ed="#C" n="21"/>hoc quod producatur albedo successiue. vel posteris 
+      <lb ed="#C" n="22"/>acquiritur. si secundum: potest esse successiua productto 
+      <lb ed="#C" n="23"/>albedinis sine tali fluxu. si primum: deus potest 
+      ta<lb ed="#C" n="24" break="no"/>lem fluxum priseruare absque hoc quod sequatur 
+      calefa<lb ed="#C" n="25" break="no"/>ctio. et lunc queritur que res erit: et in quo subiecti 
+      <lb ed="#C" n="26"/>ue: et qid denominabit.
+   </p>
+            <p xml:id="jb2v19-d09951-d1e272">
+      ¶ Sexto arguitur: in moto 
+      <lb ed="#C" n="27"/>auementationis non est ponenda aliqua alia res a 
+      <lb ed="#C" n="28"/>quantitate que acquiritur. ergo nec in motu 
+      alte<lb ed="#C" n="29" break="no"/>rationis ponendum est aliquid aliud acquiri a 
+      qua<lb ed="#C" n="30" break="no"/>litate. Item. non est ponenda pluralitas sine 
+      necellita<lb ed="#C" n="31" break="no"/>te: omnia bene saluatur non ponendo hanc relationem 
+      <lb ed="#C" n="32"/>quia nulla talis est. Et item: dato quod poneretur sine 
+      <lb ed="#C" n="33"/>relatone: saluatur optime motus alterationis. er 
+      <lb ed="#C" n="34"/>to incassum est ponere aliquid aliud a qualita 
+      te<lb ed="#C" n="35" break="no"/>in alteratione.
+   </p>
+            <p xml:id="jb2v19-d09951-d1e294">
+      ¶ Contra tertiam conclusionem 
+      <lb ed="#C" n="36"/>arguitur sic. omnis via ad rem precedit rem illam 
+      <lb ed="#C" n="37"/>et ab illa distinguitur. patet. ili. Phisicorum 
+      commen<lb ed="#C" n="38" break="no"/>to quarto. sed motus est via ad rem permanentem. 
+      <lb ed="#C" n="39"/>patet primo celi commento primo. et quinto 
+      Phisico<lb ed="#C" n="40" break="no"/>rum comento. v. dicit comentator albefactio est 
+      <lb ed="#C" n="41"/>motus: non albedo Secundo arguitur auctoritate elusuid 
+      <lb ed="#C" n="42"/>commentatoris. v. Phisicorum comento. lix. dicentis: 
+      mo<lb ed="#C" n="43" break="no"/>tus secundum suam materiam est in predicamento 
+      passic<lb ed="#C" n="44" break="no"/>nis: et secundum suam formam est transmutatio cum 
+      tompo<lb ed="#C" n="45" break="no"/>re.
+   </p>
+            <p xml:id="jb2v19-d09951-d1e318">
+      ¶ Ad primum dicur si via proprie sumatur 
+      <lb ed="#C" n="46"/>nota est vitas maioris. sicut via a hierosolyma ad 
+      <lb ed="#C" n="47"/>damascum syrie a damasco distinguitur.
+   </p>
+            <p xml:id="jb2v19-d09951-d1e325">
+      ¶ Alio 
+      <lb ed="#C" n="48"/>modo capitur via transsumptiue pro illo quod 
+      prece<lb ed="#C" n="49" break="no"/>dit aliud tanquam imperfectum perfecto: et adhuc 
+      di<lb ed="#C" n="50" break="no"/>stinguttur sicut pars a toto. calor vt tria est via 
+      <lb ed="#C" n="51"/>hoc modo ad calorem vt quattuor / et calor vt duo 
+      <lb ed="#C" n="52"/>est via ad calorem vt tria: et sic in abyssum 
+      descen<lb ed="#C" n="53" break="no"/>dendo: sed ex illo non habetur: quod in alteration 
+      <lb ed="#C" n="54"/>ad albedinem acquiratur res alia ab albedine: 
+      se<lb ed="#C" n="55" break="no"/>eiusdem speciei secum: et hoc expresse concedit 
+      conm<lb ed="#C" n="56" break="no"/>tator secundo Phisicorm commento. xiiit ostendes 
+      <lb ed="#C" n="57"/>qu modo transmutatio naturalis est via ad 
+      for<lb ed="#C" n="58" break="no"/>mam. dicit: via in rebus generabilibrs per natoram 
+      <lb ed="#C" n="59"/>est omne specie elus ad quod venit: sed differunt 
+      se<lb ed="#C" n="60" break="no"/>cundum magis et minus. et quinto ehisicorum commen
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>to nono dicit: quod via de potentia ad actum est de 
+      <lb ed="#C" n="62"/>genere actus qui est complementum: sed differunt secundum 
+      <lb ed="#C" n="63"/>magis et minus. ire em ad calorem est calor quo 
+      <lb ed="#C" n="64"/>quomodo similit ire ad frigus. Ad secund am aucto 
+      <lb ed="#C" n="65"/>ritatem quinti Phisicorum dicitur albedo et 
+      albefa<lb ed="#C" n="66" break="no"/>ctio sunt vna et eadem res: sed illi termini aliter 
+      <lb ed="#C" n="67"/>res illassignificant. albefactio albedinem significat 
+      <lb ed="#C" n="68"/>pro quanto est sub motu: et albedo significat illam 
+      <lb ed="#C" n="69"/>rem sub esse quieto. hoc est: motum connotat iste 
+      termi<lb ed="#C" n="70" break="no"/>nus albefactio. et non albedo. albefactio lupponit 
+      <lb ed="#C" n="71"/>pro albedine connotando quod vna pars est 
+      acquisi<lb ed="#C" n="72" break="no"/>ta et alia est in continua acquisitione: quia motus 
+      <lb ed="#C" n="73"/>est actus entis in potentia. subiectum motus est in 
+      <lb ed="#C" n="74"/>potentia respectu albedinis producende. sed vna 
+      <lb ed="#C" n="75"/>pars albedinis actu est in quolibet instant in quo 
+      <lb ed="#C" n="76"/>verum est dicere nunc in hoc tempore est motus. et 
+      ad<lb ed="#C" n="77" break="no"/>dit philosophus secundum quod in potentia: hoc est quod sit in 
+      <lb ed="#C" n="78"/>continua tendentia ad vlteriorem qualitatem habendam. 
+      <lb ed="#C" n="79"/>sic calefactio frigefactio / et huiusmodi nomina 
+      mo<lb ed="#C" n="80" break="no"/>tum important in sua significatione capiendo 
+      vo<lb ed="#C" n="81" break="no"/>cabula abstractiue. actiue albefact io esi res 
+      albi<lb ed="#C" n="82" break="no"/>faciens: et passiue est res que alberit. 
+   </p>
+            <p xml:id="jb2v19-d09951-d1e406">
+               <lb ed="#C" n="83"/>¶ Ad secundum argumentum: commentator non 
+      <lb ed="#C" n="84"/>vult dicere quod motus componatur ex materia et 
+      <lb ed="#C" n="85"/>forma: cum est accidens. sed res ipsa potest duobus 
+      <lb ed="#C" n="86"/>modis considerari. et secundum vnam considerationem potest 
+      <lb ed="#C" n="87"/>dici esse in tali praedicamento tamquam res significata: 
+      se<lb ed="#C" n="88" break="no"/>cundum aliam consideratione in alio praedicamento: 
+      sen<lb ed="#C" n="89" break="no"/>per intelligendo tanquam ressignificata. sicut sortes 
+      <lb ed="#C" n="90"/>consideratus ratione qua genuit et cetera: est in 
+      <lb ed="#C" n="91"/>praoedicamento ad aliquid consideratus vero ratione 
+      sub<lb ed="#C" n="92" break="no"/>stantie in predicamento subfi autie. sic in proposito 
+      <lb ed="#C" n="93"/>motus considerari potest secundum suam materiam: hoc est 
+      <lb ed="#C" n="94"/>secundum suam entitatem non habendo considerationem ad eius 
+      <lb ed="#C" n="95"/>subiectum: et sic non est motus: quia non est actusmo 
+      <lb ed="#C" n="96"/>bilis. sed solum est quedam res producta. si consideretur 
+      <lb ed="#C" n="97"/>pro quanto acquiritur in tempore. hoc est successiue 
+      <lb ed="#C" n="98"/>in subiecto: sic consideratur sub ratione motus: et 
+      <lb ed="#C" n="99"/>secundum suam formam. hoc est formalem rationem 
+      mo<lb ed="#C" n="100" break="no"/>tus: vel aliquid consideratum sub ratione cale facti 
+      <lb ed="#C" n="101"/>onis ponitur in predicamento passionis: sub nomine 
+      <lb ed="#C" n="102"/>qualitatis in predicamento qualitatis.
+   </p>
+            <p xml:id="jb2v19-d09951-d1e452">
+      ¶ 
+      Tertio<lb ed="#C" n="103" break="no"/>argultur omnis motus est nature successtue. 
+      albefa<lb ed="#C" n="104" break="no"/>cio est motus. ergo est nature successiue. albedo est 
+      <lb ed="#C" n="105"/>nature permanentis: et non successiue.
+   </p>
+            <p xml:id="jb2v19-d09951-d1e462">
+      ¶ Quarto 
+      <lb ed="#C" n="106"/>arguitur. caliditas erit quando non erit 
+      calefactio<lb ed="#C" n="107" break="no"/>vt patet in fine motus. ergo caliditas non est 
+      ca<lb ed="#C" n="108" break="no"/>lefactio.
+   </p>
+            <p xml:id="jb2v19-d09951-d1e471">
+      ¶ Ad tertium concedo maiorem salte in fie 
+      <lb ed="#C" n="109"/>ri. et concedo proportionabiliter minorem cum 
+      con<lb ed="#C" n="110" break="no"/>clusione. albedo est eadem res: sed non connotat rem 
+      <lb ed="#C" n="111"/>illam esse in acquisitione. sed siue fuerit in esse quie 
+      <lb ed="#C" n="112"/>to siue in esse successiuo: semper est albedo.
+   </p>
+            <p xml:id="jb2v19-d09951-d1e482">
+      ¶ Ad 
+      <lb ed="#C" n="113"/>quartum concedo: quod caliditas erit quando non erit 
+      <lb ed="#C" n="114"/>calefactio. sicut calefactio erit in fine motus: sed tuno 
+      <lb ed="#C" n="115"/>non erit calefactio vel albefactio. longe refert 
+      doi<lb ed="#C" n="116" break="no"/>cere calefactio erit: et erit calefactio: calefactio 
+      e<lb ed="#C" n="117" break="no"/>rit sub quiete motus.
+   </p>
+            <p xml:id="jb2v19-d09951-d1e495">
+      ¶ Quinto arguitur. motus non 
+      <lb ed="#C" n="118"/>est motus. v. phisicorum. generationis non est 
+      generatio<lb ed="#C" n="119" break="no"/>neque tanquam termini. sed quando aqua calefit: calefa 
+      <lb ed="#C" n="120"/>ctio est generatio caliditatis. ergo ipsa non est calidi¬
+      <pb ed="#V" n="18-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>tas.
+   </p>
+            <p xml:id="jb2v19-d09951-d1e511">
+      ¶ Sexto arguitur. calefactio est actio vel 
+      pas<lb ed="#C" n="2" break="no"/>sio: caliditas est qualitas. ergo calefactio etiam 
+      <lb ed="#C" n="3"/>formalis non est caliditas
+   </p>
+            <p xml:id="jb2v19-d09951-d1e518">
+      ¶ Ad quintum 
+      respon<lb ed="#C" n="4" break="no"/>detur Aristoteles non vult negare veritatem huius 
+      <lb ed="#C" n="5"/>proponnis: generationis est generatio. quia huiuscalidi 
+      <lb ed="#C" n="6"/>tatis est generatio. hec caliditas est generatio et 
+      <lb ed="#C" n="7"/>go generationis est generatio. sed illa non est communis locutio. 
+      <lb ed="#C" n="8"/>dicimus em caliditatis est generatio: et non est genera 
+      <lb ed="#C" n="9"/>tio generationis: sicut concedere solemus in communi 
+      mo<lb ed="#C" n="10" break="no"/>do loquendi: mobile quiescit: et non est quies: 
+      sor<lb ed="#C" n="11" break="no"/>tes est crispus: et non crispitudo. oculus est cecus 
+      <lb ed="#C" n="12"/>et non cecitas. nec dicere solemus generatio 
+      ge<lb ed="#C" n="13" break="no"/>neratur. sed qualitas generatur. et tamen illa 
+      quaeli<lb ed="#C" n="14" break="no"/>tas est generatio. non solemus concedere: essentie 
+      <lb ed="#C" n="15"/>doiuine essentia intelligit: sed essentie diuine 
+      intel<lb ed="#C" n="16" break="no"/>lectus intelligit. et tamen essentia diuina est 
+      inteli<lb ed="#C" n="17" break="no"/>lectus diuinus. millies occurrit quod vna propositio est 
+      <lb ed="#C" n="18"/>vera de virtute sermonis: et tamen ipsa non est 
+      con<lb ed="#C" n="19" break="no"/>sueta: et hoc potest prouenire ab aliquibus qui 
+      abu<lb ed="#C" n="20" break="no"/>si sunt: credentes aliter esse quam sit. multi antiqui 
+      pa<lb ed="#C" n="21" break="no"/>tres existimant quodcrispitudo realiter est accidens 
+      <lb ed="#C" n="22"/>pilis inherens: et non pilli ipsi. propterea abhorru 
+      <lb ed="#C" n="23"/>erunt concedere pili sunt crispiltudo: sed pili sunt 
+      <lb ed="#C" n="24"/>crispi. et eis visum est quod in subtilitate incidebant. 
+      <lb ed="#C" n="25"/>posteriores deturhendentes idem esse extra mate 
+      <lb ed="#C" n="26"/>riam: locuti sunt more aliorum. loquendum est vt 
+      plu<lb ed="#C" n="27" break="no"/>res ii de celo inquit philosophus. sed cum homo 
+      <lb ed="#C" n="28"/>venit ad locum determinandi de materia ipsa: sentienm 
+      <lb ed="#C" n="29"/>dum est vt pauci. hoc est docti: qui pauci sunt. 
+      ta<lb ed="#C" n="30" break="no"/>lem modum loquendi scruauit Aristoteles: et ita 
+      fa<lb ed="#C" n="31" break="no"/>cit quilibet artificiosus homo / alioquin oporterer 
+      <lb ed="#C" n="32"/>ei fingere alienum modum loquendi.
+   </p>
+            <p xml:id="jb2v19-d09951-d1e584">
+      ¶ Ad sextum 
+      di<lb ed="#C" n="33" break="no"/>citur: passio multiphariam capitur. Uno modo 
+      pro<lb ed="#C" n="34" break="no"/>motu appetitus sensitiui: sieut dicimus delectati 
+      <lb ed="#C" n="35"/>onem tristiciam / gaudiudm / ram / et timorem / esse 
+      pas<lb ed="#C" n="36" break="no"/>siones animi quas virtutes moderantur. sic in 
+      o<lb ed="#C" n="37" break="no"/>rali philosophia vocabulo vtimur. interdum qued 
+      <lb ed="#C" n="38"/>cunque accidens dicitur passio. aliquando restringitur 
+      <lb ed="#C" n="39"/>ad passiones sensibiles: vt passio vel passibilis qui 
+      <lb ed="#C" n="40"/>litas. logicus vocat passionem: terminum magis 
+      conno<lb ed="#C" n="41" break="no"/>tatiuum vel extrinsece connotatiuum respectu 
+      absolu<lb ed="#C" n="42" break="no"/>ti: dummodo est conuertibilitas. vt predicabile 
+      re<lb ed="#C" n="43" break="no"/>specturniuersalis: risibile respectu homins: sed in 
+      <lb ed="#C" n="44"/>posito capiendo pro opatione que ab agente 
+      produci<lb ed="#C" n="45" break="no"/>tur et recipitur in passo: dicitur: eadem res nume 
+      <lb ed="#C" n="46"/>ro est actio et passio et motus: sed differenti 
+      ratione<lb ed="#C" n="47" break="no"/>est motus pro quanto vna pars eius est acquisita 
+      <lb ed="#C" n="48"/>et alia pars est m continua acquisitione: hoc est: er 
+      <lb ed="#C" n="49"/>ut est actus entis in potentia secundum quod in potentia: et 
+      <lb ed="#C" n="50"/>dicitur actio prout est ab agente: et passio pro quanto 
+      <lb ed="#C" n="51"/>recipitur in passo: et sic calor est motus / actio / et 
+      <lb ed="#C" n="52"/>passio. et licet eadem res sit motus / actio / et passio: 
+      <lb ed="#C" n="53"/>propter differentes et extraneas connotationes 
+      <lb ed="#C" n="54"/>accidentaliter predicantur de se inuicem: vt patet 
+      <lb ed="#C" n="55"/>de homine et risibili. et si deus produceret aliquid 
+      cre<lb ed="#C" n="56" break="no"/>atione extra passum: tunc esset actio sine passione: 
+      <lb ed="#C" n="57"/>cum nichil reciperetur in passo. proprie non esset 
+      <lb ed="#C" n="58"/>passio: nisi dicere velis quod creatura il a producta 
+      <lb ed="#C" n="59"/>ania vel lapis esset passio. oe nomimbus non est 
+      conten<lb ed="#C" n="60" break="no"/>dendum. vsus tamen non sic capit: penes quem sigtiones
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>vocabulorum robur habent. nunquam tamen est 
+      passio<lb ed="#C" n="62" break="no"/>sine actione. passio non fit sine transmutatonne 
+      pas<lb ed="#C" n="63" break="no"/>si: que fit ab aliquo agente intrinseco vel extriseco¬ 
+   </p>
+            <p xml:id="jb2v19-d09951-d1e656">
+               <lb ed="#C" n="64"/>¶ Septimo argultur. sequeretur quod non esset 
+      discri<lb ed="#C" n="65" break="no"/>men inter creationem et alterationc: hec est 
+      inconue<lb ed="#C" n="66" break="no"/>niens. sequela tamen patet: si deus produceret se 
+      so<lb ed="#C" n="67" break="no"/>lo calorem successiue in aquam: illic esset creatio 
+      ca<lb ed="#C" n="68" break="no"/>loris. et tamen esset alteratio. igitur.
+   </p>
+            <p xml:id="jb2v19-d09951-d1e669">
+      ¶ Respondetur: 
+      <lb ed="#C" n="69"/>deus potest esse alteratio actiua / et creatio actima 
+      <lb ed="#C" n="70"/>sed loquendo abstractiue et formaliter de altera 
+      <lb ed="#C" n="71"/>tione: et tenendo quod quicquid producitur a deo: 
+      cre<lb ed="#C" n="72" break="no"/>atur. et ratio: quia producitur ab agente non 
+      pre<lb ed="#C" n="73" break="no"/>supponente passum: et hoc sufficit sic capiendo. non 
+      <lb ed="#C" n="74"/>a ias anima ratinalis crearetur. in primo instati quo est 
+      <lb ed="#C" n="75"/>in rerum natura est in passo. concedo quod eadem 
+      for<lb ed="#C" n="76" break="no"/>ma est creatio passiua: quia calor creatus. et ille 
+      ca<lb ed="#C" n="77" break="no"/>lor est alteratio. alia tamen est ratio quare est 
+      altera<lb ed="#C" n="78" break="no"/>tio et quare est creatio. est creatio: quia producitur 
+      <lb ed="#C" n="79"/>ab agente non presupponente passum in quod agat. 
+      <lb ed="#C" n="80"/>est aleratio ob causam sepe dictam
+   </p>
+            <p xml:id="jb2v19-d09951-d1e698">
+      ¶ Octauo at 
+      <lb ed="#C" n="81"/>guitur: sicut dicebam in questione precedenti: deus 
+      <lb ed="#C" n="82"/>non potest ponere mobile de oco in locum sine motur 
+      <lb ed="#C" n="83"/>locali distincto ab illo: ita potest dici quod non potest 
+      produci<lb ed="#C" n="84" break="no"/>albefactio nisi mediante motu. et siliter solui 
+      ratio<lb ed="#C" n="85" break="no"/>nes possunt.
+   </p>
+            <p xml:id="jb2v19-d09951-d1e711">
+      ¶ Respondetur. non est idem. sed quo 
+      <lb ed="#C" n="86"/>ad hoc est idem. sicut mobile non potest esse localiter 
+      <lb ed="#C" n="87"/>motum secundum positionem illam sine motu locali et in 
+      <lb ed="#C" n="88"/>herenti: sic nec mobile moueri ad calorem partibie 
+      <lb ed="#C" n="89"/>liter sine fluxu: qui quidem fluxus est calefactio: et 
+      <lb ed="#C" n="90"/>calor partibiliter in aqua acquisitus. etiam problenr 
+      <lb ed="#C" n="91"/>matice tenuimus conclusionem: sed non est idem hic. sons 
+      <lb ed="#C" n="92"/>prtibiliter producitur: et motus localis producit 
+      <lb ed="#C" n="93"/>calorem: vt in consricatione lapidis cum terro. nec 
+      <lb ed="#C" n="94"/>obstat quod motus sit etis successiuum sicut est sonus 
+      <lb ed="#C" n="95"/>qui noticiam intuitiuam eius partialiter producit. 
+      simi<lb ed="#C" n="96" break="no"/>liter crebro actualiter currens erit promptior ad 
+      <lb ed="#C" n="97"/>currendum quod habtui dari solet cum multis aliis 
+      <lb ed="#C" n="98"/>auctoritatibus et rationibus que hic non 
+      contin<lb ed="#C" n="99" break="no"/>gunt. de mutato esse in motu non loquor: quia 
+      nul<lb ed="#C" n="100" break="no"/>la est alia oifficultas ab instant in tempore: puncto 
+      <lb ed="#C" n="101"/>in continuo permanente omnia ista possunt vtrinque 
+      oe<lb ed="#C" n="102" break="no"/>fendi. et si minus probabiliter habeanturin re: ad 
+      <lb ed="#C" n="103"/>huc conducit illa imaginari et capere propter 
+      va<lb ed="#C" n="104" break="no"/>ria que in mathematicis et philosophia dicuntur.
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

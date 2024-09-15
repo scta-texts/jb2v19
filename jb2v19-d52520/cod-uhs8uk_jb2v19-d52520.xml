@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 15</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 15</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="88-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d52520"><!-- l2d14q15 -->
+            <head xml:id="jb2v19-d52520-Hd1e101">Quaestio 15</head>
+            <head xml:id="jb2v19-d52520-Hd1e103" type="question-title">An mare fuerit a Deo productum falsum</head>
+            <p xml:id="jb2v19-d52520-d1e106">
+               <lb ed="#C" n="39"/>QUinto decimo circa mare queritur: 
+      an<lb ed="#C" n="40" break="no"/>mare fuerit a deo productum salsum 
+      pro<lb ed="#C" n="41" break="no"/>solutione questionis ponam primo 
+      vn<lb ed="#C" n="42" break="no"/>de producatur salsedo: quia hoc in que 
+      <lb ed="#C" n="43"/>stione presupponitur 2. respondebo ad quesitum. 
+   </p>
+            <p xml:id="jb2v19-d52520-d1e119">
+               <lb ed="#C" n="44"/>¶ Pria conclusio. calor adurens in aqueo terrestri ge 
+      <lb ed="#C" n="45"/>nerat salsedinem. volo dicere. calor adurens est 
+      <lb ed="#C" n="46"/>causa efficies salsedinis. causa materialis 
+      salsedi<lb ed="#C" n="47" break="no"/>nis est terrestre aque commixtum. variis 
+      experien<lb ed="#C" n="48" break="no"/>tiis hoc declarat aristoteles. 2. metheororum. patet 
+      <lb ed="#C" n="49"/>de vrina et sudore in homine: de aqua lixiuii. et patet 
+      <lb ed="#C" n="50"/>in salsedine maris in quo est humor aqueus 
+      ter<lb ed="#C" n="51" break="no"/>restreitati commixtus. calor celestis continuo leuat 
+      <lb ed="#C" n="52"/>calorem aqueum tanquam subtiliorem: relinquens illio 
+      <lb ed="#C" n="53"/>terreum vaporem per maris aquam dispersum: in quem 
+      <lb ed="#C" n="54"/>calore celesti agenti et ipsum vrente: partes 
+      adu<lb ed="#C" n="55" break="no"/>ste sibi salis saporem acquirunt: et salsant aquas. 
+   </p>
+            <p xml:id="jb2v19-d52520-d1e148">
+               <lb ed="#C" n="56"/>¶ Secunda conclusio. mare in prima productione 
+      <lb ed="#C" n="57"/>seus non est productum immediate a deo salsum 
+      pro<lb ed="#C" n="58" break="no"/>batio. dabatur in natura causa sufficiens producere 
+      <lb ed="#C" n="59"/>mare salsum. patet de causa efficiente et 
+      materiali<lb ed="#C" n="60" break="no"/>formali etiam. causa finalis est pro ipso sale quanto ci¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>bum preseruat a putrefactione. et cum omni cibo 
+      <lb ed="#C" n="62"/>conuenit. si non esset ita tamen esset in maiore 
+      re<lb ed="#C" n="63" break="no"/>putatione: modo sal communiter fit ex aqua maris: vt 
+      <lb ed="#C" n="64"/>in partibus meis prope mare videre est vbi salis 
+      <lb ed="#C" n="65"/>venditor visitans rura dat mensuram salis pro 
+      auc<lb ed="#C" n="66" break="no"/>narum simili mensura. ergo non est verosimile quod 
+      <lb ed="#C" n="67"/>deus produxit mare salsum. licet mare salsum deus 
+      <lb ed="#C" n="68"/>produxit.
+   </p>
+            <p xml:id="jb2v19-d52520-d1e182">
+      ¶ Secundo arguitur ad idem. deus non 
+      <lb ed="#C" n="69"/>produxit mulam in principio. ergo nec mare salsum. 
+      <lb ed="#C" n="70"/>tenet consequentia. quia sufficit quod causam vtriusque 
+      pro<lb ed="#C" n="71" break="no"/>ductiuam in principio produxit ille probationes sunt 
+      <lb ed="#C" n="72"/>tenues. sed secundum materiam subiectam sufficiunt. Ex 
+      se<lb ed="#C" n="73" break="no"/>cunda conclusione: sequitur. mare fuit productum dulce: se 
+      <lb ed="#C" n="74"/>cundo sequitur. postea est factum minus salsum et 
+      dein<lb ed="#C" n="75" break="no"/>de magis salsum.
+   </p>
+            <p xml:id="jb2v19-d52520-d1e200">
+      ¶ Contra priorem conclusionem 
+      ar<lb ed="#C" n="76" break="no"/>guitur sic. ex conclusione sequitur quod in fluminibus 
+      de<lb ed="#C" n="77" break="no"/>beat generari sal consequens est falsum vt per 
+      ex<lb ed="#C" n="78" break="no"/>perientiam patet consequentia patet. est causa efficiens scilicet 
+      <lb ed="#C" n="79"/>sol qui generat salsedinem in mari: et relique 
+      cau<lb ed="#C" n="80" break="no"/>se: igitur.
+   </p>
+            <p xml:id="jb2v19-d52520-d1e213">
+      ¶ Secundo arguitur contra eandem 
+      conclusio<lb ed="#C" n="81" break="no"/>nem. aliqua aqua sub terra currens quam sol 
+      suo<lb ed="#C" n="82" break="no"/>radio non attingit est salsa: vt videre est in 
+      Burgun<lb ed="#C" n="83" break="no"/>dia in comitatu / sub duce lotoringie in pannonia 
+      <lb ed="#C" n="84"/>et in aliis variis locis.
+   </p>
+            <p xml:id="jb2v19-d52520-d1e224">
+      ¶ Ad primum nego sequelam. et 
+      <lb ed="#C" n="85"/>ratio negationis est. non satis affigitur virtus 
+      so<lb ed="#C" n="86" break="no"/>lis in calefactione aque currentis. nec est tanta 
+      ter<lb ed="#C" n="87" break="no"/>restreitas in ea sicut in mari. propterea non est idem 
+   </p>
+            <p xml:id="jb2v19-d52520-d1e233">
+               <lb ed="#C" n="88"/>¶ Ad 2. dicitur in aliquibus locis sunt monotana 
+      sa<lb ed="#C" n="89" break="no"/>lis. et aqua currens per loca illa salsedinem 
+      contra<lb ed="#C" n="90" break="no"/>hit ex qua faciunt salem: vt patet in Burgundia et 
+      lo<lb ed="#C" n="91" break="no"/>toringia in illis locis principes multum lucrantur de 
+      <lb ed="#C" n="92"/>talibus puteis salsis.
+   </p>
+            <p xml:id="jb2v19-d52520-d1e246">
+      ¶ Arguitur contra 2. conclusionem. 
+      <lb ed="#C" n="93"/>prestaret habere mare dulce quam salsum. ergo non 
+      <lb ed="#C" n="94"/>erat conuenientius quod deus causaret causam 
+      produ<lb ed="#C" n="95" break="no"/>ctiuam salsedinis in mari. antecedens patet. aqua 
+      <lb ed="#C" n="96"/>dulcis crebro nauigantibus est pernecessaria. et 
+      <lb ed="#C" n="97"/>aqua salsa non valet ad decoquendum cibum nec ad 
+      <lb ed="#C" n="98"/>bibendum. desiccat et macrescere facit. corrumpit 
+      <lb ed="#C" n="99"/>sanguinem. pruritum generat et scabiem.
+   </p>
+            <p xml:id="jb2v19-d52520-d1e265">
+      ¶ 
+      Secun<lb ed="#C" n="100" break="no"/>do arguitur ad idem. ex conclusione sequitur quod mare 
+      conti<lb ed="#C" n="101" break="no"/>nuo efficietur maius salsum. et sic esset infinite 
+      sal<lb ed="#C" n="102" break="no"/>sum: si in infinitum mundus duraret: quod est 
+      inconue<lb ed="#C" n="103" break="no"/>niens. consequentia tamen patet. continuatio 
+      colo<lb ed="#C" n="104" break="no"/>ris in mare intendit salsedinem.
+   </p>
+            <p xml:id="jb2v19-d52520-d1e278">
+      ¶ Ad 2. nego as 
+      <lb ed="#C" n="105"/>sumptum. equalis magnitudo aque salse plus 
+      super<lb ed="#C" n="106" break="no"/>fert quam multoplus aque dulcis. ob densitatem et 
+      <lb ed="#C" n="107"/>terrestreitatem resistit plus descensui nauis. mundus 
+      <lb ed="#C" n="108"/>non haberet salem in copia si mare non esset 
+      sal<lb ed="#C" n="109" break="no"/>sum nichil tamen valet via cibi. de aqua dulci: il 
+      <lb ed="#C" n="110"/>la in copia habetur etiam vt vides. nec neglecto 
+      <lb ed="#C" n="111"/>isto magno bono communi oportuit habere oculum 
+      <lb ed="#C" n="112"/>ad istos paucos in naui. sicut habent vinum et potum 
+      <lb ed="#C" n="113"/>in naui ita habeant aquam dulcem: quam etiam 
+      gra<lb ed="#C" n="114" break="no"/>tis habere possunt in quolibet latere vicino: et 
+      fa<lb ed="#C" n="115" break="no"/>cere artificio ex aqua salsa dulcem. pisces non sunt 
+      <lb ed="#C" n="116"/>salsi in mari aliti. per poros aquam dulcem suscipiunt 
+   </p>
+            <p xml:id="jb2v19-d52520-d1e307">
+               <lb ed="#C" n="117"/>¶ Ad 2. argumentum nego sequelam. licet perpetuum 
+      <lb ed="#C" n="118"/>esset totum mare in via aristotelis quacumque 
+      por<lb ed="#C" n="119" break="no"/>tione sua data: non semper erit. ergo sua salsedo 
+      <lb ed="#C" n="120"/>non crescit gi infinitum. Secundo agens naturale potest tam¬
+      <pb ed="#V" n="89-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>tum effectum producere in aliquod passum: sic scilicet: quod 
+      <lb ed="#C" n="2"/>non potest augere illum effectum patet in calefactio 
+      <lb ed="#C" n="3"/>ne. 3 descensus fluinum in aquam tantum facit ad dulce 
+      <lb ed="#C" n="4"/>dinem sicut sol ad salsedinem.
+   </p>
+            <p xml:id="jb2v19-d52520-d1e331">
+      ¶ Circa hanc 
+      questio<lb ed="#C" n="5" break="no"/>nem dubitatur quomodo est quod vna aqua est 
+      sal<lb ed="#C" n="6" break="no"/>sa vel calida vel aliter sapida vel colorata quam alia: 
+      <lb ed="#C" n="7"/>et que aqua est optima. Ad huius dubitationis 
+      <lb ed="#C" n="8"/>gemine soluntione: quo ad primum. terra super quam 
+      <lb ed="#C" n="9"/>aqua currit vel influentia celestis / herone / animalia 
+      <lb ed="#C" n="10"/>et alia adiuncta dant aque aliqua proprietatem 
+      <lb ed="#C" n="11"/>Aliquae terram es sulphurea et bitumie plena: vt ethna in 
+      <lb ed="#C" n="12"/>trinacria: chimeram in litea: et inter trauent et 
+      se<lb ed="#C" n="13" break="no"/>ton simile habemus. naturam terre aqua sibi 
+      ven<lb ed="#C" n="14" break="no"/>dicat. aqua in Burgundia est calida. aqua illa 
+      la<lb ed="#C" n="15" break="no"/>bitur per terram sulphuream et calidam. Stix est 
+      par<lb ed="#C" n="16" break="no"/>uus fluuius archadie circa nouatim montem. ex 
+      <lb ed="#C" n="17"/>quo si quis bibit mox suffocatur in aqua: vel sunt 
+      <lb ed="#C" n="18"/>animalia / herbe mortifere / vel mineralia / vel hmoni. 
+      <lb ed="#C" n="19"/>aqua hoc ab extrinseco contrahit. recitat plinius 
+      <lb ed="#C" n="20"/>in naturali historia libro. 2. capit in os. de Iouis 
+      <lb ed="#C" n="21"/>hammonis fonte interdiu frigido: in media 
+      no<lb ed="#C" n="22" break="no"/>cte feruet. in trogloditis fons solis appellatur 
+      dul<lb ed="#C" n="23" break="no"/>cis: et circa meridiem maxime frigidus in media 
+      <lb ed="#C" n="24"/>nocte feruet et est amarus: et in insula dicit niopus fons 
+      <lb ed="#C" n="25"/>eodem quo nilus modo ac pariter decrescit augeturque 
+      <lb ed="#C" n="26"/>fons Iouis hammonis in variis diei naturalis 
+      <lb ed="#C" n="27"/>temporibus. habet varios mineralium vel alia 
+      <lb ed="#C" n="28"/>rum rerum accessus. pro vna parte temporis accedit 
+      <lb ed="#C" n="29"/>causa frigefactiva: pro alia calefactiua. et sic aliqua 
+      <lb ed="#C" n="30"/>flumina habent aurum. flumina per mineras auri 
+      <lb ed="#C" n="31"/>decurrunt vt in tago occidentalis hesperie in 
+      col<lb ed="#C" n="32" break="no"/>chos in quo mineras auri in ouium velleribus 
+      col<lb ed="#C" n="33" break="no"/>ligere solent. hinc apud poetas datum est iasonem cum 
+      <lb ed="#C" n="34"/>ergo nautis aureum vellus abstulisse.
+   </p>
+            <p xml:id="jb2v19-d52520-d1e399">
+      ¶ Ad 
+      secun<lb ed="#C" n="35" break="no"/>dam partem dubii dicit Auicenna 2. primi. doctrina 
+      <lb ed="#C" n="36"/>2. aqua bona est aqua fontis terre libere currens / 
+      <lb ed="#C" n="37"/>discooperta soliet ventis / super lutum purum incedens 
+      <lb ed="#C" n="38"/>multa / fortis cursus / tendens in oriens / 
+      elonga<lb ed="#C" n="39" break="no"/>ta a suo principio / a locis altis descendens / 
+      insip<lb ed="#C" n="40" break="no"/>da / cuius magnam quantitatem vinum non tollerat / 
+      le<lb ed="#C" n="41" break="no"/>uis in pondere cito calefacta et infrigidata in 
+      <lb ed="#C" n="42"/>qua non superat sapor vel odor / cito descendens 
+      <lb ed="#C" n="43"/>ab ypocundris in qua cito coquitur et dissoluitur quod 
+      <lb ed="#C" n="44"/>in ea coquitur. primo terre libere: hoc est terre non 
+      <lb ed="#C" n="45"/>mafeficiate vlla putredine vel metallis demptis 
+      <lb ed="#C" n="46"/>auro et argento. aurum dat vim confortatiuam. et a 
+      <lb ed="#C" n="47"/>gentum deteriorem non facit eam. currens cursu 
+      per<lb ed="#C" n="48" break="no"/>gatur et subtiliatur vt in quone superius diximus de 
+      <lb ed="#C" n="49"/>fluxu maris non solum cursu: sed alio veloci motu 
+      pro<lb ed="#C" n="50" break="no"/>pterea aqua putealis est melior quaento plus aqua a 
+      <lb ed="#C" n="51"/>puteo extrahitur propter aque extractionem et motum 
+      <lb ed="#C" n="52"/>et nouam aque generationem. dicitur discooperta. hoc 
+      <lb ed="#C" n="53"/>aquam a putrefactione praeseruat. putrefactionem 
+      tria<lb ed="#C" n="54" break="no"/>elementa inferiora facile suscipiunt. putredinem edax 
+      <lb ed="#C" n="55"/>flamma consumit et vorat. aquam lutum purum: hoc est 
+      <lb ed="#C" n="56"/>non infectum / mundificat: et infectionem si sit. non sic 
+      la<lb ed="#C" n="57" break="no"/>pides. quia non sic ab aqua penetrantur mita. tunc 
+      ma<lb ed="#C" n="58" break="no"/>gis sue corruptioni resistit. nonne vides paruam 
+      aqu<lb ed="#C" n="59" break="no"/>vrbes praeterfluentes a sordibus statim infici. fortis 
+      <lb ed="#C" n="60"/>cursus. hoc aquam mundisicat esto quod secum terrestrei
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>tates celeri cursu rapiat: vt de tiberi cernis in quo 
+      <lb ed="#C" n="62"/>aquam turbidam peimo capis: si tribus aut. 4. diebus 
+      <lb ed="#C" n="63"/>eam seruaueris defecatur et esi bona. in oriens. sic 
+      <lb ed="#C" n="64"/>a subsolauo et duobus ventis circum iectis 
+      orien<lb ed="#C" n="65" break="no"/>te sole optime purificatur. propterea. 2. politicorum 
+      <lb ed="#C" n="66"/>consulit philosophus fenestram ad orientem dirige 
+      <lb ed="#C" n="67"/>revt purgetur acr. aqua ad septentrionem: post 
+      cur<lb ed="#C" n="68" break="no"/>sum ad orientem secundum locum in bonitate vendicat. a se 
+      <lb ed="#C" n="69"/>ptemtrione purgatur. pessime sunt aque ad occidem 
+      <lb ed="#C" n="70"/>tem et ad austrum currentes propter zephiri et austrio 
+      <lb ed="#C" n="71"/>et. 4. aliorum ventorum circumiacentium 
+      spiramina<lb ed="#C" n="72" break="no"/>turbidus et nubilosus auster esse solet et secum 
+      <lb ed="#C" n="73"/>afferre pluuias et eas continuare. cui psaltes 
+      re<lb ed="#C" n="74" break="no"/>gius alludit: inquiens: sicut torrens ex austro. elon 
+      <lb ed="#C" n="75"/>gatus a suo principio. tunc magis cursu deputatur: 
+      <lb ed="#C" n="76"/>nisi aliquid malicie de per accidens a terra contrahat. 
+      <lb ed="#C" n="77"/>commentator quinto colliget putabat suam aquam 
+      <lb ed="#C" n="78"/>meliorem cordube quam sibille. licet bethis plus a 
+      <lb ed="#C" n="79"/>sua origine distet sibille quam cordube. quod a locis 
+      al<lb ed="#C" n="80" break="no"/>tis descendat. talis aqua est purior ab aere et 
+      cele<lb ed="#C" n="81" break="no"/>riori motu. insipida. quod sit quasi dulcis quasi 
+      insen<lb ed="#C" n="82" break="no"/>sibiliter gustum immutans. illud est signum eius 
+      impu<lb ed="#C" n="83" break="no"/>ritatis. quod vinum non tollerat. nam quanto fuerit 
+      pu<lb ed="#C" n="84" break="no"/>rior tanto magis frangit virtutem vini. quod sit leuis 
+      <lb ed="#C" n="85"/>ponderis illud est argumentum subtilitatis eius. et 
+      <lb ed="#C" n="86"/>non habeat terrestreitates mixtas. capiant duo vi 
+      <lb ed="#C" n="87"/>tra equalia plena duabus aquis: et videatur vtra 
+      <lb ed="#C" n="88"/>earum plus ponderat in statera: et illa est peior. 
+      ci<lb ed="#C" n="89" break="no"/>to descendens ab ypocundris in. a partibus quae 
+      sun<lb ed="#C" n="90" break="no"/>sub costis. illud est signum leuitatis eius: et quod 
+      stoma<lb ed="#C" n="91" break="no"/>chum non offendit nec in eo natat: vt iuuenes 
+      aqua<lb ed="#C" n="92" break="no"/>bibentes non bonam experimento nouerunt. quod res in 
+      ea<lb ed="#C" n="93" break="no"/>cito decoquantur: vt pisces / carnes / pisa 
+      colle<lb ed="#C" n="94" break="no"/>gii nostri montis acuti conci aquam sequane pro 
+      pi<lb ed="#C" n="95" break="no"/>sis decoquendis afferunt. aqua putei non valeret 
+      <lb ed="#C" n="96"/>Relique particule omisse / sunt ex seipsis faciles. 
+      <lb ed="#C" n="97"/>quare aqua stagnalis et stationaria est mala: et 
+      <lb ed="#C" n="98"/>quanto magis est cooperta et minus mota tanto 
+      <lb ed="#C" n="99"/>est peior: et ex consequenti pisces illius non sunt 
+      ita<lb ed="#C" n="100" break="no"/>boni sicut pisces aquae bone. carponum bonitas ex 
+      e<lb ed="#C" n="101" break="no"/>rare bonitatem aque arguit sicut et econtrario. potest 
+      <lb ed="#C" n="102"/>aliqua carere vna bona proprietate ad aquam 
+      requi<lb ed="#C" n="103" break="no"/>sita et habere plurmina alia bona. et tunc erit bona. 
+      <lb ed="#C" n="104"/>nilus est approbatus in bonitate a galeno in 
+      suo<lb ed="#C" n="105" break="no"/>libello de aqua. c. I. quem tamen putabat moueri 
+      <lb ed="#C" n="106"/>ad meridiem. sed nilus habet plurimas bonas 
+      con<lb ed="#C" n="107" break="no"/>ditiones ad bonitatem aque requisitas. nunc ad 
+      <lb ed="#C" n="108"/>orientem currit: et longissimo tractu ad 
+      septemtrio<lb ed="#C" n="109" break="no"/>nem mouetur que differentia positionum est secunda 
+      <lb ed="#C" n="110"/>post orientem. et quando aliqua aqua habet ferme 
+      <lb ed="#C" n="111"/>omnes conditiones vel omnes ad bonitatem aque 
+      re<lb ed="#C" n="112" break="no"/>quisitas: tunc est singularissima: vt est coaspis 
+      me<lb ed="#C" n="113" break="no"/>dorum fluuius apud persas in tigrim fluens eius 
+      <lb ed="#C" n="114"/>aqua tam bona est vt persarum reges eam sibi 
+      ven<lb ed="#C" n="115" break="no"/>dicent et ex ea potare soleant. sic de ciduo 
+      cilitie<lb ed="#C" n="116" break="no"/>flumine amenissimo tarsum pauli vrbem praeterfluente 
+      <lb ed="#C" n="117"/>ex opposito patet aquam paludis esse pessimam. am 
+      <lb ed="#C" n="118"/>plius aqua currens super metalla alia ab auro et 
+      <lb ed="#C" n="119"/>argento est mala. similiter aqua que per aque 
+      du<lb ed="#C" n="120" break="no"/>ctus transit non est bona. non exponitur aeri. et in¬
+      <pb ed="#V" n="89-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>ter aque ductus illa quae per plumbum ducitur est 
+      ma<lb ed="#C" n="2" break="no"/>la. trahit (si celcriter fluat) aliquid de plubo ob 
+      eius<lb ed="#C" n="3" break="no"/>mollitiem. ideo quandoque inducit fluxum ventris 
+      dis<lb ed="#C" n="4" break="no"/>sentericum. etiam in plumbo argentum viuum 
+      abun<lb ed="#C" n="5" break="no"/>dare solet: quod tenerorum corporum viscera excoriat. 
+      <lb ed="#C" n="6"/>in cenobiis tamen pro abluendis manibus talem 
+      <lb ed="#C" n="7"/>aquam habent.
+   </p>
+            <p xml:id="jb2v19-d52520-d1e610">
+      ¶ Ultima propositio circa aquas 
+      <lb ed="#C" n="8"/>aque pluuiales potissimum in estate cadentes ex 
+      <lb ed="#C" n="9"/>nubibus in quibus sunt tonitrua. materia talis aqua 
+      <lb ed="#C" n="10"/>primo est subtiliata a calore celesti eam eleuante. 
+      <lb ed="#C" n="11"/>et exhalatio in nube clausa etiam illam subtiliat. et 
+      <lb ed="#C" n="12"/>cum hoc calor infime regionis aeris eam 
+      subti<lb ed="#C" n="13" break="no"/>liat. sed non diu a putrefactione manet nisi ponatur 
+      <lb ed="#C" n="14"/>remendium per arenulas: sicut faciunt in celestinis 
+      <lb ed="#C" n="15"/>parisii. ad quos tempore profluuii ventus mitti 
+      <lb ed="#C" n="16"/>mus pro illa aqua. ita dauid iudicabat: inquiens. 
+      <lb ed="#C" n="17"/>quis dabit michi de aqua cisterne que est in beth 
+      <lb ed="#C" n="18"/>leem: illa aqua rurales nostri vtuntur in hyeme in 
+      <lb ed="#C" n="19"/>ter sulcos cadit in copia. mulieres mox post 
+      plu<lb ed="#C" n="20" break="no"/>uiam illa vtuntur pisis carnibus / pis / et hmoni 
+      de<lb ed="#C" n="21" break="no"/>coquendis. et seruisiam ex illa aqua conficiunt. quod facile 
+      <lb ed="#C" n="22"/>putrefiat patet a viriditate quam stando contrahit 
+      <lb ed="#C" n="23"/>malicia aque per impositionem ferri candentis 
+      <lb ed="#C" n="24"/>castigatur. ita nostri collegii pauperes aqua vtuntur 
+      <lb ed="#C" n="25"/>in hyeme. non quod bibatur calida. vehementer 
+      cali<lb ed="#C" n="26" break="no"/>da stomacum lauat et ventrem soluit. tepida 
+      nau<lb ed="#C" n="27" break="no"/>seam causat et vomitum. propterea euomere 
+      volen<lb ed="#C" n="28" break="no"/>tibus datur aqua tepida cum longa pluma 
+      impo<lb ed="#C" n="29" break="no"/>nenda in os. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

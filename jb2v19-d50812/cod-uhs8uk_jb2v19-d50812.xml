@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 13</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 13</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="85-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d50812"><!-- l2d14q13 -->
+            <head xml:id="jb2v19-d50812-Hd1e101">Quaestio 13</head>
+            <head xml:id="jb2v19-d50812-Hd1e103" type="question-title">
+  De aqua quomodo ipsa non circuit totam terram cooperiendo
+</head>
+            <p xml:id="jb2v19-d50812-d1e106">
+               <lb ed="#C" n="46"/>c u vsihagr. 
+      <lb ed="#C" n="47"/>TErtiadecima questio erit de 
+      <lb ed="#C" n="48"/>aqua quomodo ipsa non 
+      cir<lb ed="#C" n="49" break="no"/>cuit totam terram 
+      cooperi<lb ed="#C" n="50" break="no"/>endo. Pro huius questionis 
+      <lb ed="#C" n="51"/>solutione notabis. licet deus 
+      <lb ed="#C" n="52"/>in principio creationis 
+      mun<lb ed="#C" n="53" break="no"/>di circa terram totam / 
+      pro<lb ed="#C" n="54" break="no"/>duxit aquam. tamen 
+      necessa<lb ed="#C" n="55" break="no"/>rium erat viuendo sicut homines viuunt: quod 
+      ali<lb ed="#C" n="56" break="no"/>qua terre portio esset ab aquis discooperta: sed 
+      <lb ed="#C" n="57"/>de modo quo aqua stat separata non currens in 
+      <lb ed="#C" n="58"/>aridam: est altercatio. et aliquas vias recitabo quaerum aliquas 
+      <lb ed="#C" n="59"/>reprobabo: probabiliores capiendo. Una positio est
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="60"/>ioannis d sacro busco in suo libello d sphera dicentuis 
+      <lb ed="#C" n="61"/>siccitas terre aquae resistit ne currat in aridam. illud non 
+      <lb ed="#C" n="62"/>sufficit / querendo quare citius in vno loco resistit 
+      <lb ed="#C" n="63"/>quam in alio. Alia est positio quod terra discooperta est 
+      <lb ed="#C" n="64"/>aqua in septemtrione. quia pars celi septemtrio 
+      <lb ed="#C" n="65"/>nalior est nobilior et potentior propter 
+      multitu<lb ed="#C" n="66" break="no"/>dinem stellarum / terram attrahit ad se sursum 
+      si<lb ed="#C" n="67" break="no"/>cut magnes ferrum. et sic vna pars est 
+      discooper<lb ed="#C" n="68" break="no"/>ta vt in ea animalia gressibilia viuant. contra. hac 
+      <lb ed="#C" n="69"/>via terra violente staret discooperta aquis. et per 
+      <lb ed="#C" n="70"/>consequens non perpetuo. nullum violentum est 
+      <lb ed="#C" n="71"/>perpetuum: primo celi. capite. ponitur aliquid 
+      con<lb ed="#C" n="72" break="no"/>tra communem viam quod pars septemtrionalis 
+      ce<lb ed="#C" n="73" break="no"/>li est nobilior. secundum philosophum secundo celi: pars 
+      <lb ed="#C" n="74"/>celi in qua est polus antarticus apparet superior 
+      <lb ed="#C" n="75"/>et pars opposita inferior. Et diebus his vltra 
+      <lb ed="#C" n="76"/>equatorem nauigantes dicunt stellas esse quantita 
+      <lb ed="#C" n="77"/>te et lumine maiores prope plagam meridionalem 
+      <lb ed="#C" n="78"/>quam penes eas. et ab effectibus in illis locis inuentis / 
+      <lb ed="#C" n="79"/>patet alterius partis celi nobilitas.
+   </p>
+            <p xml:id="jb2v19-d50812-d1e184">
+      ¶ Alia est 
+      <lb ed="#C" n="80"/>via quam Paulus Burgensis. in additione / Gem. 
+      <lb ed="#C" n="81"/>primo insequitur. et dicit quod terra est in medio 
+      vni<lb ed="#C" n="82" break="no"/>uersi tanquam eius centrum: et eius centrum est idem 
+      <lb ed="#C" n="83"/>cum centro vniuersi. et pari ratione elementum 
+      <lb ed="#C" n="84"/>aque de sui natura est sphericum cuius centrum 
+      <lb ed="#C" n="85"/>esi idem in sua prima productione cum centro 
+      ter<lb ed="#C" n="86" break="no"/>re seu vniuersi. Sed oportuit terram esse 
+      disco<lb ed="#C" n="87" break="no"/>opertam ab aquis secundum aliquas partes sui propter 
+      <lb ed="#C" n="88"/>habitationem animalium. Sapieritia autem 
+      di<lb ed="#C" n="89" break="no"/>uina sic disposuit vt elementum aque seruando 
+      <lb ed="#C" n="90"/>suam rotunditatem naturalem haberet centrum 
+      <lb ed="#C" n="91"/>separatum a centro terre et vniuersi. 
+      quemadmo<lb ed="#C" n="92" break="no"/>dum centrum quorundam orbium planetarum est 
+      <lb ed="#C" n="93"/>separatum a centro vniuersi. Hinc tales orbes 
+      <lb ed="#C" n="94"/>vocantur eccentrici / siue egresse cuspidis. Et 
+      <lb ed="#C" n="95"/>omnes aque vbicumque sint habent inclinationem 
+      <lb ed="#C" n="96"/>ad centrum aque ad quod fluunt cessante 
+      impe<lb ed="#C" n="97" break="no"/>dimento. Postea dicit quod huiusmodi distantia 
+      cesn<lb ed="#C" n="98" break="no"/>trorum fuit facta a deo et nulli potest attribui 
+      ni<lb ed="#C" n="99" break="no"/>si potestati et ordinationi diuine. Et quoniam 
+      ip<lb ed="#C" n="100" break="no"/>se tenet elementum aque in deciuplo esse maius 
+      <lb ed="#C" n="101"/>terra: ideo etiam dicit / quod licet in ripa maris 
+      con<lb ed="#C" n="102" break="no"/>muniter terra et aqua sunt equalis altitudinis 
+      <lb ed="#C" n="103"/>tamen procedendo in mari per elongationem a 
+      <lb ed="#C" n="104"/>terra / mare semper est altius terra. et sic licet in 
+      ri<lb ed="#C" n="105" break="no"/>pa maris terra et aqua concurrant: procedendo 
+      <lb ed="#C" n="106"/>tamen in mare per elongationem a terra mare 
+      <lb ed="#C" n="107"/>est altius terra: sic scilicet: quod in tantum potest quis 
+      pro<lb ed="#C" n="108" break="no"/>cedere quod ibi mare esset altius quam altissimi 
+      mon<lb ed="#C" n="109" break="no"/>tes in terra. et hinc est vt dicit incedentes per 
+      ter<lb ed="#C" n="110" break="no"/>ram ad mare descendere dicuntur.
+   </p>
+            <p xml:id="jb2v19-d50812-d1e254">
+      ¶ Contra 
+      <lb ed="#C" n="111"/>hanc positionem arguitur de natura aque est a 
+      <lb ed="#C" n="112"/>loco sublimiori ad decliuiorem fluere. nec in 
+      lo<lb ed="#C" n="113" break="no"/>co sublimiori manet nisi violente detineatur. mo 
+      <lb ed="#C" n="114"/>do nullum violentum est perpetuum. et licet deus 
+      <lb ed="#C" n="115"/>possit rem violente detinere perpetuo: non est 
+      fu<lb ed="#C" n="116" break="no"/>giendum ad miracula vbi omnia naturaliter saluari praesent. 
+   </p>
+            <p xml:id="jb2v19-d50812-d1e271">
+               <lb ed="#C" n="117"/>¶ Quarta via est. ex questione precedenti non 
+      <lb ed="#C" n="118"/>est idem centrum magnitudinis et grauitatis 
+      ter<lb ed="#C" n="119" break="no"/>re. Deus propter salutem animantium primo re¬
+      <pb ed="#V" n="86-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>traxit aquam ad partem que totam terram a 
+      prin<lb ed="#C" n="2" break="no"/>cipio circuibat: vt dicit scriptura / Genesis primo 
+      <lb ed="#C" n="3"/>inquiens. Congregentur aque que sub celo sunt 
+      <lb ed="#C" n="4"/>in locum vnum / et appareat arida. et factum est 
+      <lb ed="#C" n="5"/>ita. et vocanit deus aridam terram: 
+      congregati<lb ed="#C" n="6" break="no"/>onesque aquarum appellauit maria. tunc aqua ad 
+      <lb ed="#C" n="7"/>partem primo retracta relicta est terra 
+      influen<lb ed="#C" n="8" break="no"/>tie celesti. Sol et planete aliqui terram 
+      disco<lb ed="#C" n="9" break="no"/>opertam calefecerunt et lenifecerunt: vel minus 
+      <lb ed="#C" n="10"/>grauem fecerunt: vapores et exhalationes ab 
+      <lb ed="#C" n="11"/>ea extrahendo. Pars aqua cooperta non est sic 
+      <lb ed="#C" n="12"/>lenificata. ergo minus de terra aqua cooperta 
+      <lb ed="#C" n="13"/>pellit equalem partem terre ex altera parte 
+      cen<lb ed="#C" n="14" break="no"/>tri. et sic pars discooperta que est parua in 
+      ordi<lb ed="#C" n="15" break="no"/>ne ad totum: magis celo appropinquauit 
+      natu<lb ed="#C" n="16" break="no"/>raliter a grauitate alterius partis. licet violente 
+      <lb ed="#C" n="17"/>sit pars aqua discooperta facta minus grauis. et 
+      <lb ed="#C" n="18"/>per consequens linea ducta a centro grauitatis 
+      <lb ed="#C" n="19"/>terre ad superficiem conuexam terre aquis 
+      co<lb ed="#C" n="20" break="no"/>opertam est breuior quam linea ducta ab eodem 
+      <lb ed="#C" n="21"/>centro ad superficiem conuexam terre aquis 
+      <lb ed="#C" n="22"/>coopertam: vt patet ponendo pedem circini 
+      im<lb ed="#C" n="23" break="no"/>mobilem in centro terre: reducendo cum pede 
+      mo<lb ed="#C" n="24" break="no"/>bili aliter extenso varias lineas. sed de natura 
+      <lb ed="#C" n="25"/>aque est ad locum decliuiorem fluere suapte 
+      na<lb ed="#C" n="26" break="no"/>tura. ergo vbi est mare oceanum / terra est 
+      decli<lb ed="#C" n="27" break="no"/>uior quam arida. ergo naturaliter illic bene locatur 
+      <lb ed="#C" n="28"/>oceanus. mare caspium siue hircanum est in 
+      lo<lb ed="#C" n="29" break="no"/>co decliuiore terre. non potest suum locum 
+      natu<lb ed="#C" n="30" break="no"/>ralem exire propter terras propinquas altiores 
+      <lb ed="#C" n="31"/>et ita de mari mediterraneo et lacubus: vel de 
+      <lb ed="#C" n="32"/>aqua fontali vel pluuiali in iugis montium. 
+      sup<lb ed="#C" n="33" break="no"/>montes stabunt aque. etiam non est tantum aque 
+      si<lb ed="#C" n="34" break="no"/>cut terre. ergo aqua non appetit circuire totam 
+      <lb ed="#C" n="35"/>terram. sed se ad quandam sphericitatem 
+      reduce<lb ed="#C" n="36" break="no"/>re. Ex isto redditur causa quare mare non currit 
+      <lb ed="#C" n="37"/>in littus proximum sine violentia si in aridam cur: 
+      <lb ed="#C" n="38"/>reret: ascenderet: quod est inconueniens: secundum illud 
+      <lb ed="#C" n="39"/>psalmiste. Congregans sicut in vtre aquas 
+      ma<lb ed="#C" n="40" break="no"/>ris. et sic terra stat fundamentum stabile et abissus 
+      <lb ed="#C" n="41"/>vestimentum eius. secundum illud psalmiste psalmo. 1oet. 
+      <lb ed="#C" n="42"/>Qui fundasti terram super stabilitatem suam non 
+      <lb ed="#C" n="43"/>inclinabitur in seculum seculi. abissus sicut 
+      vesti<lb ed="#C" n="44" break="no"/>mentum amictus eius. et paulo post sequitur. 
+      ter<lb ed="#C" n="45" break="no"/>minum posuisti quem non transgredientur neque 
+      con<lb ed="#C" n="46" break="no"/>uertentur operire terram: secundum promissum dei: 
+      Ge<lb ed="#C" n="47" break="no"/>nosis nono. Neque erit deinceps diluuium dissipans 
+      <lb ed="#C" n="48"/>omnem terram. Et Iob. 18. Quis conclusit ostiis 
+      <lb ed="#C" n="49"/>mare. et paulo post circundedit illud terminis 
+      ma<lb ed="#C" n="50" break="no"/>is et posui vectem et ostia et dixi. vsque huc veni 
+      <lb ed="#C" n="51"/>es et non procedes amplius. et hic confringes 
+      tu<lb ed="#C" n="52" break="no"/>rnentes fluctus tuos.
+   </p>
+            <p xml:id="jb2v19-d50812-d1e397">
+      ¶ Contra ista arguitur: 
+      psas<lb ed="#C" n="53" break="no"/>mno sexagesimooctauo dicitur: veni in 
+      altitudi<lb ed="#C" n="54" break="no"/>item maris. et psalmo centesimotertio: super 
+      mon<lb ed="#C" n="55" break="no"/>tes stabunt aque.
+   </p>
+            <p xml:id="jb2v19-d50812-d1e406">
+      ¶ Ad primum dicitur quod 
+      alti<lb ed="#C" n="56" break="no"/>tudo tantum valet sicut profunditas: secundum illud 
+      Uergi<lb ed="#C" n="57" break="no"/>lianum primo Aeneio. vix e conspectu sicule 
+      tel<lb ed="#C" n="58" break="no"/>luris in altum vela dabant leti. Ad aliam aucto 
+      <lb ed="#C" n="59"/>ritatem dicitur quod loquitur de aqua que est in 
+      me<lb ed="#C" n="60" break="no"/>dia regione aeris vel citra in casu. et aliqua aque vt fon¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>tes et magni lacus sunt in immanibus iugis 
+      mon<lb ed="#C" n="62" break="no"/>tium. patet de lacu / de losanna et plerisque aliis. 
+   </p>
+            <p xml:id="jb2v19-d50812-d1e426">
+               <lb ed="#C" n="63"/>¶ Secundo arguitur. licet aqua in littore maris 
+      <lb ed="#C" n="64"/>non sit altior terra: tamen aqua distanter a 
+      litto<lb ed="#C" n="65" break="no"/>re est altior terra. quod patet sic. Aqua est 
+      sphe<lb ed="#C" n="66" break="no"/>rica et plana. quod patet iudicio satis vulgari sit 
+      <lb ed="#C" n="67"/>aliquis in naui et notet promontorium in 
+      litto<lb ed="#C" n="68" break="no"/>re maris vel turrim aliquam: recte nauigando 
+      <lb ed="#C" n="69"/>de radice mali non poterit videre turrim: bene 
+      <lb ed="#C" n="70"/>tamen in vertice mali: et tamen linea breuior est 
+      <lb ed="#C" n="71"/>ab oculo ad turrim in pede mali quam in eius 
+      fasti<lb ed="#C" n="72" break="no"/>gio. et hoc non est nisi propter tumorem aque. non 
+      <lb ed="#C" n="73"/>ob aliud mercatores timentes piratas 
+      specula<lb ed="#C" n="74" break="no"/>torem ad summitatem mali mittunt: non autem 
+      <lb ed="#C" n="75"/>ad proram vel puppin.
+   </p>
+            <p xml:id="jb2v19-d50812-d1e457">
+      ¶ Insuper. Ista via non possunt 
+      <lb ed="#C" n="76"/>saluari insule in mari: vt Taprobana Britannia 
+      <lb ed="#C" n="77"/>quo terra illarum insularum debeat esse altior tra¬ 
+   </p>
+            <p xml:id="jb2v19-d50812-d1e464">
+               <lb ed="#C" n="78"/>¶ Ad primum nego / quod aqua in medio mari sit 
+      <lb ed="#C" n="79"/>altior terra circumiacente. quia tunc in eam 
+      descende<lb ed="#C" n="80" break="no"/>ret. bene potest esse profundior. quia terra eius eius 
+      <lb ed="#C" n="81"/>subiecta plus distat a centro. et ad experimentum 
+      <lb ed="#C" n="82"/>dicitur quod hoc prouenit propter altitudines 
+      vnda<lb ed="#C" n="83" break="no"/>rum insurgentes in aqua. Mirabiles elationes 
+      ma<lb ed="#C" n="84" break="no"/>ris: mirabilis in altis dominus. Del propter 
+      mul<lb ed="#C" n="85" break="no"/>tos vapores eleuatos prope mare: qui 
+      impedi<lb ed="#C" n="86" break="no"/>unt visum. Si dicas quod mare a fronte quando in 
+      <lb ed="#C" n="87"/>gredieris videtur altius. hoc idem videtur a 
+      ter<lb ed="#C" n="88" break="no"/>go vt patet intuenti.
+   </p>
+            <p xml:id="jb2v19-d50812-d1e491">
+      ¶ Aliud ergumentum est 
+      <lb ed="#C" n="89"/>impertinens qualitercumque dicatur. siue ponatur 
+      <lb ed="#C" n="90"/>centrum aque separatum a centro terre siue non. 
+      <lb ed="#C" n="91"/>et argumentum est multo maius contra illam 
+      po<lb ed="#C" n="92" break="no"/>sitionem. Sed dicitur quod britannia est altior 
+      ma<lb ed="#C" n="93" break="no"/>ri circumiacente et sic taprobana saltem littora et 
+      <lb ed="#C" n="94"/>ripe maris. licet partes remote / terre possunt 
+      es<lb ed="#C" n="95" break="no"/>se mari illo decliuiores. sed ingressus aque 
+      impe<lb ed="#C" n="96" break="no"/>dietur ad has partes per ripas maris.
+   </p>
+            <p xml:id="jb2v19-d50812-d1e511">
+      ¶ Sed 
+      <lb ed="#C" n="97"/>dubitas quomodo causatur britannia: puta quod 
+      il<lb ed="#C" n="98" break="no"/>la terra est altior reliquis partibus terre 
+      vici<lb ed="#C" n="99" break="no"/>nis.
+   </p>
+            <p xml:id="jb2v19-d50812-d1e520">
+      ¶ Pro nunc dico. iste insule sunt magni 
+      <lb ed="#C" n="100"/>montes et generantur more ceterorum 
+      mon<lb ed="#C" n="101" break="no"/>tium. Gritannia (que secundum Ptholomeum septimo 
+      <lb ed="#C" n="102"/>libro geographie post taprobanam est maxima 
+      <lb ed="#C" n="103"/>insularum) fiebat altero istorum modorum. vel 
+      <lb ed="#C" n="104"/>deus a principio (quod est michi verosimilius) non 
+      <lb ed="#C" n="105"/>condiderat terram sphericam: sed aliquas 
+      gib<lb ed="#C" n="106" break="no"/>bositates et altitudines in superficie terre fect: 
+      quae<lb ed="#C" n="107" break="no"/>rum alique sunt immanis magnitudinis. et ille in 
+      <lb ed="#C" n="108"/>aquis proiecte dicuntur insule. quarum alique sunt 
+      <lb ed="#C" n="109"/>minule: vt rodus / minorica: et relique bealires. 
+      <lb ed="#C" n="110"/>alique magne. quia archa None descendit super 
+      <lb ed="#C" n="111"/>montes armenie Genesi. 8. verosimile est quod modo 
+      <lb ed="#C" n="112"/>tes illi diluuium precesserunt: vel fluuius None 
+      suo<lb ed="#C" n="113" break="no"/>impetu terram in aliquo loco molliori cauabat 
+      <lb ed="#C" n="114"/>et multam congeriem terre et saporum proiecit 
+      <lb ed="#C" n="115"/>in vnam massam eleuatam ex qua facta est 
+      insu<lb ed="#C" n="116" break="no"/>la. licet homo non improbabiliter potest loqui 
+      <lb ed="#C" n="117"/>de Britannia sicut fertur de Cecilia vltra 
+      pha<lb ed="#C" n="118" break="no"/>ron / quod sicut Trinacria olim Italie 
+      coniunge<lb ed="#C" n="119" break="no"/>batur: sed mare ingrediens separationem fecit. 
+      <lb ed="#C" n="120"/>Unde Plinius libro secundo / ca. 20. loquens de
+      <pb ed="#V" n="86-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>terra quam mare abstulit et insulam fecit sic 
+      in<lb ed="#C" n="2" break="no"/>quit: auellit cicilliam italie. ciprum sirie. et c. sic 
+      for<lb ed="#C" n="3" break="no"/>te erat de britannia quod relique europe 
+      coniunge<lb ed="#C" n="4" break="no"/>batur et mare oceanum irrupit iter parando vi 
+      <lb ed="#C" n="5"/>am a septemtrione ad meridiem citius in vna 
+      par<lb ed="#C" n="6" break="no"/>te quam alia perper terre molliciem in vna parte et resistentiam 
+      <lb ed="#C" n="7"/>in alia. intercepado inter calisiam in picardia et 
+      do<lb ed="#C" n="8" break="no"/>uerum in anglia non est supra quindecim leucas 
+      <lb ed="#C" n="9"/>et inter nostram dominam de Bolonia et angliam minus 
+      <lb ed="#C" n="10"/>est interuallum. et eodem modo dicetur inter Hiber 
+      <lb ed="#C" n="11"/>niam et Britanniam: et de Orchadibus insul / tile / 
+      <lb ed="#C" n="12"/>et reliquis. et sicut impetus maris a continenti 
+      <lb ed="#C" n="13"/>terram rapit et insulam facit: sic continenti 
+      insu<lb ed="#C" n="14" break="no"/>lam continuat. Eadem est ratio. et Plinius. ca. dI 
+      <lb ed="#C" n="15"/>eiusdem libri hoc factum fuisse ostendit. per terre 
+      <lb ed="#C" n="16"/>motus valles et montes generantur: ita quod aliqua 
+      <lb ed="#C" n="17"/>pars terre tremuit propter spiritus in terra inclusos 
+      <lb ed="#C" n="18"/>sicut tempore meo dicere solent de monte sonum 
+      <lb ed="#C" n="19"/>dante veniendo de Hadingtona ad Albam 
+      eccle<lb ed="#C" n="20" break="no"/>siam ad ducentos passus ab alba ecclesia 
+      distan<lb ed="#C" n="21" break="no"/>te. Simile de terre tremore in Gabinensi agro 
+      <lb ed="#C" n="22"/>ostendit Plinius. c. c6 et per longam pluuiam et 
+      <lb ed="#C" n="23"/>decursum aque. modo longa erat pluuia et 
+      im<lb ed="#C" n="24" break="no"/>petuosa ante None diluuium. Unte Gems. 7. scribitur. 
+      <lb ed="#C" n="25"/>Ego pluam super terram quadraginta diebus et 
+      <lb ed="#C" n="26"/>quadraginta noctibus: et delebo omnem 
+      sub<lb ed="#C" n="27" break="no"/>stantiam quam feci de superficie terre. Primus 
+      <lb ed="#C" n="28"/>modus est michi verosimilior. Montes non sunt 
+      <lb ed="#C" n="29"/>a casu et fortuna facti: sed nutu diuino tempore 
+      <lb ed="#C" n="30"/>ardoris solis sub vmbra montium quiescunt 
+      ani<lb ed="#C" n="31" break="no"/>malia. et vbicumque flat frigidus boreas vel ventus 
+      <lb ed="#C" n="32"/>alius: ab vna parte montium animalia capiunt 
+      requi<lb ed="#C" n="33" break="no"/>em. hoc nouere rurales in regionibus pascuis 
+      ha<lb ed="#C" n="34" break="no"/>bundantes: qui in hyeme ad montes vel 
+      nemora<lb ed="#C" n="35" break="no"/>habent refugium pro ouium boum et equorum silue 
+      <lb ed="#C" n="36"/>strium quiete. Rursus non parum vtilitatis 
+      pro<lb ed="#C" n="37" break="no"/>pace inter gentes maria et montes afferunt. 
+      <lb ed="#C" n="38"/>patet de montibus pyrreneis inter gallos et 
+      his<lb ed="#C" n="39" break="no"/>panos. alpes inter gallos cisalpinos et 
+      transal<lb ed="#C" n="40" break="no"/>pinos. germani ab hisperia per eosdem alpes 
+      sepa<lb ed="#C" n="41" break="no"/>rantur: et alie regiones per eorum descensum in 
+      gre<lb ed="#C" n="42" break="no"/>ciam. sic facit mos immanis ab orientali mari asie 
+      <lb ed="#C" n="43"/>Oriens ad mediterraneum protensus nichil vti 
+      <lb ed="#C" n="44"/>lius quam per grandes habere fluctus vel motes 
+      dif<lb ed="#C" n="45" break="no"/>ficilis accessus inter regna vicina.
+   </p>
+            <p xml:id="jb2v19-d50812-d1e670">
+      ¶ Preterea 
+      <lb ed="#C" n="46"/>arguitur Matthei. 6. scribitur. Descendit ad 
+      il<lb ed="#C" n="47" break="no"/>los de naui. et Luce. 5. scribitur. Et ascendente 
+      ie<lb ed="#C" n="48" break="no"/>su in nauiculam. ergo mare est terre contermine al 
+      <lb ed="#C" n="49"/>tius.
+   </p>
+            <p xml:id="jb2v19-d50812-d1e681">
+      ¶ Respondetur. consequentia est nulla. 
+      so<lb ed="#C" n="50" break="no"/>lum sequitur quod nauis cuius magna pars est 
+      super<lb ed="#C" n="51" break="no"/>aquam est terra contermina altior. et illud potest 
+      <lb ed="#C" n="52"/>per passus sacre scripture colorari. psalmo 
+      cente<lb ed="#C" n="53" break="no"/>simosexto scribitur: qui descendunt ad mare. et de 
+      <lb ed="#C" n="54"/>scendentes iopen inuenerunt nauim.
+   </p>
+            <p xml:id="jb2v19-d50812-d1e694">
+      ¶ 
+      Ampli<lb ed="#C" n="55" break="no"/>us arguitur. Aqua super herbas cadens ad quam 
+      <lb ed="#C" n="56"/>dam rotunditatem se recollit: et sic patet de 
+      <lb ed="#C" n="57"/>aqua ex foramine dolii cum aqua egreditur. 
+   </p>
+            <p xml:id="jb2v19-d50812-d1e704">
+               <lb ed="#C" n="58"/>¶ Rursus: recitat Aristoteles circa finem primi 
+      <lb ed="#C" n="59"/>Metheororum historiam de egypto. cum quidam 
+      <lb ed="#C" n="60"/>rex voluit deducere sinum arabicum in mare me¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>diterraneum: et cum longam confossionem faceret: 
+      <lb ed="#C" n="62"/>quidem antiquus philosophus nomine 
+      Seio<lb ed="#C" n="63" break="no"/>cres inuenit per artem mare altius terra. et sic 
+      ni<lb ed="#C" n="64" break="no"/>si cessaret tota epyptus fuisset submersa. et sic rex 
+      <lb ed="#C" n="65"/>ille cessauit. et iterum darius hoc attentans 
+      ces<lb ed="#C" n="66" break="no"/>sauit.
+   </p>
+            <p xml:id="jb2v19-d50812-d1e728">
+      ¶ Respondetur. aqua in principio sue 
+      ge<lb ed="#C" n="67" break="no"/>nerationis quando est parua se reducit ad 
+      figu<lb ed="#C" n="68" break="no"/>ram sphericam: vel a frigore circumstante ad hoc 
+      <lb ed="#C" n="69"/>reducitur. et sic aqua vel vinum dolium exiens: 
+      <lb ed="#C" n="70"/>non autem quando est in magna quantitate. 
+   </p>
+            <p xml:id="jb2v19-d50812-d1e739">
+               <lb ed="#C" n="71"/>¶ Ad secundum argumentum de illis cessationibus 
+      <lb ed="#C" n="72"/>regum egipti. dicitur: non est sermo de terra mari 
+      <lb ed="#C" n="73"/>proximo sed remoto. propterea aliqui hoc timentes 
+      <lb ed="#C" n="74"/>aggeres apponunt ad resistendum mari. quod 
+      <lb ed="#C" n="75"/>terra est altius: vt in flandria et selandia fieri 
+      so<lb ed="#C" n="76" break="no"/>let impensis reipublice.
+   </p>
+            <p xml:id="jb2v19-d50812-d1e755">
+      ¶ Ex his duabus 
+      que<lb ed="#C" n="77" break="no"/>stionibus simul iunctis patet non esse idem 
+      cen<lb ed="#C" n="78" break="no"/>trum graui tatis terre et eius magnitudinis. et per 
+      con<lb ed="#C" n="79" break="no"/>sequens semper stante pede circini immobiliter in 
+      <lb ed="#C" n="80"/>centro grauitatis terre: et alio pede mobili 
+      leua<lb ed="#C" n="81" break="no"/>to ad superficiem conuexam terre sub aqua et sine 
+      <lb ed="#C" n="82"/>aqua: longior est linea ad aridam protensa. et per 
+      <lb ed="#C" n="83"/>consequens superficies terre discoopta aquae est celo vicinior et 
+      <lb ed="#C" n="84"/>alia depressior. et per consequens illic tantum requiescit a quae in suo al 
+      <lb ed="#C" n="85"/>ueo: si non violente agitetur aliunde.
+   </p>
+            <p xml:id="jb2v19-d50812-d1e777">
+      ¶ Insuper 
+      <lb ed="#C" n="86"/>insulas de nouo in aquis potest facere aqua maris 
+      <lb ed="#C" n="87"/>sicut in aqua dulci videmus. et duas insulas mutuo 
+      <lb ed="#C" n="88"/>collidere in vnam: vel vnam continenti addere 
+      <lb ed="#C" n="89"/>Aliqua etiam terra propter exhalationem 
+      inclu<lb ed="#C" n="90" break="no"/>sam tremit potissimum equitibus. quod mirabilius 
+      <lb ed="#C" n="91"/>putatur / dicit Plinius libro secundo. c. 17. quod 
+      ali<lb ed="#C" n="92" break="no"/>que insule semper fluctuant hoc in egeo et 
+      cam<lb ed="#C" n="93" break="no"/>pania dicit sic inquiens. Similiter in reatiuo 
+      que<lb ed="#C" n="94" break="no"/>dam insule semper fluctuant sicut in agro 
+      cecubo<lb ed="#C" n="95" break="no"/>et eodem reatino mutinensi in vaduno 
+      iuslacu<lb ed="#C" n="96" break="no"/>et ad tutilas aquas opaca silua que nunquam diu 
+      ac<lb ed="#C" n="97" break="no"/>noctu eodem loco visitatur. Audiui in patria 
+      mea<lb ed="#C" n="98" break="no"/>esse natantem insulam: et hoc reputant vnum de 
+      <lb ed="#C" n="99"/>tribus scotie britannice mirabilibus. licet terra 
+      <lb ed="#C" n="100"/>naturaliter appetit esse sub aqua vbicumque locorum 
+      <lb ed="#C" n="101"/>posita fuerit: tamen potest dari terra sic 
+      porosa<lb ed="#C" n="102" break="no"/>bituminosa de oleo vel aliis mixtis participans 
+      <lb ed="#C" n="103"/>cum superioribus elementis: dato quod essentialiter 
+      <lb ed="#C" n="104"/>et entitatiue sit pura terra et non qualitatiue quod 
+      <lb ed="#C" n="105"/>supernatet aque. et illa aqua est super terram 
+      soli<lb ed="#C" n="106" break="no"/>dam. sicut capere potes cespitem terre superfici 
+      <lb ed="#C" n="107"/>aliter bene calefacte et ponere super aquam 
+      super<lb ed="#C" n="108" break="no"/>natabit. Et si aqua fuerit profunda et grossa. et 
+      ter<lb ed="#C" n="109" break="no"/>ra argillosa et valde lata supportabit onus 
+      gran<lb ed="#C" n="110" break="no"/>de. sicut de naui in mari videmus: vel de lignis 
+      fu<lb ed="#C" n="111" break="no"/>nibus coniunctis que nostri super taym flumen 
+      <lb ed="#C" n="112"/>ponunt: super que sedent homines cum ouium et 
+      <lb ed="#C" n="113"/>boum magna caterua. vidi in pratis aliquibus 
+      <lb ed="#C" n="114"/>nobiscum crebriter loca super que pueri ludunt 
+      <lb ed="#C" n="115"/>flexibiliter ad 4. vel quinque pedes descendit et 
+      <lb ed="#C" n="116"/>ascendit. equus vel bos ad ventrem cadit. illie est 
+      <lb ed="#C" n="117"/>aqua grossa terram humidam et fixam 
+      suppor<lb ed="#C" n="118" break="no"/>tans. et si non adhereret fixo solo: moueretur 
+      cir<lb ed="#C" n="119" break="no"/>culariter ad motum aque. 
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 3</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 3</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="65-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d38670"><!-- l2d12q3 -->
+            <head xml:id="jb2v19-d38670-Hd1e101">Quaestio 3</head>
+            <head xml:id="jb2v19-d38670-Hd1e103" type="question-title">Utrum  caelum sit ex materia et forma conflatum</head>
+            <p xml:id="jb2v19-d38670-d1e106">
+               <lb ed="#C" n="85"/>CIrca hanc distinctionem. 12. queritur 
+      ter<lb ed="#C" n="86" break="no"/>tio / n celum sit ex matria et foratia conflatum 
+      <lb ed="#C" n="87"/>irca hanc quodnem varie stit hominum opinones 
+   </p>
+            <p xml:id="jb2v19-d38670-d1e115">
+               <lb ed="#C" n="88"/>¶ Prima Aristotelis qui visus ceo ponere 
+      <lb ed="#C" n="89"/>celum substantiam simplicem vt simplex distinguatur a 
+      composi<lb ed="#C" n="90" break="no"/>to ex materia et fora. bene tamen est extensa et quaedaem sudiantia quae est 
+      <lb ed="#C" n="91"/>subietum lucis / luminis / et ceterorum accesentium celestium. si 
+      mo<lb ed="#C" n="92" break="no"/>tus localis teneatur res distincta a mobili et loco: 
+      il<lb ed="#C" n="93" break="no"/>li subsane inheret. et licet istd egre ex Aristotele 
+      dedu<lb ed="#C" n="94" break="no"/>ci potest: hoc expresse tenet commentator de substia orbis. 
+   </p>
+            <p xml:id="jb2v19-d38670-d1e133">
+               <lb ed="#C" n="95"/>¶ Alii fideles tenent celum compositum ex maturia et 
+      for<lb ed="#C" n="96" break="no"/>ma propter primum caput geneseos. et hi sunt geminati. 
+      <lb ed="#C" n="97"/>aliqui ponunt in celo matriam alterius rationis a 
+      materia<lb ed="#C" n="98" break="no"/>mixtorum. Tertii ponunt materiam eiusdem rationis in 
+      ce<lb ed="#C" n="99" break="no"/>lo et in mixtis. et adhuc multi ponunt celos animatos 
+      <lb ed="#C" n="100"/>anima intellectiua. Alii non ponunt eos animatos
+   </p>
+            <p xml:id="jb2v19-d38670-d1e150">
+      ¶ 
+      Cir<lb ed="#C" n="101" break="no"/>ca hoc ponam aliquas conclusiones. quarum prima est. licet in lumine 
+      <lb ed="#C" n="102"/>naturali non potest efficaciter probari quod celum non habeat 
+      <lb ed="#C" n="103"/>materiam et formam: tamen in lumine naturali ipsa forte est 
+      ap<lb ed="#C" n="104" break="no"/>parentior opposita
+   </p>
+            <p xml:id="jb2v19-d38670-d1e161">
+      ¶ Secunda conclusio. in celo ponenda est 
+      <lb ed="#C" n="105"/>materia.
+   </p>
+            <p xml:id="jb2v19-d38670-d1e166">
+      ¶ Tertia conclusio. maturia celi est eiusdem 
+      ratio<lb ed="#C" n="106" break="no"/>nis cum maturia in istis inferioribus.
+   </p>
+            <p xml:id="jb2v19-d38670-d1e171">
+      ¶ Quarta conclusio. 
+      ce<lb ed="#C" n="107" break="no"/>lum est compositum ex maturia et forma.
+   </p>
+            <p xml:id="jb2v19-d38670-d1e176">
+      ¶ Quinta conclusio. 
+      <lb ed="#C" n="108"/>celum non habet intelligentiam vel naturam intellectualem 
+      <lb ed="#C" n="109"/>tanquam formam eius.
+   </p>
+            <p xml:id="jb2v19-d38670-d1e183">
+      ¶ Prima conclusio quo ad eius priorem partem 
+      <lb ed="#C" n="110"/>patet. non potest reprobari in lumine naturali quin celi sint 
+      a<lb ed="#C" n="111" break="no"/>nimati. patebit in quinta conclusione et eius obiectionibus. 
+      <lb ed="#C" n="112"/>Plinius perse / et plerique gentiles / putarunt solem esse deum 
+      <lb ed="#C" n="113"/>et animal viuens propter mirabiles effectus quis habet in istis 
+      <lb ed="#C" n="114"/>inferioribus.
+   </p>
+            <p xml:id="jb2v19-d38670-d1e197">
+      ¶ Secundo arguitur ad idem. illud est 
+      fal<lb ed="#C" n="115" break="no"/>sum vt canunt conclusiones sequntes. ergo non potest 
+      proba<lb ed="#C" n="116" break="no"/>ri in lumine naturali sufficienti probatione.
+   </p>
+            <p xml:id="jb2v19-d38670-d1e204">
+      ¶ Secunda pars 
+      <lb ed="#C" n="117"/>patet. maturia non cognoscitur nisi in analogia ad formam 
+      <lb ed="#C" n="118"/>primo Phisicorum. sed celum semper manet 
+      sta<lb ed="#C" n="119" break="no"/>bile et incorruptibile. ergo non est ponenda 
+      ma<lb ed="#C" n="120" break="no"/>teria in celo. Item: si in celo esset materia: illa non est
+      <pb ed="#V" n="65-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>sine fora in lumine naturali appetitus matrie est ad aliam 
+      <lb ed="#C" n="2"/>foratiam. maturia sper tendit ad maleficium I Nhisicorum. 
+   </p>
+            <p xml:id="jb2v19-d38670-d1e224">
+               <lb ed="#C" n="3"/>¶ Secunda conclusio probatr per comnem sapientum exponem 
+      expo<lb ed="#C" n="4" break="no"/>nentium illud Geneseos I In principio creauit deus 
+      ce<lb ed="#C" n="5" break="no"/>lum et terram. per celum intelligunt celum estpireum mox angelis 
+      <lb ed="#C" n="6"/>repletum. per terram materiam ex quae omnia formata sunt. 
+   </p>
+            <p xml:id="jb2v19-d38670-d1e235">
+               <lb ed="#C" n="7"/>¶ Tertia conclusio probatur. non est ponenda pluralitas 
+      si<lb ed="#C" n="8" break="no"/>ne necessitate omnia praesent saluari ponendo in celo 
+      ma<lb ed="#C" n="9" break="no"/>teriam eiusdem rationis cum matria in his inferioribus. igitur. 
+   </p>
+            <p xml:id="jb2v19-d38670-d1e244">
+               <lb ed="#C" n="10"/>¶ Insuper. Augustinus dicit materiam primam fuisse 
+      cre<lb ed="#C" n="11" break="no"/>atam prope nihil ita quod ipsa inter omnes substantias est infima. si 
+      <lb ed="#C" n="12"/>maturia celi esset alterius speciei a maturia in his 
+      inferio<lb ed="#C" n="13" break="no"/>ribus: accederit ad fortras in perfectione super maturias in 
+      <lb ed="#C" n="14"/>his inferioribus.
+   </p>
+            <p xml:id="jb2v19-d38670-d1e257">
+      ¶ Tertio. non iunat maturia altrius ratio quod 
+      <lb ed="#C" n="15"/>nis ad sustinenda perpetuitatem celi pro quae omnes laborant. 
+      <lb ed="#C" n="16"/>quod patet. si deus crearet materiam alterius speciei (quod 
+      <lb ed="#C" n="17"/>credo esse ei possibile) illam matriam potest infortrare forta 
+      <lb ed="#C" n="18"/>ignis vel aquae et tunc esset corruptio et productio. ergo 
+      in<lb ed="#C" n="19" break="no"/>ane est ponere in celo materiam alterius rationis.
+   </p>
+            <p xml:id="jb2v19-d38670-d1e271">
+      ¶ Si 
+      <lb ed="#C" n="20"/>dicas ob nobilitatem maturie. quia habet materiam 
+      nobili<lb ed="#C" n="21" break="no"/>orem.
+   </p>
+            <p xml:id="jb2v19-d38670-d1e278">
+      ¶ Contra. nobilitas maturie non requiritur nisi propter 
+      <lb ed="#C" n="22"/>nobilitatem fortre vel incorruptibilitatem. non secundum: ex 
+      <lb ed="#C" n="23"/>dictis. nec primum. anima intellectiua est nobilior forma 
+      <lb ed="#C" n="24"/>celi: et quaelibet anima sensitiua: cum viuens praestet non viuenti. 
+   </p>
+            <p xml:id="jb2v19-d38670-d1e287">
+               <lb ed="#C" n="25"/>¶ Quarta conclusio sequitur ex dictis.
+   </p>
+            <p xml:id="jb2v19-d38670-d1e292">
+      ¶ Quinta 
+      conclusio<lb ed="#C" n="26" break="no"/>probatur auente. Unte Ioanes damascenus. c. 6. secundi 
+      li<lb ed="#C" n="27" break="no"/>bri de orthodoxa fide: sic ait nullus autem celos aut 
+      <lb ed="#C" n="28"/>luminaria arbitretur animata: inaniata em sunt et 
+      insensi<lb ed="#C" n="29" break="no"/>bilia quaere si scriptura dicat: Letentur celi et exultet 
+      <lb ed="#C" n="30"/>terra angelos qui sunt in celo: et homines qui sunt in 
+      terra<lb ed="#C" n="31" break="no"/>ad leticia vocat. nouit em scriptura prosopopeiam 
+      <lb ed="#C" n="32"/>personarumque fictionem vsurpare: et de inanimis vt de 
+      <lb ed="#C" n="33"/>alatis dicere. vt mare vadit et fugit: iordanis 
+      con<lb ed="#C" n="34" break="no"/>uersus est retrorsum. etc. hec Damascenus. idem 
+      te<lb ed="#C" n="35" break="no"/>net. Basilius in examerio
+   </p>
+            <p xml:id="jb2v19-d38670-d1e316">
+      ¶ Secundo. ponere corpora 
+      ce<lb ed="#C" n="36" break="no"/>lestia animata est articulus exconicatus a domino 
+      Stepha<lb ed="#C" n="37" break="no"/>non epso Parisiensi.
+   </p>
+            <p xml:id="jb2v19-d38670-d1e323">
+      ¶ Tertio arguitur. Si celi essent 
+      <lb ed="#C" n="38"/>animati: vosimile esset quod ille anime essent iuste et btem. et per consequens 
+      <lb ed="#C" n="39"/>licite adorande: cuius oppositum patet per scriptura. 
+      cre<lb ed="#C" n="40" break="no"/>britur reprhabensi sunt qui solem et lunam et celi miliciam 
+      ado<lb ed="#C" n="41" break="no"/>rarunt. patet in libris Regum et prophet frequentur. et Iob. 3 
+      <lb ed="#C" n="42"/>si vidi solem cum fulgeret: et lunam incidente clare: et 
+      oscu<lb ed="#C" n="43" break="no"/>latus sum manum mea ore meo: quae est iniquitas maxima et 
+      ne<lb ed="#C" n="44" break="no"/>gociatio contra deum.
+   </p>
+            <p xml:id="jb2v19-d38670-d1e342">
+      ¶ Probat hanc conclusionem beatus 
+      tho<lb ed="#C" n="45" break="no"/>mas in prima parte. q. 70. sic. si celum esset animatum: frustra 
+      <lb ed="#C" n="46"/>anima vniretur celo. non propter perfectionem in essendo: pro eo 
+      <lb ed="#C" n="47"/>maturia est propter forma et non econuerso. 2. Nhisic. nec 
+      <lb ed="#C" n="48"/>propter perfectionem in operando. quia equae perfecte potest operari 
+      <lb ed="#C" n="49"/>non vnita sic vnita.
+   </p>
+            <p xml:id="jb2v19-d38670-d1e355">
+      ¶ Richardus sic arguit. celum non 
+      <lb ed="#C" n="50"/>habet animam vegetatiua: quia nec augetur nec minuitur. nec 
+      <lb ed="#C" n="51"/>habet animam sensitiuam: quia non habet instrumenta sentiendi. nec 
+      <lb ed="#C" n="52"/>habet intellectiuam: quia intellectiua supponit has.
+   </p>
+            <p xml:id="jb2v19-d38670-d1e364">
+      ¶ 
+      he<lb ed="#C" n="53" break="no"/>rationes facile repelluntur. prior concludit quod anima non 
+      re<lb ed="#C" n="54" break="no"/>dit ad corpus in resurrectione. Dicerent aduersarii: habet 
+      <lb ed="#C" n="55"/>animam ob perfectionem totius.
+   </p>
+            <p xml:id="jb2v19-d38670-d1e373">
+      ¶ Ad secundum argumentum 
+      di<lb ed="#C" n="56" break="no"/>co / quod ipsum praesupponit falsum. eadem est anima intellectiva 
+      <lb ed="#C" n="57"/>sensitiva / et vegetativa. celum tamen nec augetur nec sentit 
+      <lb ed="#C" n="58"/>sensatio est in animalibus instrumenta sentiendi 
+      haben<lb ed="#C" n="59" break="no"/>tibus. et si diceretur planetas et stellas esse celo 
+      <lb ed="#C" n="60"/>rum oculos: sicuti aliqui vident vno oculo in frao¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>te nescis efficaciter oppositum concludere. 
+   </p>
+            <p xml:id="jb2v19-d38670-d1e391">
+               <lb ed="#C" n="62"/>¶ Contra priorem partem prime conclusiois non obiiciam: quia eius 
+      <lb ed="#C" n="63"/>obiectio ex secunda / tertia / et quaerta patebit.
+   </p>
+            <p xml:id="jb2v19-d38670-d1e398">
+      ¶ Contra 
+      <lb ed="#C" n="64"/>posteriorem partem sic arguo. celum est sanlia simplex. ergo vel 
+      <lb ed="#C" n="65"/>est matria sola: et tunc dabitur matria sine forma. vel 
+      <lb ed="#C" n="66"/>fortia sola sine materia. sed non est ponenda fortra substantialis 
+      <lb ed="#C" n="67"/>sine maturia. ergo est totum compositum. quia non est alia substantia 
+   </p>
+            <p xml:id="jb2v19-d38670-d1e410">
+               <lb ed="#C" n="68"/>¶ Respondetur. nec est maturia nec fortia: sed altius rationis ab 
+      <lb ed="#C" n="69"/>vtraque. non de natura elementorum sicut dixit plato: 
+      <lb ed="#C" n="70"/>sed est quinta essentia ab elementis et elementatis 
+      di<lb ed="#C" n="71" break="no"/>stincta: sicut dicit Aristoteles. siue dicatur maturia vel 
+      <lb ed="#C" n="72"/>foratia propter plura conuenientia cum vna quam altera: non 
+      re<lb ed="#C" n="73" break="no"/>fert de nominbus. satis est: non est eiusdem speciei specia 
+      <lb ed="#C" n="74"/>lissime cum eis. quod cum vtraque conueniat / patet. est subsundum 
+      ac<lb ed="#C" n="75" break="no"/>cidentium: quod maturie conuenit. agit actione reali. sed hoc 
+      <lb ed="#C" n="76"/>est cum foratia conuenire.
+   </p>
+            <p xml:id="jb2v19-d38670-d1e432">
+      ¶ Secundo arguitur. ex illo celum 
+      <lb ed="#C" n="77"/>non mouebitur. cum non a fortia eius: quia non habet formam 
+      tan<lb ed="#C" n="78" break="no"/>quam partem eius.
+   </p>
+            <p xml:id="jb2v19-d38670-d1e439">
+      ¶ Illud non concludit propter duo. Tum primo. 
+      <lb ed="#C" n="79"/>dica primo celum mouet se si guitas separata: 
+      tenen<lb ed="#C" n="80" break="no"/>do quod guitas est sua quantitas. sic essentia celi 
+      mouer<lb ed="#C" n="81" break="no"/>se circularitur. et illud patebit amplius postea per ea quae 
+      di<lb ed="#C" n="82" break="no"/>causa de perpetuitate motus eius: et eius essentia. Secundo 
+      di<lb ed="#C" n="83" break="no"/>causa. mouetur a motore extrinseco: sicut nunc communiter dicitur 
+      <lb ed="#C" n="84"/>de celo.
+   </p>
+            <p xml:id="jb2v19-d38670-d1e455">
+      ¶ Preturea arguitur. in celo est quantitas / 
+      rari<lb ed="#C" n="85" break="no"/>tas / et densitas: quae suut conditiones materie. ergo celum est 
+      <lb ed="#C" n="86"/>matria.
+   </p>
+            <p xml:id="jb2v19-d38670-d1e462">
+      ¶ Dico: ille non sunt passiones solius maturie: 
+      <lb ed="#C" n="87"/>siue ponatur quantitas disticta a re quanta siue no: 
+      ex<lb ed="#C" n="88" break="no"/>tendendo passiones ad accestentia inseperabilia.
+   </p>
+            <p xml:id="jb2v19-d38670-d1e469">
+      ¶ 
+      Insuper<lb ed="#C" n="89" break="no"/>secundum philsobeus primo de celo: celum est compositum ex tota matria 
+      <lb ed="#C" n="90"/>sua.
+   </p>
+            <p xml:id="jb2v19-d38670-d1e477">
+      ¶ Dico accipit matriam pro parte integli. Possunt 
+      <lb ed="#C" n="91"/>fieri argumenta per auentes Aristotel et commetatoris 
+      <lb ed="#C" n="92"/>ponentium celos animatos: quae contra hanc quintam conclusionem post 
+      <lb ed="#C" n="93"/>hac adducam.
+   </p>
+            <p xml:id="jb2v19-d38670-d1e486">
+      ¶ Contra tres sequentes conclusiones siml 
+      <lb ed="#C" n="94"/>argumentor. ex dictis sequitur quod celum esset 
+      corrupti<lb ed="#C" n="95" break="no"/>bile naturaliter: cum omnis potentia passiue materie sit 
+      <lb ed="#C" n="96"/>contradictionis. 0. Metha.
+   </p>
+            <p xml:id="jb2v19-d38670-d1e495">
+      ¶ Item. appetitus matrie est ad 
+      <lb ed="#C" n="97"/>quamlibet formam. sed ille: si no habtret quamlibet: esset inanis. 
+      <lb ed="#C" n="98"/>ergo celum si sit compositum exmaturia et fortra: non potest salua 
+      <lb ed="#C" n="99"/>ri perpetuum: cuius oppositum dicit Aristoteles primo 
+      <lb ed="#C" n="100"/>de celo et mundo.
+   </p>
+            <p xml:id="jb2v19-d38670-d1e506">
+      ¶ Respondetur. celum et creatura quaelibet potest 
+      <lb ed="#C" n="101"/>a deo corrumpi et annichilari. sed naturaliter 
+      proceda<lb ed="#C" n="102" break="no"/>mus. ex conditione quam deus dedit celo non sufficit dice 
+      <lb ed="#C" n="103"/>re celum habet perfectissimam formam: et sic matria eius non 
+      <lb ed="#C" n="104"/>appetit aliam. anima intellectiua est perfectior 
+      <lb ed="#C" n="105"/>forma celi: et tamen homo non est perpetuus. 
+   </p>
+            <p xml:id="jb2v19-d38670-d1e519">
+               <lb ed="#C" n="106"/>¶ Secundo: materia appetit formam imperfectam 
+      <lb ed="#C" n="107"/>sicut perfectam cum omnem appetit. vis argumenti 
+      <lb ed="#C" n="108"/>in hoc consistit. vnde prouenit illa perpetuitas quam 
+      <lb ed="#C" n="109"/>Aristoteles in lumine naturali loquens celo at 
+      <lb ed="#C" n="110"/>tribuit: quam fidelis si non esset doctus ab oraclusio 
+      <lb ed="#C" n="111"/>de opposito) daret. cum iam diu erat in motu 
+      con<lb ed="#C" n="112" break="no"/>tinuo et reglari. fidelis ex philosophia capit quo 
+      <lb ed="#C" n="113"/>modo sphera ignis est celo lune contiguus: et 
+      per<lb ed="#C" n="114" break="no"/>cipit quod celum hoc non obstante) durat in suo 
+      vi<lb ed="#C" n="115" break="no"/>gore: vel oportet dicere quod deus celum ita 
+      conser<lb ed="#C" n="116" break="no"/>uat miraculose ne corrumpatur: vel quod est ex 
+      na<lb ed="#C" n="117" break="no"/>tur a celi quam deus celo communicauit. Secundum 
+      <lb ed="#C" n="118"/>est rationabilius: quia his que videmus conformius 
+      <lb ed="#C" n="119"/>quando non constat ex scriptura de hoc modo 
+      <lb ed="#C" n="120"/>vel illo: capiendus est modus lumini naturali con¬
+      <pb ed="#V" n="66-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>formior. ista perpetuitas celi ex hoc contingit / vt 
+      <lb ed="#C" n="2"/>opinor. celum non habet qualitatem aliquam 
+      con<lb ed="#C" n="3" break="no"/>trariam igni / vel alicui mixto ei applicabili: nec 
+      <lb ed="#C" n="4"/>contra. propterea calor ignis / nec alia eius 
+      quali<lb ed="#C" n="5" break="no"/>tas contrariatur alicui qualitati celi. nec 
+      econuer<lb ed="#C" n="6" break="no"/>so. propterea nulla est actio realis / nec reactio 
+      ge<lb ed="#C" n="7" break="no"/>neratiua et corruptiua inter ea. propterea celum non 
+      <lb ed="#C" n="8"/>potest corrumpere partem ignis et in se 
+      conuer<lb ed="#C" n="9" break="no"/>tere: nec ignis partem celi. none vides aurum 
+      pro<lb ed="#C" n="10" break="no"/>piectum in ignem diutissime durare. nec potest nisi 
+      <lb ed="#C" n="11"/>per aliquas aquas liqueferi. et si non essent ille 
+      <lb ed="#C" n="12"/>aque liquefieri non potest. Uidemus aliqua a 
+      mul<lb ed="#C" n="13" break="no"/>tis posse corrumpi: vt homo ab igne / aqua / et 
+      mil<lb ed="#C" n="14" break="no"/>le modis in interitum tendit. aliqua sunt quae a 
+      pau<lb ed="#C" n="15" break="no"/>cis corrumpi possunt: vt aurum. aliquid potest 
+      fi<lb ed="#C" n="16" break="no"/>eri quod a nullo agente creato corrupi potest: et 
+      ita<lb ed="#C" n="17" break="no"/>est de facto de celo. Et licet possit producere 
+      qua<lb ed="#C" n="18" break="no"/>litatem vt calorem mediante lumine in his 
+      infe<lb ed="#C" n="19" break="no"/>riori bus: nichil potest corrumpere in suam 
+      natu<lb ed="#C" n="20" break="no"/>ram conuertendo. non potest corrumpere calorem 
+      <lb ed="#C" n="21"/>vel siccitatem ignis in sua sphera in parte / vel in 
+      <lb ed="#C" n="22"/>toto. nec aliud corruptibsle ei applicatur. ergo 
+      ni<lb ed="#C" n="23" break="no"/>hil in se conuertere potest. nec sunt qualitates 
+      pri<lb ed="#C" n="24" break="no"/>me in vllo celo: ergo vnum celum non potest aliud 
+      <lb ed="#C" n="25"/>corrumpere: siue habeaut formas distinctas / 
+      si<lb ed="#C" n="26" break="no"/>ue non. Celum non suscipit peregrinas impressi 
+      <lb ed="#C" n="27"/>ones secundum philosophum: hoc est qualitates 
+      pri<lb ed="#C" n="28" break="no"/>mas et eas consequentes: vt saporem / colorem / 
+      <lb ed="#C" n="29"/>odorem / et hmoni. quare est quod ignis corrumpit 
+      a<lb ed="#C" n="30" break="no"/>quam. quia habet accidentia contraria aque. 
+      pro<lb ed="#C" n="31" break="no"/>prterea in eam agit. ergo si applicetur ignis 
+      vni<lb ed="#C" n="32" break="no"/>substantie (quam admodum est celum) cui nullam 
+      ha<lb ed="#C" n="33" break="no"/>bet repugnantiam: in illam nunquam aget. celum nec sic 
+      <lb ed="#C" n="34"/>citatem nec caliditatem vel accidens 
+      peregri<lb ed="#C" n="35" break="no"/>num in se suscipit. ergo ignis nichil in celo corrum 
+      <lb ed="#C" n="36"/>pere potest. homo: licet habeat partes 
+      essentia<lb ed="#C" n="37" break="no"/>les quarum quelibet est perpetua et 
+      incorruptibi<lb ed="#C" n="38" break="no"/>lis a creatura. quia tamen anima intellectiua 
+      re<lb ed="#C" n="39" break="no"/>quirit aliquas qualitatiuas dispositiones ad hoc 
+      <lb ed="#C" n="40"/>quod forma materia informet: et alique illi anime 
+      <lb ed="#C" n="41"/>naturaliter aduersantur: et agentia naturalia 
+      pos<lb ed="#C" n="42" break="no"/>sunt illa accidentia corrumpere et 
+      repugnan<lb ed="#C" n="43" break="no"/>tia introducere: homo naturaliter 
+      corrumpi<lb ed="#C" n="44" break="no"/>tur extenso vocabulo corruptionis vt diximus 
+      <lb ed="#C" n="45"/>in. 45. distinctione quarti. non est sic in celo. etiam 
+      <lb ed="#C" n="46"/>potest deus facere forma neutram quae nullis accidentibus 
+      <lb ed="#C" n="47"/>aduersaretur. illis accidentibus hinc inde introductis 
+      <lb ed="#C" n="48"/>stat forma celi in sua materia. 
+   </p>
+            <p xml:id="jb2v19-d38670-d1e662">
+               <lb ed="#C" n="49"/>¶ Ad auctoritates insinuantes quod materia est 
+      causa<lb ed="#C" n="50" break="no"/>corruptionis. et possunt multe alie adduci. 
+      septi<lb ed="#C" n="51" break="no"/>mo Metaphisice materia est qua res potest 
+      es<lb ed="#C" n="52" break="no"/>se et non esse. et secundo de generatione / que habent 
+      <lb ed="#C" n="53"/>eandem materiam sunt inuicem transmutabilia 
+      <lb ed="#C" n="54"/>Ad omnes concedo quod materia est in potentia 
+      con<lb ed="#C" n="55" break="no"/>tradictionis respectu cuiuslibet forme. sed illa 
+      po<lb ed="#C" n="56" break="no"/>tentia non potest reduci ad actum per ignem: et 
+      <lb ed="#C" n="57"/>forte per nullum agens creatum / siue ei 
+      applice<lb ed="#C" n="58" break="no"/>tur siue non. sufficit quod nullum agens quod ei 
+      ap<lb ed="#C" n="59" break="no"/>plicabitur potest ipsum corrumpere. nec celum 
+      <lb ed="#C" n="60"/>aliquid potest corrumpendo. in se conuertere quaeli¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>tatiua dispositio pro sua forma nulli contrariatur. 
+      <lb ed="#C" n="62"/>et per consequens non corrumpit accidentia 
+      ele<lb ed="#C" n="63" break="no"/>mentorum vel mixtorum disponendo ea ad 
+      su<lb ed="#C" n="64" break="no"/>sceptionem forme celi. nec est communicata forme 
+      <lb ed="#C" n="65"/>celi actiuitas vlla in posse formam ignis 
+      cor<lb ed="#C" n="66" break="no"/>rumpere. Illud dictum commune materia est 
+      cau<lb ed="#C" n="67" break="no"/>sa corruprtionis: debet intelligi ad bonum sensum: 
+      <lb ed="#C" n="68"/>hunc scilicet: sunt qualitates contrarie inter agem 
+      <lb ed="#C" n="69"/>tia inferiora in materiis comunicantia: et 
+      mate<lb ed="#C" n="70" break="no"/>ria suscipit contrarias formas. sic materia est 
+      cau<lb ed="#C" n="71" break="no"/>sa corruprtionis ad sensum improprium 
+      consue<lb ed="#C" n="72" break="no"/>tum apud homines. magis forma es causa 
+      corru<lb ed="#C" n="73" break="no"/>partionis et accidentia contraria quod materia / cum 
+      ip<lb ed="#C" n="74" break="no"/>sa nullius actionis phisice est: nec vnquam 
+      procrea<lb ed="#C" n="75" break="no"/>ret sibi formam nisi ei communicaretur ab 
+      extrin<lb ed="#C" n="76" break="no"/>seco. et indifferenter se habet respectu cuiuslibet 
+      <lb ed="#C" n="77"/>forme. appetitus materie est ipsa materia. sic 
+      ap<lb ed="#C" n="78" break="no"/>petitus forme et accidentis cuiuslibet secum 
+      iden<lb ed="#C" n="79" break="no"/>ptificatur: et appetit generare et corrumpere. nichil est 
+      <lb ed="#C" n="80"/>quod aliqui dicunt dato quod non haberet contrium potens 
+      <lb ed="#C" n="81"/>ipsum corrumpere: corrumpetur: cum habeat corruptionem 
+      <lb ed="#C" n="82"/>intrinsecam: scilicet materiam. iam ad hoc respondimus quod 
+      <lb ed="#C" n="83"/>materia non est principium intrinsecum 
+      corruptio<lb ed="#C" n="84" break="no"/>nis nisi ad sensum improprium quem dedimus 
+      in<lb ed="#C" n="85" break="no"/>ter soluendum. nec aliud iudico respondendum 
+      <lb ed="#C" n="86"/>omnibus his auctoritatibus. nec vllam aliam 
+      difficul<lb ed="#C" n="87" break="no"/>tatem in materia illa video.
+   </p>
+            <p xml:id="jb2v19-d38670-d1e752">
+      ¶ Sed epilogo 
+      sum<lb ed="#C" n="88" break="no"/>mam rei. celum non suscipit peregrinas impressio 
+      <lb ed="#C" n="89"/>nes vllas: hoc est accidentia quae disponunt ad 
+      ge<lb ed="#C" n="90" break="no"/>nerationem et corruptionem. ergo nullum agens potest dis. 
+      <lb ed="#C" n="91"/>ponere materiam celi ad susceptionem alterius / 
+      <lb ed="#C" n="92"/>forme a forma quam habet: nec celum indispone: 
+      <lb ed="#C" n="93"/>re. ergo ipsum semper stat in suo vigore. nec celum / 
+      <lb ed="#C" n="94"/>potest alia corrumpendo in se conuertere: cum aliis non 
+      <lb ed="#C" n="95"/>conrietur. nec sua forma potest formam substatialem 
+      cor<lb ed="#C" n="96" break="no"/>rumpere vllam vt formam celi generet. perfectio forme 
+      <lb ed="#C" n="97"/>sue non arguit eius actiuitatem. patet de 
+      anima<lb ed="#C" n="98" break="no"/>intellectiua que est forma celi perfectior: et nullius 
+      <lb ed="#C" n="99"/>substantie productiua.
+   </p>
+            <p xml:id="jb2v19-d38670-d1e781">
+      ¶ Secundo arguitur. 
+      si<lb ed="#C" n="100" break="no"/>celum esset sic compositum sequeretur quod non 
+      e<lb ed="#C" n="101" break="no"/>geret motore extrinseco sicut communius 
+      sapi<lb ed="#C" n="102" break="no"/>entes dicunt. ergo non est compositum. 
+   </p>
+            <p xml:id="jb2v19-d38670-d1e790">
+               <lb ed="#C" n="103"/>¶ Respondetur: hoc argumentum est contra omnes 
+      <lb ed="#C" n="104"/>de motum celi. si non esset aliquod aliud obstans 
+      <lb ed="#C" n="105"/>quam quo ad motum: dicerem non inconuenire quod celum 
+      <lb ed="#C" n="106"/>circulariter moueatur a sua forma substantiali: vel 
+      <lb ed="#C" n="107"/>a forma accidentali connaturali. sicut graue a 
+      gra<lb ed="#C" n="108" break="no"/>uitate descendit. videmus molam fabri circularitur 
+      <lb ed="#C" n="109"/>motam per impetum impressum. quare negandum 
+      <lb ed="#C" n="110"/>est quin deus potest producere vnum accidens quod 
+      <lb ed="#C" n="111"/>mouebit celum circulariter naturaliter / et continuo. et 
+      <lb ed="#C" n="112"/>eodem modo de forma substantiali.
+   </p>
+            <p xml:id="jb2v19-d38670-d1e814">
+      ¶ Contra 
+      <lb ed="#C" n="113"/>quintam conclusionem arguitur. Aristoteles 
+      di<lb ed="#C" n="114" break="no"/>cit in secundo de celo et mundo quod celi sunt viui et 
+      <lb ed="#C" n="115"/>operationem animalem habentes. Et commentator 
+      duo<lb ed="#C" n="116" break="no"/>decimo methaphisice dicit: oportet dicere celum 
+      <lb ed="#C" n="117"/>esse animatum necessario: et motum celi a duplici 
+      mo<lb ed="#C" n="118" break="no"/>tore ponit: vno scilicet appropriato et sibi 
+      intrinse<lb ed="#C" n="119" break="no"/>co: quem animam celi vocat. Et auicenna nono 
+      me<lb ed="#C" n="120" break="no"/>thaphisice dicit celos esse formaliter animatos
+      <pb ed="#V" n="66-v"/>
+               <cb ed="#P" n="a"/>
+            </p>
+            <p xml:id="jb2v19-d38670-d1e838">
+               <lb ed="#C" n="1"/>¶ Respondetur: de facto commentator sic dicendo 
+      si<lb ed="#C" n="2" break="no"/>bi contradicit. ex illo sequitur quod celum non est substantia 
+      sim<lb ed="#C" n="3" break="no"/>plex: cuius oppositum manifeste dicit in de 
+      substan<lb ed="#C" n="4" break="no"/>tia orbis. negetur Auicenna. potest dici quod Aristoteles 
+      <lb ed="#C" n="5"/>intellexit de anima coassistente. et si oppositum 
+      vo<lb ed="#C" n="6" break="no"/>luerit: non sibi contradicit: sed non improbabiliter in lumine 
+      <lb ed="#C" n="7"/>naturali est loquutus. hoc Plato tenuit: vt 
+      Au<lb ed="#C" n="8" break="no"/>gustinus. 13 de ciuitate dei recitat. Multi tamen 
+      philspi<lb ed="#C" n="9" break="no"/>tenuerunt oppositum. Anaxagoras sicut recitat 
+      Au<lb ed="#C" n="10" break="no"/>gustinus. 8. de ciuitate apo Athenienses est factus 
+      <lb ed="#C" n="11"/>reus eo quod diceret solem esse lapidem ardentem. ergo 
+      <lb ed="#C" n="12"/>erat vulgaris opinio apud Athenienses dicere 
+      so<lb ed="#C" n="13" break="no"/>lem esse deum. Dubitat Augustinus in enchiridion 
+      <lb ed="#C" n="14"/>capite. F77. cum nonnulla de angelica natura 
+      disse<lb ed="#C" n="15" break="no"/>ruisset subiungit. Sed nec illud quidem certum habeo 
+      <lb ed="#C" n="16"/>vtrum ad eandem societatem partineant sol et luna et 
+      <lb ed="#C" n="17"/>cuncta sydera: quamuis non nullis lucida corpora esse 
+      <lb ed="#C" n="18"/>non cum sensu vel intelligentia videantur. Et primo 
+      <lb ed="#C" n="19"/>retractationum capite decimo dicit. mundum esse quoddam 
+      <lb ed="#C" n="20"/>animal sicut Plato sensit: aliique phi quam plurimi / nec 
+      <lb ed="#C" n="21"/>ratione certa indagare potui: nec diuinarum 
+      scri<lb ed="#C" n="22" break="no"/>prturarum auente persuadere posse cognoui. Unde 
+      ta<lb ed="#C" n="23" break="no"/>le aliquid ad me dictum quo illud possit accipi in 
+      li<lb ed="#C" n="24" break="no"/>bro de immortalitate anime temere dictum noui: non 
+      <lb ed="#C" n="25"/>quia hoc falsum esse confirmo: sed quia nec verum esse 
+      ap<lb ed="#C" n="26" break="no"/>prehendo quod anim al sit mundus. Augustinus super ista 
+      <lb ed="#C" n="27"/>materia dubitauit: et patet in secundo super 
+      Genesim<lb ed="#C" n="28" break="no"/>ad litteram. Origenes posuit corpora celestia 
+      anima<lb ed="#C" n="29" break="no"/>ta. Idem videtur assentire Hieronymus exponens 
+      il<lb ed="#C" n="30" break="no"/>lud Ecc lesiastici primo. Lustrans vuiuersa per circui 
+      <lb ed="#C" n="31"/>tum parget spiritus. Beatus Thomas secundo libro contra 
+      gen<lb ed="#C" n="32" break="no"/>tiles capite septimo dicit: nullum illorum modorum esse 
+      <lb ed="#C" n="33"/>hereticum: puta ponendo celos animatos vel 
+      opposi<lb ed="#C" n="34" break="no"/>tum: et bene dicit. Secutus sum tamen quintam conclusionem 
+      <lb ed="#C" n="35"/>tanquam communi vie magis amicam: et cum articulo Parisien 
+      <lb ed="#C" n="36"/>si conuenit.
+   </p>
+            <p xml:id="jb2v19-d38670-d1e919">
+      ¶ Ex his vides licet possit ostendi in 
+      lu<lb ed="#C" n="37" break="no"/>mine naturali quod celum sit alterius essentie ab 
+      elemen<lb ed="#C" n="38" break="no"/>tis et mixtis: cum elementa moueantur motu suo 
+      natu<lb ed="#C" n="39" break="no"/>rali: solo motu recto accedendo ad centrum 
+      ter<lb ed="#C" n="40" break="no"/>re vel ab eo discedendo: et non moueantur 
+      circue<lb ed="#C" n="41" break="no"/>undo nisi aliunde tracta: vt de igne vel aere 
+      iudi<lb ed="#C" n="42" break="no"/>camus per commetam circulariter motam: et tamen 
+      <lb ed="#C" n="43"/>non est in celo. vel quando per agitationem 
+      ven<lb ed="#C" n="44" break="no"/>ti aqua vel aer mouetur. et mixta moueantur secundum 
+      <lb ed="#C" n="45"/>naturam elementi predominantis in illo eodem 
+      <lb ed="#C" n="46"/>motu. celum mouetur circulariter circa mundum 
+      <lb ed="#C" n="47"/>vt videmus. prima etiam agunt et patiuntur inuicem 
+      <lb ed="#C" n="48"/>corrumpendo. hoc celo non conuenit. ergo in 
+      lu<lb ed="#C" n="49" break="no"/>mine naturali concluditur alterius essentie ab 
+      ele<lb ed="#C" n="50" break="no"/>mentis et mixtis.
+   </p>
+            <p xml:id="jb2v19-d38670-d1e953">
+      ¶ Preturea. in lumine naturali 
+      dif<lb ed="#C" n="51" break="no"/>ficile est efficaciter probare celum esse substantiam 
+      <lb ed="#C" n="52"/>simplicem. etiam est difficile in eodem lumine 
+      pro<lb ed="#C" n="53" break="no"/>bare oppositum. et sic in lumine naturali illa pars 
+      <lb ed="#C" n="54"/>est probleumatica. Constat tamen in altiore lumine 
+      <lb ed="#C" n="55"/>quod celum est ex materia et forma compositum. 
+      Non<lb ed="#C" n="56" break="no"/>insisto pro nunc an possit bene teneri cum lumine 
+      <lb ed="#C" n="57"/>fidei quod celum est substantia simplex. Ulterius dixi. 
+      <lb ed="#C" n="58"/>licet nescirem conuincere vlla ratione naturali volentem 
+      <lb ed="#C" n="59"/>tenere celos animatos anima intellectiua: teneo 
+      quin<lb ed="#C" n="60" break="no"/>tam conclusionem quod celi non sunt animati.
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>

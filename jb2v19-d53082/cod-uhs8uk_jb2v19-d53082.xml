@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 16</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 16</title>
+               <date when="2024-09-15">September 15, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-09-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="89-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="jb2v19-d53082"><!-- l2d14q16 -->
+            <head xml:id="jb2v19-d53082-Hd1e101">Quaestio 16</head>
+            <head xml:id="jb2v19-d53082-Hd1e103" type="question-title">An in quinto et sexto diebus omnium animalium genera tam in mari quam in terra convenienter producta sunt</head>
+            <p xml:id="jb2v19-d53082-d1e106">
+               <lb ed="#C" n="30"/>SExtodecimo circa hanc 
+      distin<lb ed="#C" n="31" break="no"/>ctionem queritur. an in quinto et sex 
+      <lb ed="#C" n="32"/>to diebus omnium animalium genera 
+      <lb ed="#C" n="33"/>tam in mari quam in terra conueniem 
+      <lb ed="#C" n="34"/>ter producta sunt.
+   </p>
+            <p xml:id="jb2v19-d53082-d1e119">
+      ¶ Respondetur 
+      <lb ed="#C" n="35"/>affirmatiue. Genesis primo. vide 
+      <lb ed="#C" n="36"/>rat deus omnia que fecerat et erant valde bona 
+   </p>
+            <p xml:id="jb2v19-d53082-d1e126">
+               <lb ed="#C" n="37"/>¶ Contra hanc conclusionem arguitur sic. nos 
+      su<lb ed="#C" n="38" break="no"/>mus enim quodammodo finis omnium 2. phisicorum. 
+      <lb ed="#C" n="39"/>Et omnia propter nos creata sunt: secundum illud 
+      <lb ed="#C" n="40"/>Psalmiste. psalmo octauo. Omnia subiecisti 
+      sub<lb ed="#C" n="41" break="no"/>pedibus eius oues et boues et vniuersa pecora 
+      <lb ed="#C" n="42"/>campi. propterea cetera animalia capita in 
+      ter<lb ed="#C" n="43" break="no"/>ram demissa habent. Nos autem ad sydera: secun¬ Id 
+      <lb ed="#C" n="44"/>dum illud Nasonis. Pronaque cum spectent animalia 
+      <lb ed="#C" n="45"/>cetera terram. Os homini sublime dedit celumque vi 
+      <lb ed="#C" n="46"/>dere Iussit: et erectos ad sydera tollere vultus. 
+      <lb ed="#C" n="47"/>In cuius argumentum. et c. deus creanit duas 
+      no<lb ed="#C" n="48" break="no"/>biles species creaturarum extremas: primo 
+      ange<lb ed="#C" n="49" break="no"/>licam: et vltimo humanam: sed multa creantur que 
+      <lb ed="#C" n="50"/>non obsequuntur homini: sed ei plurimum 
+      aduer<lb ed="#C" n="51" break="no"/>santur. Patet de carduo: auena: lappis: lolio: et 
+      ce<lb ed="#C" n="52" break="no"/>teris id genus herbis. secundum illud Maronis 
+      <lb ed="#C" n="53"/>primo georgicorum. Mox et frumentis labor 
+      addi<lb ed="#C" n="54" break="no"/>tus: vt mala culmos. Esset rubigo: segnisque 
+      hor<lb ed="#C" n="55" break="no"/>reret in aruis Carduus: intereunt segetes: subit 
+      aspe<lb ed="#C" n="56" break="no"/>ra silua Lappeque tribulique interque nitentia 
+      cul<lb ed="#C" n="57" break="no"/>ta Infelix lolium et steriles dominatur auene. Quid 
+      <lb ed="#C" n="58"/>vepres conducunt: quid mures: aranee concodrilli 
+      <lb ed="#C" n="59"/>ex quo tractum est dicterium ob odium in homines lachrei. 
+      <lb ed="#C" n="60"/>me cocodrilli. quid serpentes: et sic de tot malis be¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>stiis in terra: oc ipsum patet in aqua de ceta. vnde 
+      <lb ed="#C" n="62"/>secundum Plynium in naturali hystoria libro non 
+      <lb ed="#C" n="63"/>no. capite tertio. sunt balene quattucr iugerum: 
+      pi<lb ed="#C" n="64" break="no"/>sces ducenum cubitorum. Propter flegma bestie 
+      ma<lb ed="#C" n="65" break="no"/>ris maiores sunt animalibus terre. et hoc testatur 
+      <lb ed="#C" n="66"/>Aristoteles decima particula probleumatum: 
+      pro<lb ed="#C" n="67" break="no"/>bleumate. 56. Postillator. Iob 
+      quadragesi<lb ed="#C" n="68" break="no"/>mon primo recitat se audiuisse a quodam veridico 
+      <lb ed="#C" n="69"/>quod in mari portugallie repertus est cetus: ex cuius 
+      <lb ed="#C" n="70"/>lingua vigintiquattuor muli erant onerati: ista 
+      <lb ed="#C" n="71"/>homini non prosunt sed nocent.
+   </p>
+            <p xml:id="jb2v19-d53082-d1e208">
+      ¶ Ad omnia ista 
+      re<lb ed="#C" n="72" break="no"/>respondetur de nociuis herbis: omnia ista fiunt 
+      pro<lb ed="#C" n="73" break="no"/>pter nostram exercitationem et ne ocio 
+      torpea<lb ed="#C" n="74" break="no"/>imus: et hoc dicit Uirgilius primo georgicorum 
+      in<lb ed="#C" n="75" break="no"/>quiens: pater ipse tollendi. haud facilem esse viam 
+      <lb ed="#C" n="76"/>voluit primusque per artem mouit agros: curis 
+      a<lb ed="#C" n="77" break="no"/>cuens mortalia corda: Nec torpere graui passus 
+      <lb ed="#C" n="78"/>sua regna veterno. Omnia ista insuper conducunt 
+      <lb ed="#C" n="79"/>ad vnum officium: vel aliud: vt aueue pro equis 
+      <lb ed="#C" n="80"/>ex vepribus et tribulis et denique lappis Coloni 
+      se<lb ed="#C" n="81" break="no"/>pes extruunt: vt iniusti arceantur ab ingressu ad 
+      <lb ed="#C" n="82"/>vites et triticum. Cur nutris canes leporarios nisi 
+      <lb ed="#C" n="83"/>ad capiendam voluptatem in causapis: Sic senibus et 
+      la<lb ed="#C" n="84" break="no"/>guidis in domo Cattus et murus oblectamentum 
+      <lb ed="#C" n="85"/>prestant: et clericis: vt patet de clerico venatore 
+      <lb ed="#C" n="86"/>refectiones domus colligunt aranee et denique eo 
+      <lb ed="#C" n="87"/>rum rethia profluuium sanguinis restringunt. Serpe 
+      <lb ed="#C" n="88"/>tes in multis medicamentis ponuntur vt 
+      medici<lb ed="#C" n="89" break="no"/>ad cor deferant.
+   </p>
+            <p xml:id="jb2v19-d53082-d1e250">
+      ¶ Insuper opposita iuxta se posi 
+      <lb ed="#C" n="90"/>ta clarius elucescant. Pictura variorum colorum est 
+      <lb ed="#C" n="91"/>pulchrior vno colore pulcherrimo: et sonus ex 
+      dia<lb ed="#C" n="92" break="no"/>paso diapente et diatessaro mixtus praestat 
+      diapa<lb ed="#C" n="93" break="no"/>son sono dulcissimo. Ergo resultat decor 
+      vniuer<lb ed="#C" n="94" break="no"/>si. et deum laudare habes qui te creaturam 
+      intelle<lb ed="#C" n="95" break="no"/>ctualem et non irrationalem creauerit: tibi intellectum 
+      <lb ed="#C" n="96"/>dedit omnia hec tetra extinguere: vt porros ad 
+      effu<lb ed="#C" n="97" break="no"/>gandos serpentes: succum rute ad expellendos 
+      pu<lb ed="#C" n="98" break="no"/>lices: argentum viuum contra pedunculos. et ita de 
+      <lb ed="#C" n="99"/>omnibus talibus: rutam insuper et mustellam contra 
+      basili<lb ed="#C" n="100" break="no"/>cum: excoriatio muris masculini positi inter 
+      reli<lb ed="#C" n="101" break="no"/>quos a quo aufugiunt Insuper multam ab his que 
+      <lb ed="#C" n="102"/>inutilia iudicas hauries sapientiam: vt cum serpens 
+      <lb ed="#C" n="103"/>adeat feniculum: cum oculos habeat grauatos vt 
+      tu<lb ed="#C" n="104" break="no"/>similiter illum succum capias: Mustella lesa a 
+      vipe<lb ed="#C" n="105" break="no"/>ra adit quandam herbam per quam statim curatur a 
+      <lb ed="#C" n="106"/>veneno. oleum ceti plurimum prodest: et si non 
+      es<lb ed="#C" n="107" break="no"/>sent he belue tanta esset piscium in mari copia vt 
+      <lb ed="#C" n="108"/>naues pertransire non possent. patet de Salmo 
+      <lb ed="#C" n="109"/>ne et de piscibus tot simui oua ponentibus.
+   </p>
+            <p xml:id="jb2v19-d53082-d1e296">
+      ¶ 
+      Insu<lb ed="#C" n="110" break="no"/>per ista in penam peccati data sunt protoplasto. 
+      <lb ed="#C" n="111"/>Unde Gene. tertio: quia audisti vocem vxoris 
+      tue<lb ed="#C" n="112" break="no"/>et comedisti de ligno ex quo precepera tibi 
+      ne<lb ed="#C" n="113" break="no"/>comederes: maledicta terra in opere tuo. In 
+      la<lb ed="#C" n="114" break="no"/>boribus commedes ea cunctis diebus vite tue: spinas 
+      <lb ed="#C" n="115"/>et tribulos germinabit tibi: et comedes herbas 
+      <lb ed="#C" n="116"/>terre. In sudore vultus tui vesceris pane tuo: et 
+      <lb ed="#C" n="117"/>hec que sequuntur. vbi glosa ordiuaria Rabani. 
+      <lb ed="#C" n="118"/>Spine antea erant sed non vt laborem homini 
+      in<lb ed="#C" n="119" break="no"/>ferrent. cui post peccatum fuerunt ad laborem et as 
+      <lb ed="#C" n="120"/>flictionem sicut serpentes et quaecunque noxia antea
+      <pb ed="#V" n="90-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>erant innoxia. Ubi insuper notatur terre 
+      sterili<lb ed="#C" n="2" break="no"/>tas: que post peccatum non produxit fructum 
+      comn<lb ed="#C" n="3" break="no"/>uenientem homini nisi cum cultura et labore: que 
+      <lb ed="#C" n="4"/>autem sua sponte producebat fructus 
+      conuenien<lb ed="#C" n="5" break="no"/>tes in copia et produxisset si homo in statu 
+      inno<lb ed="#C" n="6" break="no"/>centie permansisset. Cui quadrat illud 
+      Maro<lb ed="#C" n="7" break="no"/>nis primo Georgicorum. Ipsaque tellus omnia 
+      <lb ed="#C" n="8"/>liberius nullo poscente ferebat. Cui poetarum 
+      <lb ed="#C" n="9"/>aurea etas sub saturno alludit dicente Quidio 
+      pri<lb ed="#C" n="10" break="no"/>mo Metamorpho. Aurea prima sata est etas 
+      <lb ed="#C" n="11"/>vindice nullo Sponte sua sine lege fidem 
+      rectu<lb ed="#C" n="12" break="no"/>que colebat pena metusque aberant. Et paulo post 
+      <lb ed="#C" n="13"/>Scite admodum de terra loquitur. Ipsetia queque immunis 
+      <lb ed="#C" n="14"/>rastroque intacta nec vllis. Saucia vomeribus per se 
+      <lb ed="#C" n="15"/>dabat omnia tollus. Contentique cibis nullo cogente 
+      <lb ed="#C" n="16"/>creatis. Arbuteos fetus montanaque fragra lege 
+      <lb ed="#C" n="17"/>bant. Cornaque et in duris herentia mora rubetis 
+      <lb ed="#C" n="18"/>Et que deciderant patula iouis arbore glandes 
+   </p>
+            <p xml:id="jb2v19-d53082-d1e366">
+               <lb ed="#C" n="19"/>¶ Secundo arguitur. Mulus nec lycisca 
+      produ<lb ed="#C" n="20" break="no"/>cebatur. ergo nec alia animalia consequentia tet quia eadem est ro. antecedens 
+      <lb ed="#C" n="21"/>patet: quia poterant produci ab asino et equa et a cane et 
+      lu<lb ed="#C" n="22" break="no"/>po.
+   </p>
+            <p xml:id="jb2v19-d53082-d1e377">
+      ¶ Preterea. vel ouum producebatur ante 
+      gal<lb ed="#C" n="23" break="no"/>linam vel econtra. Non secundum quia habitis ouis 
+      <lb ed="#C" n="24"/>habetur principium sufficiens ad productionem 
+      <lb ed="#C" n="25"/>gallinarum et gallorum. Non secundum: quia 
+      ar<lb ed="#C" n="26" break="no"/>bores producebantur cum fructibus. ergo galli et 
+      <lb ed="#C" n="27"/>galline vel gallina cum ouo.
+   </p>
+            <p xml:id="jb2v19-d53082-d1e390">
+      ¶ Respondetur: non 
+      <lb ed="#C" n="28"/>est necesse dicere quod animalia que generantur 
+      con<lb ed="#C" n="29" break="no"/>muniter per animalia diuersarum specierum 
+      pro<lb ed="#C" n="30" break="no"/>ducerentur immediate a deo. sufficit quod deus hec 
+      <lb ed="#C" n="31"/>animalia produxerit in suis causis. Eodemmo 
+      <lb ed="#C" n="32"/>do de his que generant generatione spotanea. 
+   </p>
+            <p xml:id="jb2v19-d53082-d1e404">
+               <lb ed="#C" n="33"/>¶ Ad aliud argumentum ipsum dependet a 
+      dua<lb ed="#C" n="34" break="no"/>bus positionibus: puta in quo mense creatus est 
+      <lb ed="#C" n="35"/>mundus. Nam Rabi Iosue et sui sequaces 
+      tenue<lb ed="#C" n="36" break="no"/>runt mundum fuisse factum in Martio: quando 
+      <lb ed="#C" n="37"/>terra incepit germinare herbas. Mouentur ex 
+      il<lb ed="#C" n="38" break="no"/>lo passu. Et protulit terra herbam virentem et 
+      fa<lb ed="#C" n="39" break="no"/>cientem semen suum. Et Exod. duodecimo. 
+      Mari<lb ed="#C" n="40" break="no"/>tius vocabatur primus mensis. Alia est 
+      positio<lb ed="#C" n="41" break="no"/>multo communior quam tenet Rabi Eliezer: 
+      <lb ed="#C" n="42"/>mundus creatus est in septembri secundum illud 
+      <lb ed="#C" n="43"/>Deuteronomii. xxxii. dei perfecta sunt opera. 
+   </p>
+            <p xml:id="jb2v19-d53082-d1e430">
+               <lb ed="#C" n="44"/>¶ Omnes in hoc conueniunt quod primus 
+      homo<lb ed="#C" n="45" break="no"/>factus est in statu perfecto potens generare. et 
+      eodem<lb ed="#C" n="46" break="no"/>modo videtur dicendum de reliquis terre 
+      na<lb ed="#C" n="47" break="no"/>scentibus: sed ad ista prior positio facile responderet 
+      <lb ed="#C" n="48"/>quod arbores producte sunt perfecte in Marcio: et quod 
+      per<lb ed="#C" n="49" break="no"/>actionem solis poterant producere fructus suos. 
+      <lb ed="#C" n="50"/>Eua non est producta cum fetu in vtero: sed 
+      expecta<lb ed="#C" n="51" break="no"/>batur tempus concipiendi et pariendi Cayn. 
+      Con<lb ed="#C" n="52" break="no"/>formius est ad vtramque positionem quod gallus et 
+      gal<lb ed="#C" n="53" break="no"/>lina producebantur ante ouum quod est semen 
+      <lb ed="#C" n="54"/>galli et galline. vel galli tantum. 
+   </p>
+            <p xml:id="jb2v19-d53082-d1e456">
+               <lb ed="#C" n="55"/>¶ Secundo arguitur. Moyses tacuit de 
+      elemen<lb ed="#C" n="56" break="no"/>to ignis et aeris (qui sunt principaliores partes 
+      <lb ed="#C" n="57"/>vniuersi) ergo non bene illa tradidit.
+   </p>
+            <p xml:id="jb2v19-d53082-d1e465">
+      ¶ 
+      Respon<lb ed="#C" n="58" break="no"/>detur consequentia est nulla. Ignis in sua 
+      sphera<lb ed="#C" n="59" break="no"/>est nobis insensibilis. Ratione sic ostendimus. 
+      <lb ed="#C" n="60"/>Ignis in nostro foco appetit ascendere vt expe¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>timur: et non stare in aere: quia si sic staret in 
+      parti<lb ed="#C" n="62" break="no"/>bus inferioribus aeris. Sed dices. cum est de 
+      na<lb ed="#C" n="63" break="no"/>tura ignis conscendere: quare non totus 
+      conscen<lb ed="#C" n="64" break="no"/>dit relinquendo ligna sine igne et subito. 
+      Simili<lb ed="#C" n="65" break="no"/>ter videtur quod nullus est ignis sub sphera lune. 
+      <lb ed="#C" n="66"/>non ministratur materia nutritiua ignis: ergo tandem 
+      <lb ed="#C" n="67"/>deficiet: immo debuit deficere a multis annis 
+      pre<lb ed="#C" n="68" break="no"/>teritis.
+   </p>
+            <p xml:id="jb2v19-d53082-d1e494">
+      ¶ Respondetur. ignis quam primum producitur 
+      <lb ed="#C" n="69"/>ascendit et per lineam rectam suam regionem 
+      ap<lb ed="#C" n="70" break="no"/>petit adire: sed nobis producitur. nec subito 
+      conscen<lb ed="#C" n="71" break="no"/>dere potest propter resistentiam aeris et eius 
+      con<lb ed="#C" n="72" break="no"/>trarietatem. ignis est nobis hic necessarius ad 
+      <lb ed="#C" n="73"/>decoquendos cibos ad productionem luminis ad 
+      <lb ed="#C" n="74"/>purgandum aerem ab epidimia: more 
+      ypocra<lb ed="#C" n="75" break="no"/>tis et ad multa alia. Propterea deus voluit ignem 
+      <lb ed="#C" n="76"/>esse in istis inferioribus. et si omnis esset extinctus 
+      <lb ed="#C" n="77"/>modum dedit reproducendi nouum vt in xiii. 
+      di<lb ed="#C" n="78" break="no"/>stinctione dictum est per radios reflexos in centro 
+      <lb ed="#C" n="79"/>speculi concaui. per calybem et silicem et earum 
+      a<lb ed="#C" n="80" break="no"/>gitationem. Et licet aliqui robusti: vt tartarei et 
+      <lb ed="#C" n="81"/>hybernici Britanui (quos scotos siluestres 
+      vul<lb ed="#C" n="82" break="no"/>gus appellat) carnes decoquantur inter ramos ar) 
+      <lb ed="#C" n="83"/>borum: hoc non sufficit omnibus. nec 
+      commode<lb ed="#C" n="84" break="no"/>fieri potest delicatis.
+   </p>
+            <p xml:id="jb2v19-d53082-d1e531">
+      ¶ Ad aliud dicitur quod ignis 
+      <lb ed="#C" n="85"/>in sua sphera non habet contrarium intrinsecum / 
+      <lb ed="#C" n="86"/>cum est homogenius: et si aliqua influentia frige 
+      <lb ed="#C" n="87"/>factiua ei virtualiter aduersetur: alia tamen 
+      ca<lb ed="#C" n="88" break="no"/>lefactiua tantum suffragatur. et cum est magnus 
+      <lb ed="#C" n="89"/>in sua sphera notabiliter resistit: et si aer ignem 
+      <lb ed="#C" n="90"/>corrumpat in hoc loco: econtrario ignis aerem 
+      cor<lb ed="#C" n="91" break="no"/>rumpit in alio. Aer probatus est ab antiquis 
+      per<lb ed="#C" n="92" break="no"/>hoc quod aqua non descendit in clipsedra orificio ob 
+      <lb ed="#C" n="93"/>structo: vt patet quarto Thysicorum. ergo cum 
+      <lb ed="#C" n="94"/>hec duo esementa sola ratione probentur quam 
+      <lb ed="#C" n="95"/>modo percipit vulgus: et secundum intelligentiam 
+      <lb ed="#C" n="96"/>auditorum debet esse sermo docentis: consulto 
+      <lb ed="#C" n="97"/>Moyses pro surda aure de his elementis pertram 
+      <lb ed="#C" n="98"/>siuit.
+   </p>
+            <p xml:id="jb2v19-d53082-d1e565">
+      ¶ Sed contra omnia ista arguitur 
+      proban<lb ed="#C" n="99" break="no"/>do quod deus creauit omnia simul / sicut beatus 
+      Augu<lb ed="#C" n="100" break="no"/>stinus tenet Ecclesiastici octauodecimo. Qui 
+      vi<lb ed="#C" n="101" break="no"/>uit in eternum creauit omnia simul. Et in. xxiiii. 
+      <lb ed="#C" n="102"/>eiusdem. Ab initio et ante secula creata. et c. 
+   </p>
+            <p xml:id="jb2v19-d53082-d1e576">
+               <lb ed="#C" n="103"/>¶ Ad primum dicitur hoc esse verum quantum ad 
+      <lb ed="#C" n="104"/>materiam.
+   </p>
+            <p xml:id="jb2v19-d53082-d1e583">
+      ¶ Ad secundum dicitur quod loquitur 
+      <lb ed="#C" n="105"/>de dei filio qui est patris sapostia 
+      <lb ed="#C" n="106"/>Irca hanc conclusionem. 16 in qua 
+      <lb ed="#C" n="107"/>loquimur de productis a deo 
+      <lb ed="#C" n="108"/>tam in terra quod in mari: 
+      dubi<lb ed="#C" n="109" break="no"/>tatur an tota aqua sit in 
+      de<lb ed="#C" n="110" break="no"/>cuplo maior terrarum despondetur: al 
+      <lb ed="#C" n="111"/>phraganus in libro de regnis 
+      <lb ed="#C" n="112"/>et differentiis differentia vige 
+      <lb ed="#C" n="113"/>sima prima et thebitis in pambulis almage 
+      <lb ed="#C" n="114"/>sti tenent quod semidiameter sphere corruprtibilium. 
+      <lb ed="#C" n="115"/>continet trigesies ter semidiametrum sphere terre 
+      <lb ed="#C" n="116"/>et dimidium eius dimidii. et huic fundamento in 
+      <lb ed="#C" n="117"/>nixus cancellarius oxoniensis thomas 
+      Prauar<lb ed="#C" n="118" break="no"/>dinus in fine sue geometrie tenet cuiuslibet 
+      ele<lb ed="#C" n="119" break="no"/>menti maioris ad elementum sibi proximum minus 
+      <lb ed="#C" n="120"/>minor est proportio quam triginta trium ad vnum:
+      <pb ed="#V" n="90-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>et maior quam 23 ad vnum. alia est via tenens aquanm 
+      <lb ed="#C" n="2"/>decuplam ad terram et ita quodlibet aliorum duorum 
+      <lb ed="#C" n="3"/>elementorum aliud circundatium in decuplum ad ei 
+      imme<lb ed="#C" n="4" break="no"/>diatum. ita tenet Ioannes de sacro busco. pro nunc 
+      <lb ed="#C" n="5"/>hanc disputationem non ingrediar nisi de per accesens 
+      <lb ed="#C" n="6"/>loquendo de magnitudine aque et terre.
+   </p>
+            <p xml:id="jb2v19-d53082-d1e638">
+      ¶ Et 
+      cir<lb ed="#C" n="7" break="no"/>ca hoc pono has propositiones. Prima est. mare 
+      <lb ed="#C" n="8"/>non est in decuplo maior terra. per mare omnem 
+      <lb ed="#C" n="9"/>aquam intelligo. probatur hec propositio: aliquibus 
+      <lb ed="#C" n="10"/>suppositis.
+   </p>
+            <p xml:id="jb2v19-d53082-d1e649">
+      ¶ Prima suppositio. mare vt rerum in 
+      <lb ed="#C" n="11"/>udagatores commemorant non habet in profundita 
+      <lb ed="#C" n="12"/>te vltra 1 4. mille passus: hoc est septem leucas 
+      gal<lb ed="#C" n="13" break="no"/>licas. quod non sit vllo pacto tante profunditatis si 
+      <lb ed="#C" n="14"/>cut terra. ratio est. terre vna pars solum eleuatur 
+      <lb ed="#C" n="15"/>per calefactionem et leuifactionem a sole et aliis 
+      <lb ed="#C" n="16"/>astris. proportionabiliter ad hoc est descensus 
+      al<lb ed="#C" n="17" break="no"/>terius partis terre. et ex consequenti profunditas 
+      <lb ed="#C" n="18"/>maris. et loquor de mari communi: hoc e aqua 
+      com<lb ed="#C" n="19" break="no"/>muniter habita. multi sunt immanes montes in 
+      <lb ed="#C" n="20"/>terra: vt mons olimpus: mons caucasus: mons 
+      <lb ed="#C" n="21"/>lune: super quos erat aqua diluuii tempore noe. se 
+      <lb ed="#C" n="22"/>illa aqua erat supernaturaliter. naturaliter non 
+      <lb ed="#C" n="23"/>potest fieri vniuersale diluuium. nec mihi placet 
+      <lb ed="#C" n="24"/>aliquorum fidelium expositio de cataracta celi 
+      aper<lb ed="#C" n="25" break="no"/>ta tempore diluuii. dicunt per caractas: propheta 
+      <lb ed="#C" n="26"/>intelligit partes illas celi quod generatiue sunt 
+      plu<lb ed="#C" n="27" break="no"/>uiarum: qualia sunt signa aquatica. vt cancer / 
+      pi<lb ed="#C" n="28" break="no"/>scis / pliades / et orion de planetis mars venus et 
+      <lb ed="#C" n="29"/>luna. licet noe diluuium praecognouerat 
+      reuelatio<lb ed="#C" n="30" break="no"/>ne prophetica: tamen probabile videtur quod aliqua 
+      <lb ed="#C" n="31"/>constellatio astronomica illum effectum 
+      praesignaue<lb ed="#C" n="32" break="no"/>rit et ipsius aliqualiter partialis fuerit causa. ista 
+      <lb ed="#C" n="33"/>est vna diuinatio et astronomis appropinquatio. 
+      <lb ed="#C" n="34"/>per catharactas non intelligo aliud quod fenestras 
+      <lb ed="#C" n="35"/>in nube vt glosa marginalis exponit. idest deus 
+      <lb ed="#C" n="36"/>miraculose de celo: hoc est de aere: produxit 
+      tan<lb ed="#C" n="37" break="no"/>tam aquam. dixi vniuersale diluuium stat dare 
+      <lb ed="#C" n="38"/>paruum diluuium in vno loco: vt in grecia tempore 
+      <lb ed="#C" n="39"/>deucalionis regis thessalie qui multos nauigio 
+      sal<lb ed="#C" n="40" break="no"/>uans. fabula apud poetas initium habuit vt 
+      homi<lb ed="#C" n="41" break="no"/>nes saluaret.
+   </p>
+            <p xml:id="jb2v19-d53082-d1e719">
+      ¶ Secunda suppositio secundum 
+      suppu<lb ed="#C" n="42" break="no"/>tationem cosmographorum quod cuilibet gradui in 
+      celo<lb ed="#C" n="43" break="no"/>septingenta stadia in terra respondet. hoc est 
+      fa<lb ed="#C" n="44" break="no"/>cile inuentu. per experientiam constat transeundo 
+      <lb ed="#C" n="45"/>meridiem versus: plus polus arcticus deprimitur. 
+      <lb ed="#C" n="46"/>et transeundo ad septemtrionem eleuatur polus ob 
+      <lb ed="#C" n="47"/>rotunditatem terre. incipiat sortes in a. 
+      meridiano<lb ed="#C" n="48" break="no"/>sin quo habet polum arcticum leuatum 20. gradibus) 
+      pro<lb ed="#C" n="49" break="no"/>gredi septemtrionem versus sub eodem 
+      meridiano<lb ed="#C" n="50" break="no"/>quo ad habuerit polum vno gradum leuatum: puta 21 
+      <lb ed="#C" n="51"/>gradibus: quo facile per astrolabium vel quadrantem 
+      <lb ed="#C" n="52"/>inueniet. tunc videat quantum terre peragrauit. et 
+      <lb ed="#C" n="53"/>maiores cosmetre: vt ambrosius isodorus eristo 
+      <lb ed="#C" n="54"/>tenes (non nostri ambrosius et isidorus sed 
+      gen<lb ed="#C" n="55" break="no"/>tiles philosophi) hoc sequens plinius de 
+      eristote<lb ed="#C" n="56" break="no"/>ne sic loquitur. eristotenes in omnium quidam 
+      littera<lb ed="#C" n="57" break="no"/>rum subtilitate et in hac vtique praeter ceteros solers. 
+      <lb ed="#C" n="58"/>quem a cunctis probari video: inuenerunt 
+      septua<lb ed="#C" n="59" break="no"/>ginta stadia. et cum cuilibet gradui in celo vnus 
+      <lb ed="#C" n="60"/>gradus in terra respondeat: licet in quantitate mi¬
+      <cb ed="#P" n="b"/>
+               <lb ed="#C" n="61"/>nor: vt inter circulos concentrices maloris et 
+      mi<lb ed="#C" n="62" break="no"/>noris videre est. sunt ergo. 36h0. tales. et tot 
+      por<lb ed="#C" n="63" break="no"/>tiones geometrice in terra sicut in celo. ergo 
+      to<lb ed="#C" n="64" break="no"/>tus circuitus terre est ducenta quinquaginta 
+      mi<lb ed="#C" n="65" break="no"/>lia stadiorum. hoc patet. multitudo. 360. cum. 
+      70o<lb ed="#C" n="66" break="no"/>hoc est sub aliis verbis. cuilibet gradui in celo 
+      re<lb ed="#C" n="67" break="no"/>spondent. 45. leuce cum dimidio milliari et vna 
+      <lb ed="#C" n="68"/>quarta. et per communes mensuras que se inuicem 
+      me<lb ed="#C" n="69" break="no"/>tiuntur: puta leuca que bina milliaria italica 
+      con<lb ed="#C" n="70" break="no"/>tinet: hoc est bis mille passus: qua galli belgici 
+      fer<lb ed="#C" n="71" break="no"/>me omnes et celte omnes vtuntur. octo stadia milliare 
+      <lb ed="#C" n="72"/>continet. 125. passus stadium includit. passus. 5. 
+      pe<lb ed="#C" n="73" break="no"/>des. pes. 4. palmos. palmus. 4. digitos. digitus 
+      <lb ed="#C" n="74"/>4. grana ordei lateraliter posita.
+   </p>
+            <p xml:id="jb2v19-d53082-d1e796">
+      ¶ Sequitur quod 
+      <lb ed="#C" n="75"/>totus terre ambitus. leucas continet. 15. millia se 
+      <lb ed="#C" n="76"/>ptingenta et. 0. leucas. alphraganus tamen 
+      ali<lb ed="#C" n="77" break="no"/>ter supputat. ponit solum vni gradui in celo 
+      respon<lb ed="#C" n="78" break="no"/>dere in terra. 56. milliaria cum duabus tertiis. et 
+      <lb ed="#C" n="79"/>sic secundum eum totus terre circuitus contineret de 
+      <lb ed="#C" n="80"/>cem millia et ducentas leucas. stat quod de variis 
+      <lb ed="#C" n="81"/>milliaribus loquantur. leuca gallie / aquitanice vel 
+      <lb ed="#C" n="82"/>in principio gallie belgice septemtrionem versus 
+      <lb ed="#C" n="83"/>est maior quam in locis intermediis. etiam forte res non 
+      <lb ed="#C" n="84"/>est punctualiter ad vnguem explorata.
+   </p>
+            <p xml:id="jb2v19-d53082-d1e820">
+      ¶ 
+      Ter<lb ed="#C" n="85" break="no"/>tia suppositio: proportio ex geometria practica 
+      <lb ed="#C" n="86"/>circuli vel sphere ad eius diametrum est tripla 
+      sesqui<lb ed="#C" n="87" break="no"/>septima. remoue a circulo vnam vicesimam 
+      secun<lb ed="#C" n="88" break="no"/>dam partem: et residuum diuidatur in tres partes. vna 
+      <lb ed="#C" n="89"/>illarum tertiarum facit circuli diametrum. si circulus 
+      <lb ed="#C" n="90"/>pariferia in ambitu 22. pedes habeat: diameter 
+      <lb ed="#C" n="91"/>erit. 7. pedum. patet ablata vna vigesima secunda 
+      <lb ed="#C" n="92"/>septem est tertia pars remanentis igitur. Ex his secundum 
+      <lb ed="#C" n="93"/>omnem modum supputandi magnum incrementum 
+      ha<lb ed="#C" n="94" break="no"/>bet terra in profunditate / ad mare profundisfimum. 
+   </p>
+            <p xml:id="jb2v19-d53082-d1e844">
+               <lb ed="#C" n="95"/>¶ Quarta suppositio. magna pars faciei terre est 
+      <lb ed="#C" n="96"/>aquis cooperta: potissimum a septemtrione ad 
+      me<lb ed="#C" n="97" break="no"/>ridiem. se habet sicut quinque ad tria secundum 
+      phi<lb ed="#C" n="98" break="no"/>losophum. cui non longe discrepat plinius lib. et 
+      <lb ed="#C" n="99"/>capitulo vltimo. postquam artificiose veterum labori 
+      <lb ed="#C" n="100"/>bus et autoritatibus terre habitabilis longitudinem 
+      <lb ed="#C" n="101"/>enumerat: de latitudine dicit. latitudo autem terre 
+      <lb ed="#C" n="102"/>a meridiano situ ad septemtrionem dimidio 
+      fer<lb ed="#C" n="103" break="no"/>me minor colligitur. propterea latitudo terre illa 
+      <lb ed="#C" n="104"/>portio vocatur portio discooperta se habet ad 
+      cooper<lb ed="#C" n="105" break="no"/>tam. vna quarta terre vixvidetur discoopta aqua 
+      <lb ed="#C" n="106"/>multa sunt flumina: multi fontes: multum aque in 
+      <lb ed="#C" n="107"/>poris terre et etiam in nubibus. et si tota ista aqua 
+      <lb ed="#C" n="108"/>collecta esset terre equalis vel paulo maior: non 
+      <lb ed="#C" n="109"/>videtur vllo pacto quod sit in decuplo vel in triplo 
+      ma<lb ed="#C" n="110" break="no"/>ior terra. quod aqua in extensione super terra vorat: 
+      <lb ed="#C" n="111"/>in profunditate terra lucratur.
+   </p>
+            <p xml:id="jb2v19-d53082-d1e883">
+      ¶ Sed contra illud 
+      <lb ed="#C" n="112"/>arguitur secundum aristotelem secundo de generatione 
+      <lb ed="#C" n="113"/>commento. 35. ex vno pugillo terre possunt fieri 
+      <lb ed="#C" n="114"/>decem aq. et ex vno pugillo aque decem aeris. et 
+      <lb ed="#C" n="115"/>ex vno aere decem ignes.
+   </p>
+            <p xml:id="jb2v19-d53082-d1e894">
+      ¶ Cum igitur elemen 
+      <lb ed="#C" n="116"/>ta sic sunt proportionabilia continue in eorum 
+      transmu<lb ed="#C" n="117" break="no"/>tatione proportione decupla: sequitur quod sic sunt 
+      pro<lb ed="#C" n="118" break="no"/>portionabilia in eorum quiete. et per consequens 
+      <lb ed="#C" n="119"/>quantam proportionem habet vna pars elementi fctam ex 
+      <lb ed="#C" n="120"/>parte alterius elementi tanta proprtionem habet vnum totum
+      <pb ed="#V" n="91-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#C" n="1"/>elementum ad aliud totum.
+   </p>
+            <p xml:id="jb2v19-d53082-d1e914">
+      ¶ Respondeo: philosophus 
+      <lb ed="#C" n="2"/>intellexit illic solum quod talis est proportio 
+      elemen<lb ed="#C" n="3" break="no"/>torum inter se quod numquod aliud corrupere potest 
+      natu<lb ed="#C" n="4" break="no"/>raliter. sed si vnum sit alio maius: in mnore est 
+      <lb ed="#C" n="5"/>virtus resistiua sufficiens et actiua in alia parte 
+      <lb ed="#C" n="6"/>vel tempore ad recuperandum perditum in vno 
+      lo<lb ed="#C" n="7" break="no"/>co vel alio. sicut in via solis et planetarum 
+      augen<lb ed="#C" n="8" break="no"/>tur elementa superiora et inferiora diminuuntur: 
+      <lb ed="#C" n="9"/>sic eadem prope polos diminuuntur et inferiora an 
+      <lb ed="#C" n="10"/>gentur. et quando elementa inferiora diminuuntur 
+      <lb ed="#C" n="11"/>ex altera parte equatoris sole existente prope 
+      tro<lb ed="#C" n="12" break="no"/>picum capricorni: tunc nostra inferiora augentur et 
+      <lb ed="#C" n="13"/>econuerso. ad exemplum phisopi non oportet ipsum capere 
+      <lb ed="#C" n="14"/>vt iacet. ex terra densa pedali praesent esse 28. 
+      peda<lb ed="#C" n="15" break="no"/>litates aque. et notum est quod vna aqua est alia 
+      den<lb ed="#C" n="16" break="no"/>sior. ergo potes dicere illi exemplo innitendo quod etx 
+      <lb ed="#C" n="17"/>vno pugillo terre possunt fieri. 20. aque sicut 
+      de<lb ed="#C" n="18" break="no"/>cem. licet aqua sit terra frigidior et humidior 
+      im<lb ed="#C" n="19" break="no"/>proprie capiendo comparatiuum: terra est siccior. 
+      <lb ed="#C" n="20"/>modo siccitas est qualitas multum resistiua. 
+      sem<lb ed="#C" n="21" break="no"/>per cum qualitate multum actiua vnius elementi 
+      <lb ed="#C" n="22"/>est qualitas passiua et modus actiua coniuncta. 
+   </p>
+            <p xml:id="jb2v19-d53082-d1e963">
+               <lb ed="#C" n="23"/>¶ Pancis epilogando patet quomodo deus 
+      bu<lb ed="#C" n="24" break="no"/>fones: tigrides: serpentes: vepres: nisos: rapaces: 
+      <lb ed="#C" n="25"/>miluos: et huiusmodi / producit: licet crebro 
+      causa<lb ed="#C" n="26" break="no"/>huiusmodi rationis hominem fugiat.
+   </p>
+            <p xml:id="jb2v19-d53082-d1e974">
+      ¶ Secundo 
+      se<lb ed="#C" n="27" break="no"/>quitur. non est verosimile vllo pacto quod aqua sit 
+      <lb ed="#C" n="28"/>in decuplo maior terra.
+   </p>
+            <p xml:id="jb2v19-d53082-d1e981">
+      ¶ Ulterius de terre 
+      ma<lb ed="#C" n="29" break="no"/>gnitudine in circuitu locuti sumus fulti 
+      auctorita<lb ed="#C" n="30" break="no"/>te Ambrosii / Isidori / et eruditissimi eristotenis: 
+      <lb ed="#C" n="31"/>quem tantopere in illa parte Plinius in 
+      naturali<lb ed="#C" n="32" break="no"/>historia refert. stadia in leucas reducimus. et hoc 
+      <lb ed="#C" n="33"/>facere potest quilibet nouitius arithmeticam 
+      cal<lb ed="#C" n="34" break="no"/>lens. ex qua reductione sequitur vlterius quod si 
+      sor<lb ed="#C" n="35" break="no"/>tes quolibet die pedes vel eques faceret 
+      decem<lb ed="#C" n="36" break="no"/>leucas ipse circuiret totam terram incipiendo ab 
+      <lb ed="#C" n="37"/>vlteriore hispania vltra mare mediterraneum 
+      <lb ed="#C" n="38"/>redeundo ad punctum a quo exiuit in mille 
+      quin<lb ed="#C" n="39" break="no"/>gentis et. 70. diebus. qui dies iterum iuncti valent 
+      <lb ed="#C" n="40"/>4. annos sexdecim septimanas cum duobus die 
+      <lb ed="#C" n="41"/>bus. et hec de ista distinctione dixisse sufficiat.
+   </p>
+         </div>
+      </body>
+   </text>
+</TEI>
