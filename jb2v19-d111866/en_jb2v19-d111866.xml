@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Question 3</title>
+        <author ref="#JohnMair">John Mair</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Question 3</title>
+          <date when="2025-12-11">December 11, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-uhs8uk">Paris, 1519</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-12-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="187-r"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jb2v19-d111866">
+        <head xml:id="jb2v19-d111866-Hd1e101">Question 3</head>
+        <head xml:id="jb2v19-d111866-Hd1e103" type="question-title">Whether Christian princes can licitly attack Saracens,
+          properly Hagarenes,
+          Tartars and other pagans by waging war</head>
+        
+        <p xml:id="jb2v19-d111866-d1e106">
+          Third Question.
+          Secondly concerning this matter it is asked whether Christian princes can licitly attack Saracens,
+          properly Hagarenes,
+          Tartars and other pagans by waging war:
+          It is answered that of the infidels:
+          some are holding lands of Christians such as the Memphic king whom the common people call the Sultan of Syria,
+          who holds the promised land,
+          Egypt:
+          and Arabia.
+          Similarly also the Ottoman Turk holds Turkey and Greece which once Christian princes held.
+          Others are holding lands not thus by robbery:
+          but by gentile just titles:
+          that is titles which a gentile philosopher would call just:
+          and such can conduct themselves in many ways or they permit Christians to preach the faith of Christ among them without despising Christ and the law or they resist the planting of the faith.
+          With these presuppositions some conclusions are proposed.
+        </p>
+        
+        <p xml:id="jb2v19-d111866-d1e150">
+          The first is:
+          Christian princes can licitly take away lands which Saracens hold from us.
+          Proof:
+          Others hold what belongs to another against the will of the owner.
+          Nor is there any superior who administers justice in restoring those lands:
+          therefore they can take those lands by war.
+        </p>
+        
+        <p xml:id="jb2v19-d111866-d1e163">
+          And this reason is confirmed:
+          because if they cannot take those lands this would be because others have already possessed those lands by prescription for a long time:
+          but this consequence is false.
+          A possessor in bad faith does not possess by prescription in any time:
+          therefore they have no prescription in those lands.
+          It does not suffice that from vincible error he supposes he has a just title.
+        </p>
+        
+        <p xml:id="jb2v19-d111866-d1e180">
+          Second conclusion:
+          Christian princes can take any lands which Saracens or gentiles hold:
+          granted that they have those lands by true succession or by consent of the people or by any other just title of the gentiles:
+          and this by the authority of the Church.
+        </p>
+        
+        <p xml:id="jb2v19-d111866-d1e193">
+          This conclusion is proved:
+          an inferior lord procuring in every way separation from his superior from whom he has all authority for ruling justly deserves to be deprived of that dominion:
+          but all infidels of whatever sect they may be strive to procure separation from Christ:
+          from whom is all power:
+          as is clear to the Romans 13.
+          And in the preceding question:
+          therefore That major premise is clear.
+          <pb ed="#P" n="187-v"/>
+          <cb ed="#P" n="a"/>
+          not otherwise on account of the crime of lese majesty does anyone lose dominion of his things and through heresy.
+          The minor premise is clear concerning Saracens both in Africa and in Asia who strive to overturn as much as is in them the Christian faith:
+          and to draw all to the error of Mohammed.
+          The same do the Tartars attacking Livonia:
+          and the Russians.
+        </p>
+        
+        <p xml:id="jb2v19-d111866-d1e228">
+          And this reason is confirmed not otherwise did the Teutonic knights of the blessed Virgin Mary take Livonia after having lost lands in the East it was granted to them to take those lands from gentiles invading Christians.
+        </p>
+        
+        <p xml:id="jb2v19-d111866-d1e237">
+          Moreover according to the Caesarean laws one committing the crime of lese majesty loses dominion of his things:
+          but these people as much as is in them hostilely disturb Christ and his members,
+          blaspheme against him,
+          seize children and old people:
+          and slaughter them in fury.
+          The mind shudders to recount the cruelty which those men of Belial committed most wickedly against the sacraments of Christ,
+          his image:
+          against priests and nuns after capturing Byzantium.
+          This was evident at Acre and other cities captured by them.
+          Furthermore a heretic loses dominion of his things through heresy.
+          <ref>Extra de hereticis, Vergentis</ref>:
+          therefore the same will be in the present case.
+          Moreover it concerns Christian princes to procure worship of the divine name and its increase:
+          but this is done most effectively by taking their lands and imposing Christians.
+        </p>
+        
+        <p xml:id="jb2v19-d111866-d1e270">
+          Third conclusion:
+          by this law the Church can grant to one prince to take lands which formerly belonged to another prince which now Saracens occupy when that other prince most especially cannot take them.
+        </p>
+        
+        <p xml:id="jb2v19-d111866-d1e279">
+          This conclusion is proved.
+          Constantinople and Trebizond are held from ancient Greek emperors now held as abandoned.
+          Not because the true heirs would not want to have those lands but because they cannot.
+          The conclusion is proved.
+          It is reasonable:
+          that those lands should be in the hands of Christians:
+          but those who lost the lands or their legitimate heirs cannot reclaim them;
+          there is no one among Christian princes who by his own effort would want to acquire dominions for them:
+          therefore they ought reasonably to want those lands to be granted to another Christian prince:
+          and granted that he would not want,
+          the Church can grant it to another.
+          And this again is proved:
+          perhaps a prince would make more expenses in recovering those lands than they are worth.
+          Both in money given to soldiers and in so many killed in war and in danger to the life of the prince.
+          And this is confirmed not otherwise was Godfrey of Bouillon king of Jerusalem:
+          except because first he climbed the walls most bravely and for other outstanding deeds was elected king for himself and his own:
+          and yet other Christian princes had Jerusalem before:
+          therefore.
+        </p>
+        
+        <p xml:id="jb2v19-d111866-d1e326">
+          <ref>Item Dist. 8, Quo iure</ref>
+          the distinction of dominions is of human law therefore for a reasonable cause in the whole republic the Church can transfer dominion here.
+          Yet we do not wish to say that at her will she can transfer kingdoms of Christian princes in which she does not have dominion in temporal matters except regulative:
+          but where they were heretics and striving to overturn the faith a Christian king ought to be deposed.
+          Concerning Mohammedans and Tartars not resisting the planting of the faith,
+          namely who do not wish to receive the faith:
+          but permit Christians to preach freely the truth of our faith:
+          and to draw out their delusions from sacred histories I do not speak
+          <cb ed="#P" n="b"/>
+          because they are nowhere found.
+          But you say:
+          Spaniards found such in the Atlantic sea whether they justly took away from them the kingdom which their king previously held or any other polity.
+          It is answered since they did not understand the Spanish language nor would they admit preachers of the divine word without great military force it was necessary to build fortified citadels here and there:
+          so that in the course of time the unrestrained people would become accustomed to Christian customs and understanding each other:
+          and because in all these things to be done great expenses are required:
+          which another king does not provide.
+          It is therefore licit to take them because another ought reasonably to wish this:
+          and then when the people will be Christian either the old king receives the faith or not.
+          If the latter since it can tend to the injury of the faith he ought to be deposed for the freedom of the orthodox faith;
+          also he deserves to be deposed:
+          and this that people wills if it well receives Christianity.
+          But if you suppose the people still wants to have that old king although he remains a gentile it is a great judgment that the faith is not yet sincerely received:
+          and then the kingdom should not be left to him.
+          Also it is not fitting for an infidel king to have a Christian people since through gifts:
+          and honors he can turn them away from the faith:
+          but if he wishes to receive the faith with others paying for the expenses assumed I do not see that he ought to be deposed:
+          and this if he will be prudent unless a lapse into infidelity is feared.
+          If there was another polity than royal one taking that island can change it:
+          and it is worthy for the planting of the faith that he himself takes the kingdom.
+          Also there is another thing:
+          that people lives bestially on this side and beyond the equator and under the poles men live as beasts as Ptolemy says in the Quadripartitum:
+          and now this has been found by experience;
+          therefore the first one occupying them justly commands them:
+          because by nature they are slaves as is clear:
+          <ref>Politics I, III and IV</ref>.
+          The philosopher says that some are slaves by nature,
+          others free,
+          it is manifest:
+          and in certain ones it is determined to be such;
+          for whom on that very account it is beneficial:
+          and it is just for one to serve,
+          another to be free:
+          and it befits one to command,
+          another to obey by that command which is innate,
+          wherefore also to rule.
+          Therefore the philosopher says in the first chapter of that book:
+          <quote>Wherefore poets say Greeks ought to rule barbarians:
+            because the same thing is by nature barbarian and slave.</quote>
+        </p>
+        
+        <p xml:id="jb2v19-d111866-d1e446">
+          Against the first conclusion it is argued thus.
+          From it follows that those holding those lands continuously sin holding what belongs to another.
+        </p>
+        
+        <p xml:id="jb2v19-d111866-d1e453">
+          Against the second conclusion it is argued:
+          it would follow in the same way that they sin holding lands which they have by true title of succeeding since they are not theirs.
+        </p>
+        
+        <p xml:id="jb2v19-d111866-d1e462">
+          To the first:
+          it does not follow;
+          at a time when they sleep nor think about restitution nor are bound to think:
+          they do not sin:
+          but they are always in sin indeed in many sins in infidelity with blasphemy against the name of God:
+          and they are bound to will to restore effectively what belongs to another when offered.
+        </p>
+        
+        <p xml:id="jb2v19-d111866-d1e475">
+          To the second we concede them always to be in sin as was clear in the solution of the prior argument:
+          but it does not follow that they sin on account of detention of lands which they have by true title of the gentiles;
+          notwithstanding they can be taken away from them justly:
+          just as a heretic uses his goods until they are taken away:
+          as we said at the end of the first book:
+          and those things suffice for the solution of this.
+        </p>
+        
+        <p xml:id="jb2v19-d111866-d1e495">
+          Against the third conclusion it is argued thus.
+          From it follows that someone will be deprived of his lands without fault:
+          <pb ed="#P" n="188-r"/>
+          <cb ed="#P" n="a"/>
+          the consequence is inconvenient:
+          therefore also the antecedent.
+          I prove the consequence.
+          The legitimate heir of Constantinople has hope perhaps for recovering Constantinople:
+          and he did not sin in the loss of it:
+          therefore if the king of Pannonia were to occupy Byzantium he will be deprived of his dominion without fault.
+        </p>
+        
+        <p xml:id="jb2v19-d111866-d1e518">
+          Moreover from this way it follows that some Christian prince could have taken the kingdom of Granada thirty years past or from a lesser time:
+          I mean by a prince other than the Castilian:
+          but this seems inconvenient:
+          therefore.
+          It is conceded in that case that someone will be deprived of his lands without fault:
+          and justly as is clear concerning the son of a heretic in no way communicating with his father in heresy:
+          and concerning the son of one who incurred the crime of lese majesty against the king and the republic:
+          but this is not without cause.
+          He ought to wish rather that the king of Pannonia have the land than Ottoman:
+          and if he had his lands he could not protect them:
+          but to his sorrow:
+          and again to the injury of the Christian republic all would be lost.
+          Where you say he has hope of recovering,
+          it is said that this is indeed vain:
+          and we speak where wise men would judge that there is no hope of recovering by that way.
+        </p>
+        
+        <p xml:id="jb2v19-d111866-d1e555">
+          To the second argument I deny the inference:
+          after the Africans were driven out from the remaining part of Spain from Granada it was always likely that the Castilians would take Granada.
+          And therefore no other king except the Castilian ought to have put his hand to this:
+          because this would have been to put the sickle in another's harvest.
+          And to scatter seeds of strife among Christian princes;
+          from avoiding which the princes of Castile and Portugal assigned to themselves various regions of Africa so that if they can take them an incentive for war would not arise between them.
+          We suppose the opposite in our case nor do we contend about the fact.
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>
