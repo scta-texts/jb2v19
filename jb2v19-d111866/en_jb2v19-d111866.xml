@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -136,7 +133,7 @@
           against priests and nuns after capturing Byzantium.
           This was evident at Acre and other cities captured by them.
           Furthermore a heretic loses dominion of his things through heresy.
-          <ref>Extra de hereticis, Vergentis</ref>:
+          <ref xml:id="jb2v19-d111866-Rd1e131">Extra de hereticis, Vergentis</ref>:
           therefore the same will be in the present case.
           Moreover it concerns Christian princes to procure worship of the divine name and its increase:
           but this is done most effectively by taking their lands and imposing Christians.
@@ -169,7 +166,7 @@
         </p>
         
         <p xml:id="jb2v19-d111866-d1e326">
-          <ref>Item Dist. 8, Quo iure</ref>
+          <ref xml:id="jb2v19-d111866-Rd1e143">Item Dist. 8, Quo iure</ref>
           the distinction of dominions is of human law therefore for a reasonable cause in the whole republic the Church can transfer dominion here.
           Yet we do not wish to say that at her will she can transfer kingdoms of Christian princes in which she does not have dominion in temporal matters except regulative:
           but where they were heretics and striving to overturn the faith a Christian king ought to be deposed.
@@ -203,7 +200,7 @@
           and now this has been found by experience;
           therefore the first one occupying them justly commands them:
           because by nature they are slaves as is clear:
-          <ref>Politics I, III and IV</ref>.
+          <ref xml:id="jb2v19-d111866-Rd1e147">Politics I, III and IV</ref>.
           The philosopher says that some are slaves by nature,
           others free,
           it is manifest:
@@ -215,7 +212,7 @@
           another to obey by that command which is innate,
           wherefore also to rule.
           Therefore the philosopher says in the first chapter of that book:
-          <quote>Wherefore poets say Greeks ought to rule barbarians:
+          <quote xml:id="jb2v19-d111866-Qd1e149">Wherefore poets say Greeks ought to rule barbarians:
             because the same thing is by nature barbarian and slave.</quote>
         </p>
         

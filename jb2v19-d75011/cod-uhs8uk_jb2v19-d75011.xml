@@ -267,7 +267,7 @@
             <p xml:id="jb2v19-d75011-d1e499">
       ¶ Sed dicis: in Ioanne 
       euange<lb ed="#P" n="92" break="no"/>lista est apparentia nullum erat veniale tempue quo 
-      dice<lb ed="#P" n="93" break="no"/>bat / <quote source="http://scta.info/resource/Iio1_8@1-15">si dixerimus quam peccatum non habemus
+      dice<lb ed="#P" n="93" break="no"/>bat / <quote xml:id="jb2v19-d75011-Qd1e506" source="http://scta.info/resource/Iio1_8@1-15">si dixerimus quam peccatum non habemus
       nosmetip<lb ed="#P" n="94" break="no"/>sos seducimus et veritas in nobis non est.</quote> ergo 
       po<lb ed="#P" n="95" break="no"/>terat se dicere esse omnis peccati expartem.
    </p>
@@ -309,7 +309,7 @@
       <lb ed="#P" n="2"/>interdum lex dei vocatur facilis: vt in auctoritate 
       <lb ed="#P" n="3"/>allegata: et Deutero. 20. Mandatum quod ego 
       praecepi<lb ed="#P" n="4" break="no"/>tibi non supra te est: interdum difficilis: vt Matthei 
-      <lb ed="#P" n="5"/>7. <quote source="http://scta.info/resource/mt7_13@1-14">Intrate per angustam portam: quia lata porta est
+      <lb ed="#P" n="5"/>7. <quote xml:id="jb2v19-d75011-Qd1e591" source="http://scta.info/resource/mt7_13@1-14">Intrate per angustam portam: quia lata porta est
       spaci<lb ed="#P" n="6" break="no"/>osa via quae ducit ad perditionem.</quote> et multi sunt
       vocati<lb ed="#P" n="7" break="no"/>pauci vero electi. Medium in quo residet virtus habet 
       <lb ed="#P" n="8"/>artitudinem. extrema viciosa in infinitum protendum 

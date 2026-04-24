@@ -58,7 +58,7 @@
             <p xml:id="jb2v19-d48851-d1e106">
                <lb ed="#P" n="102"/>DEcimo de luminaribus 
       loquen<lb ed="#P" n="103" break="no"/>dum est. quia dicitur genesis 
-      pri<lb ed="#P" n="104" break="no"/>mo. <quote source="http://scta.info/resource/gen1_16@1-16">fecitque deus duo luminaria
+      pri<lb ed="#P" n="104" break="no"/>mo. <quote xml:id="jb2v19-d48851-Qd1e115" source="http://scta.info/resource/gen1_16@1-16">fecitque deus duo luminaria
       <lb ed="#P" n="105"/>magna. luminare maius vt
       praes<lb ed="#P" n="106" break="no"/>set diei: et luminare minus vt
       paes<lb ed="#P" n="107" break="no"/>Aset nocti.</quote> queritur an luna sit 
@@ -323,16 +323,16 @@
    </p>
             <p xml:id="jb2v19-d48851-d1e623">
                <lb ed="#P" n="72"/>¶ Respondetur affirmatiue. patet per litteram 
-      ge<lb ed="#P" n="73" break="no"/>nesis. <quote source="http://scta.info/resource/gen1_14@1-8">dixit autem deus fiant luminaria in
+      ge<lb ed="#P" n="73" break="no"/>nesis. <quote xml:id="jb2v19-d48851-Qd1e633" source="http://scta.info/resource/gen1_14@1-8">dixit autem deus fiant luminaria in
       firmamen<lb ed="#P" n="74" break="no"/>to celi:</quote> vbi in capitur pro sub. sicut dicitur sol esse in 
       tau<lb ed="#P" n="75" break="no"/>ro vel in cencro. et paulo post sequitur circa 
-      ean<lb ed="#P" n="76" break="no"/>dem sententiam <quote source="http://scta.info/resource/gen1_19@2-8">et factus est vespere et mane
+      ean<lb ed="#P" n="76" break="no"/>dem sententiam <quote xml:id="jb2v19-d48851-Qd1e643" source="http://scta.info/resource/gen1_19@2-8">et factus est vespere et mane
       di<lb ed="#P" n="77" break="no"/>es quartus.</quote>
    </p>
             <p xml:id="jb2v19-d48851-d1e639">
       ¶ Sed contra hoc 
       ar<lb ed="#P" n="78" break="no"/>guitur. hec conclusio pugnat cum littera 
-      preceden<lb ed="#P" n="79" break="no"/>ti eiusdem capituli. vbi dicitur. <quote source="http://scta.info/resource/gen1_3@3-8 http://scta.info/resource/gen1_4@1-12 http://scta.info/resource/gen1_5@1-13">fiat lux et facta est lux
+      preceden<lb ed="#P" n="79" break="no"/>ti eiusdem capituli. vbi dicitur. <quote xml:id="jb2v19-d48851-Qd1e655" source="http://scta.info/resource/gen1_3@3-8 http://scta.info/resource/gen1_4@1-12 http://scta.info/resource/gen1_5@1-13">fiat lux et facta est lux
       <lb ed="#P" n="80"/>et vidit deus lucem quod esset bona et diuisit
       lucem<lb ed="#P" n="81" break="no"/>a tenebris: apellauitque lucem diem et tenebras
       no<lb ed="#P" n="82" break="no"/>ctem: factumque est vespere et mane dies vnus.</quote> et non 
