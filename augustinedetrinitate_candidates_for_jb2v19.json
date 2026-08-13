@@ -1,0 +1,417 @@
+{
+  "jb2v19-d01253": {
+    "jb2v19-d01253-d1e117": [
+      {
+        "candidate_id": "adt-l4-d1e624",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e49",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1390",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l4-d1e517",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "jb2v19-d02004": {
+    "jb2v19-d02004-d1e213": [
+      {
+        "candidate_id": "adt-l3-d1e400",
+        "intersectionCount": 9,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "jb2v19-d04902": {
+    "jb2v19-d04902-d1e117": [
+      {
+        "candidate_id": "adt-l15-d1e1734",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e305",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e334",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e210",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l3-d1e378",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "jb2v19-d05996": {
+    "jb2v19-d05996-d1e293": [
+      {
+        "candidate_id": "adt-l6-d1e804",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l14-d1e1624",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "jb2v19-d07186": {
+    "jb2v19-d07186-d1e280": [
+      {
+        "candidate_id": "adt-l14-d1e1643",
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "MS cites 'xiii de ciuitate dei c. xiv', not De Trinitate; just a paraphrase of the concept, no delimited quote text to encode"
+      }
+    ]
+  },
+  "jb2v19-d20298": {
+    "jb2v19-d20298-d1e383": [
+      {
+        "candidate_id": "adt-l9-d1e1046",
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "explicit citation (capso iin eiusdem libri); encoded @1-23"
+      },
+      {
+        "candidate_id": "adt-l9-d1e1100",
+        "intersectionCount": 15,
+        "status": "encoded",
+        "note": "explicit citation (lx de trinitate c. 12); encoded @31-91"
+      }
+    ]
+  },
+  "jb2v19-d23624": {
+    "jb2v19-d23624-d1e248": [
+      {
+        "candidate_id": "adt-l12-d1e1325",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "explicit citation (Aug. xii de trini. c. vii); encoded @289-321"
+      }
+    ]
+  },
+  "jb2v19-d24745": {
+    "jb2v19-d24745-d1e750": [
+      {
+        "candidate_id": "adt-l11-d1e1216",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation (vndecimo de trinitate capitulo secundo); encoded @23-39"
+      }
+    ]
+  },
+  "jb2v19-d26378": {
+    "jb2v19-d26378-d1e200": [
+      {
+        "candidate_id": "adt-l13-d1e1393",
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "explicit citation (xiii de trinitate c. i); encoded @130-161; MS opens with light paraphrase before verbatim portion"
+      }
+    ]
+  },
+  "jb2v19-d33620": {
+    "jb2v19-d33620-d1e336": [
+      {
+        "candidate_id": "adt-l4-d1e637",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "jb2v19-d36328": {
+    "jb2v19-d36328-d1e499": [
+      {
+        "candidate_id": "adt-l3-d1e397",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "jb2v19-d36747": {
+    "jb2v19-d36747-d1e414": [
+      {
+        "candidate_id": "adt-l4-d1e583",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "jb2v19-d40161": {
+    "jb2v19-d40161-d1e251": [
+      {
+        "candidate_id": "adt-l6-d1e779",
+        "intersectionCount": 14,
+        "status": "encoded"
+      }
+    ]
+  },
+  "jb2v19-d56522": {
+    "jb2v19-d56522-d1e313": [
+      {
+        "candidate_id": "adt-l12-d1e1302",
+        "intersectionCount": 13,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l12-d1e1299",
+        "intersectionCount": 20,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l10-d1e1182",
+        "intersectionCount": 29,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "jb2v19-d56522-d1e651": [
+      {
+        "candidate_id": "adt-l15-d1e1756",
+        "intersectionCount": 27,
+        "status": "encoded",
+        "note": "explicit citation; encoded @8-75 as second block quote"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1753",
+        "intersectionCount": 31,
+        "status": "encoded",
+        "note": "explicit citation; encoded two sub-quotes @2-12 and @94-128 from same paragraph"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1880",
+        "intersectionCount": 8,
+        "status": "not_found",
+        "note": "paragraph fully accounted for by adt-l15-d1e1750, d1e1753, d1e1756; this is a separate later passage"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1750",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "encoded as joint source with adt-l15-d1e1753@2-12 for first sub-quote @319-335"
+      }
+    ]
+  },
+  "jb2v19-d61750": {
+    "jb2v19-d61750-d1e339": [
+      {
+        "candidate_id": "adt-l4-d1e539",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e254",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "jb2v19-d62072": {
+    "jb2v19-d62072-d1e158": [
+      {
+        "candidate_id": "adt-l4-d1e580",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "jb2v19-d67610": {
+    "jb2v19-d67610-d1e201": [
+      {
+        "candidate_id": "adt-l12-d1e1302",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "explicit citation (Aug. 12 de trinitate c. 14); encoded @1-23"
+      }
+    ]
+  },
+  "jb2v19-d70031": {
+    "jb2v19-d70031-d1e317": [
+      {
+        "candidate_id": "adt-l15-d1e1972",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation (Aug. 15 de trinitate c. 28); encoded @72-84"
+      }
+    ]
+  },
+  "jb2v19-d70689": {
+    "jb2v19-d70689-d1e132": [
+      {
+        "candidate_id": "adt-l13-d1e1460",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1893",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l8-d1e996",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "jb2v19-d71992": {
+    "jb2v19-d71992-d1e414": [
+      {
+        "candidate_id": "adt-l14-d1e460",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "jb2v19-d71992-d1e782": [
+      {
+        "candidate_id": "adt-l15-d1e1902",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 same reason as adt-l5-d1e750"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1908",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 same reason as adt-l5-d1e750"
+      },
+      {
+        "candidate_id": "adt-l5-d1e750",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 MS cites Augustine Epistle to Sixtus; shared phrase 'omnia haec operatur unus atque idem spiritus' is 1 Cor 12:11 quoted in both works"
+      }
+    ]
+  },
+  "jb2v19-d76807": {
+    "jb2v19-d76807-d1e1008": [
+      {
+        "candidate_id": "adt-l2-d1e337",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "jb2v19-d78097": {
+    "jb2v19-d78097-d1e188": [
+      {
+        "candidate_id": "adt-l13-d1e1495",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1492",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l4-d1e580",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "jb2v19-d80082": {
+    "jb2v19-d80082-d1e421": [
+      {
+        "candidate_id": "adt-l15-d1e1794",
+        "intersectionCount": 9,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "jb2v19-d80082-d1e437": [
+      {
+        "candidate_id": "adt-l15-d1e1794",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "jb2v19-d81903": {
+    "jb2v19-d81903-d1e119": [
+      {
+        "candidate_id": "adt-l15-d1e1905",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e337",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "jb2v19-d84435": {
+    "jb2v19-d84435-d1e466": [
+      {
+        "candidate_id": "adt-l1-d1e49",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1390",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l4-d1e517",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "jb2v19-d91143": {
+    "jb2v19-d91143-d1e496": [
+      {
+        "candidate_id": "adt-l9-d1e1078",
+        "intersectionCount": 15,
+        "status": "encoded",
+        "note": "explicit citation (nono de trinitate c. 8); encoded @6-33"
+      }
+    ]
+  },
+  "jb2v19-d93685": {
+    "jb2v19-d93685-d1e1105": [
+      {
+        "candidate_id": "adt-l2-d1e327",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ]
+  }
+}
