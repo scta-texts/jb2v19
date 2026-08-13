@@ -217,7 +217,7 @@
             <p xml:id="jb2v19-d20298-d1e383">
       ¶ Sexto argultur aucto ¬ 
       <lb ed="#P" n="59"/>ritatibus. dicit Augustinus. lx. de trinitate caprso. 
-      <lb ed="#P" n="60"/>xii. <quote source="http://scta.info/resource/adt-l9-d1e1100@31-91">liquido dicit tenendum est: quod omnis res qua.
+      <lb ed="#P" n="60"/>xii. <quote xml:id="jb2v19-d20298-Qd1e392" source="http://scta.info/resource/adt-l9-d1e1100@31-91">liquido dicit tenendum est: quod omnis res qua.
       <cb ed="#P" n="b"/>
                <lb ed="#P" n="61"/>cumque cognoscimus congenerat in nobis
       noticia<lb ed="#P" n="62" break="no"/>lui ab vtroque enim noticia paritur. a
@@ -225,7 +225,7 @@
       <lb ed="#P" n="64"/>sola parens est noticie sue: et cognltum et
       cogni<lb ed="#P" n="65" break="no"/>tor ipsa est. erat autem ipsa sibi noscibilis: et ante
       <lb ed="#P" n="66"/>quam se nosset. sed noticia sui non erat in ea: cum
-      seip<lb ed="#P" n="67" break="no"/>lam non nouerat</quote>. et capso iin. elusdem libri dicit: <quote source="http://scta.info/resource/adt-l9-d1e1046@1-23">sicut
+      seip<lb ed="#P" n="67" break="no"/>lam non nouerat</quote>. et capso iin. elusdem libri dicit: <quote xml:id="jb2v19-d20298-Qd1e412" source="http://scta.info/resource/adt-l9-d1e1046@1-23">sicut
       <lb ed="#P" n="68"/>duo quedam sunt mens et amor eius cum se amat:
       <lb ed="#P" n="69"/>ita quedam duo sunt mens et noticia cum se nouit</quote>
    </p>
