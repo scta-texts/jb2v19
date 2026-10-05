@@ -1,0 +1,170 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-05T10:23:48Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "9763790",
+    "generation_method": "hierarchical",
+    "source_file": "cod-uhs8uk_jb2v19-d110933.xml"
+  },
+  "jb2v19-d110933-d1e106": {
+    "summary": "Opening rubric of Distinction 44, the last distinction of Book II, announcing that the Master treats two principal matters in it.",
+    "claims": [],
+    "concepts": [
+      "structure of Sentences II d.44"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d110933",
+        "jb2v19-d110933-d1e115"
+      ]
+    }
+  },
+  "jb2v19-d110933-d1e115": {
+    "summary": "Lays out the distinction's two topics (whether the power of sinning is from God or from us, ch. 1-2; whether one should resist authority, ch. 3), states the question, and defends the first of two conclusions: the power of sinning is from God. Mair argues by an expository syllogism: this evil will is from God because this will (the soul itself) is from God and, at the time it has an evil act, this will just is this evil will; the power of sinning is nothing other than a human, soul or angel able to sin.",
+    "claims": [
+      "The power of sinning is from God.",
+      "The power of sinning is nothing other than the human being, soul or angel that is able to sin.",
+      "The will that is evil at a given time is identical with the soul, which no theologian denies is from God."
+    ],
+    "concepts": [
+      "potentia peccandi",
+      "mala voluntas",
+      "expository syllogism",
+      "identity of will and soul",
+      "divine causality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d110933",
+        "jb2v19-d110933-d1e106"
+      ]
+    }
+  },
+  "jb2v19-d110933-d1e170": {
+    "summary": "Defends the second conclusion, that the evil act is from God, already proved in d.37, against William of Auxerre. William blocks the syllogism 'sin is an evil action, every evil action is from God, so sin is from God' as a fallacy of accident and claims that second-imposition terms cannot take first-imposition determinations, so 'from God' modifies the action and not its evil. Mair rejects all three moves: the inference is a valid syllogism (Darii, or the first antepredicamental rule), any term can be predicated of any subject when the copula intervenes (a written proposition is a black thing; a hanging cope can be called a categorical proposition), and second-imposition terms combine freely with first-imposition ones. Augustine's sermon claim that avarice does not praise God because God did not create it is answered by distinguishing God causing what is avarice from God causing sin as sin.",
+    "claims": [
+      "The evil act is from God.",
+      "'Sin is an evil action; every evil action is from God; therefore sin is from God' is a valid syllogism, not a fallacy of accident.",
+      "Terms of first and second imposition can be joined in true predications.",
+      "God causes the avarice that is a sin but does not cause sin as such."
+    ],
+    "concepts": [
+      "actus malus",
+      "divine concurrence",
+      "fallacia accidentis",
+      "first and second imposition",
+      "Darii",
+      "antepredicamental rule"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d110933",
+        "jb2v19-d110933-d1e115"
+      ]
+    }
+  },
+  "jb2v19-d110933-d1e306": {
+    "summary": "Raises a doubt: whether the natural goods of the soul can be corrupted by sin.",
+    "claims": [],
+    "concepts": [
+      "bona naturalia",
+      "corruption by sin"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d110933",
+        "jb2v19-d110933-d1e311"
+      ]
+    }
+  },
+  "jb2v19-d110933-d1e311": {
+    "summary": "Reports the view of 'this doctor' (apparently William of Auxerre, cited in the preceding paragraph) that mortal sin corrupts neither accidental nor substantial good but does corrupt natural good, and his replies to two objections: since the natural good contains infinitely many portions, some always remains, as a line remains after a point is subtracted or a rectilinear angle after a horn angle; venial sin diminishes infinitely less than mortal sin, just as what mortal sin removes is infinitely less than what remains.",
+    "claims": [
+      "(Reported) Mortal sin corrupts natural good but not accidental or substantial good.",
+      "(Reported) Because natural good has infinitely many portions, sin never wholly destroys it.",
+      "(Reported) Venial sin removes infinitely less natural good than mortal sin."
+    ],
+    "concepts": [
+      "bonum naturale",
+      "bonum accidentale",
+      "bonum substantiale",
+      "angle of contingence",
+      "infinite divisibility",
+      "mortal and venial sin"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d110933",
+        "jb2v19-d110933-d1e306",
+        "jb2v19-d110933-d1e361"
+      ]
+    }
+  },
+  "jb2v19-d110933-d1e361": {
+    "summary": "Reports the doctor's reply to the second objection (sin, arising in natural good, corrupts it and not accidental good, as a worm corrupts only that in which it is born) and then rejects the whole position. Every thing is substance or accident, and the soul has no parts, so a corruptible 'natural good' that is neither soul nor accident is unintelligible. His mathematical analogies fail (no indivisible points in a line; the horn angle comparison does not yield infinitely many disjoint parts). Mair's own answer: the soul's natural good is the soul itself, which sin does not diminish; venial sin does not diminish grace (I d.17); mortal sin leads God to remove all grace; and sin destroys only contrary accidents, as hatred destroys love of the same object.",
+    "claims": [
+      "The natural good of the soul is the soul itself, and sin does not diminish it.",
+      "There is no third kind of good between substance and accident that sin could gradually corrupt.",
+      "Venial sin does not diminish grace; on account of mortal sin God removes all grace.",
+      "Sin corrupts only accidents contrary to it, as hatred corrupts love of the same object."
+    ],
+    "concepts": [
+      "bonum naturale",
+      "substance and accident",
+      "simplicity of the soul",
+      "grace",
+      "contrariety",
+      "indivisibles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d110933",
+        "jb2v19-d110933-d1e311",
+        "jb2v19-d110933-d1e306"
+      ]
+    }
+  },
+  "jb2v19-d110933": {
+    "summary": "Opening Distinction 44, Mair asks whether the power of sinning and its act are from God, and he answers yes to both. The power of sinning is from God because it is just the soul or angel able to sin, and the soul is God's creature. The evil act is from God, reaffirming his position from d.37, and he defends this against William of Auxerre's attempt to treat 'sin is from God' as a fallacy of accident or a confusion of first and second imposition, using syllogistic and semantic arguments. A closing doubt about whether sin corrupts the soul's natural goods leads him to reject a theory of infinitely divisible natural good. Instead he identifies the soul's natural good with the soul itself, which sin cannot diminish, and says sin removes only grace and contrary accidents.",
+    "claims": [
+      "The power of sinning is from God.",
+      "The evil act is from God, though God does not cause sin as sin.",
+      "The logical objections to 'sin is from God' fail.",
+      "Sin does not diminish the soul's natural good, which is the soul itself."
+    ],
+    "concepts": [
+      "potentia peccandi",
+      "actus malus",
+      "divine causality of sin",
+      "first and second imposition",
+      "bonum naturale",
+      "grace"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jb2v19-d110933-d1e106",
+        "jb2v19-d110933-d1e115",
+        "jb2v19-d110933-d1e170",
+        "jb2v19-d110933-d1e306",
+        "jb2v19-d110933-d1e311",
+        "jb2v19-d110933-d1e361"
+      ]
+    }
+  }
+}

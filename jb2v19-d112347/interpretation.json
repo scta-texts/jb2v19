@@ -1,0 +1,601 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-05T10:25:02Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "9763790",
+    "generation_method": "hierarchical",
+    "source_file": "cod-uhs8uk_jb2v19-d112347.xml"
+  },
+  "jb2v19-d112347-d1e106": {
+    "summary": "Introduces the question whether Christians may baptize the children of infidels against their parents' will. Mair notes he treats it here because it is pertinent and because it was accidentally left out of the copy sent to the printers for Book IV. He begins by quoting Aquinas (ST II-II q.10) on two senses of infidelity: pure negation, which in those who never heard the faith is a penalty rather than a sin, and contrariety, a resistance to or contempt of the faith, which is properly sin. Those who are infidels by pure negation are damned for other sins, not for unbelief (John 15).",
+    "claims": [
+      "(Aquinas, cited) Infidelity as pure negation is a penalty, not a sin.",
+      "(Aquinas, cited) Infidelity as opposition to the faith is properly a sin."
+    ],
+    "concepts": [
+      "infidelitas",
+      "pure negation",
+      "contrariety",
+      "invincible ignorance",
+      "Aquinas"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d112347",
+        "jb2v19-d112347-d1e176"
+      ]
+    }
+  },
+  "jb2v19-d112347-d1e176": {
+    "summary": "Criticizes Aquinas's account and offers Mair's own definition of infidelity. An adult in the newly discovered islands who uses his natural powers well would on Aquinas's view be damned without having the other sins that require faith for remission, and John 15 concerns the Jews. The status of unbaptized infant children of infidels is left open, with a reference to discussion elsewhere. Defining the privative through the positive, Mair calls 'faithful' whoever has the sign of faith, the baptismal character or its equivalent (baptism of desire or blood), and 'infidel' privatively whoever lacks it while apt to have it. Consequences: only Christians are faithful; unbaptized Christian infants are infidels; one can be an infidel without any act or habit of infidelity. He sets out four grades of infidelity, from infants through the adult who suspends assent (guilty by omission), the one who refuses assent, and the one who actively works against the faith, with the root of the sin in the will. Baptized Mamluks, being heretics, are 'faithful' in this sense though lacking infused faith.",
+    "claims": [
+      "Aquinas's account wrongly implies that a well-living newly discovered pagan is damned for sins requiring faith.",
+      "'Faithful' properly means having the baptismal character or its equivalent; 'infidel' means lacking it while apt to have it.",
+      "Unbaptized children of Christians are infidels in this privative sense.",
+      "Infidelity comes in grades of increasing gravity, and its root is in the will.",
+      "Baptized heretics such as the Mamluks are 'faithful' in the sacramental sense."
+    ],
+    "concepts": [
+      "infidelitas privativa",
+      "baptismal character",
+      "baptism of desire and blood",
+      "grades of infidelity",
+      "will as root of sin",
+      "newly discovered peoples"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d112347",
+        "jb2v19-d112347-d1e106",
+        "jb2v19-d112347-d1e332"
+      ]
+    }
+  },
+  "jb2v19-d112347-d1e332": {
+    "summary": "Concludes the terminological discussion: though some infidelity (as in infants) involves little or no sin, infidelity taken as a category is a grave sin, as with pride, which includes both mortal and venial cases. He reports the two extreme opinions, that infidels' children may never be baptized against the parents' will and that everyone should be compelled to the faith, and restricts the discussion of compulsion of adults to the Jews, since that is the disputed case.",
+    "claims": [
+      "Infidelity as a category is a great sin even though some instances are slight."
+    ],
+    "concepts": [
+      "infidelitas",
+      "categorematic predication",
+      "compulsion to faith",
+      "Jews"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d112347",
+        "jb2v19-d112347-d1e176",
+        "jb2v19-d112347-d1e362"
+      ]
+    }
+  },
+  "jb2v19-d112347-d1e362": {
+    "summary": "Announces that conclusions will now be set out.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d112347",
+        "jb2v19-d112347-d1e367",
+        "jb2v19-d112347-d1e372",
+        "jb2v19-d112347-d1e377"
+      ]
+    }
+  },
+  "jb2v19-d112347-d1e367": {
+    "summary": "First conclusion: adult Jews are not to be compelled to the faith.",
+    "claims": [
+      "Adult Jews are not to be compelled to the faith."
+    ],
+    "concepts": [
+      "forced conversion",
+      "freedom of faith",
+      "Jews"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d112347",
+        "jb2v19-d112347-d1e377"
+      ]
+    }
+  },
+  "jb2v19-d112347-d1e372": {
+    "summary": "Second conclusion: if they receive the faith under coercion, they will be compelled to keep it.",
+    "claims": [
+      "Those who received baptism under coercion are bound to keep the faith."
+    ],
+    "concepts": [
+      "coerced baptism",
+      "perseverance in faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d112347",
+        "jb2v19-d112347-d1e488",
+        "jb2v19-d112347-d1e1139"
+      ]
+    }
+  },
+  "jb2v19-d112347-d1e377": {
+    "summary": "States the third conclusion, that infidels' children are to be baptized even against their parents' will, then proves the first conclusion. In doubtful matters one should follow the Fathers, popes and councils, and the Church has decided the matter at the Council of Toledo (Gratian d.45): faith must be voluntary, as Adam fell by free will. Gregory the Great's letter to the bishop of Naples adds that Jews should be won by gentleness, not harshness, and allowed their customary festivals. Decretals on Jews also allow them to repair old synagogues but not build new ones.",
+    "claims": [
+      "The children of infidels are to be baptized even against their parents' will.",
+      "In doubtful matters the decisions of popes and councils are to be followed.",
+      "Conversion must be by persuasion and free will, not force.",
+      "Jews are to be allowed their traditional rites and festivals."
+    ],
+    "concepts": [
+      "forced conversion",
+      "free will in faith",
+      "Council of Toledo",
+      "Gregory the Great",
+      "toleration of Jewish rites",
+      "ecclesiastical authority"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d112347",
+        "jb2v19-d112347-d1e367",
+        "jb2v19-d112347-d1e501"
+      ]
+    }
+  },
+  "jb2v19-d112347-d1e488": {
+    "summary": "Proves the second conclusion briefly from canon law (Maiores; Gratian d.45 De Iudaeis) and Roman law on marriage (Si pater; Nullis).",
+    "claims": [
+      "Canon and civil law confirm that coerced converts must keep the faith."
+    ],
+    "concepts": [
+      "coerced baptism",
+      "canon law",
+      "civil law"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d112347",
+        "jb2v19-d112347-d1e372"
+      ]
+    }
+  },
+  "jb2v19-d112347-d1e501": {
+    "summary": "Begins proving the third conclusion by setting out Aquinas's contrary view. He gives two reasons against baptizing infidels' children against their parents' will: danger to the faith, since the children could later be led to apostasy, and natural justice, since a child before reason belongs to the parents as in a spiritual womb. Mair says the second, Aquinas's main reason, is not proven, and argues that the children of an infidel slave couple belong to the Christian master by civil law (Institutes, Codex, Digest), so he may baptize them as his own. He records the reply that servitude does not prejudice natural right.",
+    "claims": [
+      "(Aquinas, cited) Baptizing infidels' children against parental will endangers the faith and violates natural justice.",
+      "Aquinas's natural-justice argument is not proven.",
+      "Children born of infidel slaves belong to the Christian master by civil law."
+    ],
+    "concepts": [
+      "natural justice",
+      "patria potestas",
+      "slavery",
+      "Aquinas",
+      "spiritual womb"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d112347",
+        "jb2v19-d112347-d1e377",
+        "jb2v19-d112347-d1e600",
+        "jb2v19-d112347-d1e1281"
+      ]
+    }
+  },
+  "jb2v19-d112347-d1e600": {
+    "summary": "Argues against Aquinas's view: one may and must rescue an infant from a father trying to kill it, so a fortiori one may and must baptize a dying infant even if the father forbids it, since saving the soul from eternal loss matters more than saving bodily life.",
+    "claims": [
+      "One may and must baptize a dying infant over the father's prohibition."
+    ],
+    "concepts": [
+      "necessity of baptism",
+      "limits of parental right",
+      "poena damni"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d112347",
+        "jb2v19-d112347-d1e501"
+      ]
+    }
+  },
+  "jb2v19-d112347-d1e629": {
+    "summary": "A second argument: a master who has civil dominion over a slave child may, and should, send the child to be educated against an abusing father's wishes, since the father misuses his paternal power. Likewise his order to baptize prevails over the father's prohibition, just as a prostituted slave woman is taken from her master. Moral formation, like faith, belongs to divine law. Mair concludes that a master may lawfully baptize a child he owns against the parents' will, without danger to the faith since the child is not returned.",
+    "claims": [
+      "A master may lawfully baptize a slave child he owns against the parents' will.",
+      "Paternal natural authority yields when it is abused against the child's good."
+    ],
+    "concepts": [
+      "dominium civile",
+      "patria potestas",
+      "education",
+      "slavery"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d112347",
+        "jb2v19-d112347-d1e501",
+        "jb2v19-d112347-d1e600"
+      ]
+    }
+  },
+  "jb2v19-d112347-d1e677": {
+    "summary": "Further arguments that parental consent is not required: one may baptize with the mother's consent over the father's dissent, and one may baptize if a present father neither consents nor dissents. So parental direction is not required, and by the same reasoning one may baptize against the parents' will.",
+    "claims": [
+      "Parental consent is not required for infant baptism."
+    ],
+    "concepts": [
+      "parental consent",
+      "infant baptism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d112347",
+        "jb2v19-d112347-d1e501"
+      ]
+    }
+  },
+  "jb2v19-d112347-d1e708": {
+    "summary": "A further case: if an orphan's only relative is in the fifth (or sixth) degree of consanguinity, that relative's prohibition does not prevent baptism.",
+    "claims": [
+      "A distant relative's objection does not prevent an orphan's baptism."
+    ],
+    "concepts": [
+      "consanguinity",
+      "guardianship"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d112347",
+        "jb2v19-d112347-d1e677"
+      ]
+    }
+  },
+  "jb2v19-d112347-d1e724": {
+    "summary": "A further case: if paternity is merely suspected and not morally certain, the putative father's prohibition does not prevent baptizing a child in one's possession.",
+    "claims": [
+      "A merely suspected father's prohibition does not prevent baptism."
+    ],
+    "concepts": [
+      "moral certainty",
+      "paternity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d112347",
+        "jb2v19-d112347-d1e708"
+      ]
+    }
+  },
+  "jb2v19-d112347-d1e733": {
+    "summary": "A further case: a father who sells his child gives up paternal power and has no right to object. Mair states his conclusion: he may, and indeed must, baptize a child he owns as a legal slave, against the parents' objection. He extends this to children not in his possession: the Spaniards could lawfully baptize the children of Granada against their fathers, since they could even have lawfully put Málaga to the sword, as the Muslims did to Christians when Roderic lost Spain.",
+    "claims": [
+      "A master may and must baptize a child he owns as a legal slave, against the parents' objection.",
+      "The Spaniards could lawfully baptize Granadan children against their fathers' will.",
+      "Whoever may lawfully kill enemies may a fortiori baptize their children."
+    ],
+    "concepts": [
+      "slavery",
+      "patria potestas",
+      "Granada",
+      "Málaga",
+      "just war"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d112347",
+        "jb2v19-d112347-d1e629",
+        "jb2v19-d112347-d1e776"
+      ]
+    }
+  },
+  "jb2v19-d112347-d1e776": {
+    "summary": "Confirms the argument: the Spaniards could lawfully take and permanently keep Granadan children, and so could baptize them. Mair would gladly bear any sin involved in taking all Muslims' children, and he thinks it meritorious. He rejects the claim that such baptisms are no more valid than baptizing animals, since matter, form and intention are present, as with a Christian child baptized without the father's consent. His position: it is lawful to baptize Jewish children whom we hold in slavery, and in wartime all children of Muslims and gentiles who resist the planting of the faith whom we can capture.",
+    "claims": [
+      "Baptism of infidels' children against parental will is valid, since matter, form and intention are present.",
+      "It is lawful to baptize the children of Jews held in slavery.",
+      "In wartime it is lawful to baptize captured children of Muslims and gentiles who resist the faith."
+    ],
+    "concepts": [
+      "validity of baptism",
+      "matter, form and intention",
+      "captivity in war",
+      "merit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d112347",
+        "jb2v19-d112347-d1e733",
+        "jb2v19-d112347-d1e1281"
+      ]
+    }
+  },
+  "jb2v19-d112347-d1e820": {
+    "summary": "Objection to the first conclusion: Sisebut is praised for forcing Jews to accept baptism. Reply: the pious king is praised for his zeal to extend divine worship but rebuked for that act, as the cited texts show.",
+    "claims": [
+      "Sisebut's forced baptism of Jews was blameworthy despite his good intention."
+    ],
+    "concepts": [
+      "forced conversion",
+      "Sisebut",
+      "good intention versus wrongful act"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d112347",
+        "jb2v19-d112347-d1e367",
+        "jb2v19-d112347-d1e377"
+      ]
+    }
+  },
+  "jb2v19-d112347-d1e838": {
+    "summary": "Second objection: Jews sin gravely, even idolatrously, in keeping the Mosaic ceremonies (Jerome, the gloss on Galatians), deny Christ's divinity and follow the Talmud, and we must prevent our neighbors' sin where we can, so their rites should not be tolerated but expelled. Reply: they sin greatly, but it does not follow they must be expelled, just as a prudent legislator tolerates prostitutes to avoid worse.",
+    "claims": [
+      "Jews sin by keeping their rite, but this does not require their expulsion.",
+      "Some sins may be tolerated to avoid worse evils."
+    ],
+    "concepts": [
+      "toleration",
+      "ceremonial law",
+      "Talmud",
+      "lesser evil"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d112347",
+        "jb2v19-d112347-d1e367",
+        "jb2v19-d112347-d1e882"
+      ]
+    }
+  },
+  "jb2v19-d112347-d1e882": {
+    "summary": "Develops the toleration argument at length. One may permit another's sin for a reasonable cause (Jacob and Laban's oath by idols; borrowing from a usurer). Jews serve as witnesses from their own Scriptures that Christ is the Messiah, giving Christians an advantage over Muslims, against whom only the sword avails. They are dispersed and weak, provide exercise for Christians as the Canaanites did for Israel, and some convert and become useful, like the apostles. They may stay provided they do not insult the Creator, but need not be admitted everywhere, and expelling them from particular places (as here) can be prudent. Answering that universal expulsion would falsify the prophecy of Israel's final conversion, Mair notes that the Antichrist may already have come (Muhammad), and that what is good for each part need not be good for the whole, as celibacy is.",
+    "claims": [
+      "One may permit another's sin for a reasonable cause.",
+      "Jews are tolerated as scriptural witnesses to Christ and as an occasion of Christian exercise.",
+      "Toleration in Christendom as a whole is compatible with prudent expulsion from particular places.",
+      "What is good for each part need not be good for the whole.",
+      "Converted Jews deserve the same honor as born Christians."
+    ],
+    "concepts": [
+      "toleration of Jews",
+      "permission of sin",
+      "Jewish witness",
+      "common good",
+      "part and whole",
+      "Antichrist",
+      "conversion of Israel"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d112347",
+        "jb2v19-d112347-d1e838",
+        "jb2v19-d112347-d1e1054"
+      ]
+    }
+  },
+  "jb2v19-d112347-d1e1054": {
+    "summary": "Adds a logical point to the expulsion argument: even if Jews were expelled from all Christian lands, many live elsewhere (fifteen thousand in Cairo). He compares necessary universal propositions whose singulars are each contingent ('some man lives in some place') to show that expelling them from each place does not entail that they would cease to exist anywhere.",
+    "claims": [
+      "Expulsion from each Christian land would not eliminate the Jews, who are numerous elsewhere.",
+      "A necessary indefinite proposition can have only contingent singulars."
+    ],
+    "concepts": [
+      "necessity and contingency",
+      "singular propositions",
+      "Jewish diaspora"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d112347",
+        "jb2v19-d112347-d1e882"
+      ]
+    }
+  },
+  "jb2v19-d112347-d1e1085": {
+    "summary": "Third objection: it is lawful to deprive Jews of honors (no Christian slaves, no public office), to impose heavy taxes, and to order them to leave or be baptized, as Ferdinand of Aragon did. But that amounts to compelling them to the faith.",
+    "claims": [],
+    "concepts": [
+      "legal disabilities of Jews",
+      "expulsion of 1492",
+      "Ferdinand of Aragon",
+      "indirect coercion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d112347",
+        "jb2v19-d112347-d1e367",
+        "jb2v19-d112347-d1e1115"
+      ]
+    }
+  },
+  "jb2v19-d112347-d1e1115": {
+    "summary": "Reply: such measures are not coercion to the faith. Laws favor freedom from servitude, so Jews should not hold Christians, who belong to the law of grace and liberty, as slaves. Ferdinand's intention and deed, like his action against the Saracens, are praised, since compulsion by beatings or threat of death is what is prohibited. Such policies may help at one time and harm at another.",
+    "claims": [
+      "Legal disabilities and expulsion of Jews do not amount to coercion to the faith.",
+      "Ferdinand's expulsion policy is praiseworthy.",
+      "Only coercion by violence or threat of death is prohibited."
+    ],
+    "concepts": [
+      "coercion",
+      "favor libertatis",
+      "expulsion",
+      "prudence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d112347",
+        "jb2v19-d112347-d1e1085"
+      ]
+    }
+  },
+  "jb2v19-d112347-d1e1139": {
+    "summary": "Objections to the second conclusion: the will cannot be compelled (Augustine, Bernard), so the conclusion presupposes something false; and baptized Jewish children would be compelled to keep a faith they never accepted, contradicting the first conclusion. Reply to the first: the will cannot be compelled properly speaking, against its natural inclination, by God or man, since when it acts it concurs. But it can be 'compelled' in the common and legal sense, through persuasion or loss of temporal goods, and that is the sense intended.",
+    "claims": [
+      "The will cannot be coerced in the proper sense, against its natural inclination.",
+      "In the common and legal sense the will can be induced by pressure or loss of goods."
+    ],
+    "concepts": [
+      "coercion of the will",
+      "libertas arbitrii",
+      "proper versus common usage"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d112347",
+        "jb2v19-d112347-d1e372",
+        "jb2v19-d112347-d1e1185"
+      ]
+    }
+  },
+  "jb2v19-d112347-d1e1185": {
+    "summary": "Reply to the second objection: though the case is unclear, Mair grants that a child baptized without consent is bound to keep the faith, as a coerced will is still a will and laws favor freedom. Otherwise any Christian could renounce his faith as an adult by claiming he never consented, and a lapsed baptized child would be a heretic and apostate. Jews need not lose their children if they keep them at home, since indiscriminate baptism would be wrong. Against the analogy of an infant ordained priest, who is not bound to celibacy, he replies that faith is a sacrament of necessity while chastity can be counseled but not commanded (Ambrose). He grants that baptized Mamluks and the Egyptian sultan should be compelled to the faith but not the Ottoman, but they are not in hand.",
+    "claims": [
+      "A child baptized without consent is bound to keep the faith.",
+      "Faith is necessary for salvation, whereas chastity can only be counseled, so the cases differ.",
+      "Indiscriminate baptism of Jewish children would be wrongful.",
+      "Baptized apostates such as the Mamluks may in principle be compelled to the faith."
+    ],
+    "concepts": [
+      "baptismal obligation",
+      "apostasy",
+      "sacrament of necessity",
+      "celibacy",
+      "Mamluks"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d112347",
+        "jb2v19-d112347-d1e1139",
+        "jb2v19-d112347-d1e372"
+      ]
+    }
+  },
+  "jb2v19-d112347-d1e1281": {
+    "summary": "Objection to the third conclusion: either all infidels' children should be baptized against their parents' will, which would mean taking all Jewish children, or only some, without a principled difference. Reply: the children of Saracens, gentiles and Jews held as slaves may be baptized and never returned. But the children of Jews living peaceably under Christian princes, not blaspheming Christ, are to be left with their parents, since taking them would be inhuman, unless they commit atrocities such as crucifying Christian children, in which case all their children may be taken in punishment and baptized. This answers Aquinas's two arguments. To Aquinas's further argument from the Church's custom, Mair grants that it supports leaving such Jews and few peaceable Muslims undisturbed, and the text breaks off as he begins to add more.",
+    "claims": [
+      "Children of infidels held as slaves may be baptized against their parents' will and kept.",
+      "Children of peaceable Jews living under Christian rule must be left with their parents.",
+      "Grave crimes against Christ can justify taking Jewish children as punishment.",
+      "The Church's custom supports toleration of peaceable Jews and Muslims."
+    ],
+    "concepts": [
+      "infant baptism",
+      "toleration of Jews",
+      "punishment",
+      "Church custom",
+      "slavery"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d112347",
+        "jb2v19-d112347-d1e501",
+        "jb2v19-d112347-d1e776",
+        "jb2v19-d112347-d1e377"
+      ]
+    }
+  },
+  "jb2v19-d112347": {
+    "summary": "Mair asks whether Christians may baptize infidels' children against their parents' will, beginning with a critique of Aquinas's account of infidelity. He defines the faithful sacramentally, by the baptismal character, and distinguishes grades of infidelity rooted in the will. He then argues three conclusions. Adult Jews must not be compelled to the faith (Council of Toledo, Gregory the Great). Those who receive the faith under compulsion must keep it, which he justifies by distinguishing proper coercion of the will, which is impossible, from coercion in the legal sense. Infidels' children may be baptized against their parents' will. Rejecting Aquinas's arguments from natural justice and danger to the faith, he argues that a dying infant must be baptized and that masters may baptize slave children they own. He holds that Spaniards could lawfully baptize Granadan children and that such baptisms are valid. He limits this, however: children of peaceable Jews living under Christian rule are to be left with their parents. At length he defends tolerating Jews as scriptural witnesses and a lesser evil, while praising Ferdinand's expulsion as not amounting to coercion. The text breaks off in the final reply.",
+    "claims": [
+      "Infidelity is properly defined privatively by lack of the baptismal character.",
+      "Adult Jews are not to be compelled to the faith.",
+      "Those baptized under compulsion, and children baptized without consent, are bound to keep the faith.",
+      "Infidels' children held as slaves, or captured in war against those resisting the faith, may be baptized against their parents' will.",
+      "Children of peaceable Jews under Christian rule must be left with their parents.",
+      "Jews are to be tolerated in Christendom, though expulsion from particular realms may be prudent."
+    ],
+    "concepts": [
+      "infant baptism",
+      "infidelitas",
+      "forced conversion",
+      "coercion of the will",
+      "patria potestas",
+      "slavery",
+      "toleration of Jews",
+      "natural justice"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jb2v19-d112347-d1e106",
+        "jb2v19-d112347-d1e176",
+        "jb2v19-d112347-d1e332",
+        "jb2v19-d112347-d1e362",
+        "jb2v19-d112347-d1e367",
+        "jb2v19-d112347-d1e372",
+        "jb2v19-d112347-d1e377",
+        "jb2v19-d112347-d1e488",
+        "jb2v19-d112347-d1e501",
+        "jb2v19-d112347-d1e600",
+        "jb2v19-d112347-d1e629",
+        "jb2v19-d112347-d1e677",
+        "jb2v19-d112347-d1e708",
+        "jb2v19-d112347-d1e724",
+        "jb2v19-d112347-d1e733",
+        "jb2v19-d112347-d1e776",
+        "jb2v19-d112347-d1e820",
+        "jb2v19-d112347-d1e838",
+        "jb2v19-d112347-d1e882",
+        "jb2v19-d112347-d1e1054",
+        "jb2v19-d112347-d1e1085",
+        "jb2v19-d112347-d1e1115",
+        "jb2v19-d112347-d1e1139",
+        "jb2v19-d112347-d1e1185",
+        "jb2v19-d112347-d1e1281"
+      ]
+    }
+  }
+}

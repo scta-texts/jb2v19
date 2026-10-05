@@ -1,0 +1,426 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-05T10:28:32Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "9763790",
+    "generation_method": "hierarchical",
+    "source_file": "cod-uhs8uk_jb2v19-d116126.xml"
+  },
+  "jb2v19-d116126-d1e106": {
+    "summary": "Poses the last question of the distinction: whether one loses dominion over one's goods through mortal sin. It is prompted by Richard FitzRalph (Armachanus), primate of Ireland, who holds in De quaestionibus Armenorum X.4 that no one in mortal sin has true dominion before God but is rightly called a tyrant, thief or robber, whatever his title by possession, inheritance, popular approval or human law, until penance restores him to grace. Mair expresses astonishment that so learned a biblical scholar held this.",
+    "claims": [
+      "(FitzRalph, reported) No one in mortal sin has true dominion before God until restored by penance."
+    ],
+    "concepts": [
+      "dominion founded on grace",
+      "mortal sin",
+      "FitzRalph",
+      "tyranny"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d116126",
+        "jb2v19-d116126-d1e154"
+      ]
+    }
+  },
+  "jb2v19-d116126-d1e154": {
+    "summary": "Argues against FitzRalph. If he were right, a king in mortal sin would cease to be king and would lose even his tunic and the right to eat, since for consumables ownership is not distinct from use, which is absurd. The argument from the uncertainty of ownership is weak, since some, including Aquinas, hold that a secret heretic loses his dominion. The decisive argument is that many kings, infidel and faithful, were true kings while in mortal sin, as David was when he took Bathsheba and had Uriah killed. Mair then states the best possible defense: David was not then truly king, regaining just title only on repentance, while popular consent continued and invincible ignorance excused his subjects' obedience.",
+    "claims": [
+      "FitzRalph's view entails that a sinner loses even the use of consumables, which is absurd.",
+      "Many kings remained true kings while in mortal sin, as David did in the Bathsheba affair."
+    ],
+    "concepts": [
+      "dominion founded on grace",
+      "use and ownership of consumables",
+      "David",
+      "secret heresy",
+      "invincible ignorance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d116126",
+        "jb2v19-d116126-d1e106",
+        "jb2v19-d116126-d1e217"
+      ]
+    }
+  },
+  "jb2v19-d116126-d1e217": {
+    "summary": "Confirms the defense with an analogy: an unlearned cowherd elected, confirmed and consecrated bishop sins by holding the benefice while unfit, but if he later becomes fit he no longer sins in holding it, by virtue of the title he already had.",
+    "claims": [
+      "(Defense) A valid title held while unfit becomes licit to hold once the holder becomes fit."
+    ],
+    "concepts": [
+      "benefice",
+      "fitness for office",
+      "title"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d116126",
+        "jb2v19-d116126-d1e154",
+        "jb2v19-d116126-d1e236"
+      ]
+    }
+  },
+  "jb2v19-d116126-d1e236": {
+    "summary": "Rejects the defense. Fitness for a benefice or kingdom does not require being always in grace, and a prostitute or actor keeps sinful earnings without restitution while in sin. Scripture calls kings 'kings' while they are in sin: David repeatedly addresses Saul, who was persecuting him, as 'my lord the king' and refuses to harm 'the Lord's anointed'. The same holds for Solomon, Ben-hadad, Nebuchadnezzar, the Egyptian kings, wicked Ahab and Manasseh, since almost all the kings of Judah and Israel were sinners yet are called kings. Mair identifies FitzRalph's thesis with the errors of Wyclif and Hus condemned at Constance (a reprobate pope lacks power; no one in mortal sin is a civil lord, prelate or bishop) and of the Poor of Lyon. He raises the objection that Saul was already rejected (1 Samuel 15) and David anointed in his place (1 Samuel 16).",
+    "claims": [
+      "Holding office or property licitly does not require being in a state of grace.",
+      "Scripture calls wicked rulers kings while they are in sin, as David did with Saul.",
+      "The thesis that mortal sin removes dominion is the error of Wyclif and Hus condemned at Constance and of the Waldensians."
+    ],
+    "concepts": [
+      "dominion founded on grace",
+      "Saul and David",
+      "Lord's anointed",
+      "Wyclif",
+      "Hus",
+      "Council of Constance",
+      "Waldensians",
+      "biblical kingship"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d116126",
+        "jb2v19-d116126-d1e154",
+        "jb2v19-d116126-d1e217",
+        "jb2v19-d116126-d1e416"
+      ]
+    }
+  },
+  "jb2v19-d116126-d1e416": {
+    "summary": "Reply: in 1 Samuel 15 the past tense stands for the future, as when the Psalmist says of the apostles 'their sound has gone out', because the prophet saw the certain future as past. Saul was therefore still king. Against some, popular consent is not required beyond God's choice: God's authority alone suffices to transfer royal or any other dominion, whatever the people say, though an earthly king cannot do so against the whole people's will.",
+    "claims": [
+      "Samuel's 'the Lord has torn the kingdom from you' is a prophetic past standing for the future.",
+      "God's authority alone suffices to transfer dominion, without popular consent.",
+      "An earthly king cannot transfer dominion against the whole people's will."
+    ],
+    "concepts": [
+      "prophetic past",
+      "divine transfer of dominion",
+      "popular consent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d116126",
+        "jb2v19-d116126-d1e236"
+      ]
+    }
+  },
+  "jb2v19-d116126-d1e440": {
+    "summary": "Objection to Mair's conclusion: whoever sins mortally commits lèse-majesté against God, and such a person is to be deprived of his goods.",
+    "claims": [],
+    "concepts": [
+      "lèse-majesté against God",
+      "forfeiture"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d116126",
+        "jb2v19-d116126-d1e236",
+        "jb2v19-d116126-d1e460"
+      ]
+    }
+  },
+  "jb2v19-d116126-d1e449": {
+    "summary": "Confirmation from Pseudo-Dionysius's letter to the monk Demophilus: whoever is not illuminated by grace is not a priest but a deceitful enemy and a wolf in sheep's clothing.",
+    "claims": [],
+    "concepts": [
+      "Pseudo-Dionysius",
+      "priesthood and grace"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d116126",
+        "jb2v19-d116126-d1e440",
+        "jb2v19-d116126-d1e460"
+      ]
+    }
+  },
+  "jb2v19-d116126-d1e460": {
+    "summary": "Reply: he denies that forfeiture for lèse-majesté applies here, since that is positive human law covering hostility to the commonwealth or prince, comparable to heresy (as at the end of Book I). Dionysius means that such a man is not a 'sacred teacher' in the etymological sense, since one in mortal sin usually does not teach well, though he may still preach well. If it is taken to mean that he cannot consecrate or absolve, that is false and heretical. The canonists' view that one in mortal sin is not eligible for office (Panormitanus) is a dream, and FitzRalph's authorities are slight. Mair suspects FitzRalph stated the thesis without reflection, and holding a heresy does not make one a heretic without pertinacity.",
+    "claims": [
+      "Forfeiture for lèse-majesté is a rule of positive human law and does not extend to every mortal sin.",
+      "A priest in mortal sin still validly consecrates and absolves, and to deny this is heretical.",
+      "Mortal sin does not make one ineligible for office.",
+      "Asserting a heretical proposition does not make one a heretic without pertinacity."
+    ],
+    "concepts": [
+      "lèse-majesté",
+      "sacramental validity",
+      "ex opere operato",
+      "eligibility",
+      "Panormitanus",
+      "pertinacity",
+      "heresy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d116126",
+        "jb2v19-d116126-d1e440",
+        "jb2v19-d116126-d1e449",
+        "jb2v19-d116126-d1e106"
+      ]
+    }
+  },
+  "jb2v19-d116126-d1e515": {
+    "summary": "Raises a doubt: whether servitude is reasonable.",
+    "claims": [],
+    "concepts": [
+      "slavery"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d116126",
+        "jb2v19-d116126-d1e521"
+      ]
+    }
+  },
+  "jb2v19-d116126-d1e521": {
+    "summary": "Distinguishes two kinds of servants: hired servants (mercenarii) who work for pay for an agreed time, and legal slaves, who sell themselves as adults, are sold by parents, are spared from death in war (servi from servare), or are freedmen returned to slavery for ingratitude.",
+    "claims": [],
+    "concepts": [
+      "mercenarius",
+      "legal slavery",
+      "origins of slavery",
+      "Roman law"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d116126",
+        "jb2v19-d116126-d1e515",
+        "jb2v19-d116126-d1e543"
+      ]
+    }
+  },
+  "jb2v19-d116126-d1e543": {
+    "summary": "First conclusion: it is necessary to have servants. Without them human hierarchy would perish and no one would work for another, so people could not live together. As in the body and the mystical body there are different offices, and as Aristotle says citing Homer, only if tools moved themselves like Daedalus's statues or Vulcan's tripods would masters not need servants.",
+    "claims": [
+      "Servants are necessary for human social life."
+    ],
+    "concepts": [
+      "service",
+      "division of labor",
+      "social hierarchy",
+      "mystical body",
+      "Aristotle's Politics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d116126",
+        "jb2v19-d116126-d1e521"
+      ]
+    }
+  },
+  "jb2v19-d116126-d1e585": {
+    "summary": "Second conclusion: we may have legal slaves. Some are robust in body but weak in mind and are fit to serve, while the keen-minded are fit to rule (Politics I.3-4), and the dull are better off serving the prudent. Even prudent persons may be slaves by Roman law, through birth, capture in war (better than being killed) or self-sale. The Mosaic law freed Hebrew slaves in the seventh year but allowed perpetual slaves of other nations, and their offspring follow the mother (Exodus 21).",
+    "claims": [
+      "Legal slavery is permissible.",
+      "Those weak in reason are naturally fitted to serve the prudent.",
+      "Slavery by capture, birth or self-sale is legitimate under the law of nations and civil law, even for the prudent.",
+      "The Mosaic law permitted perpetual slaves of other nations."
+    ],
+    "concepts": [
+      "natural slavery",
+      "legal slavery",
+      "ius gentium",
+      "captivity in war",
+      "Exodus 21",
+      "partus sequitur ventrem"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d116126",
+        "jb2v19-d116126-d1e521"
+      ]
+    }
+  },
+  "jb2v19-d116126-d1e648": {
+    "summary": "Third conclusion: a choleric master should not keep a very spirited slave (Aristotle, Economics I.5: slaves should be neither too timid nor too fierce), since the choleric master strikes him unjustly and the spirited slave turns on him. He illustrates with a case near Noyon: a slave unjustly beaten killed his master's two sons, made the master cut off his nose to spare the third, then killed the third and himself.",
+    "claims": [
+      "A choleric master should not keep a very spirited slave."
+    ],
+    "concepts": [
+      "master-slave relations",
+      "temperament",
+      "prudence in household management"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d116126",
+        "jb2v19-d116126-d1e585"
+      ]
+    }
+  },
+  "jb2v19-d116126-d1e700": {
+    "summary": "Fourth conclusion: even a peaceable master should not keep an extremely spirited slave, who will be quarrelsome and disturb the household, unless the master's life is in danger and he needs such a man; circumstances must be weighed.",
+    "claims": [
+      "A peaceable master should not keep an extremely spirited slave, except in danger."
+    ],
+    "concepts": [
+      "household management",
+      "prudence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d116126",
+        "jb2v19-d116126-d1e648"
+      ]
+    }
+  },
+  "jb2v19-d116126-d1e713": {
+    "summary": "Objections to the second conclusion: the Institutes define slavery as an institution of the law of nations by which one is subjected to another's dominion contrary to nature. Moreover, Mair has seen no such slaves in France or Britain, which suggests the institution is unjust.",
+    "claims": [],
+    "concepts": [
+      "slavery contra naturam",
+      "ius gentium",
+      "absence of slavery in northern Europe"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d116126",
+        "jb2v19-d116126-d1e585",
+        "jb2v19-d116126-d1e734",
+        "jb2v19-d116126-d1e771"
+      ]
+    }
+  },
+  "jb2v19-d116126-d1e734": {
+    "summary": "Reply to the first objection: slavery is contrary to human nature as first instituted, when there would have been no servitude for the master's benefit. But as a matter of the law of nations, which is common to all humankind, it is not against natural law. The Institutes record that all were born free by natural law and that slavery and manumission arose from the law of nations.",
+    "claims": [
+      "Slavery is contrary to the original state of human nature but not to natural law as such.",
+      "Slavery arose from the law of nations."
+    ],
+    "concepts": [
+      "state of innocence",
+      "natural law",
+      "ius gentium",
+      "manumission"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d116126",
+        "jb2v19-d116126-d1e713",
+        "jb2v19-d116126-d1e585"
+      ]
+    }
+  },
+  "jb2v19-d116126-d1e771": {
+    "summary": "Reply to the second objection: it is commendable that there are only hired servants here and no legal slaves, since it is a harsh law that a prudent man should serve for his master's benefit. Hence imperial laws favor freedom, Justinian mitigated his predecessors' slave laws, and Exodus 21 punishes with ear-piercing the slave who declines liberty, for liberty is not well sold for gold. Mair leaves aside the slavery of sin, praying that God free us from it and make us serve him, whom to serve is to reign, and closes the book with Amen.",
+    "claims": [
+      "The absence of legal slavery in France and Britain is commendable.",
+      "The law favors liberty, which ought not to be sold."
+    ],
+    "concepts": [
+      "favor libertatis",
+      "Justinian",
+      "Exodus 21",
+      "slavery of sin",
+      "service of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d116126",
+        "jb2v19-d116126-d1e713"
+      ]
+    }
+  },
+  "jb2v19-d116126-d1e806": {
+    "summary": "Printer's colophon ending the commentary on Book II: John Mair's second lectura on the Sentences, never before printed, Paris, 18 August 1519, at the expense of the bookseller Jean Granjon in the Clos Bruneau.",
+    "claims": [],
+    "concepts": [
+      "colophon",
+      "printing history"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d116126",
+        "jb2v19-d116126-d1e771"
+      ]
+    }
+  },
+  "jb2v19-d116126": {
+    "summary": "In the final question of Book II, Mair rejects Richard FitzRalph's thesis that anyone in mortal sin loses true dominion over his goods. Its consequences are absurd: a sinner could not even own his clothes or eat. Scripture consistently calls wicked kings like Saul, Ahab and Manasseh kings, and David himself honored Saul as the Lord's anointed. The thesis also coincides with the errors of Wyclif, Hus and the Waldensians condemned at Constance. He rejects the defense that dominion revives with repentance, reads Samuel's rejection of Saul as a prophetic past, and holds that God alone can transfer dominion without the people's consent. Answering the arguments from lèse-majesté and Pseudo-Dionysius, he limits forfeiture to positive law, insists that sinful priests validly confer sacraments, and suggests FitzRalph wrote without reflection and without the pertinacity that makes a heretic. A closing doubt asks whether servitude is reasonable. Mair argues that service is necessary to social life and that legal slavery is permissible under the law of nations and Aristotle's natural slavery. He gives prudential advice on masters and slaves, holds that slavery is against the original state of nature but not natural law, and commends the absence of legal slavery in France and Britain as consonant with the law's favor for liberty. The text ends with the printer's colophon of the 1519 Paris edition.",
+    "claims": [
+      "Mortal sin does not deprive a person of dominion over his goods or a ruler of his office.",
+      "The thesis of dominion founded on grace is the condemned error of Wyclif and Hus.",
+      "A priest in mortal sin validly confers sacraments.",
+      "Service is necessary for social life, and legal slavery is permissible under the law of nations.",
+      "Slavery is contrary to the original state of nature but not to natural law, and freedom is to be favored."
+    ],
+    "concepts": [
+      "dominion founded on grace",
+      "mortal sin",
+      "FitzRalph",
+      "Wyclif and Hus",
+      "sacramental validity",
+      "slavery",
+      "ius gentium",
+      "natural law",
+      "favor libertatis"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jb2v19-d116126-d1e106",
+        "jb2v19-d116126-d1e154",
+        "jb2v19-d116126-d1e217",
+        "jb2v19-d116126-d1e236",
+        "jb2v19-d116126-d1e416",
+        "jb2v19-d116126-d1e440",
+        "jb2v19-d116126-d1e449",
+        "jb2v19-d116126-d1e460",
+        "jb2v19-d116126-d1e515",
+        "jb2v19-d116126-d1e521",
+        "jb2v19-d116126-d1e543",
+        "jb2v19-d116126-d1e585",
+        "jb2v19-d116126-d1e648",
+        "jb2v19-d116126-d1e700",
+        "jb2v19-d116126-d1e713",
+        "jb2v19-d116126-d1e734",
+        "jb2v19-d116126-d1e771",
+        "jb2v19-d116126-d1e806"
+      ]
+    }
+  }
+}

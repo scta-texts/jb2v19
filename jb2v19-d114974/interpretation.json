@@ -1,0 +1,893 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-05T10:27:41Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "9763790",
+    "generation_method": "hierarchical",
+    "source_file": "cod-uhs8uk_jb2v19-d114974.xml"
+  },
+  "jb2v19-d114974-d1e106": {
+    "summary": "Poses the penultimate question of the distinction: whether the king is lord (dominus) of everything in his kingdom.",
+    "claims": [],
+    "concepts": [
+      "royal dominion",
+      "property"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e115"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e115": {
+    "summary": "Answers in the negative and gives a first argument: if the king owned everything he would own Mair's book, which Mair then could not sell without the king's special permission, contrary to all practice.",
+    "claims": [
+      "The king is not the owner of everything in his kingdom.",
+      "Subjects may alienate their goods without royal permission, which shows that they, not the king, own them."
+    ],
+    "concepts": [
+      "dominium",
+      "alienation of property",
+      "royal dominion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e106"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e135": {
+    "summary": "Second argument: many things in the kingdom, such as wild birds, fish and animals, belong to no one and become the property of the first occupier by natural reason (Institutes, Digest). Gift, prescription, usucapion and other titles also give private persons just ownership. The king cannot be called co-owner of one's tunic, since one could then not sell it without his consent, which is absurd.",
+    "claims": [
+      "Things belonging to no one become the property of the first occupier, not the king.",
+      "Private persons acquire genuine ownership by many legal titles.",
+      "The king is not co-owner of his subjects' goods."
+    ],
+    "concepts": [
+      "occupatio",
+      "res nullius",
+      "prescription",
+      "usucapion",
+      "co-ownership"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e115"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e167": {
+    "summary": "Third argument: for lèse-majesté or open heresy the fisc acquires the offender's goods. So the king, as lord of the fisc, did not own them beforehand, since no one acquires what is already his.",
+    "claims": [
+      "Confiscation for crime shows the king did not previously own the confiscated goods."
+    ],
+    "concepts": [
+      "fiscus",
+      "confiscation",
+      "lèse-majesté"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e115"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e178": {
+    "summary": "Fourth argument: kings sometimes try to buy their subjects' land, as Ahab sought Naboth's vineyard, which presupposes that the subject owns it. Mair considers the conclusion so clear and so widely attested in Scripture that further arguments are unnecessary.",
+    "claims": [
+      "A king's attempt to buy a subject's land presupposes the subject's ownership."
+    ],
+    "concepts": [
+      "Naboth's vineyard",
+      "purchase",
+      "property rights"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e115",
+        "jb2v19-d114974-d1e339"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e196": {
+    "summary": "Objection: God is co-owner of my tunic (Psalm 24, 'the earth is the Lord's'), yet I sell it without seeking his permission and even sinfully against his will, and the alienation holds. So the fact that I need not ask the king's permission does not show that he is not my co-owner.",
+    "claims": [],
+    "concepts": [
+      "divine dominion",
+      "co-ownership",
+      "alienation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e135",
+        "jb2v19-d114974-d1e242"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e220": {
+    "summary": "Second objection: in 1 Samuel 8 God has Samuel announce the 'right of the king', who will take the people's fields, vineyards, tithes, servants and flocks, so everything belongs to the king.",
+    "claims": [],
+    "concepts": [
+      "ius regis",
+      "1 Samuel 8",
+      "royal right"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e316",
+        "jb2v19-d114974-d1e350"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e242": {
+    "summary": "Reply: God is indeed co-owner and could take my tunic without fault on my part, but he grants us free administration. It is enough that he approves the manner of transfer even when we sin in the contract, so a prodigal gift is sinful yet valid. When God voids contracts, as with perpetual land sales in Leviticus 25, human consent does not suffice, but that ceremonial law no longer binds. None of this applies to an earthly king, who is not co-owner on equal terms. And two co-owners of a horse cannot alienate it without each other's consent, so if the king had a share I could not sell without him.",
+    "claims": [
+      "God is the supreme owner of all things but grants humans free administration of their goods.",
+      "A transfer of ownership can be valid even when the transaction is sinful.",
+      "An earthly king is not co-owner of his subjects' goods as God is.",
+      "Co-owners cannot alienate common property without each other's consent."
+    ],
+    "concepts": [
+      "divine dominion",
+      "free administration",
+      "validity versus sinfulness of contracts",
+      "Leviticus 25",
+      "co-ownership"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e196"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e316": {
+    "summary": "Reply to the second objection, first answer: in cases of grave public necessity all these things are the king's. He may deprive a subject of particular property, and the subject should consent, since the common good is preferred to the private good that it includes (Ethics I). But the king must take proportionally from all according to their wealth, not everything from one.",
+    "claims": [
+      "In grave public necessity the king may take subjects' property for the common good.",
+      "Such takings must be proportional to the wealth of all subjects.",
+      "The common good takes precedence over a private good that it includes."
+    ],
+    "concepts": [
+      "necessity",
+      "common good",
+      "eminent domain",
+      "proportional burden"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e220"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e339": {
+    "summary": "Counter-objection: Ahab needed Naboth's vineyard for a vegetable garden, so on this view he could have taken it without paying, which is false, since Naboth would not even sell it.",
+    "claims": [],
+    "concepts": [
+      "Naboth's vineyard",
+      "necessity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e316",
+        "jb2v19-d114974-d1e350"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e350": {
+    "summary": "Reply: Ahab had no public necessity, only avarice, so he could not compel the sale. He may also have wanted it in perpetuity against God's law, which forbade sales beyond the jubilee except by necessity, and Naboth was not in need. Forcing subjects to sell near the palace would ruin the commonwealth and make the king a dissipator rather than a true ruler. A king may seek a subject's consent but must desist if refused. Second answer: the 'right of the king' in 1 Samuel 8 describes what tyrants use as law, said to deter the people from asking for a king. This raises the question whether Israel sinned in asking for a king, which, if so, seems to threaten the claim that kingship is the best regime; it is deferred to a later doubt.",
+    "claims": [
+      "A king may not compel the sale of a subject's property without public necessity.",
+      "The 'right of the king' in 1 Samuel 8 describes tyrannical practice meant to deter the people."
+    ],
+    "concepts": [
+      "Naboth's vineyard",
+      "necessity",
+      "tyranny",
+      "1 Samuel 8",
+      "jubilee"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e339",
+        "jb2v19-d114974-d1e220",
+        "jb2v19-d114974-d1e555"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e405": {
+    "summary": "Third objection: either the king owns something in the kingdom or nothing. Not nothing, or he would be poorer than a commoner. If something, there is equal reason for everything. To the reply that he owns lands assigned to him, it is objected in what follows that these do not suffice.",
+    "claims": [],
+    "concepts": [
+      "royal demesne",
+      "royal dominion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e418",
+        "jb2v19-d114974-d1e429",
+        "jb2v19-d114974-d1e459"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e418": {
+    "summary": "Continues the objection: royal lands are not sufficient for the royal dignity anywhere; and to the reply that revenues together with the lands suffice, a further objection follows.",
+    "claims": [],
+    "concepts": [
+      "royal revenues",
+      "royal dignity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e405",
+        "jb2v19-d114974-d1e429"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e429": {
+    "summary": "Continues the objection: the king may impose any taxes not contrary to natural or divine law and will own what is collected, so by the same reasoning he already owned those goods while allowing others to use them.",
+    "claims": [],
+    "concepts": [
+      "taxation",
+      "royal dominion",
+      "natural and divine law"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e418",
+        "jb2v19-d114974-d1e459"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e440": {
+    "summary": "Fourth objection from Roman law: the emperor is 'lord of the world' (Digest, Lex Rhodia; Codex), and a king has as much dominion in his kingdom as Antoninus had in the empire. Otherwise why is the king of France called king of all Gaul?",
+    "claims": [],
+    "concepts": [
+      "dominus mundi",
+      "Roman law",
+      "imperial dominion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e503"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e459": {
+    "summary": "Reply to the third objection, the earlier replies having been made in the course of the argument: it is utterly false that the king can bind subjects to anything not contrary to natural or divine law. He could not compel someone to give all his goods to the poor, which would be Egyptian bondage, and Deuteronomy 17 forbids the king to multiply horses and take superfluities from the people for pomp, though he may have what his estate and the glory of the realm require. Just as an abbot may not command beyond the rule, the king may not impose burdens beyond the laws of the realm, because a king exists for the people, not against them.",
+    "claims": [
+      "The king cannot impose whatever is not contrary to natural or divine law.",
+      "The king may take what is necessary for his estate but not superfluities for pomp.",
+      "Royal impositions are bounded by the laws of the realm.",
+      "The king exists for the people, not against them."
+    ],
+    "concepts": [
+      "limits of royal power",
+      "taxation",
+      "Deuteronomy 17",
+      "laws of the realm",
+      "king for the people"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e405",
+        "jb2v19-d114974-d1e429"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e503": {
+    "summary": "Reply to the fourth objection by distinction. The king is lord of the kingdom taken as a whole (categorematically). Taken distributively, it is false that each thing in it is his property, temporal or spiritual, but true that he has regitive (governing) dominion over everything, and over others' goods for the commonwealth's safety when his own are insufficient. So defending his subjects' goods is not putting his sickle in another's harvest, and ample revenues are given him for their protection. Scripture (Abraham to the king of Sodom, Genesis 14) and canon law speak of regitive dominion only. Even so he cannot give the realm to whomever he wishes, being bound by its customary laws, though he may freely grant small lordships.",
+    "claims": [
+      "The king has governing (regitive) dominion over all things in the realm, not proprietary ownership of each.",
+      "The king may use subjects' goods for public safety when his own are insufficient.",
+      "The king is bound by the customary laws of the realm and cannot transfer the kingdom at will."
+    ],
+    "concepts": [
+      "dominium regitivum",
+      "proprietary dominion",
+      "categorematic and syncategorematic",
+      "customary law",
+      "inalienability of the realm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e440"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e555": {
+    "summary": "First doubt, raised earlier: whether the people of Israel sinned in asking for a king. Mair notes various answers and introduces Paul of Burgos on 1 Samuel 8.",
+    "claims": [],
+    "concepts": [
+      "Israel's request for a king",
+      "1 Samuel 8",
+      "Paul of Burgos"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e350",
+        "jb2v19-d114974-d1e571"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e571": {
+    "summary": "Reports and rejects Burgos's three claims: that the people did not sin in asking for a king, since kingship accords with natural law and Deuteronomy 17; that they sinned only in asking for a king 'like the nations', absolved from laws; and that this displeased God. Deuteronomy 17 contains no command to choose a king but only foresight ('when you say', 'you, not I', as the interlinear gloss has it). The people sinned by seeking Samuel's removal without fault and by rejecting God's immediate rule, departing from his special care ('they have not rejected you but me'). Nor did they ask for a king free from law; they sought relief from the corrupt judgments of Samuel's sons Joel and Abijah. So the people did sin, and Deuteronomy tells against Burgos.",
+    "claims": [
+      "Deuteronomy 17 permits but does not command the institution of a king.",
+      "Israel sinned in asking for a king by rejecting God's immediate rule and special care.",
+      "Israel did not ask for a king absolved from law but for relief from corrupt judges."
+    ],
+    "concepts": [
+      "theocracy",
+      "Deuteronomy 17",
+      "1 Samuel 8",
+      "special providence",
+      "Paul of Burgos",
+      "biblical exegesis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e555"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e678": {
+    "summary": "Presents Burgos's argument against the postillator (Nicholas of Lyra): if Israel sinned in asking for a king, it would have persisted in that sin as long as the monarchy lasted, contrary to God's reservation of immediate rule. Samuel's prayer for their forgiveness would then have been vain, since by Ezekiel 18 pardon requires amendment, yet 1 Samuel 12 shows the sin was forgiven while they kept their king.",
+    "claims": [],
+    "concepts": [
+      "persistence in sin",
+      "forgiveness",
+      "Nicholas of Lyra",
+      "Paul of Burgos"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e571",
+        "jb2v19-d114974-d1e730",
+        "jb2v19-d114974-d1e747"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e730": {
+    "summary": "Reports Matthias Döring's reply in his Replicae: asking for a king absolutely was not the sin; the sin was asking that a king be instituted humanly by Samuel against God's ordinance. Had they asked Samuel to seek a king from God they would not have sinned.",
+    "claims": [
+      "(Döring) The sin lay in asking for a humanly instituted king, not in asking for a king as such."
+    ],
+    "concepts": [
+      "Matthias Döring",
+      "divine versus human institution"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e678"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e747": {
+    "summary": "Rejects Döring's reply: asking Samuel to request a king from God would still reject God's special rule, and since Samuel did everything on God's counsel, asking him was the same as asking him to intercede. Mair answers Burgos's argument instead. The sin lay in the initial request, after which God withdrew his former special care. Once God consented and Saul was anointed, continuing under the monarchy was not sinful, as the people's confession in 1 Samuel 12 shows. One often sins in acquiring a thing but not in keeping it: goods sold on a feast day, money gained by prostitution or forbidden games, marriage after a simple vow. Kingship remains the best regime, and God, as founder of the kingdom, established it most firmly. The people, well protected, sought novelty like Aesop's frogs begging Jupiter for a king.",
+    "claims": [
+      "Israel sinned in first requesting a king but not in continuing under the monarchy God then granted.",
+      "One may sin in acquiring something without sinning in retaining it.",
+      "Israel's sin is compatible with kingship being the best regime."
+    ],
+    "concepts": [
+      "acquisition versus retention",
+      "divine consent",
+      "best regime",
+      "Aesop's frogs",
+      "forgiveness"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e678",
+        "jb2v19-d114974-d1e730",
+        "jb2v19-d114974-d1e571"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e838": {
+    "summary": "Second doubt: whether a polity in which the firstborn inherits the whole patrimony is bad, raised because this is the custom in both British kingdoms (Scotland and England).",
+    "claims": [],
+    "concepts": [
+      "primogeniture",
+      "inheritance",
+      "Britain"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e856"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e854": {
+    "summary": "Announces that the doubt will be answered by the following conclusions.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e856",
+        "jb2v19-d114974-d1e863",
+        "jb2v19-d114974-d1e872",
+        "jb2v19-d114974-d1e880"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e856": {
+    "summary": "First conclusion: the law by which the noble firstborn inherits all the paternal land is just enough.",
+    "claims": [
+      "The law of noble primogeniture is sufficiently just."
+    ],
+    "concepts": [
+      "primogeniture",
+      "nobility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e880"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e863": {
+    "summary": "Second conclusion: parents act wrongly if they leave their other children no provision to live according to their status.",
+    "claims": [
+      "Parents must provide for their younger children according to their status."
+    ],
+    "concepts": [
+      "provision for younger children",
+      "parental duty"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e1170"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e872": {
+    "summary": "Third conclusion: where parents do not provide for the other children, the firstborn is bound under pain of sin to support them.",
+    "claims": [
+      "The firstborn heir is bound under pain of sin to support siblings left unprovided for."
+    ],
+    "concepts": [
+      "duty of the heir",
+      "sibling support"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e1223"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e880": {
+    "summary": "States the fourth conclusion, that the law is not as reasonable among commoners (peasants, merchants and other plebeians), and proves the first: it is fitting that noble houses remain intact. Repeated equal division would eventually reduce a great house to nothing, as any finite quantity is exhausted by repeated subtraction of finite parts (Physics I) where the division is not geometric.",
+    "claims": [
+      "Primogeniture is less reasonable among commoners than among nobles.",
+      "Repeated partition of inheritances would eventually destroy great houses."
+    ],
+    "concepts": [
+      "primogeniture",
+      "integrity of noble houses",
+      "partible inheritance",
+      "finite division"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e856",
+        "jb2v19-d114974-d1e1230"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e909": {
+    "summary": "Confirms it: kingdoms should not be divided among sons, since the closest brothers become enemies, and had the French kings foreseen the outcome they would not have given Burgundy and Flanders even to their own sons, whose descendants ceased to be kin. The same holds less strongly for counties and other lordships, since divisions under one prince cause less ruin than dividing kingdoms.",
+    "claims": [
+      "Kingdoms should not be partitioned among heirs.",
+      "Apanages such as Burgundy and Flanders became sources of hostility to the French crown."
+    ],
+    "concepts": [
+      "partition of kingdoms",
+      "apanage",
+      "Burgundy",
+      "Flanders"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e880"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e935": {
+    "summary": "Adds that it is fitting for a family to have one trunk to which all branches can turn, since united power is stronger than dispersed. Then begins the objections: by natural law younger sons should be supported like the firstborn, and natural law gives the firstborn no greater share, so the goods should be divided equally.",
+    "claims": [
+      "A single principal house provides refuge and strength for the whole lineage."
+    ],
+    "concepts": [
+      "lineage",
+      "united strength",
+      "natural law",
+      "equal inheritance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e880",
+        "jb2v19-d114974-d1e975"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e959": {
+    "summary": "Second objection: it is unfitting that, of four or five sons of a count raised equally, the younger four must serve the firstborn, which is common in Britain under this law, so the law is unjust and no law.",
+    "claims": [],
+    "concepts": [
+      "servitude of younger sons",
+      "unjust law"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e1056"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e975": {
+    "summary": "Reply to the first objection: natural law requires provision for all children, but when one must receive the whole lordship it fittingly goes to the eldest, who is usually more prudent and longer loved, even if the youngest is loved more tenderly (Joseph and Benjamin). Before the law the firstborn received a double portion, which Jacob bought from Esau, and Jacob's departures from this were due to his sons' sins or prophetic foresight. Lesser nobles provide for younger sons with bought houses, fields or church benefices. To the point that houses survive on the Continent without strict primogeniture, he answers that little goes to younger children in France and the weight of German duchies stays with the firstborn. Fragmentation does not follow, because princes have few children and in Britain dowries bring land, so marriage adds as much as partition removes.",
+    "claims": [
+      "Natural law requires provision for all children but not equal shares.",
+      "When the patrimony must go to one, the eldest is the fitting heir.",
+      "Even outside Britain the substance of noble patrimonies passes to the firstborn.",
+      "Land gained by marriage offsets partition among brothers."
+    ],
+    "concepts": [
+      "primogeniture",
+      "natural law",
+      "birthright",
+      "dowry",
+      "Jacob and Esau",
+      "continental inheritance practice"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e935"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e1056": {
+    "summary": "Reply to the second objection: the service younger brothers render the eldest is honorable, and prudent younger sons are esteemed almost equally with him. Daughters are well provided for with money, since money commands all and a rich merchant can win a noble heir in Britain with a dowry.",
+    "claims": [
+      "Younger brothers' service to the eldest is honorable.",
+      "Daughters are adequately provided for by monetary dowries."
+    ],
+    "concepts": [
+      "younger sons",
+      "daughters",
+      "dowry",
+      "honor"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e959"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e1077": {
+    "summary": "Third and fourth objections: if the firstborn is imprudent the whole house collapses through one man's prodigality, whereas with division others would preserve their shares. And enlarging houses without limit makes them insolent, prone to faction and oppressive of others.",
+    "claims": [],
+    "concepts": [
+      "prodigality",
+      "overmighty nobles",
+      "faction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e880",
+        "jb2v19-d114974-d1e1103",
+        "jb2v19-d114974-d1e1108"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e1103": {
+    "summary": "Reply to the third objection: this sometimes happens, but laws are made for what commonly happens.",
+    "claims": [
+      "Laws are made for what commonly happens, not for exceptions."
+    ],
+    "concepts": [
+      "generality of law"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e1077"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e1108": {
+    "summary": "Reply to the fourth: many positive human laws are reasonable and so are their opposites, such as attaching lordship to the family name or excluding daughters, which bars them from acquiring lordship without taking away what they have. Following Aristotle's Politics, less reasonable laws should not be changed for more plausible ones, or laws would be uprooted by every wind, as Lycurgus had his bones cast into the sea to secure his laws. This holds only for laws not wholly unreasonable, a judgment reserved to the wise.",
+    "claims": [
+      "Many positive laws and their opposites are equally reasonable.",
+      "Established laws should not be changed merely for more plausible alternatives, unless wholly unreasonable.",
+      "Excluding daughters from succession is a reasonable positive law."
+    ],
+    "concepts": [
+      "positive law",
+      "stability of law",
+      "Lycurgus",
+      "female exclusion",
+      "Aristotle's Politics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e1077"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e1139": {
+    "summary": "Fifth objection: many kings have made two or three of their sons kings and been praised for it, as countless histories show.",
+    "claims": [],
+    "concepts": [
+      "partition of kingdoms"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e909",
+        "jb2v19-d114974-d1e1152"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e1152": {
+    "summary": "Reply: whoever praised it, Mair does not, since experience has shown a thousand times that it ruins the commonwealth. Second sons should not receive large lordships on the realm's borders but should be educated in letters so that they become worthy of bishoprics, or receive modest lordships near the center, where they can easily be subdued if they rebel.",
+    "claims": [
+      "Dividing a kingdom among sons is harmful and not praiseworthy.",
+      "Younger royal sons should receive education for the Church or modest central lordships, not frontier domains."
+    ],
+    "concepts": [
+      "partition of kingdoms",
+      "younger sons",
+      "apanage",
+      "ecclesiastical careers"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e1139"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e1170": {
+    "summary": "Proves the second conclusion: natural law requires that children be provided for by those who brought them into being, as second causes owe sustenance to the being they gave. Laboring like the poor is beneath civil status, so parents should provide money or life usufructs. As a corollary the firstborn must share movable goods with his siblings whether or not the parents' will says so, and it is shameful that some heirs, from blind avarice, keep the money left to their brothers, though Mair knows many who act toward their brothers as a father would.",
+    "claims": [
+      "By natural law parents must provide for all their children according to their means.",
+      "The firstborn must share movable goods with his siblings even without testamentary provision.",
+      "An heir who withholds his siblings' share acts wrongly."
+    ],
+    "concepts": [
+      "natural law",
+      "parental obligation",
+      "movable goods",
+      "usufruct",
+      "avarice"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e863"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e1223": {
+    "summary": "Proves the third conclusion: the firstborn holds all the goods that should be shared with the children, so if he keeps all he acts unjustly and is bound to restitution.",
+    "claims": [
+      "An heir who keeps all the family goods acts unjustly and is bound to restitution."
+    ],
+    "concepts": [
+      "restitution",
+      "justice among siblings"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e872"
+      ]
+    }
+  },
+  "jb2v19-d114974-d1e1230": {
+    "summary": "Proves the fourth conclusion: the reasons for the first do not apply to commoners. Among them primogeniture would not quickly produce order under one head, since every daughter's line becomes an independent head and descent is soon forgotten, whereas noble lineages are remembered in national and family annals.",
+    "claims": [
+      "The reasons favoring primogeniture do not hold for commoners, whose lineages are not preserved."
+    ],
+    "concepts": [
+      "primogeniture",
+      "commoners",
+      "family memory",
+      "annals"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d114974",
+        "jb2v19-d114974-d1e880"
+      ]
+    }
+  },
+  "jb2v19-d114974": {
+    "summary": "Mair asks whether the king is lord of everything in his kingdom and answers no. Subjects truly own their goods, as shown by their free alienation, by occupation and other legal titles, by confiscation, and by kings' purchases of land like Ahab's attempt on Naboth's vineyard. Against objections from God's universal dominion, the 'right of the king' in 1 Samuel 8, unlimited taxation and the Roman emperor as 'lord of the world', he distinguishes the king's regitive (governing) dominion over all things from proprietary ownership. The king may take subjects' goods only in public necessity, proportionally and for the common good. He may not impose burdens beyond the laws of the realm, cannot alienate the kingdom, and exists for the people. A first doubt rejects Paul of Burgos's and Matthias Döring's readings of Israel's request for a king: Israel sinned in rejecting God's direct rule but not in remaining under the monarchy God then granted. A second doubt defends noble primogeniture in Britain as preserving great houses and preventing the partition of kingdoms. It requires parents and heirs, under pain of sin, to provide for younger children, and holds the custom less fitting among commoners.",
+    "claims": [
+      "The king is not the proprietary owner of all things in his kingdom.",
+      "The king has governing dominion over the realm and may take subjects' goods only in public necessity and proportionally.",
+      "Royal impositions are limited by the laws of the realm and the good of the people.",
+      "Israel sinned in asking for a king but not in persisting under the kingship God granted.",
+      "Noble primogeniture is just, but parents and heirs must provide for younger children."
+    ],
+    "concepts": [
+      "dominium",
+      "dominium regitivum",
+      "property rights",
+      "necessity",
+      "limits of royal power",
+      "Israel's request for a king",
+      "primogeniture",
+      "natural law",
+      "positive law"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jb2v19-d114974-d1e106",
+        "jb2v19-d114974-d1e115",
+        "jb2v19-d114974-d1e135",
+        "jb2v19-d114974-d1e167",
+        "jb2v19-d114974-d1e178",
+        "jb2v19-d114974-d1e196",
+        "jb2v19-d114974-d1e220",
+        "jb2v19-d114974-d1e242",
+        "jb2v19-d114974-d1e316",
+        "jb2v19-d114974-d1e339",
+        "jb2v19-d114974-d1e350",
+        "jb2v19-d114974-d1e405",
+        "jb2v19-d114974-d1e418",
+        "jb2v19-d114974-d1e429",
+        "jb2v19-d114974-d1e440",
+        "jb2v19-d114974-d1e459",
+        "jb2v19-d114974-d1e503",
+        "jb2v19-d114974-d1e555",
+        "jb2v19-d114974-d1e571",
+        "jb2v19-d114974-d1e678",
+        "jb2v19-d114974-d1e730",
+        "jb2v19-d114974-d1e747",
+        "jb2v19-d114974-d1e838",
+        "jb2v19-d114974-d1e854",
+        "jb2v19-d114974-d1e856",
+        "jb2v19-d114974-d1e863",
+        "jb2v19-d114974-d1e872",
+        "jb2v19-d114974-d1e880",
+        "jb2v19-d114974-d1e909",
+        "jb2v19-d114974-d1e935",
+        "jb2v19-d114974-d1e959",
+        "jb2v19-d114974-d1e975",
+        "jb2v19-d114974-d1e1056",
+        "jb2v19-d114974-d1e1077",
+        "jb2v19-d114974-d1e1103",
+        "jb2v19-d114974-d1e1108",
+        "jb2v19-d114974-d1e1139",
+        "jb2v19-d114974-d1e1152",
+        "jb2v19-d114974-d1e1170",
+        "jb2v19-d114974-d1e1223",
+        "jb2v19-d114974-d1e1230"
+      ]
+    }
+  }
+}

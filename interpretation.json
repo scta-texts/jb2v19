@@ -1,0 +1,100 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-05T10:29:08Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-ancestors-v1",
+    "source_commit": "9763790",
+    "generation_method": "hierarchical",
+    "scope": "Ancestors of interpreted items only: Distinctio 44 (jb2v19-daa2440, 7 of 7 items), with a partial entry for the whole work (1 of 44 distinctions). The EDF has no level between the distinctions and the work. Other distinctions have no interpreted children and are omitted.",
+    "source_structure": "~/Projects/scta/scta-projectfiles/jb2v19.xml"
+  },
+  "jb2v19-daa2440": {
+    "summary": "Distinction 44, the last of Book II, takes its cue from the Master's treatment of whether the power to sin comes from God and whether one should resist authority, and Mair turns it into a sustained treatise on power, obedience and dominion in seven questions. The first question holds that both the power of sinning and the evil act are from God, defending this against William of Auxerre's logical objections, and denies that sin diminishes the soul's natural good. The second establishes that political hierarchy is rational and that inferiors are bound in conscience to obey spiritual and temporal superiors within the limits of divine law. It adds a theory of just taxation bounded by the common good and Augustine's rule that the higher jurisdiction prevails in conflicts of command. The third and fourth apply this to relations with non-Christians. Christian princes may reconquer lands seized from Christians and, by the Church's authority, take even lands justly held by infidels who work against the faith, which Mair uses to justify the Spanish conquest in the Atlantic, partly by appeal to Aristotelian natural slavery. Adult Jews may not be forced to the faith, but children held as slaves or captured in war may be baptized against their parents' will, while peaceable Jews under Christian rule are to be tolerated and their children left with them. The fifth ranks regimes after Aristotle, judging monarchy best and hereditary succession better than election. It develops a counseled monarchy in which the king is bound in conscience to heed wise counsel yet remains above it, and treats the Church as a royal polity. The sixth denies that the king owns everything in his realm, distinguishing his governing dominion from his subjects' property, which he may take only in public necessity and proportionally. Its doubts argue that Israel sinned in asking for a king but not in remaining under one, and defend noble primogeniture while requiring provision for younger children. The seventh rejects FitzRalph's thesis that mortal sin forfeits dominion as the condemned error of Wyclif and Hus. It closes Book II with a defense of service and legal slavery under the law of nations, together with praise for the absence of slavery in France and Britain.",
+    "claims": [
+      "The power of sinning and the evil act are from God, though God does not cause sin as sin.",
+      "Political hierarchy is rational, and inferiors are bound in conscience to obey legitimate superiors within the limits of divine law.",
+      "Taxation is just only as required by the common good and must cease with its cause.",
+      "Christian princes may make war on infidels to recover Christian lands and, by ecclesiastical authority, to take lands of infidels hostile to the faith.",
+      "Adult Jews may not be compelled to the faith, but infidels' children held as slaves or captured in war may be baptized against their parents' will.",
+      "Monarchy is the best regime, and hereditary succession is preferable to election.",
+      "The king has governing dominion over the realm but not ownership of his subjects' goods.",
+      "Mortal sin does not deprive anyone of dominion or office.",
+      "Legal slavery is permissible under the law of nations, though liberty is to be favored."
+    ],
+    "concepts": [
+      "divine causality of sin",
+      "obedience",
+      "political authority",
+      "just taxation",
+      "just war",
+      "infidel dominion",
+      "forced conversion",
+      "infant baptism",
+      "toleration of Jews",
+      "monarchy",
+      "hereditary succession",
+      "counsel",
+      "dominium regitivum",
+      "property rights",
+      "primogeniture",
+      "dominion founded on grace",
+      "slavery",
+      "natural law",
+      "ius gentium",
+      "common good"
+    ],
+    "_metadata": {
+      "level": "distinctio",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jb2v19-d110933",
+        "jb2v19-d111299",
+        "jb2v19-d111866",
+        "jb2v19-d112347",
+        "jb2v19-d113624",
+        "jb2v19-d114974",
+        "jb2v19-d116126"
+      ],
+      "partial": false,
+      "coverage": "7 of 7 direct children have interpretations",
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-ancestors-v1",
+      "generated_at": "2026-10-05T10:29:08Z",
+      "source_commit": "9763790",
+      "source_structure": "~/Projects/scta/scta-projectfiles/jb2v19.xml"
+    }
+  },
+  "jb2v19": {
+    "summary": "This entry rests on only one of the 44 distinctions of Mair's commentary on Book II of the Sentences (Redactio B, Paris 1519), Distinction 44, the final one, and so does not describe the work as a whole. In that closing distinction Mair uses the Master's brief remarks on the origin of the power to sin and on resisting authority as the occasion for a treatise on political and theological questions. These include the divine causality of sin, the obligation of obedience and limits on taxation, war against infidels and the conquest of the Americas, and the baptism of Jewish and Muslim children together with the toleration of Jews. They also include the ranking of regimes and the superiority of hereditary monarchy, the king's governing rather than proprietary dominion, the rejection of FitzRalph's and Wyclif's dominion founded on grace, primogeniture, and slavery. The remaining 43 distinctions have no interpretations yet, so nothing is said here about the commentary's treatment of creation, angels, the six days, human nature, grace, free will, original sin, or sin in general.",
+    "claims": [
+      "(Distinction 44) Legitimate political and ecclesiastical authority binds in conscience within the limits of divine law and the common good.",
+      "(Distinction 44) Monarchy, especially hereditary and counseled monarchy, is the best regime.",
+      "(Distinction 44) Dominion and office do not depend on the holder's state of grace."
+    ],
+    "concepts": [
+      "political authority",
+      "obedience",
+      "monarchy",
+      "dominion",
+      "just war",
+      "toleration of Jews",
+      "slavery",
+      "divine causality of sin"
+    ],
+    "_metadata": {
+      "level": "work",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jb2v19-daa2440"
+      ],
+      "partial": true,
+      "coverage": "1 of 44 direct children have interpretations",
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-ancestors-v1",
+      "generated_at": "2026-10-05T10:29:08Z",
+      "source_commit": "9763790",
+      "source_structure": "~/Projects/scta/scta-projectfiles/jb2v19.xml"
+    }
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-05T10:23:48Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "9763790",
+    "generation_method": "hierarchical",
+    "source_file": "cod-uhs8uk_jb2v19-d111866.xml"
+  },
+  "jb2v19-d111866-d1e106": {
+    "summary": "Poses the question whether Christian princes may lawfully make war on Saracens, Tartars and other gentiles. Mair distinguishes infidels who hold formerly Christian lands by seizure (the Mamluk sultan in Syria, Egypt and the Holy Land; the Ottoman Turk in Turkey and Greece) from those holding lands by titles a pagan philosopher would call just. The latter either permit Christian preaching or resist the planting of the faith.",
+    "claims": [],
+    "concepts": [
+      "just war",
+      "infidel dominion",
+      "Mamluks",
+      "Ottomans",
+      "title to territory"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111866",
+        "jb2v19-d111866-d1e150",
+        "jb2v19-d111866-d1e180"
+      ]
+    }
+  },
+  "jb2v19-d111866-d1e150": {
+    "summary": "First conclusion: Christian princes may lawfully take back the lands the Saracens hold from Christians, since the Saracens hold another's property against the owner's will and there is no superior to enforce restitution, so war is permitted.",
+    "claims": [
+      "Christian princes may lawfully reconquer lands the Saracens took from Christians."
+    ],
+    "concepts": [
+      "just war",
+      "restitution",
+      "absence of a superior judge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111866",
+        "jb2v19-d111866-d1e106"
+      ]
+    }
+  },
+  "jb2v19-d111866-d1e163": {
+    "summary": "Confirms the first conclusion by excluding prescription: a possessor in bad faith never prescribes, and a vincibly erroneous belief in one's just title is not enough.",
+    "claims": [
+      "A possessor in bad faith acquires no title by prescription however long the possession.",
+      "Vincible error about one's title does not establish good faith."
+    ],
+    "concepts": [
+      "praescriptio",
+      "mala fides",
+      "vincible error"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111866",
+        "jb2v19-d111866-d1e150"
+      ]
+    }
+  },
+  "jb2v19-d111866-d1e180": {
+    "summary": "Second conclusion: by the Church's authority, Christian princes may take any lands held by Saracens or gentiles, even when these are held by true succession, popular consent or any other just pagan title.",
+    "claims": [
+      "By the Church's authority Christian princes may seize infidel lands even when held by just gentile title."
+    ],
+    "concepts": [
+      "ecclesiastical authority",
+      "infidel dominion",
+      "just title"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111866",
+        "jb2v19-d111866-d1e106",
+        "jb2v19-d111866-d1e193"
+      ]
+    }
+  },
+  "jb2v19-d111866-d1e193": {
+    "summary": "Proves the second conclusion: an inferior lord who tries to separate subjects from the superior who is the source of all his authority deserves to lose his lordship, as in lèse-majesté and heresy. All infidels work to draw people away from Christ, from whom all power comes (Romans 13; the previous question), as the Saracens in Africa and Asia and the Tartars raiding Livonia and Ruthenia show.",
+    "claims": [
+      "A vassal who works to draw people from the overlord who is the source of his authority justly forfeits his lordship.",
+      "All power derives from Christ, and infidels strive to draw people from him."
+    ],
+    "concepts": [
+      "dominion from Christ",
+      "forfeiture",
+      "lèse-majesté",
+      "heresy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111866",
+        "jb2v19-d111866-d1e180",
+        "jb2v19-d111866-d1e106"
+      ]
+    }
+  },
+  "jb2v19-d111866-d1e228": {
+    "summary": "Confirms the argument by precedent: after losing their eastern lands, the Teutonic Knights were granted the right to conquer Livonia from gentiles attacking Christians.",
+    "claims": [
+      "The Teutonic conquest of Livonia is an instance of lawful conquest of gentile lands."
+    ],
+    "concepts": [
+      "Teutonic Order",
+      "precedent",
+      "crusade"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111866",
+        "jb2v19-d111866-d1e193"
+      ]
+    }
+  },
+  "jb2v19-d111866-d1e237": {
+    "summary": "Adds further arguments: under imperial law lèse-majesté forfeits property, and the infidels commit it against Christ by blasphemy, enslavement and slaughter (atrocities at Constantinople and Acre). Heretics lose dominion by heresy according to the decretal Vergentis. Christian princes are also responsible for promoting and increasing divine worship, which is best done by taking infidel lands and placing them under Christians.",
+    "claims": [
+      "Infidel hostility to Christ amounts to lèse-majesté and warrants forfeiture.",
+      "Christian princes have a duty to extend divine worship, which justifies conquest of infidel lands."
+    ],
+    "concepts": [
+      "crimen laesae maiestatis",
+      "forfeiture",
+      "propagation of the faith",
+      "heresy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111866",
+        "jb2v19-d111866-d1e193"
+      ]
+    }
+  },
+  "jb2v19-d111866-d1e270": {
+    "summary": "Third conclusion: by the same law the Church can grant to one prince lands that once belonged to another prince and are now held by Saracens, when that other prince cannot recover them.",
+    "claims": [
+      "The Church can transfer the right to recover lost Christian lands from a prince who cannot recover them to one who can."
+    ],
+    "concepts": [
+      "ecclesiastical transfer of dominion",
+      "reconquest"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111866",
+        "jb2v19-d111866-d1e106",
+        "jb2v19-d111866-d1e279"
+      ]
+    }
+  },
+  "jb2v19-d111866-d1e279": {
+    "summary": "Proves the third conclusion. Constantinople and Trebizond, once held by the Greek emperors, are effectively abandoned because their heirs cannot recover them. Reason requires that they be in Christian hands, so the heirs ought reasonably to consent to their grant to another prince, and the Church may grant them even without that consent, especially given the costs in money and lives a reconquering prince bears. Godfrey of Bouillon's election as king of Jerusalem, despite earlier Christian rulers, confirms this.",
+    "claims": [
+      "Lands that rightful heirs cannot recover are effectively abandoned and may be granted to another Christian prince.",
+      "The heirs ought reasonably to consent to such a transfer."
+    ],
+    "concepts": [
+      "derelictio",
+      "reasonable will",
+      "Godfrey of Bouillon",
+      "costs of war"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111866",
+        "jb2v19-d111866-d1e270"
+      ]
+    }
+  },
+  "jb2v19-d111866-d1e326": {
+    "summary": "Grounds the third conclusion in the human-law origin of distinct dominions (Gratian d.8), which lets the Church transfer dominion for a reasonable cause, though not the realms of Christian princes at will, except to depose a heretical king. Mair sets aside infidels who allow free preaching as practically nonexistent, then takes up the Spanish conquest in the Atlantic. Because preachers could not be safely admitted without force and great expense, the Spaniards could lawfully take the land and erect fortresses. A native king who does not convert, or whose people's continued loyalty signals insincere conversion, may be deposed, but one who converts and pays the costs need not be. Further, peoples living bestially near the equator and poles are natural slaves by Aristotle's Politics I, so the first occupier rules them justly.",
+    "claims": [
+      "Distinction of dominions is of human law, so the Church may transfer it for reasonable cause.",
+      "The Church may not transfer Christian kingdoms at will, but a heretical king should be deposed.",
+      "The Spanish conquest of Atlantic peoples was lawful as a necessary means of planting the faith.",
+      "A converted native king who pays the costs need not be deposed.",
+      "Peoples living bestially are natural slaves, and the first to occupy them rules them justly."
+    ],
+    "concepts": [
+      "dominium as human law",
+      "conquest of the Americas",
+      "propagation of the faith",
+      "deposition of rulers",
+      "natural slavery"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111866",
+        "jb2v19-d111866-d1e270",
+        "jb2v19-d111866-d1e279",
+        "jb2v19-d111866-d1e180"
+      ]
+    }
+  },
+  "jb2v19-d111866-d1e446": {
+    "summary": "Objection to the first conclusion: it implies that those holding the lands continually sin by holding another's property.",
+    "claims": [],
+    "concepts": [
+      "continuous sin",
+      "detention of another's property"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111866",
+        "jb2v19-d111866-d1e150",
+        "jb2v19-d111866-d1e462"
+      ]
+    }
+  },
+  "jb2v19-d111866-d1e453": {
+    "summary": "Objection to the second conclusion: by parity it would follow that those holding lands by true succession also sin, since the lands would not be theirs.",
+    "claims": [],
+    "concepts": [
+      "just title",
+      "succession"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111866",
+        "jb2v19-d111866-d1e180",
+        "jb2v19-d111866-d1e475"
+      ]
+    }
+  },
+  "jb2v19-d111866-d1e462": {
+    "summary": "Reply to the first objection: holders do not sin at times when they are asleep or not thinking of restitution and are not obliged to think of it. Yet they remain constantly in a state of sin, and indeed of infidelity and blasphemy, and are bound to will effectively to restore what was taken.",
+    "claims": [
+      "Not every moment of unjust possession is an actual sin, though the possessor remains in a state of sin.",
+      "Unjust possessors are bound to will effective restitution."
+    ],
+    "concepts": [
+      "actual sin versus state of sin",
+      "restitution"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111866",
+        "jb2v19-d111866-d1e446"
+      ]
+    }
+  },
+  "jb2v19-d111866-d1e475": {
+    "summary": "Reply to the second objection: those holding by just gentile title are always in sin, but not because of holding the lands. The lands may still be justly taken, just as a heretic uses his goods until they are confiscated (as in Book I).",
+    "claims": [
+      "Those holding by just gentile title do not sin by holding the lands, though the lands may justly be taken from them."
+    ],
+    "concepts": [
+      "just title",
+      "confiscation",
+      "heresy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111866",
+        "jb2v19-d111866-d1e453"
+      ]
+    }
+  },
+  "jb2v19-d111866-d1e495": {
+    "summary": "Objection to the third conclusion: it would deprive someone of his lands without fault, as when the legitimate Byzantine heir, who hopes to recover Constantinople, would lose it if the king of Hungary took it.",
+    "claims": [],
+    "concepts": [
+      "deprivation without fault",
+      "Byzantine succession"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111866",
+        "jb2v19-d111866-d1e270",
+        "jb2v19-d111866-d1e518"
+      ]
+    }
+  },
+  "jb2v19-d111866-d1e518": {
+    "summary": "A further objection: on this view a prince other than the Castilian could have taken Granada in the last thirty years. Mair then answers the Constantinople objection. He concedes that someone may be justly deprived without fault, though not without cause, as the son of a heretic or traitor is. The heir ought to prefer Hungarian to Ottoman rule, since he cannot defend the lands and they would otherwise be lost to Christendom, and his hope of recovery is vain where the wise judge it so.",
+    "claims": [
+      "A person may be justly deprived of lands without personal fault, provided there is cause.",
+      "An heir unable to defend his lands ought to prefer that a Christian prince rather than the Ottoman hold them."
+    ],
+    "concepts": [
+      "deprivation without fault",
+      "common good of Christendom",
+      "Granada"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111866",
+        "jb2v19-d111866-d1e495",
+        "jb2v19-d111866-d1e279"
+      ]
+    }
+  },
+  "jb2v19-d111866-d1e555": {
+    "summary": "Reply to the Granada objection: after the Moors were expelled from the rest of Spain, it was always likely that Castile would take Granada, so no other king should have intervened, which would put a sickle into another's harvest and sow discord among Christian princes. Castile and Portugal's division of African coasts avoided exactly this. The third conclusion assumes the opposite case.",
+    "claims": [
+      "A Christian prince must not seize lands that another Christian prince is likely to recover.",
+      "Avoiding conflict among Christian princes limits the right of conquest."
+    ],
+    "concepts": [
+      "Granada",
+      "Reconquista",
+      "peace among Christian princes",
+      "Castile and Portugal"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111866",
+        "jb2v19-d111866-d1e518",
+        "jb2v19-d111866-d1e270"
+      ]
+    }
+  },
+  "jb2v19-d111866": {
+    "summary": "Mair asks whether Christian princes may lawfully make war on Saracens, Tartars and other gentiles, and he distinguishes infidels holding seized Christian lands from those holding by just pagan title. Three conclusions follow. Lands seized from Christians may be reconquered, since bad-faith possession never prescribes. By the Church's authority even lands held by just gentile title may be taken, because all power comes from Christ and infidels who work to draw people from him forfeit dominion as for lèse-majesté. The Church may also grant lost Christian lands such as Constantinople to a prince able to recover them. Grounding this in the human-law origin of dominion, he applies it to the Spanish conquest in the Atlantic. He justifies it as a necessary means of planting the faith, allows the deposition of unconverted native kings, and invokes Aristotle's natural slavery. In answering objections he distinguishes actual sin from the state of sin in unjust possession and concedes that one may be deprived without fault but not without cause. Concern for peace among Christian princes, as in Castile's claim to Granada, limits the right of conquest.",
+    "claims": [
+      "Christian princes may lawfully reconquer lands seized from Christians.",
+      "By ecclesiastical authority Christian princes may take infidel lands even when held by just pagan title.",
+      "The Church may transfer the right to recover lost Christian lands to a capable prince.",
+      "The Spanish conquest of Atlantic peoples is justified as a means of propagating the faith and by natural slavery.",
+      "Conquest is limited by the claims of other Christian princes and the need for peace among them."
+    ],
+    "concepts": [
+      "just war",
+      "infidel dominion",
+      "ecclesiastical authority",
+      "propagation of the faith",
+      "conquest of the Americas",
+      "natural slavery",
+      "prescription",
+      "forfeiture"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jb2v19-d111866-d1e106",
+        "jb2v19-d111866-d1e150",
+        "jb2v19-d111866-d1e163",
+        "jb2v19-d111866-d1e180",
+        "jb2v19-d111866-d1e193",
+        "jb2v19-d111866-d1e228",
+        "jb2v19-d111866-d1e237",
+        "jb2v19-d111866-d1e270",
+        "jb2v19-d111866-d1e279",
+        "jb2v19-d111866-d1e326",
+        "jb2v19-d111866-d1e446",
+        "jb2v19-d111866-d1e453",
+        "jb2v19-d111866-d1e462",
+        "jb2v19-d111866-d1e475",
+        "jb2v19-d111866-d1e495",
+        "jb2v19-d111866-d1e518",
+        "jb2v19-d111866-d1e555"
+      ]
+    }
+  }
+}

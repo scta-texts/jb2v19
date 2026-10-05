@@ -1,0 +1,731 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-05T10:26:16Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "9763790",
+    "generation_method": "hierarchical",
+    "source_file": "cod-uhs8uk_jb2v19-d113624.xml"
+  },
+  "jb2v19-d113624-d1e106": {
+    "summary": "Poses the fifth question of the distinction, the fourth and last on this matter: whether hereditary kingship is better than elective kingship, and whether kingship surpasses aristocracy and timocracy. Following Aristotle (Ethics VIII.10), Mair distinguishes three correct regimes, kingship, aristocracy (rule of a few good men, like the Roman 'good men') and timocracy (rule of the many for the common good), from their corruptions, tyranny, oligarchy and democracy, by whether rulers seek the common good or their own. He notes that regimes are often mixed, citing Argyropoulos's terminology.",
+    "claims": [
+      "Correct regimes aim at the common good; their corruptions aim at the rulers' own good.",
+      "The three correct regimes are kingship, aristocracy and timocracy; their corruptions are tyranny, oligarchy and democracy."
+    ],
+    "concepts": [
+      "politia",
+      "monarchy",
+      "aristocracy",
+      "timocracy",
+      "tyranny",
+      "oligarchy",
+      "democracy",
+      "mixed regime",
+      "common good"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e208"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e208": {
+    "summary": "First conclusion: kingship is better than aristocracy and timocracy.",
+    "claims": [
+      "Royal government is better than aristocracy and timocracy."
+    ],
+    "concepts": [
+      "monarchy",
+      "best regime"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e244"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e213": {
+    "summary": "Second conclusion: aristocracy surpasses timocracy, and the next conclusion follows from these two.",
+    "claims": [
+      "Aristocracy is better than timocracy."
+    ],
+    "concepts": [
+      "aristocracy",
+      "timocracy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e454"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e223": {
+    "summary": "Third conclusion, a corollary: monarchy in a kingdom surpasses timocracy.",
+    "claims": [
+      "Monarchy surpasses timocracy."
+    ],
+    "concepts": [
+      "monarchy",
+      "timocracy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e519"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e228": {
+    "summary": "Fourth conclusion: it is more advantageous to have a king by hereditary succession than by election.",
+    "claims": [
+      "Hereditary kingship is more advantageous than elective kingship."
+    ],
+    "concepts": [
+      "hereditary succession",
+      "elective monarchy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e535"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e235": {
+    "summary": "Fifth conclusion: among the corrupt regimes the order is reversed, so democracy (the corruption of popular rule) is least bad and tyranny is worst.",
+    "claims": [
+      "Among corrupt regimes democracy is least bad and tyranny is worst."
+    ],
+    "concepts": [
+      "tyranny",
+      "democracy",
+      "corruption of regimes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e729"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e244": {
+    "summary": "Proves the first conclusion by analogies of unity: one God rules the universe ('plurality of principles is bad', Metaphysics XII), the spheres are moved by the first mobile, the heart governs the body, and one bee rules the hive (Aristotle, Virgil). So one monarch should rule a kingdom.",
+    "claims": [
+      "As there is one ruling principle in the cosmos, body and hive, so there should be one monarch in a kingdom."
+    ],
+    "concepts": [
+      "unity of rule",
+      "cosmic analogy",
+      "organic analogy",
+      "monarchy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e208"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e268": {
+    "summary": "Confirms it: peace most increases a commonwealth and war most weakens it (Sallust: 'concord makes small things grow, discord destroys great ones'), and peace is best kept under one ruler, as divided command ruins armies, with plenty of recent examples.",
+    "claims": [
+      "Peace, the greatest good of a commonwealth, is best preserved under a single ruler."
+    ],
+    "concepts": [
+      "peace",
+      "concord",
+      "unity of command"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e244"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e292": {
+    "summary": "Further arguments for monarchy. History shows royal regimes to be more durable, stable and expansive, and what nearly all peoples in all times have adopted is more reliable. Aristocracy breeds dissension (Alexander to Darius: neither heaven nor kingdom can have two suns or two kings), and mixed regimes like Rome's divide nobles from commons, whichever side the judges favor. To the reply that a king, being noblest, would favor nobles, Mair answers from Roman and Genoese strife and recent French experience: a good king treats all as his children, takes taxes from commoners and service from nobles, and is a 'neutral person' and a demigod (Aristotle) who looks on both orders, which no multitude can do.",
+    "claims": [
+      "Royal regimes have historically been more durable, stable and expansive.",
+      "Aristocratic and mixed regimes inevitably breed dissension between nobles and commons.",
+      "A good king stands above the orders like a father and so can do justice to nobles and commons alike."
+    ],
+    "concepts": [
+      "monarchy",
+      "stability",
+      "dissension",
+      "paternal rule",
+      "mixed regime",
+      "Roman history"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e208",
+        "jb2v19-d113624-d1e268"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e454": {
+    "summary": "Proves the second conclusion: the regime closest to the best is better, and aristocracy, being rule by few, is closer to monarchy than timocracy, which also causes more ruin. Nothing is worse than rule by an unruly commons. Mair, himself of humble birth, says he is not moved by partiality. Nobles are better educated and spurred by their ancestors' example (Politics III), and France suffered most from the unbridled populace in the crisis after King John's capture: Étienne Marcel's murder of the marshals and the Jacquerie under Guillaume Cale, which only the nobles suppressed.",
+    "claims": [
+      "Aristocracy is better than timocracy because it is closer to monarchy and causes less disorder.",
+      "Rule by an unruly commons is the worst plague of a polity.",
+      "Nobles are generally better educated and spurred to virtue by their lineage."
+    ],
+    "concepts": [
+      "aristocracy",
+      "popular rule",
+      "nobility",
+      "Jacquerie",
+      "Étienne Marcel",
+      "French history"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e213"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e519": {
+    "summary": "Proves the third conclusion by transitivity: whatever is better than the better is better than the less good, so since monarchy surpasses aristocracy and aristocracy surpasses timocracy, monarchy far surpasses timocracy.",
+    "claims": [
+      "Since monarchy surpasses aristocracy and aristocracy surpasses timocracy, monarchy surpasses timocracy."
+    ],
+    "concepts": [
+      "transitivity",
+      "ranking of regimes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e223",
+        "jb2v19-d113624-d1e208",
+        "jb2v19-d113624-d1e213"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e535": {
+    "summary": "Begins proving the fourth conclusion: the chief end of earthly polity is concord and prosperity, which hereditary succession fosters. Elective kingship would set nobles and factions at arms (like the Orsini and Colonna), whereas under succession everyone knows who the heir is. Interregna would also bring lawlessness and prolonged schism.",
+    "claims": [
+      "Hereditary succession best preserves concord, the chief end of earthly polity.",
+      "Elective monarchy breeds factional conflict and dangerous interregna."
+    ],
+    "concepts": [
+      "hereditary succession",
+      "concord",
+      "faction",
+      "interregnum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e228"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e577": {
+    "summary": "Third argument: a man suddenly exalted bears good fortune badly, whereas an heir knows his destiny from the age of reason and is not made insolent by the crown.",
+    "claims": [
+      "A hereditary heir, raised for the crown, is less likely to become insolent than a suddenly elected king."
+    ],
+    "concepts": [
+      "hereditary succession",
+      "character formation",
+      "insolence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e535"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e593": {
+    "summary": "Fourth argument: if a member of one of two equal houses is elected, the other house obeys grudgingly, and the new king's old familiarity breeds contempt or indignation, which produces schism.",
+    "claims": [
+      "Electing a king from among equals breeds envy and contempt that lead to schism."
+    ],
+    "concepts": [
+      "elective monarchy",
+      "rivalry",
+      "schism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e535"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e606": {
+    "summary": "Fifth argument: if two houses have an inveterate feud, a king elected from one will oppress or destroy the other. If counselors chosen from the whole commonwealth are given to restrain him, the regime becomes timocratic or aristocratic rather than royal, a descent to a lesser good.",
+    "claims": [
+      "An elected king from a feuding house will oppress the rival house.",
+      "Restraining an elected king by counselors chosen from the commonwealth turns monarchy into a lesser regime."
+    ],
+    "concepts": [
+      "elective monarchy",
+      "feud",
+      "constitutional limitation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e535",
+        "jb2v19-d113624-d1e593"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e631": {
+    "summary": "Sixth argument: designated heirs are well educated in morals and honored by the magnates from youth, set apart like the gentiles' demigods, and are obeyed far more readily than former equals.",
+    "claims": [
+      "Designated heirs are better educated and more readily obeyed than elected former equals."
+    ],
+    "concepts": [
+      "education of princes",
+      "obedience",
+      "hereditary succession"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e535"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e644": {
+    "summary": "Seventh argument: peoples love a dynasty that has long reigned more than a newly instituted king, as the Picards and Flemings cling to their prince and others pray for a wise king's health at every meal, which would not happen if houses kept changing.",
+    "claims": [
+      "Long dynastic rule fosters popular loyalty and affection."
+    ],
+    "concepts": [
+      "dynastic loyalty",
+      "affection for the prince",
+      "Flanders"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e535"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e666": {
+    "summary": "Eighth argument: this inherited affection breeds high hopes for a young prince, compared in advance to Alexander or Judas Maccabeus, and hatred of the king's enemies. An old man of Liège let himself be thrown into the river rather than cry 'Long live Burgundy'.",
+    "claims": [
+      "Hereditary loyalty produces strong attachment to the prince and enmity toward his foes."
+    ],
+    "concepts": [
+      "dynastic loyalty",
+      "Liège",
+      "Burgundy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e644"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e692": {
+    "summary": "Ninth argument: a king whose son would not succeed him would amass wealth by fair means or foul to enrich his children, neglecting the common good. When his children succeed, he regards the realm as theirs, since a father loves his son as another self more than the son loves him (Ethics VIII), as David rejoiced at God's promise of a lasting dynasty (2 Samuel 7).",
+    "claims": [
+      "A king whose children inherit has an incentive to preserve the commonwealth rather than plunder it.",
+      "Parents love their children as their own effects more than children love their parents."
+    ],
+    "concepts": [
+      "hereditary succession",
+      "common good",
+      "paternal love",
+      "Davidic covenant"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e535"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e729": {
+    "summary": "Proves the fifth conclusion from Aristotle: what is opposed to the best is the worst, and tyranny is opposed to kingship, and so on down the series. Politics V shows that all the evils of the other corrupt regimes, and more, occur in tyranny.",
+    "claims": [
+      "Tyranny, as opposed to the best regime, is the worst regime."
+    ],
+    "concepts": [
+      "tyranny",
+      "corruption of the best is the worst"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e235"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e745": {
+    "summary": "Objection to the first conclusion: Rome moved from kingship to aristocracy to improve the commonwealth after Tarquin's expulsion, the Roman empire flourished under the senate and declined under emperors, and Venice flourishes today under an aristocracy.",
+    "claims": [],
+    "concepts": [
+      "Roman Republic",
+      "Tarquin",
+      "Venice",
+      "aristocracy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e208",
+        "jb2v19-d113624-d1e777",
+        "jb2v19-d113624-d1e795"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e777": {
+    "summary": "Reply: Rome moved away from tyranny, not kingship, since Tarquin ruled arbitrarily. Moves from true kingship to other regimes are rare, and when they happen through factional rivalry they go from better to worse.",
+    "claims": [
+      "The Roman change after Tarquin was a departure from tyranny, not from true kingship.",
+      "Departures from true kingship are rare and are for the worse."
+    ],
+    "concepts": [
+      "tyranny",
+      "Tarquin",
+      "change of regime"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e745"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e795": {
+    "summary": "Reply to the confirmation: he grants the Republic acquired more empire than the emperors added, and praises its wisdom with 1 Maccabees 8. But that harmony was brief, and it was followed by the decemvirs ('ten tyrants for one'), Marius and Sulla, Catiline, Jugurtha's 'city for sale', and the civil war of Pompey and Caesar. Rome was largely timocratic in any case, and pure aristocracy is rare. Venice is small and weaker than many kings. City-republics such as Greece, Genoa and Florence fell into servitude and sedition, and the Swiss, Lübeck and the other Germans would do better under one prince so that united Christendom could drive the Ottomans from Europe (Sallust; Matthew 12). A divided Spain could not have achieved what it now does.",
+    "claims": [
+      "The Roman Republic's success was brief and followed by chronic civil strife.",
+      "City-republics without a king typically fall into sedition or servitude.",
+      "Christendom's division under many rulers weakens it against the unified Ottoman power.",
+      "Arguments should be drawn from what regularly happens, not rare cases."
+    ],
+    "concepts": [
+      "Roman Republic",
+      "Venice",
+      "city-republics",
+      "Christian unity",
+      "Ottoman threat",
+      "Sallust"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e745",
+        "jb2v19-d113624-d1e268"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e958": {
+    "summary": "Second objection, from Politics III, where Aristotle seems to prefer aristocracy, since many good men see and hear more than one, and says barbarians more readily accept kings than prudent Greeks. Reply: Aristotle argues only dialectically there, while firmly holding kingship best in Ethics VIII; his preference may reflect love of Greece, and the Greeks' disunity led to their subjugation; by 'barbarians' he means the savage. A king gains many eyes and ears through wise counselors (Louis XI's horse 'carrying the whole council'). Mair holds that a king is bound under pain of sin to heed wise counsel, yet the counselors are not above him. Nor does the possibility of deposing an incorrigible king make the regime aristocratic. The Church, royal by Christ's institution, has a pope above each member who makes and dispenses positive law, unlike an aristocratic head such as the Paris rector, an abbot, the Venetian doge or a consul, who is removable and bound by the majority. A king regularly dispenses and disposes of offices and war, though consulting the peers, estates or electors in the gravest matters.",
+    "claims": [
+      "Aristotle's apparent preference for aristocracy in Politics III is dialectical, not his settled view.",
+      "A king is bound under pain of sin to heed wise counsel, but this does not subordinate him to his counselors.",
+      "The deposability of an incorrigible king does not make the regime aristocratic.",
+      "The Church's polity, instituted by Christ, is royal and the best.",
+      "Royal rule differs from aristocratic presidency in perpetual authority to make and dispense positive law."
+    ],
+    "concepts": [
+      "counsel",
+      "limited monarchy",
+      "deposition",
+      "papal monarchy",
+      "conciliarism",
+      "positive law",
+      "Aristotle's Politics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e745",
+        "jb2v19-d113624-d1e1179"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e1179": {
+    "summary": "Third objection: one man is more easily corrupted by anger, hatred or other passions than a multitude, so aristocracy judges better. Reply: true if the king relies on himself alone, but not if he heeds wise counsel; a multitude of equals goes astray as quickly as or more quickly than one presiding among wise counselors.",
+    "claims": [
+      "A king guided by wise counsel is no more corruptible than a multitude of equals."
+    ],
+    "concepts": [
+      "corruptibility of judgment",
+      "counsel"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e958"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e1199": {
+    "summary": "Objection to the fourth conclusion: a king should excel in virtue (Ethics VIII), which election secures, whereas wise men often beget fools (Problems). Ancient Taprobane avoided the worry about kings enriching their offspring by electing a childless old man and deposing him if he later had sons.",
+    "claims": [],
+    "concepts": [
+      "elective monarchy",
+      "virtue of the ruler",
+      "Taprobane"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e228",
+        "jb2v19-d113624-d1e1246"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e1236": {
+    "summary": "Confirmation of the objection: hereditary succession will sometimes give the kingdom to a woman and thereby to foreigners who will not care for the commonwealth.",
+    "claims": [],
+    "concepts": [
+      "female succession",
+      "foreign rule"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e1199",
+        "jb2v19-d113624-d1e1301"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e1246": {
+    "summary": "Reply: the king should excel in virtue as a matter of fittingness, not necessity, since we must take kings as they come. He need excel not in his own person but together with his wise men, just as Justinian's laws were drafted by Theophilus, Dorotheus and Tribonian yet are his because he approved them ('laws are in the emperor's heart', meaning in his wise counselors). An imprudent king needs more counsel and, if he heeds it, will be judged more prudent, and his imprudence is temporary, since a fool may beget wise sons. The Taprobane example meets only one argument and would not prevent the tumults of election.",
+    "claims": [
+      "A king need not personally excel in virtue; his wisdom can be supplied by counselors.",
+      "Laws drafted by jurists and approved by the ruler are the ruler's laws.",
+      "The Taprobane practice does not avoid the factional dangers of election."
+    ],
+    "concepts": [
+      "counsel",
+      "Justinian",
+      "authority versus authorship",
+      "prudence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e1199"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e1301": {
+    "summary": "Reply on female succession: a commonwealth can enact Salic-style male succession, but laws allowing women to inherit in the absence of males are adequate, since both are merely positive law not contrary to divine law. Many hold that Christ was king of Judea by his humanity and that the kingdom was due to the Virgin. In Scotland and Castile women succeed, and a king through a native mother is not really a foreigner but is of the realm 'on the safer side'.",
+    "claims": [
+      "Rules of succession, male-only or allowing women, are positive law and either is permissible.",
+      "Female succession is legitimate where established, as in Scotland and Castile.",
+      "A king descended from the realm through his mother is not properly a foreigner."
+    ],
+    "concepts": [
+      "female succession",
+      "Salic law",
+      "positive law",
+      "Scotland",
+      "Castile"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e1236"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e1343": {
+    "summary": "Second objection: the pope is elected rather than succeeding hereditarily like Aaron's sons, and so are the emperor, frequently the king of Hungary (Matthias Corvinus, who alone held back the Turks), the king of Norway, and even the Mamluk sultan. So kings should be elected too.",
+    "claims": [],
+    "concepts": [
+      "papal election",
+      "imperial election",
+      "Matthias Corvinus",
+      "Mamluk sultanate"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e228",
+        "jb2v19-d113624-d1e1365",
+        "jb2v19-d113624-d1e1413"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e1365": {
+    "summary": "Reply: whatever about Aaron, the kings of Judah succeeded hereditarily, as the genealogy of Christ and the promise to David show. Papal elections avoid the evils of royal elections because cardinals or a general council, mature churchmen, elect by word and reason, not by the sword. In royal elections armed petitions would prevail and the powerful would never accept a humble choice, whereas humble religious have often been elected pope.",
+    "claims": [
+      "The kings of Judah, the biblical model, ruled by hereditary succession.",
+      "Papal election works because ecclesiastical electors choose by reason rather than force, which royal elections could not ensure."
+    ],
+    "concepts": [
+      "papal election",
+      "cardinals",
+      "general council",
+      "Davidic monarchy",
+      "violence in elections"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e1343"
+      ]
+    }
+  },
+  "jb2v19-d113624-d1e1413": {
+    "summary": "Reply to the confirmation: those kingdoms would do better with hereditary succession. Election can sometimes yield a better man, like Matthias, but we speak of what regularly happens, and electors usually choose from the same powerful family, often the next heir. The Mamluk sultan holds power tyrannically. The Ottoman order of rule has expanded more and harmed Christians more than the sultanate, and Christians defended the East better when there were several sultans than when there was one.",
+    "claims": [
+      "Elective kingdoms would fare better under hereditary succession.",
+      "In practice elections tend to choose the next heir of the dominant family.",
+      "The Ottomans' hereditary dynasty has proved more formidable than the elective Mamluk sultanate."
+    ],
+    "concepts": [
+      "elective monarchy",
+      "Matthias Corvinus",
+      "Ottomans",
+      "Mamluks",
+      "regularity versus exception"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d113624",
+        "jb2v19-d113624-d1e1343",
+        "jb2v19-d113624-d1e1365"
+      ]
+    }
+  },
+  "jb2v19-d113624": {
+    "summary": "In the fifth question Mair turns from obedience to political theory, asking whether hereditary kingship is better than elective and whether kingship surpasses aristocracy and timocracy. Using Aristotle's sixfold classification of regimes, he defends five conclusions. Kingship is the best regime, argued from cosmic and organic analogies of unity, the value of peace, and historical stability. Aristocracy is better than timocracy, illustrated by the French popular revolts of the fourteenth century. Hence monarchy surpasses timocracy. Hereditary succession is better than election because it avoids faction and interregna, forms heirs from youth, fosters dynastic loyalty and aligns the king's interest with the commonwealth's. Among corrupt regimes tyranny is worst. In reply to objections from the Roman Republic, Venice, Aristotle's Politics III, and elective papal, imperial and Hungarian offices, he develops a counseled monarchy. The king is bound in conscience to heed wise counsel and may be deposed if incorrigible, yet he remains above his counselors. He also treats the Church as a royal polity, accepts female succession as legitimate positive law, and urges European unity against the Ottomans.",
+    "claims": [
+      "Kingship is the best of the correct regimes, and tyranny is the worst of the corrupt ones.",
+      "Aristocracy is better than timocracy.",
+      "Hereditary succession is more advantageous than election.",
+      "A king is bound in conscience to heed wise counsel without becoming subordinate to his counselors.",
+      "The Church's polity is royal by Christ's institution.",
+      "Rules of succession, including female succession, are matters of positive law."
+    ],
+    "concepts": [
+      "monarchy",
+      "aristocracy",
+      "timocracy",
+      "tyranny",
+      "hereditary succession",
+      "elective monarchy",
+      "counsel",
+      "concord",
+      "papal monarchy",
+      "female succession"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jb2v19-d113624-d1e106",
+        "jb2v19-d113624-d1e208",
+        "jb2v19-d113624-d1e213",
+        "jb2v19-d113624-d1e223",
+        "jb2v19-d113624-d1e228",
+        "jb2v19-d113624-d1e235",
+        "jb2v19-d113624-d1e244",
+        "jb2v19-d113624-d1e268",
+        "jb2v19-d113624-d1e292",
+        "jb2v19-d113624-d1e454",
+        "jb2v19-d113624-d1e519",
+        "jb2v19-d113624-d1e535",
+        "jb2v19-d113624-d1e577",
+        "jb2v19-d113624-d1e593",
+        "jb2v19-d113624-d1e606",
+        "jb2v19-d113624-d1e631",
+        "jb2v19-d113624-d1e644",
+        "jb2v19-d113624-d1e666",
+        "jb2v19-d113624-d1e692",
+        "jb2v19-d113624-d1e729",
+        "jb2v19-d113624-d1e745",
+        "jb2v19-d113624-d1e777",
+        "jb2v19-d113624-d1e795",
+        "jb2v19-d113624-d1e958",
+        "jb2v19-d113624-d1e1179",
+        "jb2v19-d113624-d1e1199",
+        "jb2v19-d113624-d1e1236",
+        "jb2v19-d113624-d1e1246",
+        "jb2v19-d113624-d1e1301",
+        "jb2v19-d113624-d1e1343",
+        "jb2v19-d113624-d1e1365",
+        "jb2v19-d113624-d1e1413"
+      ]
+    }
+  }
+}

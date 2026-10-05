@@ -1,0 +1,335 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-05T10:23:48Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "9763790",
+    "generation_method": "hierarchical",
+    "source_file": "cod-uhs8uk_jb2v19-d111299.xml"
+  },
+  "jb2v19-d111299-d1e106": {
+    "summary": "Introduces the second question, prompted by the Master's last chapter on higher authority: whether inferiors are obliged to obey superiors. Noting that the question asks about inferiors' sin while presupposing superior authority, Mair announces three conclusions: superiors and inferiors exist rationally; inferiors who transgress superiors' precepts sin; and, as a corollary answering the title, inferiors are bound to obey.",
+    "claims": [],
+    "concepts": [
+      "obedience",
+      "superioritas",
+      "political authority"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111299",
+        "jb2v19-d111299-d1e146",
+        "jb2v19-d111299-d1e219",
+        "jb2v19-d111299-d1e271"
+      ]
+    }
+  },
+  "jb2v19-d111299-d1e146": {
+    "summary": "Proves the first conclusion: human polity cannot be maintained without superiority and inferiority, since otherwise the wicked would oppress the weak and good deeds would go unrewarded. He confirms it by the order of the angels in the church triumphant, military command (Joab, Abner, centurions, the Romans and Alexander), colleges, convents and chapters, and the cosmological subordination of the elements to the heavens (Meteorology I).",
+    "claims": [
+      "Superiority and inferiority are rationally instituted among humans.",
+      "Without rulers the wicked would oppress the weak and virtue would go unrewarded.",
+      "Hierarchy is shown in the angelic order, armies, institutions and the cosmos."
+    ],
+    "concepts": [
+      "political order",
+      "hierarchy",
+      "common good",
+      "reward and punishment",
+      "cosmic order"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111299",
+        "jb2v19-d111299-d1e106"
+      ]
+    }
+  },
+  "jb2v19-d111299-d1e219": {
+    "summary": "Proves the second conclusion for both spiritual and temporal superiors. For spiritual superiors, breaking ecclesiastical fasts (e.g. the vigils of Peter or Andrew) would otherwise not be sinful, since they are not divine law; reading 'he who hears you hears me' as making every such breach a violation of divine law would abolish purely human law. For temporal superiors, Romans 13 shows that resisting power resists God's ordinance and that one must be subject for conscience's sake. Hence failing to pay lawfully imposed taxes and tolls is sinful.",
+    "claims": [
+      "Transgressing the precepts of spiritual superiors is sinful even where no divine law is involved.",
+      "Purely human law binds in conscience.",
+      "Not paying legitimately imposed tribute or tolls is a sin."
+    ],
+    "concepts": [
+      "human law",
+      "obligation in conscience",
+      "ecclesiastical precept",
+      "tributum",
+      "vectigal"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111299",
+        "jb2v19-d111299-d1e106"
+      ]
+    }
+  },
+  "jb2v19-d111299-d1e271": {
+    "summary": "States that the third conclusion is a corollary following from the first two.",
+    "claims": [],
+    "concepts": [
+      "corollary"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111299",
+        "jb2v19-d111299-d1e106"
+      ]
+    }
+  },
+  "jb2v19-d111299-d1e276": {
+    "summary": "Objection to the first conclusion: in the state of innocence there would have been no superiority but equality by natural law, and natural law is invariable, so superiority now is against natural law.",
+    "claims": [],
+    "concepts": [
+      "state of innocence",
+      "natural law",
+      "equality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111299",
+        "jb2v19-d111299-d1e146",
+        "jb2v19-d111299-d1e292"
+      ]
+    }
+  },
+  "jb2v19-d111299-d1e292": {
+    "summary": "Replies by distinguishing two kinds of superiority. Superiority for the ruler's own benefit would not have existed in innocence, but directive superiority for the good of the directed would have, since people would have differed in wisdom, age and bodily disposition (children growing into reason, Ahithophel and Shimei). He also denies that natural-law precepts are invariable in application: what right reason dictates can change with circumstances, as wine and food suit the healthy but not the sick.",
+    "claims": [
+      "Directive superiority for the good of the governed would have existed in the state of innocence.",
+      "Dominative superiority for the ruler's benefit belongs to the fallen state.",
+      "What natural law dictates can vary with changed circumstances."
+    ],
+    "concepts": [
+      "state of innocence",
+      "directive versus dominative rule",
+      "natural law",
+      "right reason"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111299",
+        "jb2v19-d111299-d1e276"
+      ]
+    }
+  },
+  "jb2v19-d111299-d1e334": {
+    "summary": "Second objection from Hosea 8 ('I gave them a king in my anger'). Mair distinguishes just rulers, who have a just origin, from tyrants, whom God permits to punish the wicked and exercise the good and often casts down even in this life, as with the kings of Israel and the Assyrian, Syrian and Egyptian invaders. All just power is from God (Romans 13; Christ to Pilate), which confirms the conclusion.",
+    "claims": [
+      "Tyrants are permitted by God to punish the wicked and test the good.",
+      "All just power is from God."
+    ],
+    "concepts": [
+      "tyranny",
+      "divine permission",
+      "legitimate rule",
+      "providence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111299",
+        "jb2v19-d111299-d1e146",
+        "jb2v19-d111299-d1e276"
+      ]
+    }
+  },
+  "jb2v19-d111299-d1e386": {
+    "summary": "Objections to the second conclusion: kings often command things contrary to divine law, so either their laws do not bind or one is bound to opposites; and the conclusion would make it sinful to evade a royal tax (hiding wine casks from the collector of the eighth) or to not leave money owed under a sign when no one asks for it.",
+    "claims": [],
+    "concepts": [
+      "unjust law",
+      "tax evasion",
+      "conflicting obligations"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111299",
+        "jb2v19-d111299-d1e219",
+        "jb2v19-d111299-d1e411",
+        "jb2v19-d111299-d1e422"
+      ]
+    }
+  },
+  "jb2v19-d111299-d1e411": {
+    "summary": "Replies to the first: he grants that commands contrary to divine law do not bind, because something contrary to God's law is not a law at all; a law, properly speaking, must at least not oppose divine law.",
+    "claims": [
+      "A command contrary to divine law is not a law properly speaking and does not bind."
+    ],
+    "concepts": [
+      "lex",
+      "divine law",
+      "validity of law"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111299",
+        "jb2v19-d111299-d1e386"
+      ]
+    }
+  },
+  "jb2v19-d111299-d1e422": {
+    "summary": "Replies to the tax objection with a theory of just taxation. Kings who impose more than is fitting act wrongly, and one who collects for private gain rather than the common good is a tyrant in Aristotle's sense. In general the people must provide what the king needs for his estate and the commonwealth, and in doubt it is safer to pay. But once the danger is met the king must reduce the levy, as Darius did, and Christian princes even more so. Levies for bridges or war should end once their purpose is achieved, and money collected for a war averted by a stable peace should be returned to the people. Where subjects serve in war at their own expense, no war tax should be imposed.",
+    "claims": [
+      "Subjects are bound to give the king what is needed for his estate and the common good.",
+      "Taxation beyond what is needed is wrongful, and taxing for private gain is tyranny.",
+      "Taxes must cease when their cause ceases, and unused war levies should be restored to the people.",
+      "In doubt about a tax's justice it is safer to pay."
+    ],
+    "concepts": [
+      "just taxation",
+      "common good",
+      "tyranny",
+      "cessante causa cessat effectus",
+      "restitution"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111299",
+        "jb2v19-d111299-d1e386",
+        "jb2v19-d111299-d1e219"
+      ]
+    }
+  },
+  "jb2v19-d111299-d1e526": {
+    "summary": "First doubt: whom must one obey when a father summons a son to some task and the king at the same time summons him to war, or when an abbot and the Roman pontiff command a religious opposite things?",
+    "claims": [],
+    "concepts": [
+      "conflicting commands",
+      "hierarchy of jurisdictions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111299",
+        "jb2v19-d111299-d1e548"
+      ]
+    }
+  },
+  "jb2v19-d111299-d1e539": {
+    "summary": "Second doubt: whether a religious must obey an abbot who commands him to reveal a brother's hidden sin.",
+    "claims": [],
+    "concepts": [
+      "fraternal correction",
+      "secret sin",
+      "religious obedience"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111299",
+        "jb2v19-d111299-d1e626"
+      ]
+    }
+  },
+  "jb2v19-d111299-d1e548": {
+    "summary": "Resolves the first doubt. If the king commands unreasonably and the father reasonably, obey the father (unless facing death); if both command reasonably, obey the king for the common good. The general rule, from Augustine as cited by the Master (procurator, proconsul, emperor, God), is that when superior and inferior jurisdictions command incompatible things within their scope, the superior is obeyed, but not if he lacks jurisdiction in that matter (an exempt abbot over an archbishop). So a monk sent by the pope to preach in Livonia or Ruthenia obeys the pope over his abbot, and likewise for abbot and prior.",
+    "claims": [
+      "When superior and inferior authorities with jurisdiction command incompatible things, the superior is to be obeyed.",
+      "Precedence holds only within the scope of the superior's jurisdiction.",
+      "A reasonable royal command for the common good takes precedence over a reasonable paternal one."
+    ],
+    "concepts": [
+      "hierarchy of jurisdiction",
+      "conflicting precepts",
+      "common good",
+      "papal authority",
+      "exemption"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111299",
+        "jb2v19-d111299-d1e526"
+      ]
+    }
+  },
+  "jb2v19-d111299-d1e626": {
+    "summary": "Resolves the second doubt. In the evangelical procedure of denunciation, aimed at correcting the sinner, a religious is not bound to reveal a brother's hidden fault to the abbot, because Matthew 18's private admonition takes precedence and the brother's reputation must be preserved. In judicial inquisition or accusation aimed at punishment for the common good, prior infamy is required; once it exists the prelate may inquire like a lay judge and subjects must answer. Decretal texts on canonical purgation confirm this.",
+    "claims": [
+      "A religious need not reveal a brother's secret sin to a superior when the goal is correction.",
+      "A superior's command contrary to the evangelical order of fraternal correction does not bind.",
+      "Where infamy precedes, a prelate may judicially inquire and subjects must answer."
+    ],
+    "concepts": [
+      "fraternal correction",
+      "denunciation",
+      "inquisition",
+      "infamy",
+      "fama",
+      "purgatio canonica"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "jb2v19-d111299",
+        "jb2v19-d111299-d1e539"
+      ]
+    }
+  },
+  "jb2v19-d111299": {
+    "summary": "Taking up the Master's final chapter, Mair asks whether inferiors are obliged to obey superiors and argues three conclusions. Hierarchy is rational and necessary for political life, as shown from human institutions, the angels and the cosmos. Disobeying spiritual or temporal superiors is a sin, so human law binds in conscience and lawful taxes must be paid. Hence inferiors are bound to obey. Answering objections, he holds that directive rule would have existed in innocence, that tyrants are permitted by God while just power is from God, and that commands contrary to divine law are no laws. He also sets out a theory of just taxation: taxes are bounded by need and the common good, must end when their cause ends, and unused levies should be refunded. Two doubts settle conflicts of authority by Augustine's rule that the higher jurisdiction prevails within its scope. They also protect a brother's hidden sin from disclosure where the purpose is correction rather than judicial inquiry after infamy.",
+    "claims": [
+      "Superiority and inferiority are rationally instituted.",
+      "Inferiors who transgress the precepts of legitimate superiors sin.",
+      "Human law, ecclesiastical and civil, binds in conscience within the limits of divine law.",
+      "Just taxation is limited by the common good and must cease with its cause.",
+      "In conflicts of command the higher jurisdiction prevails within its competence."
+    ],
+    "concepts": [
+      "obedience",
+      "political authority",
+      "human law",
+      "tyranny",
+      "just taxation",
+      "jurisdiction",
+      "fraternal correction"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jb2v19-d111299-d1e106",
+        "jb2v19-d111299-d1e146",
+        "jb2v19-d111299-d1e219",
+        "jb2v19-d111299-d1e271",
+        "jb2v19-d111299-d1e276",
+        "jb2v19-d111299-d1e292",
+        "jb2v19-d111299-d1e334",
+        "jb2v19-d111299-d1e386",
+        "jb2v19-d111299-d1e411",
+        "jb2v19-d111299-d1e422",
+        "jb2v19-d111299-d1e526",
+        "jb2v19-d111299-d1e539",
+        "jb2v19-d111299-d1e548",
+        "jb2v19-d111299-d1e626"
+      ]
+    }
+  }
+}
